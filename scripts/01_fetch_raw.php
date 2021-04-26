@@ -1,15 +1,54 @@
 <?php
-$raw = json_decode(file_get_contents('https://bsb.kh.edu.tw/afterschool/opendata/afterschool_json.jsp'), true);
-$fh = [];
+require 'vendor/autoload.php';
+
+use Goutte\Client;
+
+$client = new Client();
+
+$cities = [
+    '24' => '基隆市', '20' => '台北市', '21' => '新北市', '33' => '桃園市', '35' => '新竹市', '36' => '新竹縣',
+    '37' => '苗栗縣', '42' => '台中市', '47' => '彰化縣', '55' => '雲林縣', '49' => '南投縣', '52' => '嘉義市',
+    '53' => '嘉義縣', '62' => '台南市', '70' => '高雄市', '87' => '屏東縣', '39' => '宜蘭縣', '38' => '花蓮縣',
+    '89' => '台東縣', '69' => '澎湖縣', '82' => '金門縣', '83' => '連江縣'
+];
 $rawPath = dirname(__DIR__) . '/data/raw';
-if(!file_exists($rawPath)) {
+if (!file_exists($rawPath)) {
     mkdir($rawPath, 0777, true);
 }
-foreach($raw AS $line) {
-    array_pop($line);
-    if(!isset($fh[$line['地區縣市']])) {
-        $fh[$line['地區縣市']] = fopen($rawPath . '/' . $line['地區縣市'] . '.csv', 'w');
-        fputcsv($fh[$line['地區縣市']], array_keys($line));
+foreach ($cities as $code => $city) {
+    $fh = fopen($rawPath . '/' . $city . '.csv', 'w');
+    fputcsv($fh, ['代號', '補習班', '班址', '電話', '立案文號', '立案日期']);
+    $client->request('GET', "https://bsb.kh.edu.tw/afterschool/?usercity={$code}");
+    $pageTotal = 1;
+    $pageTotalDone = false;
+    for ($i = 1; $i <= $pageTotal; $i++) {
+        $client->request('GET', "https://bsb.kh.edu.tw/afterschool/register/showpage.jsp?pageno=1&p_road=&p_name=&e_name=&p_area=&p_type=&di=&estab=&start_year=&start_month=&start_day=&end_year=&end_month=&end_day=&p_range=on&citylink={$code}");
+        $rawHtml = $client->getResponse()->getContent();
+        if (false === $pageTotalDone) {
+            $pageTotalDone = true;
+            $pos = strpos($rawHtml, '共 <font color="#D00000">');
+            $pos = strpos($rawHtml, '>', $pos) + 1;
+            $posEnd = strpos($rawHtml, '筆', $pos);
+            $recordCount = intval(strip_tags(substr($rawHtml, $pos, $posEnd - $pos)));
+            $pageTotal = ceil($recordCount / 15);
+        }
+        $lines = explode('</tr>', $rawHtml);
+        foreach ($lines as $line) {
+            $cols = explode('</td>', $line);
+            if (count($cols) === 8) {
+                array_pop($cols);
+                foreach ($cols as $k => $v) {
+                    if($k < 6) {
+                        $cols[$k] = trim(strip_tags($v));
+                    } else {
+                        $pos = strpos($v, 'unit=') + 5;
+                        $posEnd = strpos($v, '"', $pos);
+                        $cols[0] = substr($v, $pos, $posEnd - $pos);
+                        array_pop($cols);
+                    }
+                }
+                fputcsv($fh, $cols);
+            }
+        }
     }
-    fputcsv($fh[$line['地區縣市']], $line);
 }
