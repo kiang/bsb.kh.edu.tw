@@ -22,7 +22,7 @@ foreach ($cities as $code => $city) {
     $pageTotal = 1;
     $pageTotalDone = false;
     for ($i = 1; $i <= $pageTotal; $i++) {
-        $client->request('GET', "https://bsb.kh.edu.tw/afterschool/register/showpage.jsp?pageno=1&p_road=&p_name=&e_name=&p_area=&p_type=&di=&estab=&start_year=&start_month=&start_day=&end_year=&end_month=&end_day=&p_range=on&citylink={$code}");
+        $client->request('GET', "https://bsb.kh.edu.tw/afterschool/register/showpage.jsp?pageno={$i}&p_road=&p_name=&e_name=&p_area=&p_type=&di=&estab=&start_year=&start_month=&start_day=&end_year=&end_month=&end_day=&p_range=on&citylink={$code}");
         $rawHtml = $client->getResponse()->getContent();
         if (false === $pageTotalDone) {
             $pageTotalDone = true;
