@@ -5,7 +5,7 @@
     "補習班英文名稱": "Private Chen Chen Dance Short-Term Busiban",
     "補習班類別\/科目": "音樂、舞蹈類,",
     "地址": "400台中市中區中華路1段171號7樓11室",
-    "英文地址": "7Fl1，  No. 171， Sec 1， Chung Hua Road， Jung Chiu 400， Taichung",
+    "英文地址": "7Fl1,  No. 171, Sec 1, Chung Hua Road, Jung Chiu 400, Taichung",
     "電話": "04-22231403",
     "立案情形": "已立案",
     "電話網類別": "",
@@ -42,5 +42,7 @@
             "招生對象": "其他"
         }
     ],
-    "職員工": []
+    "職員工": [
+        "施達人"
+    ]
 }

@@ -5,7 +5,7 @@
     "補習班英文名稱": "Private Xiao Piao Chong Vocational  Program  Short-Term Busiban",
     "補習班類別\/科目": "美術、書法、攝影、美工設計、圍棋類,",
     "地址": "豐原區自強南街10號1-2樓",
-    "英文地址": "1-2F.， No.10， Ziqiang S. St.， Fengyuan City， Taichung County 420， Taiwan (R.O.C.)",
+    "英文地址": "1-2F., No.10, Ziqiang S. St., Fengyuan City, Taichung County 420, Taiwan (R.O.C.)",
     "電話": "(04)25291775",
     "立案情形": "已立案",
     "電話網類別": "",
@@ -50,5 +50,7 @@
             "招生對象": "學齡前"
         }
     ],
-    "職員工": []
+    "職員工": [
+        "張君綺"
+    ]
 }

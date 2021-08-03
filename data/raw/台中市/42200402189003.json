@@ -5,7 +5,7 @@
     "補習班英文名稱": "Private   Bo  Yoe    Liberal  Arts\/Science  Program     Short-Term Busiban",
     "補習班類別\/科目": "文理類,",
     "地址": "豐原區瑞安街152號2樓之1",
-    "英文地址": "2Ｆ-1No.152， Rui-an St.， Fengyuan City， Taichung County 420， Taiwan (R.O.C.)",
+    "英文地址": "2Ｆ-1No.152, Rui-an St., Fengyuan City, Taichung County 420, Taiwan (R.O.C.)",
     "電話": "(04)25200995",
     "立案情形": "已立案",
     "電話網類別": "",
@@ -42,5 +42,7 @@
             "招生對象": "國中"
         }
     ],
-    "職員工": []
+    "職員工": [
+        "伍育慈"
+    ]
 }

@@ -5,7 +5,7 @@
     "補習班英文名稱": "Private    KO LIN     Foreign  Languages    Short-Term  Busiban",
     "補習班類別\/科目": "外語類,",
     "地址": "臺中市大里區至善路51號1-3樓",
-    "英文地址": "1-3F，No.51， Jhihshan Rd.， Dali City， Taichung County 412， Taiwan (R.O.C.)",
+    "英文地址": "1-3F,No.51, Jhihshan Rd., Dali City, Taichung County 412, Taiwan (R.O.C.)",
     "電話": "24953838",
     "立案情形": "已立案",
     "電話網類別": "",
@@ -50,5 +50,7 @@
             "招生對象": "國小"
         }
     ],
-    "職員工": []
+    "職員工": [
+        "李書妤"
+    ]
 }

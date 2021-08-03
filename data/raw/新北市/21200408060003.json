@@ -5,7 +5,7 @@
     "補習班英文名稱": "Private Short-Term Busiban",
     "補習班類別\/科目": "文理類,音樂、舞蹈類,",
     "地址": "泰山區民生路6號地下一樓",
-    "英文地址": "B1F.， No.6， Minsheng Rd.， Taishan Township， Taipei County 243， Taiwan (R.O.C.)",
+    "英文地址": "B1F., No.6, Minsheng Rd., Taishan Township, Taipei County 243, Taiwan (R.O.C.)",
     "電話": "(02)8531-7368",
     "立案情形": "已立案",
     "電話網類別": "",
@@ -50,5 +50,8 @@
             "招生對象": "不限年齡"
         }
     ],
-    "職員工": []
+    "職員工": [
+        "鄭人豪",
+        "鄭玉琳"
+    ]
 }

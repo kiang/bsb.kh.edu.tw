@@ -5,8 +5,8 @@
     "補習班英文名稱": "Private  HUO LI HSIUNG TSAI YI CHUNG HSIN",
     "補習班類別\/科目": "文理類,",
     "地址": "臺中市烏日區興祥街167巷32號1-3樓",
-    "英文地址": "1-3F.， No.32， Lane 167， Singsiang St.， Wurih Township， Taichung County 414， Taiwan (R.O.C.)",
-    "電話": "(04)3369466",
+    "英文地址": "1-3F., No.32, Lane 167, Singsiang St., Wurih Township, Taichung County 414, Taiwan (R.O.C.)",
+    "電話": "(04)23369466",
     "立案情形": "已立案",
     "電話網類別": "",
     "電話網層別": "X-X-X",
@@ -90,5 +90,8 @@
             "招生對象": "國小"
         }
     ],
-    "職員工": []
+    "職員工": [
+        "羅佰齡",
+        "曾瀅璇"
+    ]
 }

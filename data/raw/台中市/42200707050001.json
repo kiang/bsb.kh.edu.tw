@@ -5,7 +5,7 @@
     "補習班英文名稱": "Private Sin He Literature and Science Short-Term Busiban",
     "補習班類別\/科目": "文理類,",
     "地址": "403台中市西區民權路81、.83號1至4樓",
-    "英文地址": "1-4F.， No.83，1-4F.， No.81， Mincyuan Rd.， North District， Taichung City 403",
+    "英文地址": "1-4F., No.83,1-4F., No.81, Mincyuan Rd., North District, Taichung City 403",
     "電話": "(04)22256877",
     "立案情形": "已立案",
     "電話網類別": "",
@@ -74,5 +74,11 @@
             "招生對象": "國中"
         }
     ],
-    "職員工": []
+    "職員工": [
+        "林承德",
+        "易婷安",
+        "顏雅真",
+        "許心怡",
+        "許曉雯"
+    ]
 }

@@ -5,7 +5,7 @@
     "補習班英文名稱": "Private SAN YI　Music Short-Term BusibanShort-Term Busiban",
     "補習班類別\/科目": "音樂、舞蹈類,",
     "地址": "408台中市南屯區南屯路2段113號1~3樓",
-    "英文地址": "1~3F.， No.113， Sec. 2， Nantun Rd.， Nantun District， Taichung City 408",
+    "英文地址": "1~3F., No.113, Sec. 2, Nantun Rd., Nantun District, Taichung City 408",
     "電話": "(04)24716588",
     "立案情形": "已立案",
     "電話網類別": "",
@@ -50,5 +50,7 @@
             "招生對象": "國小"
         }
     ],
-    "職員工": []
+    "職員工": [
+        "陳年凱"
+    ]
 }

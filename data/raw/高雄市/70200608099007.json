@@ -2,7 +2,7 @@
     "補習班代碼": "70200608099007",
     "主管機關文件單位代碼": "A469",
     "補習班名稱": "私立集英堂美語文理短期補習班",
-    "補習班英文名稱": "Private Ji Ying Tang American English &amp; Liberal Arts\/Science Programs Short-Term Busiban",
+    "補習班英文名稱": "Private Ji Ying Tang American English &amp;amp; Liberal Arts\/Science Programs Short-Term Busiban",
     "補習班類別\/科目": "文理類,外語類,",
     "地址": "仁武區仁和街101號1-4樓",
     "英文地址": "1-4F., No.101, Renhe St., Renwu Dist.",
@@ -67,9 +67,10 @@
         }
     ],
     "職員工": [
-        "陳美芳",
         "李佳蓉",
+        "陳美芳",
         "陳佳吟",
-        "蔡家君"
+        "蔡家君",
+        "張譯心"
     ]
 }

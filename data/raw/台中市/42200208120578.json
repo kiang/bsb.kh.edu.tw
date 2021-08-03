@@ -5,7 +5,7 @@
     "補習班英文名稱": "Private TA YI Abacus and Mental Arithmetic Short-Term Busiban",
     "補習班類別\/科目": "商類：珠算、心算、會計,",
     "地址": "403台中市西區忠明南路424號1樓",
-    "英文地址": "1F.， No.424， Chungmin South Road， Shi Chiu 403， Taichung",
+    "英文地址": "1F., No.424, Chungmin South Road, Shi Chiu 403, Taichung",
     "電話": "04-23752508",
     "立案情形": "已立案",
     "電話網類別": "",
@@ -50,5 +50,7 @@
             "招生對象": "國小"
         }
     ],
-    "職員工": []
+    "職員工": [
+        "張秀群"
+    ]
 }

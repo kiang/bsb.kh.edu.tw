@@ -5,7 +5,7 @@
     "補習班英文名稱": "Private EN AN Abacus and Mental Arithmetic Short-Term Busiban",
     "補習班類別\/科目": "商類：珠算、心算、會計,",
     "地址": "臺中市東區玉皇街9號1-2樓、11號1~2樓",
-    "英文地址": "1~2F.， No.9、No.11， Yuhuang St.， East District， Taichung City 401",
+    "英文地址": "1~2F., No.9、No.11, Yuhuang St., East District, Taichung City 401",
     "電話": "04-23600599",
     "立案情形": "已立案",
     "電話網類別": "",
@@ -58,5 +58,10 @@
             "招生對象": "國小"
         }
     ],
-    "職員工": []
+    "職員工": [
+        "林品芊",
+        "曾毓桂",
+        "楊惠娟",
+        "莊淑娟"
+    ]
 }

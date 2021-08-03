@@ -1,8 +1,8 @@
 {
     "補習班代碼": "70200204020075",
     "主管機關文件單位代碼": "34",
-    "補習班名稱": "私立小儒林文理短期補習班陽明分班",
-    "補習班英文名稱": "Private Siao Ru Lin Liberal Arts\/Science Programs Short-Term Busiban Yang Ming Branch",
+    "補習班名稱": "私立小儒林文理短期補習班",
+    "補習班英文名稱": "Private Siao Ru Lin Liberal Arts\/Science Programs Short-Term Busiban",
     "補習班類別\/科目": "文理類,",
     "地址": "三民區義華路161號1-4樓、163號1-3樓",
     "英文地址": "1-3F., No.163、1-4F., No.161, Yihua Rd., Sanmin Dist.",
@@ -187,8 +187,13 @@
         }
     ],
     "職員工": [
-        "蔡政倫",
         "邱玉妃",
-        "黃麗霞"
+        "蘇夜棋",
+        "林淑惠",
+        "郭雅惠",
+        "黃麗霞",
+        "黃于蘋",
+        "林力瑋",
+        "曾淑鈴"
     ]
 }

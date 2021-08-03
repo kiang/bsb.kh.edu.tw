@@ -2,9 +2,9 @@
     "補習班代碼": "33202003300001",
     "主管機關文件單位代碼": "",
     "補習班名稱": "私立龍祥語文數學自然短期補習班",
-    "補習班英文名稱": "Private Long Cheng Foreign Language &amp;Literature and science Short-Term Busiban",
+    "補習班英文名稱": "Private Long Cheng Foreign Language &amp;amp;Literature and science Short-Term Busiban",
     "補習班類別\/科目": "外語類,其他類,",
-    "地址": "桃園市龍潭區中正路221號3-4樓",
+    "地址": "龍潭區中正路221號3-4樓",
     "英文地址": "3-4F.,No.221,Zhongzheng Rd.,Longtan Dist.,Taoyuan City 325,Taiwan",
     "電話": "(03)4806690",
     "立案情形": "已立案",
@@ -91,6 +91,7 @@
         }
     ],
     "職員工": [
+        "黃敬文",
         "呂自中"
     ]
 }

@@ -5,7 +5,7 @@
     "補習班英文名稱": "Private JUN YIN CHUNG TE Music\/Dance Short-Term Busiban",
     "補習班類別\/科目": "音樂、舞蹈類,",
     "地址": "404台中市北區崇德路1段579號4樓",
-    "英文地址": "4F.， No.579， Sec. 1， Chongde Rd.， North District， Taichung City 404",
+    "英文地址": "4F., No.579, Sec. 1, Chongde Rd., North District, Taichung City 404",
     "電話": "04-22305789",
     "立案情形": "已立案",
     "電話網類別": "",
@@ -58,5 +58,11 @@
             "招生對象": "國小"
         }
     ],
-    "職員工": []
+    "職員工": [
+        "邱璽綾",
+        "簡靜怡",
+        "吳書萍",
+        "林汝安",
+        "劉宇哲"
+    ]
 }

@@ -5,8 +5,8 @@
     "補習班英文名稱": "Private CHUNG TSAO LI Literature and Science Short-Term Busiban",
     "補習班類別\/科目": "文理類,",
     "地址": "台中市西區自立街87號1樓",
-    "英文地址": "1F.， No.87， Zihli St.， West District， Taichung City 403",
-    "電話": "04-22323009",
+    "英文地址": "1F., No.87, Zihli St., West District, Taichung City 403",
+    "電話": "04-23721173",
     "立案情形": "已立案",
     "電話網類別": "",
     "電話網層別": "X-X-X",
@@ -50,5 +50,7 @@
             "招生對象": "國小"
         }
     ],
-    "職員工": []
+    "職員工": [
+        "黃郁閔"
+    ]
 }

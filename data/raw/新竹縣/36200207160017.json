@@ -5,7 +5,7 @@
     "補習班英文名稱": "Sun Link Language School",
     "補習班類別\/科目": "外語類,",
     "地址": "竹東鎮中興路3段129號2樓",
-    "英文地址": "No.129-2，Sec3， Jhongsing Rd， Jhudong Township ， Hsinchu County 310， Taiwan(R.O.C)",
+    "英文地址": "No.129-2,Sec3, Jhongsing Rd, Jhudong Township , Hsinchu County 310, Taiwan(R.O.C)",
     "電話": "(03)5824631",
     "立案情形": "已立案",
     "電話網類別": "",
@@ -50,5 +50,7 @@
             "招生對象": "國小"
         }
     ],
-    "職員工": []
+    "職員工": [
+        "鄒欣芬"
+    ]
 }

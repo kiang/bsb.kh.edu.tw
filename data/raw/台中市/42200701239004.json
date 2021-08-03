@@ -5,7 +5,7 @@
     "補習班英文名稱": "Private ding    hao       Liberal  Arts\/Science  ProgramShort-Term Busiban",
     "補習班類別\/科目": "文理類,",
     "地址": "臺中市沙鹿區賢正街110號1-3樓",
-    "英文地址": "1-3F.， No.110， Xianzheng St.， Shalu Town， Taichung County 433， Taiwan (R.O.C.)",
+    "英文地址": "1-3F., No.110, Xianzheng St., Shalu Town, Taichung County 433, Taiwan (R.O.C.)",
     "電話": "(04)26627266",
     "立案情形": "已立案",
     "電話網類別": "",
@@ -50,5 +50,8 @@
             "招生對象": "國中"
         }
     ],
-    "職員工": []
+    "職員工": [
+        "李婉萍",
+        "張顯慶"
+    ]
 }

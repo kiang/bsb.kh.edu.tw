@@ -2,7 +2,7 @@
     "補習班代碼": "42200208120601",
     "主管機關文件單位代碼": "A0525",
     "補習班名稱": "台中市私立九華土木消防短期補習班",
-    "補習班英文名稱": "Chiu Hua Construction &amp; Fire Safety Busiban",
+    "補習班英文名稱": "Chiu Hua Construction &amp;amp; Fire Safety Busiban",
     "補習班類別\/科目": "電機、汽車修護、建築、工藝、製圖類,",
     "地址": "400台中市中區自由路2段8號11樓之1",
     "英文地址": "11th Fl, No. 8, Sec. 2, Chih Yu Road, Jung Chiu 400, Taichung",
@@ -50,5 +50,7 @@
             "招生對象": "成人(18歲以上)"
         }
     ],
-    "職員工": []
+    "職員工": [
+        "蔡曉筑"
+    ]
 }

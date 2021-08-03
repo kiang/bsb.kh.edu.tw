@@ -1,11 +1,11 @@
 {
     "補習班代碼": "42200512159008",
     "主管機關文件單位代碼": "1677",
-    "補習班名稱": "私立文藝復興美語短期補習班",
+    "補習班名稱": "臺中市私立文藝復興美語短期補習班",
     "補習班英文名稱": "Private wun  yi  fu  sing     Foreign  Languages Short-Term Busiban",
     "補習班類別\/科目": "外語類,",
     "地址": "臺中市霧峰區錦州街222號",
-    "英文地址": "No.222， Jinzhou Rd.， Wufeng Shiang， Taichung County 413， Taiwan (R.O.C.)",
+    "英文地址": "No.222, Jinzhou Rd., Wufeng Shiang, Taichung County 413, Taiwan (R.O.C.)",
     "電話": "(04)23399296",
     "立案情形": "已立案",
     "電話網類別": "",
@@ -42,5 +42,8 @@
             "招生對象": "國小"
         }
     ],
-    "職員工": []
+    "職員工": [
+        "許庭瑜",
+        "劉芳瑜"
+    ]
 }

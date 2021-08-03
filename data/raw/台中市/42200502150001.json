@@ -5,7 +5,7 @@
     "補習班英文名稱": "Private RUN SIN  Music Short-Term Busiban",
     "補習班類別\/科目": "音樂、舞蹈類,",
     "地址": "臺中市西屯區青海路2段173號1-2樓",
-    "英文地址": "1-2F.， No.173， Sec. 2， Cinghai Rd.， Situn District， Taichung City 407",
+    "英文地址": "1-2F., No.173, Sec. 2, Cinghai Rd., Situn District, Taichung City 407",
     "電話": "(04)22588779",
     "立案情形": "已立案",
     "電話網類別": "",
@@ -58,5 +58,7 @@
             "招生對象": "國小"
         }
     ],
-    "職員工": []
+    "職員工": [
+        "蔣菊英"
+    ]
 }

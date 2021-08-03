@@ -4,8 +4,8 @@
     "補習班名稱": "臺中市私立早早學文理美語會話短期補習班",
     "補習班英文名稱": "Private Learn Earlier Literature and Science\/Foreign Language Short-Term Busiban",
     "補習班類別\/科目": "文理類,",
-    "地址": "407台中市西屯區中工三路153巷10弄5號1~3樓",
-    "英文地址": "1~3F.， No.5， Alley 10， Lane 153， Jhonggong 3rd Rd.， Situn District， Taichung City 407， Taiwan (R.O.C.)",
+    "地址": "407臺中市西屯區中工三路153巷10弄5號1~3樓",
+    "英文地址": "1~3F., No.5, Alley 10, Lane 153, Jhonggong 3rd Rd., Situn District, Taichung City 407, Taiwan (R.O.C.)",
     "電話": "04-23589701",
     "立案情形": "已立案",
     "電話網類別": "",
@@ -74,5 +74,8 @@
             "招生對象": "國中"
         }
     ],
-    "職員工": []
+    "職員工": [
+        "梁銘浩",
+        "陳昱達"
+    ]
 }

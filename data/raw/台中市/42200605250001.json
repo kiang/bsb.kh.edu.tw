@@ -5,7 +5,7 @@
     "補習班英文名稱": "Private Ji Ruei Fu English\/Mathematics Short-Term Busiban",
     "補習班類別\/科目": "外語類,",
     "地址": "臺中市北屯區昌平路2段12巷5號1-4樓",
-    "英文地址": "1-4F.， No.5， Lane 12， Sec. 2， Changping Rd.， Beitun District， Taichung City 406",
+    "英文地址": "1-4F., No.5, Lane 12, Sec. 2, Changping Rd., Beitun District, Taichung City 406",
     "電話": "(04)22466188",
     "立案情形": "已立案",
     "電話網類別": "",
@@ -82,5 +82,9 @@
             "招生對象": "國小"
         }
     ],
-    "職員工": []
+    "職員工": [
+        "吳世豪",
+        "劉庭詠",
+        "王彥筑"
+    ]
 }

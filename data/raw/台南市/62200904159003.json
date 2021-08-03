@@ -2,7 +2,7 @@
     "補習班代碼": "62200904159003",
     "主管機關文件單位代碼": "25781185",
     "補習班名稱": "臺南市私立溫克萊文理短期補習班",
-    "補習班英文名稱": "Private wen-ke-lai  Liberal Arts\/Science &amp; VocationalShort-Term Busiban",
+    "補習班英文名稱": "Private wen-ke-lai  Liberal Arts\/Science &amp;amp; VocationalShort-Term Busiban",
     "補習班類別\/科目": "文理類,",
     "地址": "新營區義和街3-12號1-2樓",
     "英文地址": "1-2F,No.254,xinjin rd.,xinying city",
@@ -58,7 +58,5 @@
             "招生對象": "國小"
         }
     ],
-    "職員工": [
-        "顏㚬祐"
-    ]
+    "職員工": []
 }

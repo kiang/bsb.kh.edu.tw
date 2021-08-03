@@ -2,7 +2,7 @@
     "補習班代碼": "70200205089387",
     "主管機關文件單位代碼": "A292",
     "補習班名稱": "私立育菁文理技藝短期補習班",
-    "補習班英文名稱": "Private Yujing Liberal Arts\/Science &amp; Artistry Programs Short-Term Busiban",
+    "補習班英文名稱": "Private Yujing Liberal Arts\/Science &amp;amp; Artistry Programs Short-Term Busiban",
     "補習班類別\/科目": "文理類,美術、書法、攝影、美工設計、圍棋類,",
     "地址": "鳳山區光華路18號1樓、3樓",
     "英文地址": "1F、3F, No.18, Guanghua Rd., Fongshan Dist.",
@@ -24,13 +24,13 @@
     "暫停招生生效日": "",
     "暫停招生截止日": "",
     "負責人": [
-        "康平"
+        "康平瀚"
     ],
     "設立人": [
-        "康平"
+        "康平瀚"
     ],
     "班主任": [
-        "康平"
+        "康平瀚"
     ],
     "核准科目": [
         {
@@ -107,7 +107,9 @@
         }
     ],
     "職員工": [
+        "陳瑞姬",
         "黃愛惠",
-        "陳瑞姬"
+        "徐慧君",
+        "林芳琪"
     ]
 }

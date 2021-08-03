@@ -5,7 +5,7 @@
     "補習班英文名稱": "Private Yu Wei Literature and Science Short-Term Busiban",
     "補習班類別\/科目": "文理類,",
     "地址": "臺中市西屯區櫻花路82號1-5樓",
-    "英文地址": "1-5F.， No.82， Yinghua Rd.， Xitun District， Taichung City 407",
+    "英文地址": "1-5F., No.82, Yinghua Rd., Xitun District, Taichung City 407",
     "電話": "(04)23170298",
     "立案情形": "已立案",
     "電話網類別": "",
@@ -50,5 +50,7 @@
             "招生對象": "國小"
         }
     ],
-    "職員工": []
+    "職員工": [
+        "黃筠湘"
+    ]
 }

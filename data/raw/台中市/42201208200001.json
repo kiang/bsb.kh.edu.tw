@@ -5,7 +5,7 @@
     "補習班英文名稱": "Private Wei Ge   Liberal  Arts\/Science  ProgramShort-Term Busiban",
     "補習班類別\/科目": "文理類,",
     "地址": "臺中市神岡區神岡路102號1-3樓",
-    "英文地址": "1-3F.， No.102， Shengang Rd.， Shengang Dist.， Taichung City 429， Taiwan (R.O.C.)",
+    "英文地址": "1-3F., No.102, Shengang Rd., Shengang Dist., Taichung City 429, Taiwan (R.O.C.)",
     "電話": "0911767154",
     "立案情形": "已立案",
     "電話網類別": "",
@@ -66,5 +66,7 @@
             "招生對象": "國小"
         }
     ],
-    "職員工": []
+    "職員工": [
+        "邱淑君"
+    ]
 }

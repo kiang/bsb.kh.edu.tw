@@ -1,11 +1,11 @@
 {
     "補習班代碼": "42200411269014",
     "主管機關文件單位代碼": "1477",
-    "補習班名稱": "私立捷登學城文理短期補習班",
+    "補習班名稱": "臺中市私立捷登學城文理短期補習班",
     "補習班英文名稱": "Private jie    deng    syue    cheng        Liberal  Arts\/Science  ProgramShort-Term Busiban",
     "補習班類別\/科目": "文理類,",
-    "地址": "后里區文明路39號2-3樓",
-    "英文地址": "2-3F.， No.39， Wenming Rd.， Houli Shiang， Taichung County 421， Taiwan (R.O.C.)",
+    "地址": "臺中市后里區文明路39號2-3樓",
+    "英文地址": "2-3F., No.39, Wenming Rd., Houli Shiang, Taichung County 421, Taiwan (R.O.C.)",
     "電話": "(04)25573257",
     "立案情形": "已立案",
     "電話網類別": "",
@@ -59,6 +59,7 @@
         }
     ],
     "職員工": [
+        "劉春滿",
         "黃玫瑜"
     ]
 }

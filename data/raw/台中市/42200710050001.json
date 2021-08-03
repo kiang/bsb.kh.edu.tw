@@ -5,7 +5,7 @@
     "補習班英文名稱": "Private Jing Ruei  Literature and Science Short-Term Busiban",
     "補習班類別\/科目": "外語類,",
     "地址": "406台中市北屯區中清路2段467號B1樓1-3樓、469號B1樓1-3樓",
-    "英文地址": "B1，1~3F， No. 84-99，  Jungching Rd.， Beituen Chiu， Taichung， Taiwan 406",
+    "英文地址": "B1,1~3F, No. 84-99,  Jungching Rd., Beituen Chiu, Taichung, Taiwan 406",
     "電話": "(04)22939678",
     "立案情形": "已立案",
     "電話網類別": "",
@@ -98,5 +98,9 @@
             "招生對象": "國小"
         }
     ],
-    "職員工": []
+    "職員工": [
+        "林華黛",
+        "梁芷寧",
+        "林瑀婕"
+    ]
 }

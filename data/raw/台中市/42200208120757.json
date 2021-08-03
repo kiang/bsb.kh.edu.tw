@@ -5,7 +5,7 @@
     "補習班英文名稱": "Private CHAO YUEH Accomplishment Center",
     "補習班類別\/科目": "其他類,",
     "地址": "臺中市東區大智路416號1-3樓",
-    "英文地址": "1F.， No.59， Jianxing St.， East Dist.， Taichung City 401",
+    "英文地址": "1F., No.59, Jianxing St., East Dist., Taichung City 401",
     "電話": "04-22808200",
     "立案情形": "已立案",
     "電話網類別": "",
@@ -42,5 +42,7 @@
             "招生對象": "其他"
         }
     ],
-    "職員工": []
+    "職員工": [
+        "郭珮蓉"
+    ]
 }

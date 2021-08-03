@@ -4,8 +4,8 @@
     "補習班名稱": "臺中市私立名仁文理短期補習班",
     "補習班英文名稱": "Private Ming Ren  Liberal  Arts\/Science  ProgramShort-Term Busiban",
     "補習班類別\/科目": "文理類,",
-    "地址": "臺中市豐原區三豐路1號6樓",
-    "英文地址": "6F.， No.1， Sanfeng Rd.， Fengyuan Dist.， Taichung City 420， Taiwan (R.O.C.)",
+    "地址": "臺中市豐原區源豐路1號6樓",
+    "英文地址": "6F., No.1, Sanfeng Rd., Fengyuan Dist., Taichung City 420, Taiwan (R.O.C.)",
     "電話": "(04)25299549",
     "立案情形": "已立案",
     "電話網類別": "",
@@ -58,5 +58,12 @@
             "招生對象": "高中"
         }
     ],
-    "職員工": []
+    "職員工": [
+        "黃美瑛",
+        "林聖喆",
+        "溫明諺",
+        "翁睿軒",
+        "林芷萱",
+        "王怡婷"
+    ]
 }

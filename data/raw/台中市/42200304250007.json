@@ -5,7 +5,7 @@
     "補習班英文名稱": "Private HSIANG YI Literature and Science Short-Term Busiban",
     "補習班類別\/科目": "外語類,",
     "地址": "403台中市西區五權七街130號1~2樓",
-    "英文地址": "1~2F.， No.130， Wucyuan 7th St.， West District， Taichung City 403",
+    "英文地址": "1~2F., No.130, Wucyuan 7th St., West District, Taichung City 403",
     "電話": "04-23715666",
     "立案情形": "已立案",
     "電話網類別": "",
@@ -58,5 +58,7 @@
             "招生對象": "國小"
         }
     ],
-    "職員工": []
+    "職員工": [
+        "鐘彩蓮"
+    ]
 }

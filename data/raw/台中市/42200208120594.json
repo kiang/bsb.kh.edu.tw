@@ -5,7 +5,7 @@
     "補習班英文名稱": "Private CHIN DEN Abacus and Mental Arithmetic\/English Language Short-Term Busiban",
     "補習班類別\/科目": "商類：珠算、心算、會計,",
     "地址": "406台中市北屯區漢口路5段194號1~4樓",
-    "英文地址": "1~4F.， No.194， Sec. 5， Hankou Rd.， Beitun District， Taichung City 406",
+    "英文地址": "1~4F., No.194, Sec. 5, Hankou Rd., Beitun District, Taichung City 406",
     "電話": "04-22382377",
     "立案情形": "已立案",
     "電話網類別": "",
@@ -82,5 +82,7 @@
             "招生對象": "國小"
         }
     ],
-    "職員工": []
+    "職員工": [
+        "陳奕庭"
+    ]
 }

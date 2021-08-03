@@ -5,7 +5,7 @@
     "補習班英文名稱": "Private Jihfaang Literature and Science Short-Term Busiban",
     "補習班類別\/科目": "文理類,",
     "地址": "406台中市北屯區軍福十三路397號1-4樓",
-    "英文地址": "1-4F.， No.397， Jyunfu 13th Rd.， Beitun District， Taichung City 406",
+    "英文地址": "1-4F., No.397, Jyunfu 13th Rd., Beitun District, Taichung City 406",
     "電話": "(04)2437-7000",
     "立案情形": "已立案",
     "電話網類別": "",
@@ -50,5 +50,11 @@
             "招生對象": "國中"
         }
     ],
-    "職員工": []
+    "職員工": [
+        "王惠儀",
+        "曾愃筠",
+        "范美珍",
+        "陳昱良",
+        "金昱成"
+    ]
 }

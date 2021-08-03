@@ -5,7 +5,7 @@
     "補習班英文名稱": "Private Chiau Ke Foreign  Languages       Short-Term Busiban",
     "補習班類別\/科目": "外語類,",
     "地址": "潭子區大豐路3段13號1-3樓",
-    "英文地址": "1-3F.， No.13， Sec. 3， Dafeng Rd.， Tanzi Township， Taichung County 427， Taiwan (R.O.C.)",
+    "英文地址": "1-3F., No.13, Sec. 3, Dafeng Rd., Tanzi Township, Taichung County 427, Taiwan (R.O.C.)",
     "電話": "(04)25357000",
     "立案情形": "已立案",
     "電話網類別": "",
@@ -50,5 +50,7 @@
             "招生對象": "國中"
         }
     ],
-    "職員工": []
+    "職員工": [
+        "劉倉富"
+    ]
 }

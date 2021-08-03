@@ -5,7 +5,7 @@
     "補習班英文名稱": "Private Wo-De Wun-Li Short-Term Busiban",
     "補習班類別\/科目": "文理類,",
     "地址": "新市區和平街73號1-3樓",
-    "英文地址": "1F-3F，No.73，heping st..， Sinshih Township， Tainan County 744， Taiwan",
+    "英文地址": "1F-3F,No.73,heping st.., Sinshih Township, Tainan County 744, Taiwan",
     "電話": "(06)5892650",
     "立案情形": "已立案",
     "電話網類別": "",
@@ -66,5 +66,7 @@
             "招生對象": "國小"
         }
     ],
-    "職員工": []
+    "職員工": [
+        "黃素娟"
+    ]
 }

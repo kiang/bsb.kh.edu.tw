@@ -5,7 +5,7 @@
     "補習班英文名稱": "Private Xin Zhi Guang     Liberal  Arts\/Science  Program  Short-Term Busiban",
     "補習班類別\/科目": "法政類,",
     "地址": "臺中市東勢區第五橫街13號1-3樓",
-    "英文地址": "1-3F.， No.13， 5th Side St.， Dongshi Township， Taichung County 423， Taiwan (R.O.C.)",
+    "英文地址": "1-3F., No.13, 5th Side St., Dongshi Township, Taichung County 423, Taiwan (R.O.C.)",
     "電話": "(04)25870380",
     "立案情形": "已立案",
     "電話網類別": "",
@@ -107,7 +107,11 @@
         }
     ],
     "職員工": [
+        "林芳潔",
         "張雅涵",
-        "娜皋亞紀"
+        "娜皋亞紀",
+        "陳意蓁",
+        "劉美蘭",
+        "杜佳宸"
     ]
 }

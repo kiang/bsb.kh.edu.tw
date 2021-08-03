@@ -5,7 +5,7 @@
     "補習班英文名稱": "Private PO YUEH SE Accomplishment Center",
     "補習班類別\/科目": "其他類,",
     "地址": "408台中市南屯區向上路3段15號1~3樓",
-    "英文地址": "1~3F.， No.15， Sec. 3， Siangshang Rd.， Nantun District， Taichung City 408",
+    "英文地址": "1~3F., No.15, Sec. 3, Siangshang Rd., Nantun District, Taichung City 408",
     "電話": "04-23871720",
     "立案情形": "已立案",
     "電話網類別": "",
@@ -42,5 +42,8 @@
             "招生對象": "國小"
         }
     ],
-    "職員工": []
+    "職員工": [
+        "馮郁軒",
+        "陳雅琪"
+    ]
 }

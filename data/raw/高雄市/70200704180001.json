@@ -2,11 +2,11 @@
     "補習班代碼": "70200704180001",
     "主管機關文件單位代碼": "1220",
     "補習班名稱": "私立恆青文理技藝短期補習班左營分班",
-    "補習班英文名稱": "Private Heng Ching Liberal Arts\/Science &amp; Artistry Programs Short-Term Busiban Zuoying Branch",
+    "補習班英文名稱": "Private Heng Ching Liberal Arts\/Science &amp;amp; Artistry Programs Short-Term Busiban Zuoying Branch",
     "補習班類別\/科目": "文理類,",
     "地址": "左營區先勝路56號3樓",
     "英文地址": "3F., No.56, Siansheng Rd., Zuoying Dist.",
-    "電話": "588-7715",
+    "電話": "581-0866",
     "立案情形": "已立案",
     "電話網類別": "",
     "電話網層別": "",
@@ -98,5 +98,7 @@
             "招生對象": "學齡前"
         }
     ],
-    "職員工": []
+    "職員工": [
+        "郭耘嘉"
+    ]
 }

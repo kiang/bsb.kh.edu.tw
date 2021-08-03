@@ -2,11 +2,11 @@
     "補習班代碼": "70201302070003",
     "主管機關文件單位代碼": "1632",
     "補習班名稱": "私立全能外語文理短期補習班新光分班",
-    "補習班英文名稱": "Private Ciyuan Neng Foreign Language &amp; Liberal Arts \/ Science &amp; Artistry Programs Short-Term Busiban  Singuang Branch",
+    "補習班英文名稱": "Private Ciyuan Neng Foreign Language &amp;amp; Liberal Arts \/ Science &amp;amp; Artistry Programs Short-Term Busiban  Singuang Branch",
     "補習班類別\/科目": "文理類,外語類,",
     "地址": "左營區華夏路723號1-5樓",
     "英文地址": "1-5F., No.723, Huaxia Rd., Zuoying Dist",
-    "電話": "(07)350-0168",
+    "電話": "350-0168",
     "立案情形": "已立案",
     "電話網類別": "",
     "電話網層別": "",
@@ -83,6 +83,7 @@
         }
     ],
     "職員工": [
-        "鄭淨文"
+        "曾鈺婷",
+        "邱立漩"
     ]
 }

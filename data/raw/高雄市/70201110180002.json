@@ -2,7 +2,7 @@
     "補習班代碼": "70201110180002",
     "主管機關文件單位代碼": "1560",
     "補習班名稱": "私立全能外語文理技藝短期補習班龍德分班",
-    "補習班英文名稱": "Private Ciyuan Neng Foreign Language &amp; Liberal Arts \/ Science &amp; Artistry Programs Short-Term Busiban  Long De Branch",
+    "補習班英文名稱": "Private Ciyuan Neng Foreign Language &amp;amp;amp;amp; Liberal Arts \/ Science &amp;amp;amp;amp; Artistry Programs Short-Term Busiban  Long De Branch",
     "補習班類別\/科目": "文理類,美術、書法、攝影、美工設計、圍棋類,",
     "地址": "鼓山區至聖路450號2樓",
     "英文地址": "2F., No.450, Zhisheng Rd., Gushan Dist.",
@@ -30,7 +30,7 @@
         "陳如意"
     ],
     "班主任": [
-        "趙玉梅"
+        "李潔穎"
     ],
     "核准科目": [
         {
@@ -115,8 +115,10 @@
         }
     ],
     "職員工": [
+        "李潔穎",
+        "陳麗雅",
         "趙玉梅",
         "陳如意",
-        "周宜珊"
+        "BURRELL KEITH RAYMOND"
     ]
 }

@@ -4,8 +4,8 @@
     "補習班名稱": "私立高傑英語數學電腦文理短期補習班",
     "補習班英文名稱": "Private Gaujie English, Math, Computer, Literature and Science Short-Term Busiban",
     "補習班類別\/科目": "文理類,外語類,資訊類,其他類,",
-    "地址": "桃園市桃園區中埔一街155號1-2樓及167號1樓",
-    "英文地址": "No. 155(1-2Floor)&amp; No.167(1 Floor),Zhongbu 1st street,Taoyuan District, Taoyuan  City,330",
+    "地址": "桃園區中埔一街155號1-2樓及167號1樓",
+    "英文地址": "No. 155(1-2Floor)&amp;amp; No.167(1 Floor),Zhongbu 1st street,Taoyuan District, Taoyuan  City,330",
     "電話": "(03)3250077",
     "立案情形": "已立案",
     "電話網類別": "",
@@ -74,5 +74,10 @@
             "招生對象": "高中"
         }
     ],
-    "職員工": []
+    "職員工": [
+        "康鼎政",
+        "許願",
+        "謝潔思",
+        "郭文樹"
+    ]
 }

@@ -5,7 +5,7 @@
     "補習班英文名稱": "Private Hao Er Tong Liberal  Arts\/Science  ProgramShort-Term Busiban",
     "補習班類別\/科目": "文理類,",
     "地址": "臺中市豐原區協力街18號1-3樓",
-    "英文地址": "1-3F.， No.18， Sieli St.， Fongyuan City， Taichung County 420， Taiwan (R.O.C.)",
+    "英文地址": "1-3F., No.18, Sieli St., Fongyuan City, Taichung County 420, Taiwan (R.O.C.)",
     "電話": "(04)25322189",
     "立案情形": "已立案",
     "電話網類別": "",
@@ -58,5 +58,11 @@
             "招生對象": "國小"
         }
     ],
-    "職員工": []
+    "職員工": [
+        "連貫佑",
+        "廖芷嫻",
+        "陳冠廷",
+        "廖容嫻",
+        "王麗敏"
+    ]
 }

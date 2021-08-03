@@ -5,7 +5,7 @@
     "補習班英文名稱": "Private Si Ji Wen Zao   Liberal  Arts\/Science  ProgramShort-Term Busiban",
     "補習班類別\/科目": "文理類,",
     "地址": "臺中市龍井區中央路1段227號1-3樓",
-    "英文地址": "1-3F.， No.227， Sec. 1， Jhongyang Rd.， Longjing Township， Taichung County 434， Taiwan (R.O.C.)",
+    "英文地址": "1-3F., No.227, Sec. 1, Jhongyang Rd., Longjing Township, Taichung County 434, Taiwan (R.O.C.)",
     "電話": "(04)26301488",
     "立案情形": "已立案",
     "電話網類別": "",
@@ -24,13 +24,13 @@
     "暫停招生生效日": "",
     "暫停招生截止日": "",
     "負責人": [
-        "施瑜"
+        "施瑜(代表人)、施榮輝"
     ],
     "設立人": [
-        "施瑜"
+        "施瑜(代表人)、施榮輝"
     ],
     "班主任": [
-        "徐姿"
+        "徐姿瑛"
     ],
     "核准科目": [
         {
@@ -130,5 +130,7 @@
             "招生對象": "國小"
         }
     ],
-    "職員工": []
+    "職員工": [
+        "施瑜"
+    ]
 }

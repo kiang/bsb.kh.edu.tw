@@ -2,7 +2,7 @@
     "補習班代碼": "62200205172132",
     "主管機關文件單位代碼": "17033363",
     "補習班名稱": "臺南市私立文雅文理短期補習班",
-    "補習班英文名稱": "Private WEN YA Abacus &amp; Mental Arithmetics Short-Term Busiban",
+    "補習班英文名稱": "Private WEN YA Abacus &amp;amp; Mental Arithmetics Short-Term Busiban",
     "補習班類別\/科目": "文理類,",
     "地址": "北區開元路76號1-2樓",
     "英文地址": "1-2F., No.76, Kaiyuan Rd., North District",
@@ -58,5 +58,11 @@
             "招生對象": "國小"
         }
     ],
-    "職員工": []
+    "職員工": [
+        "沈克剛",
+        "李珮盈",
+        "黃姿穎",
+        "李育佳",
+        "陳緯謙"
+    ]
 }

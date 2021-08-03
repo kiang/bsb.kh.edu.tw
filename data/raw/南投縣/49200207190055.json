@@ -5,7 +5,7 @@
     "補習班英文名稱": "Private Jordan`s Foreign  Languages  Short-Term Busiban",
     "補習班類別\/科目": "外語類,",
     "地址": "集集鎮和平里民生路360號1-2樓",
-    "英文地址": "1F~2F.，No.360，Ming-sheng Rd.，Jiji Township ，Nnatou County ， Taiwan(R.O.C)",
+    "英文地址": "1F~2F.,No.360,Ming-sheng Rd.,Jiji Township ,Nnatou County , Taiwan(R.O.C)",
     "電話": "(049)2760001",
     "立案情形": "已立案",
     "電話網類別": "0",
@@ -43,10 +43,7 @@
         }
     ],
     "職員工": [
-        "王美華",
         "吳麗束",
-        "劉欣瑜",
-        "劉欣萍",
         "崔馭德"
     ]
 }

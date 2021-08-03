@@ -5,7 +5,7 @@
     "補習班英文名稱": "Private   KO LIN TUN    Foreign  Languages    Short-Term  Busiban",
     "補習班類別\/科目": "外語類,",
     "地址": "沙鹿區鎮政路56巷17號1-2樓,中山路145號1-2樓",
-    "英文地址": "1-2F., No.17, Lane 56, Zhenzheng Rd., Shalu Town, &amp;1-2F., No.145, Zhongshan Rd., Shalu Town,Taichung County 433, Taiwan (R.O.C.)",
+    "英文地址": "1-2F., No.17, Lane 56, Zhenzheng Rd., Shalu Town, &amp;amp;1-2F., No.145, Zhongshan Rd., Shalu Town,Taichung County 433, Taiwan (R.O.C.)",
     "電話": "04-26620482",
     "立案情形": "已立案",
     "電話網類別": "",
@@ -36,11 +36,13 @@
         {
             "核准科目名稱": "美語會話",
             "核准班級數": "5班",
-            "每班核准人數": "0人",
+            "每班核准人數": "25人",
             "每週總節(時)數": "15",
             "修業期限": "4個月",
             "招生對象": "國小"
         }
     ],
-    "職員工": []
+    "職員工": [
+        "黃怡嘉"
+    ]
 }

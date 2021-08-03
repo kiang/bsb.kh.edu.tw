@@ -5,7 +5,7 @@
     "補習班英文名稱": "Private   Ge Rui T e  Foreign  Languages        Short-Term Busiban",
     "補習班類別\/科目": "外語類,",
     "地址": "臺中市南屯區向心南路981巷36號1-2樓",
-    "英文地址": "1-2F.， No.36， Ln. 981， Sec. 3， Xiangshang Rd.， Nantun Dist.， Taichung City 408， Taiwan (R.O.C.)",
+    "英文地址": "1-2F., No.36, Ln. 981, Sec. 3, Xiangshang Rd., Nantun Dist., Taichung City 408, Taiwan (R.O.C.)",
     "電話": "(04)23813642",
     "立案情形": "已立案",
     "電話網類別": "",
@@ -59,6 +59,7 @@
         }
     ],
     "職員工": [
-        "王莉晴"
+        "蔡馨曼",
+        "洪吳楷"
     ]
 }

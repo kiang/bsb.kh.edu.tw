@@ -2,10 +2,10 @@
     "補習班代碼": "42201409170001",
     "主管機關文件單位代碼": "",
     "補習班名稱": "臺中市私立南陽大成文理短期補習班",
-    "補習班英文名稱": "Private Nan Yang Da Cheng  Abacus&amp; Liberal Arts\/Science Program   Short-Term Busiban",
+    "補習班英文名稱": "Private Nan Yang Da Cheng  Abacus&amp;amp;amp; Liberal Arts\/Science Program   Short-Term Busiban",
     "補習班類別\/科目": "文理類,",
     "地址": "臺中市豐原區同安街43號1-3樓",
-    "英文地址": "1-3F.， No.43， Tong&rsquo;an St.， Fengyuan Dist.， Taichung City 420， Taiwan (R.O.C.)",
+    "英文地址": "1-3F., No.43, Tong&amp;amp;rsquo;an St., Fengyuan Dist., Taichung City 420, Taiwan (R.O.C.)",
     "電話": "(04)25235488",
     "立案情形": "已立案",
     "電話網類別": "",
@@ -74,5 +74,7 @@
             "招生對象": "國中"
         }
     ],
-    "職員工": []
+    "職員工": [
+        "黃栗秋"
+    ]
 }

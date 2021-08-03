@@ -5,7 +5,7 @@
     "補習班英文名稱": "Private Brown English Conversation Short-Term Busiban",
     "補習班類別\/科目": "外語類,",
     "地址": "中西區府前路一段271號2樓、273號2樓",
-    "英文地址": "2F., No.271&amp; 273, Sec. 1, Fucian Rd., Central District",
+    "英文地址": "2F., No.271&amp;amp; 273, Sec. 1, Fucian Rd., Central District",
     "電話": "(06)2153388",
     "立案情形": "已立案",
     "電話網類別": "",
@@ -50,5 +50,7 @@
             "招生對象": "國小"
         }
     ],
-    "職員工": []
+    "職員工": [
+        "李宜庭"
+    ]
 }

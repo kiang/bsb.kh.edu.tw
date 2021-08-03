@@ -5,7 +5,7 @@
     "補習班英文名稱": "Private YI HSIANG WEN LI Short-Term Busiban",
     "補習班類別\/科目": "文理類,",
     "地址": "苗栗縣苗栗市高苗里9鄰大同路91號1-2F",
-    "英文地址": "1-2F.， No.91， Datong Rd.， Miaoli City， Miaoli County 360， Taiwan (R.O.C.)",
+    "英文地址": "1-2F., No.91, Datong Rd., Miaoli City, Miaoli County 360, Taiwan (R.O.C.)",
     "電話": "(037)367373",
     "立案情形": "已立案",
     "電話網類別": "",
@@ -50,5 +50,7 @@
             "招生對象": "國中"
         }
     ],
-    "職員工": []
+    "職員工": [
+        "劉彥羚"
+    ]
 }

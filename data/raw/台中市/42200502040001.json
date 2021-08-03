@@ -5,7 +5,7 @@
     "補習班英文名稱": "Private JHIH GUAN Literature and Science Short-Term Busiban",
     "補習班類別\/科目": "文理類,",
     "地址": "406台中市北屯區東山路1段220-7號1-2樓",
-    "英文地址": "No.220-7， Sec. 1， Dongshan Rd.， Beitun District， Taichung City 406",
+    "英文地址": "No.220-7, Sec. 1, Dongshan Rd., Beitun District, Taichung City 406",
     "電話": "(04)24361798",
     "立案情形": "已立案",
     "電話網類別": "",
@@ -50,5 +50,7 @@
             "招生對象": "國中"
         }
     ],
-    "職員工": []
+    "職員工": [
+        "翁聖穎"
+    ]
 }

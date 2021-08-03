@@ -5,8 +5,8 @@
     "補習班英文名稱": "Private    HSIN PAI HAN     Liberal  Arts\/Science  Program      Short-Term",
     "補習班類別\/科目": "文理類,",
     "地址": "臺中市大肚區王福街696號1-2樓692號1-3樓",
-    "英文地址": "1-3F，No.56-23，1-2F.， No.56-22， Lane 320， Sec. 1， Shatian Rd.， Dadu Shiang， Taichung County 432， Taiwan (R.O.C.)",
-    "電話": "(04)26934712",
+    "英文地址": "1-3F,No.56-23,1-2F., No.56-22, Lane 320, Sec. 1, Shatian Rd., Dadu Shiang, Taichung County 432, Taiwan (R.O.C.)",
+    "電話": "(04)26937306",
     "立案情形": "已立案",
     "電話網類別": "",
     "電話網層別": "X-X-X",
@@ -50,5 +50,10 @@
             "招生對象": "國中"
         }
     ],
-    "職員工": []
+    "職員工": [
+        "盧宜鈴",
+        "林芷彤",
+        "黃慧珠",
+        "陳惠美"
+    ]
 }
