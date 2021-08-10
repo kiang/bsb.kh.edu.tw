@@ -9,8 +9,8 @@
                 "county": "臺東縣",
                 "town": "臺東市",
                 "village": "東海里",
-                "address": "台東縣臺東市長沙街396號1F、2F",
-                "tel": "(089)329891#118"
+                "class": "文理類,音樂、舞蹈類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -28,8 +28,8 @@
                 "county": "臺東縣",
                 "town": "臺東市",
                 "village": "豐谷里",
-                "address": "台東縣臺東市漢陽北路89號",
-                "tel": "(089)318457、(089)341341"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -47,8 +47,8 @@
                 "county": "臺東縣",
                 "town": "臺東市",
                 "village": "中心里",
-                "address": "台東縣臺東市更生路573巷65號",
-                "tel": "0972029097"
+                "class": "文理類,",
+                "students": "高中"
             },
             "geometry": {
                 "type": "Point",
@@ -66,8 +66,8 @@
                 "county": "臺東縣",
                 "town": "臺東市",
                 "village": "民權里",
-                "address": "台東縣臺東市中正路392巷5號",
-                "tel": "(089)346267"
+                "class": "文理類,",
+                "students": "混齡(4~14歲)"
             },
             "geometry": {
                 "type": "Point",
@@ -85,8 +85,8 @@
                 "county": "臺東縣",
                 "town": "大武鄉",
                 "village": "大武村",
-                "address": "台東縣大武鄉民族街57號",
-                "tel": "(089)790078"
+                "class": "文理類,外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -104,8 +104,8 @@
                 "county": "臺東縣",
                 "town": "臺東市",
                 "village": "卑南里",
-                "address": "台東縣臺東市更生北路293巷7號",
-                "tel": "(0918)631358"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -123,8 +123,8 @@
                 "county": "臺東縣",
                 "town": "臺東市",
                 "village": "自強里",
-                "address": "台東縣臺東市新生路379號",
-                "tel": "0988-065293"
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -142,8 +142,8 @@
                 "county": "臺東縣",
                 "town": "臺東市",
                 "village": "自強里",
-                "address": "台東縣臺東市長安街76號",
-                "tel": "(089)347739"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -161,8 +161,8 @@
                 "county": "臺東縣",
                 "town": "臺東市",
                 "village": "知本里",
-                "address": "台東縣臺東市吉福路48號1樓",
-                "tel": "(089)515959"
+                "class": "文理類,",
+                "students": "學齡前、國小、國中、高中"
             },
             "geometry": {
                 "type": "Point",
@@ -180,8 +180,8 @@
                 "county": "臺東縣",
                 "town": "臺東市",
                 "village": "東海里",
-                "address": "台東縣臺東市長沙街170巷7弄12號1樓",
-                "tel": "0932664693"
+                "class": "文理類,",
+                "students": "學齡前、國小、國中、高中"
             },
             "geometry": {
                 "type": "Point",
@@ -199,8 +199,8 @@
                 "county": "臺東縣",
                 "town": "臺東市",
                 "village": "民族里",
-                "address": "台東縣臺東市信義路347號",
-                "tel": "0911659029"
+                "class": "文理類,外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -218,8 +218,8 @@
                 "county": "臺東縣",
                 "town": "臺東市",
                 "village": "民生里",
-                "address": "台東縣臺東市開封街253號",
-                "tel": "(089)343349"
+                "class": "音樂、舞蹈類,",
+                "students": "國小、國中、高中"
             },
             "geometry": {
                 "type": "Point",
@@ -237,8 +237,8 @@
                 "county": "臺東縣",
                 "town": "臺東市",
                 "village": "康樂里",
-                "address": "台東縣臺東市民航路999號",
-                "tel": "0988307301"
+                "class": "文理類,",
+                "students": "其他"
             },
             "geometry": {
                 "type": "Point",
@@ -256,8 +256,8 @@
                 "county": "臺東縣",
                 "town": "臺東市",
                 "village": "中心里",
-                "address": "台東縣臺東市開封街680巷95號1樓",
-                "tel": "089-348-012"
+                "class": "文理類,外語類,",
+                "students": "國中高,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -275,8 +275,8 @@
                 "county": "臺東縣",
                 "town": "臺東市",
                 "village": "光明里",
-                "address": "台東縣臺東市中興路二段37號",
-                "tel": "0966-701207"
+                "class": "音樂、舞蹈類,",
+                "students": "國小、國中、高中"
             },
             "geometry": {
                 "type": "Point",
@@ -294,8 +294,8 @@
                 "county": "臺東縣",
                 "town": "臺東市",
                 "village": "馬蘭里",
-                "address": "台東縣臺東市四維路三段328號",
-                "tel": "0917775078"
+                "class": "文理類,外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -313,8 +313,8 @@
                 "county": "臺東縣",
                 "town": "臺東市",
                 "village": "成功里",
-                "address": "台東縣臺東市臨海路262巷1號",
-                "tel": "(089)355365"
+                "class": "音樂、舞蹈類,",
+                "students": "其他"
             },
             "geometry": {
                 "type": "Point",
@@ -332,8 +332,8 @@
                 "county": "臺東縣",
                 "town": "臺東市",
                 "village": "興國里",
-                "address": "台東縣臺東市信義路190號",
-                "tel": "(089)323344"
+                "class": "文理類,",
+                "students": "高中"
             },
             "geometry": {
                 "type": "Point",
@@ -351,8 +351,8 @@
                 "county": "臺東縣",
                 "town": "臺東市",
                 "village": "建國里",
-                "address": "台東縣臺東市精誠路45號",
-                "tel": "(089)337721"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -370,8 +370,8 @@
                 "county": "臺東縣",
                 "town": "臺東市",
                 "village": "馬蘭里",
-                "address": "台東縣臺東市馬蘭里8鄰中興路一段543巷12號",
-                "tel": "(089)225570"
+                "class": "文理類,其他類,",
+                "students": "其他"
             },
             "geometry": {
                 "type": "Point",
@@ -389,8 +389,8 @@
                 "county": "臺東縣",
                 "town": "臺東市",
                 "village": "豐榮里",
-                "address": "台東縣臺東市常德路67巷9號",
-                "tel": "(089)322480"
+                "class": "外語類,音樂、舞蹈類,",
+                "students": "其他,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -408,8 +408,8 @@
                 "county": "臺東縣",
                 "town": "臺東市",
                 "village": "新生里",
-                "address": "台東縣臺東市新生里23鄰傳廣路438號2樓",
-                "tel": "089-235558"
+                "class": "音樂、舞蹈類,",
+                "students": "國高中小"
             },
             "geometry": {
                 "type": "Point",
@@ -427,8 +427,8 @@
                 "county": "臺東縣",
                 "town": "臺東市",
                 "village": "中心里",
-                "address": "台東縣臺東市開封街702巷60號",
-                "tel": "(089)340475"
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -446,8 +446,8 @@
                 "county": "臺東縣",
                 "town": "太麻里鄉",
                 "village": "泰和村",
-                "address": "台東縣太麻里鄉太麻里街137號",
-                "tel": "(089)781222"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -465,8 +465,8 @@
                 "county": "臺東縣",
                 "town": "太麻里鄉",
                 "village": "泰和村",
-                "address": "台東縣太麻里鄉外環路62號",
-                "tel": "(089)783123"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -484,8 +484,8 @@
                 "county": "臺東縣",
                 "town": "臺東市",
                 "village": "新生里",
-                "address": "台東縣臺東市仁二街251號",
-                "tel": "(089)236115"
+                "class": "文理類,外語類,音樂、舞蹈類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -503,8 +503,8 @@
                 "county": "臺東縣",
                 "town": "臺東市",
                 "village": "東海里",
-                "address": "台東縣臺東市正氣北路255巷106號",
-                "tel": "(089)359812"
+                "class": "外語類,",
+                "students": "其他"
             },
             "geometry": {
                 "type": "Point",
@@ -522,8 +522,8 @@
                 "county": "臺東縣",
                 "town": "臺東市",
                 "village": "豐榮里",
-                "address": "台東縣臺東市中華路二段111巷22弄13號1樓",
-                "tel": "(089)311819"
+                "class": "外語類,音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -541,8 +541,8 @@
                 "county": "臺東縣",
                 "town": "臺東市",
                 "village": "民生里",
-                "address": "台東縣臺東市徐州街302巷1號1樓暨2樓",
-                "tel": "0932-828853"
+                "class": "文理類,外語類,",
+                "students": "國小、國中、高中"
             },
             "geometry": {
                 "type": "Point",
@@ -560,8 +560,8 @@
                 "county": "臺東縣",
                 "town": "臺東市",
                 "village": "新生里",
-                "address": "台東縣臺東市仁二街8-1號",
-                "tel": "(089)230381"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -579,8 +579,8 @@
                 "county": "臺東縣",
                 "town": "臺東市",
                 "village": "民生里",
-                "address": "台東縣臺東市徐州街282號",
-                "tel": "(089)327559"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -598,8 +598,8 @@
                 "county": "臺東縣",
                 "town": "臺東市",
                 "village": "新興里",
-                "address": "台東縣臺東市南昌街102巷36號",
-                "tel": "(089)359323"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -617,8 +617,8 @@
                 "county": "臺東縣",
                 "town": "臺東市",
                 "village": "民族里",
-                "address": "台東縣臺東市信義路222號",
-                "tel": "(089)356555"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -636,8 +636,8 @@
                 "county": "臺東縣",
                 "town": "關山鎮",
                 "village": "里壠里",
-                "address": "台東縣關山鎮公園路50號",
-                "tel": "(089)811145"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -655,8 +655,8 @@
                 "county": "臺東縣",
                 "town": "臺東市",
                 "village": "自強里",
-                "address": "台東縣臺東市臨潼街42巷13號",
-                "tel": "(089)347478"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -674,8 +674,8 @@
                 "county": "臺東縣",
                 "town": "臺東市",
                 "village": "中心里",
-                "address": "台東縣臺東市開封街652號",
-                "tel": "(089)356612"
+                "class": "外語類,",
+                "students": "高中"
             },
             "geometry": {
                 "type": "Point",
@@ -693,8 +693,8 @@
                 "county": "臺東縣",
                 "town": "臺東市",
                 "village": "中心里",
-                "address": "台東縣臺東市開封街818巷12號",
-                "tel": "(089)349608"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -712,8 +712,8 @@
                 "county": "臺東縣",
                 "town": "臺東市",
                 "village": "馬蘭里",
-                "address": "台東縣臺東市四維路三段299號",
-                "tel": "(089)347476"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -731,8 +731,8 @@
                 "county": "臺東縣",
                 "town": "臺東市",
                 "village": "馬蘭里",
-                "address": "台東縣臺東市新生路641巷16弄12號",
-                "tel": "(089)235214"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -750,8 +750,8 @@
                 "county": "臺東縣",
                 "town": "臺東市",
                 "village": "新生里",
-                "address": "台東縣臺東市杭州街299號",
-                "tel": "(089)361711"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -769,8 +769,8 @@
                 "county": "臺東縣",
                 "town": "臺東市",
                 "village": "中心里",
-                "address": "台東縣臺東市漢中街194號1樓",
-                "tel": "(089)362329"
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國中小高"
             },
             "geometry": {
                 "type": "Point",
@@ -788,8 +788,8 @@
                 "county": "臺東縣",
                 "town": "臺東市",
                 "village": "中心里",
-                "address": "台東縣臺東市洛陽街318號",
-                "tel": "0963137899"
+                "class": "外語類,",
+                "students": "國中小"
             },
             "geometry": {
                 "type": "Point",
@@ -807,8 +807,8 @@
                 "county": "臺東縣",
                 "town": "臺東市",
                 "village": "新生里",
-                "address": "台東縣臺東市仁二街66號",
-                "tel": "(089)229499"
+                "class": "音樂、舞蹈類,",
+                "students": "國小、國中、高中"
             },
             "geometry": {
                 "type": "Point",
@@ -826,8 +826,8 @@
                 "county": "臺東縣",
                 "town": "臺東市",
                 "village": "民生里",
-                "address": "台東縣臺東市鄭州街71號",
-                "tel": "0933-626346"
+                "class": "文理類,音樂、舞蹈類,",
+                "students": "其他,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -845,8 +845,8 @@
                 "county": "臺東縣",
                 "town": "臺東市",
                 "village": "豐榮里",
-                "address": "台東縣臺東市永福路203號",
-                "tel": "(089)359976"
+                "class": "文理類,商類：珠算、心算、會計,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -864,8 +864,8 @@
                 "county": "臺東縣",
                 "town": "臺東市",
                 "village": "豐榮里",
-                "address": "台東縣臺東市豐盛路26巷67號",
-                "tel": "089336935"
+                "class": "文理類,",
+                "students": "國小,學齡前"
             },
             "geometry": {
                 "type": "Point",
@@ -883,8 +883,8 @@
                 "county": "臺東縣",
                 "town": "臺東市",
                 "village": "中心里",
-                "address": "台東縣臺東市漢中街215巷3號",
-                "tel": "(089)354733"
+                "class": "文理類,外語類,",
+                "students": "國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -902,8 +902,8 @@
                 "county": "臺東縣",
                 "town": "臺東市",
                 "village": "自強里",
-                "address": "台東縣臺東市漢中街52號",
-                "tel": "(089)320477"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -921,8 +921,8 @@
                 "county": "臺東縣",
                 "town": "臺東市",
                 "village": "中華里",
-                "address": "台東縣臺東市強國街178-1號1樓",
-                "tel": "(089)332615"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -940,8 +940,8 @@
                 "county": "臺東縣",
                 "town": "臺東市",
                 "village": "豐榮里",
-                "address": "台東縣臺東市正氣北路339巷33號",
-                "tel": "(089)333982"
+                "class": "文理類,商類：珠算、心算、會計,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -959,8 +959,8 @@
                 "county": "臺東縣",
                 "town": "臺東市",
                 "village": "民生里",
-                "address": "台東縣臺東市上海街32巷14號",
-                "tel": "(089)327092"
+                "class": "文理類,",
+                "students": "學齡前"
             },
             "geometry": {
                 "type": "Point",
@@ -978,8 +978,8 @@
                 "county": "臺東縣",
                 "town": "臺東市",
                 "village": "豐榮里",
-                "address": "台東縣臺東市豐榮路278號",
-                "tel": "(089)358950"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -997,8 +997,8 @@
                 "county": "臺東縣",
                 "town": "臺東市",
                 "village": "大同里",
-                "address": "台東縣臺東市中正路189號1、2樓",
-                "tel": "(089)360907"
+                "class": "文理類,外語類,",
+                "students": "國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -1016,8 +1016,8 @@
                 "county": "臺東縣",
                 "town": "臺東市",
                 "village": "自強里",
-                "address": "台東縣臺東市武昌街51號",
-                "tel": "0921204402"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1035,8 +1035,8 @@
                 "county": "臺東縣",
                 "town": "臺東市",
                 "village": "東海里",
-                "address": "台東縣臺東市長沙街390巷11號",
-                "tel": "(089)321221"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1054,8 +1054,8 @@
                 "county": "臺東縣",
                 "town": "臺東市",
                 "village": "豐榮里",
-                "address": "台東縣臺東市正氣北路339巷128弄10號1樓",
-                "tel": "(089)340465"
+                "class": "文理類,",
+                "students": "其他"
             },
             "geometry": {
                 "type": "Point",
@@ -1073,8 +1073,8 @@
                 "county": "臺東縣",
                 "town": "臺東市",
                 "village": "豐榮里",
-                "address": "台東縣臺東市漢陽南路55號",
-                "tel": "(089)348787"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1092,8 +1092,8 @@
                 "county": "臺東縣",
                 "town": "臺東市",
                 "village": "東海里",
-                "address": "台東縣臺東市東海里長沙街137號",
-                "tel": "(089)335996"
+                "class": "外語類,",
+                "students": "國高中小"
             },
             "geometry": {
                 "type": "Point",
@@ -1111,8 +1111,8 @@
                 "county": "臺東縣",
                 "town": "臺東市",
                 "village": "自強里",
-                "address": "台東縣臺東市長安街58號",
-                "tel": "(089)330282"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1130,8 +1130,8 @@
                 "county": "臺東縣",
                 "town": "臺東市",
                 "village": "豐榮里",
-                "address": "台東縣臺東市中華路2段271號",
-                "tel": "(089)357322"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1149,8 +1149,8 @@
                 "county": "臺東縣",
                 "town": "臺東市",
                 "village": "中心里",
-                "address": "台東縣臺東市北平街3號",
-                "tel": "0919127837"
+                "class": "文理類,",
+                "students": "國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -1168,8 +1168,8 @@
                 "county": "臺東縣",
                 "town": "臺東市",
                 "village": "自強里",
-                "address": "台東縣臺東市長安街72之1號",
-                "tel": "(089)333335"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1187,8 +1187,8 @@
                 "county": "臺東縣",
                 "town": "臺東市",
                 "village": "豐榮里",
-                "address": "台東縣臺東市豐榮路193號",
-                "tel": "0910374076"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1206,8 +1206,8 @@
                 "county": "臺東縣",
                 "town": "成功鎮",
                 "village": "忠仁里",
-                "address": "台東縣成功鎮中華路56號2樓",
-                "tel": "(089)852679"
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1225,8 +1225,8 @@
                 "county": "臺東縣",
                 "town": "臺東市",
                 "village": "知本里",
-                "address": "台東縣臺東市知本路三段141號",
-                "tel": "(089)510948"
+                "class": "文理類,",
+                "students": "國小,國中,學齡前"
             },
             "geometry": {
                 "type": "Point",
@@ -1244,8 +1244,8 @@
                 "county": "臺東縣",
                 "town": "臺東市",
                 "village": "自強里",
-                "address": "台東縣臺東市開封街699號",
-                "tel": "(089)333307"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1263,8 +1263,8 @@
                 "county": "臺東縣",
                 "town": "臺東市",
                 "village": "中華里",
-                "address": "台東縣臺東市四維路一段480號",
-                "tel": "(089)355466"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1282,8 +1282,8 @@
                 "county": "臺東縣",
                 "town": "臺東市",
                 "village": "中心里",
-                "address": "台東縣臺東市漢中街176號",
-                "tel": "089362201"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1301,8 +1301,8 @@
                 "county": "臺東縣",
                 "town": "臺東市",
                 "village": "自強里",
-                "address": "台東縣臺東市正氣北路166巷19號",
-                "tel": "(089)330399"
+                "class": "文理類,商類：珠算、心算、會計,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1320,8 +1320,8 @@
                 "county": "臺東縣",
                 "town": "臺東市",
                 "village": "文化里",
-                "address": "台東縣臺東市正氣路298巷17號",
-                "tel": "089-326339"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1339,8 +1339,8 @@
                 "county": "臺東縣",
                 "town": "臺東市",
                 "village": "中心里",
-                "address": "台東縣臺東市北平街7號",
-                "tel": "(089)347152"
+                "class": "外語類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1358,8 +1358,8 @@
                 "county": "臺東縣",
                 "town": "太麻里鄉",
                 "village": "泰和村",
-                "address": "台東縣太麻里鄉泰和村太麻里街482號",
-                "tel": "(089)780001"
+                "class": "文理類,外語類,",
+                "students": "國中小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1377,8 +1377,8 @@
                 "county": "臺東縣",
                 "town": "臺東市",
                 "village": "卑南里",
-                "address": "台東縣臺東市更生北路287號",
-                "tel": "(089)232484"
+                "class": "文理類,外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1396,8 +1396,8 @@
                 "county": "臺東縣",
                 "town": "臺東市",
                 "village": "自強里",
-                "address": "台東縣臺東市漢中街87號1、2樓",
-                "tel": "(089)335290"
+                "class": "其他類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1415,8 +1415,8 @@
                 "county": "臺東縣",
                 "town": "臺東市",
                 "village": "民生里",
-                "address": "台東縣臺東市鄭州街160號",
-                "tel": "(089)361680"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1434,8 +1434,8 @@
                 "county": "臺東縣",
                 "town": "臺東市",
                 "village": "豐榮里",
-                "address": "台東縣臺東市正氣北路313號",
-                "tel": "(089)310808"
+                "class": "外語類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1453,8 +1453,8 @@
                 "county": "臺東縣",
                 "town": "臺東市",
                 "village": "豐田里",
-                "address": "台東縣臺東市中興路五段9號",
-                "tel": "(089)384918"
+                "class": "文理類,商類：珠算、心算、會計,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1472,8 +1472,8 @@
                 "county": "臺東縣",
                 "town": "臺東市",
                 "village": "中心里",
-                "address": "台東縣臺東市開封街632巷20弄4號",
-                "tel": "(089)320033"
+                "class": "文理類,",
+                "students": "其他"
             },
             "geometry": {
                 "type": "Point",
@@ -1491,8 +1491,8 @@
                 "county": "臺東縣",
                 "town": "臺東市",
                 "village": "自強里",
-                "address": "台東縣臺東市臨潼街105號",
-                "tel": "(089)357348"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1510,8 +1510,8 @@
                 "county": "臺東縣",
                 "town": "臺東市",
                 "village": "自強里",
-                "address": "台東縣臺東市新生路326號2樓",
-                "tel": "(089)345050"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1529,8 +1529,8 @@
                 "county": "臺東縣",
                 "town": "臺東市",
                 "village": "四維里",
-                "address": "台東縣臺東市勝利街72-1號",
-                "tel": "(089)362096"
+                "class": "外語類,",
+                "students": "其他"
             },
             "geometry": {
                 "type": "Point",
@@ -1548,8 +1548,8 @@
                 "county": "臺東縣",
                 "town": "臺東市",
                 "village": "新生里",
-                "address": "台東縣臺東市杭州街414號",
-                "tel": "(089)237838"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1567,8 +1567,8 @@
                 "county": "臺東縣",
                 "town": "臺東市",
                 "village": "中山里",
-                "address": "台東縣臺東市中山路323巷8號",
-                "tel": "(089)343125"
+                "class": "文理類,",
+                "students": "公職人員考試,成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
@@ -1586,8 +1586,8 @@
                 "county": "臺東縣",
                 "town": "臺東市",
                 "village": "民族里",
-                "address": "台東縣臺東市博愛路458號",
-                "tel": "(089)342598"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1605,8 +1605,8 @@
                 "county": "臺東縣",
                 "town": "臺東市",
                 "village": "中正里",
-                "address": "台東縣臺東市大同路236號2、3、4樓",
-                "tel": "(089)323415"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1624,8 +1624,8 @@
                 "county": "臺東縣",
                 "town": "臺東市",
                 "village": "民族里",
-                "address": "台東縣臺東市新生路205號1.2樓",
-                "tel": "(089)356781"
+                "class": "外語類,資訊類,",
+                "students": "其他"
             },
             "geometry": {
                 "type": "Point",
@@ -1643,8 +1643,8 @@
                 "county": "臺東縣",
                 "town": "臺東市",
                 "village": "民族里",
-                "address": "台東縣臺東市博愛路460之1號",
-                "tel": "(089)333212"
+                "class": "音樂、舞蹈類,",
+                "students": "國小、國中、高中"
             },
             "geometry": {
                 "type": "Point",
@@ -1662,8 +1662,8 @@
                 "county": "臺東縣",
                 "town": "臺東市",
                 "village": "民生里",
-                "address": "台東縣臺東市寧波街6號",
-                "tel": "(089)353305"
+                "class": "外語類,",
+                "students": "國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -1681,8 +1681,8 @@
                 "county": "臺東縣",
                 "town": "臺東市",
                 "village": "新生里",
-                "address": "台東縣臺東市更生路576之1號",
-                "tel": "(089)338380"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1700,8 +1700,8 @@
                 "county": "臺東縣",
                 "town": "臺東市",
                 "village": "新生里",
-                "address": "台東縣臺東市四維路三段21號7樓",
-                "tel": "(089)358465"
+                "class": "外語類,",
+                "students": "國小、國中、高中"
             },
             "geometry": {
                 "type": "Point",
@@ -1719,8 +1719,8 @@
                 "county": "臺東縣",
                 "town": "臺東市",
                 "village": "東海里",
-                "address": "台東縣臺東市長沙街336號",
-                "tel": "(089)345020"
+                "class": "文理類,商類：珠算、心算、會計,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1738,8 +1738,8 @@
                 "county": "臺東縣",
                 "town": "臺東市",
                 "village": "民生里",
-                "address": "台東縣臺東市杭州街188號",
-                "tel": "(089)353736"
+                "class": "文理類,",
+                "students": "國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -1757,8 +1757,8 @@
                 "county": "臺東縣",
                 "town": "臺東市",
                 "village": "民族里",
-                "address": "台東縣臺東市博愛路434巷9號",
-                "tel": "(089)327357"
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1776,8 +1776,8 @@
                 "county": "臺東縣",
                 "town": "臺東市",
                 "village": "民族里",
-                "address": "台東縣臺東市更生路187號",
-                "tel": "(089)329502"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1795,8 +1795,8 @@
                 "county": "臺東縣",
                 "town": "臺東市",
                 "village": "成功里",
-                "address": "台東縣臺東市大同路92號",
-                "tel": "(089)330725"
+                "class": "文理類,",
+                "students": "國小、國中、高中"
             },
             "geometry": {
                 "type": "Point",

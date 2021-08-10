@@ -9,8 +9,8 @@
                 "county": "南投縣",
                 "town": "名間鄉",
                 "village": "中山村",
-                "address": "南投縣名間鄉名松路一段87-4號1-3樓",
-                "tel": "(049)2737472"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -28,8 +28,8 @@
                 "county": "南投縣",
                 "town": "南投市",
                 "village": "平和里",
-                "address": "南投縣南投市信義街119號1樓",
-                "tel": "(0972)386760"
+                "class": "文理類,",
+                "students": "學齡前,國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -47,8 +47,8 @@
                 "county": "南投縣",
                 "town": "南投市",
                 "village": "龍泉里",
-                "address": "南投縣南投市南陽路167號1-2樓",
-                "tel": "(049)2225566"
+                "class": "文理類,",
+                "students": "國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -66,8 +66,8 @@
                 "county": "南投縣",
                 "town": "埔里鎮",
                 "village": "北門里",
-                "address": "南投縣埔里鎮北環路196號1-2樓",
-                "tel": "0926-175239"
+                "class": "文理類,",
+                "students": "學齡前,國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -85,8 +85,8 @@
                 "county": "南投縣",
                 "town": "埔里鎮",
                 "village": "杷城里",
-                "address": "南投縣埔里鎮南興街3-5號1-2樓",
-                "tel": "(049)2990252"
+                "class": "文理類,",
+                "students": "國小,國中,幼童"
             },
             "geometry": {
                 "type": "Point",
@@ -104,8 +104,8 @@
                 "county": "南投縣",
                 "town": "竹山鎮",
                 "village": "延和里",
-                "address": "南投縣竹山鎮集山路三段702號1-2樓",
-                "tel": "(049)2651891"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -123,8 +123,8 @@
                 "county": "南投縣",
                 "town": "草屯鎮",
                 "village": "和平里",
-                "address": "南投縣草屯鎮和興一街13號1-2樓",
-                "tel": "(049)2300211"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -142,8 +142,8 @@
                 "county": "南投縣",
                 "town": "南投市",
                 "village": "平和里",
-                "address": "南投縣南投市信義街135號1-3樓",
-                "tel": "(049)2229191"
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -161,8 +161,8 @@
                 "county": "南投縣",
                 "town": "竹山鎮",
                 "village": "雲林里",
-                "address": "南投縣竹山鎮大明路577號1-2樓",
-                "tel": "0980780208"
+                "class": "文理類,",
+                "students": "學齡前,國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -180,8 +180,8 @@
                 "county": "南投縣",
                 "town": "集集鎮",
                 "village": "永昌里",
-                "address": "南投縣集集鎮民生路3-1號1-2樓",
-                "tel": "(049)"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -199,8 +199,8 @@
                 "county": "南投縣",
                 "town": "竹山鎮",
                 "village": "桂林里",
-                "address": "南投縣竹山鎮桂林里中正巷27-147號1-2樓",
-                "tel": "(049)2658000"
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -218,8 +218,8 @@
                 "county": "南投縣",
                 "town": "南投市",
                 "village": "嘉和里",
-                "address": "南投縣南投市大庄路156號1-2樓",
-                "tel": "0492201507"
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -237,8 +237,8 @@
                 "county": "南投縣",
                 "town": "埔里鎮",
                 "village": "東門里",
-                "address": "南投縣埔里鎮忠孝路204號2樓",
-                "tel": "0492999280"
+                "class": "文理類,外語類,",
+                "students": "國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -256,8 +256,8 @@
                 "county": "南投縣",
                 "town": "南投市",
                 "village": "嘉和里",
-                "address": "南投縣南投市文化南路81巷5號1-2樓",
-                "tel": "(049)2243152"
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -275,8 +275,8 @@
                 "county": "南投縣",
                 "town": "南投市",
                 "village": "營北里",
-                "address": "南投縣南投市仁義南路61號1-2樓",
-                "tel": "0952257370"
+                "class": "文理類,",
+                "students": "國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -294,8 +294,8 @@
                 "county": "南投縣",
                 "town": "埔里鎮",
                 "village": "杷城里",
-                "address": "南投縣埔里鎮南興街2-7號1-2樓",
-                "tel": "(049)2906578"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -313,8 +313,8 @@
                 "county": "南投縣",
                 "town": "竹山鎮",
                 "village": "延和里",
-                "address": "南投縣竹山鎮集山路三段676-1號1-2樓",
-                "tel": "(049)2655688"
+                "class": "文理類,",
+                "students": "國小(12歲以上),國中"
             },
             "geometry": {
                 "type": "Point",
@@ -332,8 +332,8 @@
                 "county": "南投縣",
                 "town": "南投市",
                 "village": "漳和里",
-                "address": "南投縣南投市文林路一巷10號1-2樓",
-                "tel": "(049)2230388"
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -351,8 +351,8 @@
                 "county": "南投縣",
                 "town": "草屯鎮",
                 "village": "富寮里",
-                "address": "南投縣草屯鎮富寮里富頂路一段150巷31號1-3樓",
-                "tel": "(049)2562281"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -370,8 +370,8 @@
                 "county": "南投縣",
                 "town": "竹山鎮",
                 "village": "延和里",
-                "address": "南投縣竹山鎮延和里和育巷337號1樓、339號1樓",
-                "tel": "0921652001"
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -389,8 +389,8 @@
                 "county": "南投縣",
                 "town": "南投市",
                 "village": "三興里",
-                "address": "南投縣南投市建國路16號1-2樓",
-                "tel": "0928997705"
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -408,8 +408,8 @@
                 "county": "南投縣",
                 "town": "埔里鎮",
                 "village": "大城里",
-                "address": "南投縣埔里鎮中山路三段224號2樓",
-                "tel": "(049)2982866"
+                "class": "文理類,",
+                "students": "高中"
             },
             "geometry": {
                 "type": "Point",
@@ -427,8 +427,8 @@
                 "county": "南投縣",
                 "town": "國姓鄉",
                 "village": "國姓村",
-                "address": "南投縣國姓鄉國姓路334號1樓",
-                "tel": "(049)2723580"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -446,8 +446,8 @@
                 "county": "南投縣",
                 "town": "草屯鎮",
                 "village": "和平里",
-                "address": "南投縣草屯鎮和興一街5號1-2樓",
-                "tel": "0935004612(Nicole)， 0921004136(Fred)"
+                "class": "文理類,",
+                "students": "國小,國中,學齡前,高中,成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
@@ -465,8 +465,8 @@
                 "county": "南投縣",
                 "town": "草屯鎮",
                 "village": "新厝里",
-                "address": "南投縣草屯鎮虎山路648巷14弄11號1樓",
-                "tel": "(049)2301970"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -484,8 +484,8 @@
                 "county": "南投縣",
                 "town": "草屯鎮",
                 "village": "碧峰里",
-                "address": "南投縣草屯鎮碧峰路189號1-2樓",
-                "tel": "(049)2300520"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -503,8 +503,8 @@
                 "county": "南投縣",
                 "town": "鹿谷鄉",
                 "village": "廣興村",
-                "address": "南投縣鹿谷鄉廣興村中正一路118號1樓",
-                "tel": "(049)2752318"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -522,8 +522,8 @@
                 "county": "南投縣",
                 "town": "埔里鎮",
                 "village": "枇杷里",
-                "address": "南投縣埔里鎮青田三街83號1-2樓",
-                "tel": "(049)2904508"
+                "class": "音樂、舞蹈類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -541,8 +541,8 @@
                 "county": "南投縣",
                 "town": "埔里鎮",
                 "village": "北安里",
-                "address": "南投縣埔里鎮中華路182號(1-2樓)",
-                "tel": "(049)2901928"
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -560,8 +560,8 @@
                 "county": "南投縣",
                 "town": "草屯鎮",
                 "village": "山腳里",
-                "address": "南投縣草屯鎮虎山路361號1-2樓",
-                "tel": "(049)2370789"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -579,8 +579,8 @@
                 "county": "南投縣",
                 "town": "南投市",
                 "village": "軍功里",
-                "address": "南投縣南投市中興路308-9號1-2樓",
-                "tel": "(049)2235211"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -598,8 +598,8 @@
                 "county": "南投縣",
                 "town": "竹山鎮",
                 "village": "延和里",
-                "address": "南投縣竹山鎮大智路154號1-3樓",
-                "tel": "(049)2654643"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -617,8 +617,8 @@
                 "county": "南投縣",
                 "town": "名間鄉",
                 "village": "中正村",
-                "address": "南投縣名間鄉董門巷8號1-2樓",
-                "tel": "(049)2731009"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -636,8 +636,8 @@
                 "county": "南投縣",
                 "town": "埔里鎮",
                 "village": "北梅里",
-                "address": "南投縣埔里鎮北梅里仁愛路519號1-2樓",
-                "tel": "0492987810"
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -655,8 +655,8 @@
                 "county": "南投縣",
                 "town": "草屯鎮",
                 "village": "玉峰里",
-                "address": "南投縣草屯鎮玉屏路219號（1-2樓）草屯鎮玉屏路219之1號（1-2樓）",
-                "tel": "(049)2316716"
+                "class": "文理類,外語類,音樂、舞蹈類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -674,8 +674,8 @@
                 "county": "南投縣",
                 "town": "草屯鎮",
                 "village": "新厝里",
-                "address": "南投縣草屯鎮虎山路662巷10號1-2樓",
-                "tel": "(049)2327968"
+                "class": "文理類,外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -693,8 +693,8 @@
                 "county": "南投縣",
                 "town": "埔里鎮",
                 "village": "杷城里",
-                "address": "南投縣埔里鎮杷城里2鄰南興街9-15號1-2樓",
-                "tel": "(049)2992178"
+                "class": "文理類,外語類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -712,8 +712,8 @@
                 "county": "南投縣",
                 "town": "南投市",
                 "village": "崇文里",
-                "address": "南投縣南投市彰南路一段1094號1-3樓",
-                "tel": "(049)2208001"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -731,8 +731,8 @@
                 "county": "南投縣",
                 "town": "南投市",
                 "village": "龍泉里",
-                "address": "南投縣南投市南陽路175號1-2樓",
-                "tel": "(049)2225566"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -750,8 +750,8 @@
                 "county": "南投縣",
                 "town": "草屯鎮",
                 "village": "中山里",
-                "address": "南投縣草屯鎮中山街26號1-2樓",
-                "tel": "(049)2303225"
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -769,8 +769,8 @@
                 "county": "南投縣",
                 "town": "埔里鎮",
                 "village": "南門里",
-                "address": "南投縣埔里鎮中山路二段411號1-2樓",
-                "tel": "(049)2904013"
+                "class": "文理類,",
+                "students": "國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -788,8 +788,8 @@
                 "county": "南投縣",
                 "town": "南投市",
                 "village": "內興里",
-                "address": "南投縣南投市中興路一街12號1-5樓",
-                "tel": "(049) 2241482"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -807,8 +807,8 @@
                 "county": "南投縣",
                 "town": "埔里鎮",
                 "village": "同聲里",
-                "address": "南投縣埔里鎮同聲里忠孝路56號1-2樓",
-                "tel": "(049)2986561"
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -826,8 +826,8 @@
                 "county": "南投縣",
                 "town": "南投市",
                 "village": "內興里",
-                "address": "南投縣南投市光明南路61號1-3樓",
-                "tel": "(049)2350666"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -845,8 +845,8 @@
                 "county": "南投縣",
                 "town": "南投市",
                 "village": "內興里",
-                "address": "南投縣南投市光明南路112號1-3樓",
-                "tel": "(049)2325911"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -864,8 +864,8 @@
                 "county": "南投縣",
                 "town": "草屯鎮",
                 "village": "炎峰里",
-                "address": "南投縣草屯鎮炎峰街2-6號1-3樓",
-                "tel": "(049)2326665"
+                "class": "文理類,",
+                "students": "國小,國中,小三至國三"
             },
             "geometry": {
                 "type": "Point",
@@ -883,8 +883,8 @@
                 "county": "南投縣",
                 "town": "草屯鎮",
                 "village": "山腳里",
-                "address": "南投縣草屯鎮民權路75號1-3樓",
-                "tel": "(049)2317102"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -902,8 +902,8 @@
                 "county": "南投縣",
                 "town": "南投市",
                 "village": "三和里",
-                "address": "南投縣南投市中山街5號2-3樓",
-                "tel": "(049)2245832"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -921,8 +921,8 @@
                 "county": "南投縣",
                 "town": "埔里鎮",
                 "village": "杷城里",
-                "address": "南投縣埔里鎮南興街9-13號1-2樓",
-                "tel": "(049)2420000"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -940,8 +940,8 @@
                 "county": "南投縣",
                 "town": "水里鄉",
                 "village": "農富村",
-                "address": "南投縣水里鄉農富村民權路195號1-3樓",
-                "tel": "(049)2777912"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -959,8 +959,8 @@
                 "county": "南投縣",
                 "town": "草屯鎮",
                 "village": "炎峰里",
-                "address": "南投縣草屯鎮炎峰街14-1號1-2樓",
-                "tel": "(049)2323258"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -978,8 +978,8 @@
                 "county": "南投縣",
                 "town": "草屯鎮",
                 "village": "雙冬里",
-                "address": "南投縣草屯鎮雙冬里中正路67-5號1-2樓",
-                "tel": "(049)2572671"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -997,8 +997,8 @@
                 "county": "南投縣",
                 "town": "草屯鎮",
                 "village": "山腳里",
-                "address": "南投縣草屯鎮山腳里民權一街88號1-3樓",
-                "tel": "(049)2329882"
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1016,8 +1016,8 @@
                 "county": "南投縣",
                 "town": "埔里鎮",
                 "village": "大城里",
-                "address": "南投縣埔里鎮中山路三段433號1-2樓",
-                "tel": "(049)2915688"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1035,8 +1035,8 @@
                 "county": "南投縣",
                 "town": "草屯鎮",
                 "village": "炎峰里",
-                "address": "南投縣草屯鎮碧山路20號1-2樓",
-                "tel": "(049)2311213"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1054,8 +1054,8 @@
                 "county": "南投縣",
                 "town": "草屯鎮",
                 "village": "中山里",
-                "address": "南投縣草屯鎮草溪路1016號2樓",
-                "tel": "(049)2333818"
+                "class": "文理類,",
+                "students": "高中"
             },
             "geometry": {
                 "type": "Point",
@@ -1073,8 +1073,8 @@
                 "county": "南投縣",
                 "town": "南投市",
                 "village": "平和里",
-                "address": "南投縣南投市信義街183號1-2樓",
-                "tel": "(049)2230331"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1092,8 +1092,8 @@
                 "county": "南投縣",
                 "town": "竹山鎮",
                 "village": "竹山里",
-                "address": "南投縣竹山鎮竹山里集山路三段828號2樓",
-                "tel": "(049)2636520"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1111,8 +1111,8 @@
                 "county": "南投縣",
                 "town": "草屯鎮",
                 "village": "炎峰里",
-                "address": "南投縣草屯鎮炎峰里4鄰中正路586-10號1-4樓",
-                "tel": "(049)2362586"
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1130,8 +1130,8 @@
                 "county": "南投縣",
                 "town": "名間鄉",
                 "village": "中山村",
-                "address": "南投縣名間鄉名松路一段87之3號1-3樓",
-                "tel": "(049)2739116"
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1149,8 +1149,8 @@
                 "county": "南投縣",
                 "town": "埔里鎮",
                 "village": "西門里",
-                "address": "南投縣埔里鎮中正路482號1樓",
-                "tel": "(049)2900236"
+                "class": "音樂、舞蹈類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1168,8 +1168,8 @@
                 "county": "南投縣",
                 "town": "南投市",
                 "village": "內興里",
-                "address": "南投縣南投市光明南路78號1-2樓",
-                "tel": "(049)2393880"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1187,8 +1187,8 @@
                 "county": "南投縣",
                 "town": "竹山鎮",
                 "village": "延和里",
-                "address": "南投縣竹山鎮大義街183號1-2樓",
-                "tel": "(049)2660183"
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1206,8 +1206,8 @@
                 "county": "南投縣",
                 "town": "中寮鄉",
                 "village": "永平村",
-                "address": "南投縣中寮鄉永昌街94號1-2樓",
-                "tel": "(049)2694208"
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1225,8 +1225,8 @@
                 "county": "南投縣",
                 "town": "南投市",
                 "village": "三興里",
-                "address": "南投縣南投市集賢路22號1-2樓",
-                "tel": "(049)2233633"
+                "class": "音樂、舞蹈類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1244,8 +1244,8 @@
                 "county": "南投縣",
                 "town": "竹山鎮",
                 "village": "桂林里",
-                "address": "南投縣竹山鎮桂林里中正巷27-151號",
-                "tel": "(049)2651166"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1263,8 +1263,8 @@
                 "county": "南投縣",
                 "town": "草屯鎮",
                 "village": "復興里",
-                "address": "南投縣草屯鎮碧山路763巷9號1-2樓",
-                "tel": "(049)2313833"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1282,8 +1282,8 @@
                 "county": "南投縣",
                 "town": "草屯鎮",
                 "village": "中山里",
-                "address": "南投縣草屯鎮中山街23號1樓",
-                "tel": "(049)2320123"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1301,8 +1301,8 @@
                 "county": "南投縣",
                 "town": "南投市",
                 "village": "康壽里",
-                "address": "南投縣南投市玉井街48號2-4樓",
-                "tel": "(049)2242999 0937797585"
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1320,8 +1320,8 @@
                 "county": "南投縣",
                 "town": "南投市",
                 "village": "營北里",
-                "address": "南投縣南投市向上路37號1-2樓",
-                "tel": "(049)2316400"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1339,8 +1339,8 @@
                 "county": "南投縣",
                 "town": "草屯鎮",
                 "village": "和平里",
-                "address": "南投縣草屯鎮和興二街11號1-2樓、13號1-2樓、16號1-2樓",
-                "tel": "(049)2311267"
+                "class": "外語類,",
+                "students": "國小,國中,成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
@@ -1358,8 +1358,8 @@
                 "county": "南投縣",
                 "town": "鹿谷鄉",
                 "village": "彰雅村",
-                "address": "南投縣鹿谷鄉彰雅村鹿彰路36號1-2樓",
-                "tel": "(049)2750511"
+                "class": "外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1377,8 +1377,8 @@
                 "county": "南投縣",
                 "town": "南投市",
                 "village": "崇文里",
-                "address": "南投縣南投市大同街1巷12弄23號",
-                "tel": "(049)2208882"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1396,8 +1396,8 @@
                 "county": "南投縣",
                 "town": "草屯鎮",
                 "village": "北勢里",
-                "address": "南投縣草屯鎮玉屏路122之1號1-2樓",
-                "tel": "(049)2554998"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1415,8 +1415,8 @@
                 "county": "南投縣",
                 "town": "竹山鎮",
                 "village": "雲林里",
-                "address": "南投縣竹山鎮大忠路59號1-3樓",
-                "tel": "(049)2656622"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1434,8 +1434,8 @@
                 "county": "南投縣",
                 "town": "草屯鎮",
                 "village": "炎峰里",
-                "address": "南投縣草屯鎮虎山路784號1-2樓",
-                "tel": "(049)2328809"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1453,8 +1453,8 @@
                 "county": "南投縣",
                 "town": "南投市",
                 "village": "崇文里",
-                "address": "南投縣南投市大同街7號1-4樓",
-                "tel": "(049)2209966"
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1472,8 +1472,8 @@
                 "county": "南投縣",
                 "town": "草屯鎮",
                 "village": "中正里",
-                "address": "南投縣草屯鎮中正路699號1-2樓",
-                "tel": "(049)2311517"
+                "class": "法政類,",
+                "students": "成人(18歲以上),高中"
             },
             "geometry": {
                 "type": "Point",
@@ -1491,8 +1491,8 @@
                 "county": "南投縣",
                 "town": "水里鄉",
                 "village": "北埔村",
-                "address": "南投縣水里鄉八德街255號1-2樓",
-                "tel": "(049)2772130"
+                "class": "文理類,",
+                "students": "國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -1510,8 +1510,8 @@
                 "county": "南投縣",
                 "town": "南投市",
                 "village": "平和里",
-                "address": "南投縣南投市信義街31號1-2樓",
-                "tel": "(049)2220324"
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1529,8 +1529,8 @@
                 "county": "南投縣",
                 "town": "草屯鎮",
                 "village": "新厝里",
-                "address": "南投縣草屯鎮虎山路715巷59號1-2樓",
-                "tel": "(049)2318177"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1548,8 +1548,8 @@
                 "county": "南投縣",
                 "town": "草屯鎮",
                 "village": "炎峰里",
-                "address": "南投縣草屯鎮炎峰街3-4號1-2樓、3-5號2樓",
-                "tel": "(049)2313568"
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1567,8 +1567,8 @@
                 "county": "南投縣",
                 "town": "竹山鎮",
                 "village": "延平里",
-                "address": "南投縣竹山鎮集山路二段1161-1號1-3樓",
-                "tel": "(049)2640198"
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1586,8 +1586,8 @@
                 "county": "南投縣",
                 "town": "草屯鎮",
                 "village": "山腳里",
-                "address": "南投縣草屯鎮新生路219號1-4樓",
-                "tel": "(049)2358189"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1605,8 +1605,8 @@
                 "county": "南投縣",
                 "town": "埔里鎮",
                 "village": "南門里",
-                "address": "南投縣埔里鎮中山路二段343號1-2樓",
-                "tel": "(049)2993228"
+                "class": "法政類,商類：珠算、心算、會計,",
+                "students": "公職人員考試,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -1624,8 +1624,8 @@
                 "county": "南投縣",
                 "town": "南投市",
                 "village": "三和里",
-                "address": "南投縣南投市大同南街43號1-3樓",
-                "tel": "(049)2248727"
+                "class": "法政類,商類：珠算、心算、會計,",
+                "students": "公職人員考試"
             },
             "geometry": {
                 "type": "Point",
@@ -1643,8 +1643,8 @@
                 "county": "南投縣",
                 "town": "草屯鎮",
                 "village": "炎峰里",
-                "address": "南投縣草屯鎮玉峰街41號1-2樓",
-                "tel": "(049)2323983"
+                "class": "文理類,",
+                "students": "高中"
             },
             "geometry": {
                 "type": "Point",
@@ -1662,8 +1662,8 @@
                 "county": "南投縣",
                 "town": "埔里鎮",
                 "village": "北梅里",
-                "address": "南投縣埔里鎮西安路一段72、74號3樓",
-                "tel": "(049)2999039"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1681,8 +1681,8 @@
                 "county": "南投縣",
                 "town": "草屯鎮",
                 "village": "中原里",
-                "address": "南投縣草屯鎮中原里坪腳巷8-20號",
-                "tel": "0921385263"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1700,8 +1700,8 @@
                 "county": "南投縣",
                 "town": "草屯鎮",
                 "village": "敦和里",
-                "address": "南投縣草屯鎮信義街169號1-2樓",
-                "tel": "(049)2381812"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1719,8 +1719,8 @@
                 "county": "南投縣",
                 "town": "草屯鎮",
                 "village": "炎峰里",
-                "address": "南投縣草屯鎮大成街70號1-2樓",
-                "tel": "(049)2301575"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1738,8 +1738,8 @@
                 "county": "南投縣",
                 "town": "草屯鎮",
                 "village": "新厝里",
-                "address": "南投縣草屯鎮大成街7號1-3樓",
-                "tel": "(049)2310316"
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1757,8 +1757,8 @@
                 "county": "南投縣",
                 "town": "竹山鎮",
                 "village": "延平里",
-                "address": "南投縣竹山鎮集山路二段1224號1-2樓",
-                "tel": "(049)2658762"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1776,8 +1776,8 @@
                 "county": "南投縣",
                 "town": "埔里鎮",
                 "village": "清新里",
-                "address": "南投縣埔里鎮英六街2號1-2樓",
-                "tel": "(049)2906165"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1795,8 +1795,8 @@
                 "county": "南投縣",
                 "town": "南投市",
                 "village": "三民里",
-                "address": "南投縣南投市彰南路2段122號2樓",
-                "tel": "(049)2230140"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1814,8 +1814,8 @@
                 "county": "南投縣",
                 "town": "草屯鎮",
                 "village": "南埔里",
-                "address": "南投縣草屯鎮中正路263-2號2-4樓",
-                "tel": "(049)2566908"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1833,8 +1833,8 @@
                 "county": "南投縣",
                 "town": "草屯鎮",
                 "village": "炎峰里",
-                "address": "南投縣草屯鎮中正路601-7號5樓",
-                "tel": "(049)2307088"
+                "class": "外語類,家政、插花、烹飪類,音樂、舞蹈類,",
+                "students": "不限,成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
@@ -1852,8 +1852,8 @@
                 "county": "南投縣",
                 "town": "南投市",
                 "village": "龍泉里",
-                "address": "南投縣南投市南陽路165號1-2樓",
-                "tel": "(049)2245323"
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1871,8 +1871,8 @@
                 "county": "南投縣",
                 "town": "草屯鎮",
                 "village": "新厝里",
-                "address": "南投縣草屯鎮中興路128號2-3樓、130號2-3樓",
-                "tel": "2322520"
+                "class": "外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1890,8 +1890,8 @@
                 "county": "南投縣",
                 "town": "南投市",
                 "village": "漳和里",
-                "address": "南投縣南投市文林路63號2-3樓",
-                "tel": "0918520337"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1909,8 +1909,8 @@
                 "county": "南投縣",
                 "town": "南投市",
                 "village": "漳和里",
-                "address": "南投縣南投市南崗二路235巷1號1樓",
-                "tel": "(049)2231682"
+                "class": "瑜珈類,",
+                "students": "7歲以上之男女性"
             },
             "geometry": {
                 "type": "Point",
@@ -1928,8 +1928,8 @@
                 "county": "南投縣",
                 "town": "竹山鎮",
                 "village": "雲林里",
-                "address": "南投縣竹山鎮埔頭街33號1-3樓",
-                "tel": "(049)2642060"
+                "class": "商類：珠算、心算、會計,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1947,8 +1947,8 @@
                 "county": "南投縣",
                 "town": "南投市",
                 "village": "三和里",
-                "address": "南投縣南投市中興路568號1-2樓",
-                "tel": "(049)2246770"
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1966,8 +1966,8 @@
                 "county": "南投縣",
                 "town": "水里鄉",
                 "village": "南光村",
-                "address": "南投縣水里鄉南光村中山路1段286號1-3樓",
-                "tel": "0921-707612"
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1985,8 +1985,8 @@
                 "county": "南投縣",
                 "town": "竹山鎮",
                 "village": "桂林里",
-                "address": "南投縣竹山鎮大同街191號1-2樓、193號1樓",
-                "tel": "(049)2660687"
+                "class": "外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2004,8 +2004,8 @@
                 "county": "南投縣",
                 "town": "竹山鎮",
                 "village": "中山里",
-                "address": "南投縣竹山鎮中山里自強路83之7號2-3樓",
-                "tel": "(049)2635188"
+                "class": "外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2023,8 +2023,8 @@
                 "county": "南投縣",
                 "town": "南投市",
                 "village": "平和里",
-                "address": "南投縣南投市芳美路399-11號1-2樓",
-                "tel": "(049)2246530"
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2042,8 +2042,8 @@
                 "county": "南投縣",
                 "town": "埔里鎮",
                 "village": "西門里",
-                "address": "南投縣埔里鎮西康路109號1-2樓",
-                "tel": "(049)2990887"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2061,8 +2061,8 @@
                 "county": "南投縣",
                 "town": "集集鎮",
                 "village": "玉映里",
-                "address": "南投縣集集鎮佛廟巷18、20號1-2樓",
-                "tel": "(049)2760507"
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2080,8 +2080,8 @@
                 "county": "南投縣",
                 "town": "南投市",
                 "village": "營北里",
-                "address": "南投縣南投市中興新村仁德路77號1-2樓",
-                "tel": "(049)2350178"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2099,8 +2099,8 @@
                 "county": "南投縣",
                 "town": "名間鄉",
                 "village": "中正村",
-                "address": "南投縣名間鄉南雅街131巷17號1-4樓",
-                "tel": "(049)2736006"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2118,8 +2118,8 @@
                 "county": "南投縣",
                 "town": "竹山鎮",
                 "village": "桂林里",
-                "address": "南投縣竹山鎮中正巷27-143號2-3樓",
-                "tel": "0492651061"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2137,8 +2137,8 @@
                 "county": "南投縣",
                 "town": "南投市",
                 "village": "嘉和里",
-                "address": "南投縣南投市大庄路107號1-3樓",
-                "tel": "(049)2241819"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2156,8 +2156,8 @@
                 "county": "南投縣",
                 "town": "草屯鎮",
                 "village": "山腳里",
-                "address": "南投縣草屯鎮新生路410號1-3樓",
-                "tel": "(049)2317373"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2175,8 +2175,8 @@
                 "county": "南投縣",
                 "town": "埔里鎮",
                 "village": "枇杷里",
-                "address": "南投縣埔里鎮樹人二街83號1-3樓",
-                "tel": "(049)2906628"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2194,8 +2194,8 @@
                 "county": "南投縣",
                 "town": "水里鄉",
                 "village": "城中村",
-                "address": "南投縣水里鄉城中村城福街57號1-2樓",
-                "tel": "(049)2778918"
+                "class": "外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2213,8 +2213,8 @@
                 "county": "南投縣",
                 "town": "水里鄉",
                 "village": "南光村",
-                "address": "南投縣水里鄉民族路123號1-2樓",
-                "tel": "(049)2772652"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2232,8 +2232,8 @@
                 "county": "南投縣",
                 "town": "草屯鎮",
                 "village": "山腳里",
-                "address": "南投縣草屯鎮新生路107號",
-                "tel": "(049)2330577"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2251,8 +2251,8 @@
                 "county": "南投縣",
                 "town": "草屯鎮",
                 "village": "和平里",
-                "address": "南投縣草屯鎮中山街114號1-3樓",
-                "tel": "(049)2304506"
+                "class": "文理類,資訊類,",
+                "students": "成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
@@ -2270,8 +2270,8 @@
                 "county": "南投縣",
                 "town": "南投市",
                 "village": "龍泉里",
-                "address": "南投縣南投市南陽路177號1-2樓",
-                "tel": "(049)2209097"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2289,8 +2289,8 @@
                 "county": "南投縣",
                 "town": "埔里鎮",
                 "village": "北安里",
-                "address": "南投縣埔里鎮明德路84號1-2樓",
-                "tel": "(049)2423241"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2308,8 +2308,8 @@
                 "county": "南投縣",
                 "town": "埔里鎮",
                 "village": "大城里",
-                "address": "南投縣埔里鎮大城路19巷3、5號1樓",
-                "tel": "(049)2916433"
+                "class": "文理類,商類：珠算、心算、會計,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2327,8 +2327,8 @@
                 "county": "南投縣",
                 "town": "南投市",
                 "village": "內興里",
-                "address": "南投縣南投市光明南路70號1-2樓",
-                "tel": "(049)2339896"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2346,8 +2346,8 @@
                 "county": "南投縣",
                 "town": "埔里鎮",
                 "village": "北安里",
-                "address": "南投縣埔里鎮北安里中華路216號2樓",
-                "tel": "(049)2422922"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2365,8 +2365,8 @@
                 "county": "南投縣",
                 "town": "南投市",
                 "village": "平山里",
-                "address": "南投縣南投市彰南路2段596巷15號1-3樓",
-                "tel": "(049)2255820"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2384,8 +2384,8 @@
                 "county": "南投縣",
                 "town": "埔里鎮",
                 "village": "西門里",
-                "address": "南投縣埔里鎮西康路107號1-2樓",
-                "tel": "(049)2998239"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2403,8 +2403,8 @@
                 "county": "南投縣",
                 "town": "埔里鎮",
                 "village": "薰化里",
-                "address": "南投縣埔里鎮中山路三段48號1-2樓",
-                "tel": "(049)2904512"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2422,8 +2422,8 @@
                 "county": "南投縣",
                 "town": "南投市",
                 "village": "嘉和里",
-                "address": "南投縣南投市文化南路81巷22號1-2樓",
-                "tel": "(049)2200909"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2441,8 +2441,8 @@
                 "county": "南投縣",
                 "town": "竹山鎮",
                 "village": "中山里",
-                "address": "南投縣竹山鎮中山里新和街49號1-3樓",
-                "tel": "(049)2642576"
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2460,8 +2460,8 @@
                 "county": "南投縣",
                 "town": "竹山鎮",
                 "village": "延和里",
-                "address": "南投縣竹山鎮大義街116號1-2樓",
-                "tel": "(049)2653109   0935-978584"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2479,8 +2479,8 @@
                 "county": "南投縣",
                 "town": "草屯鎮",
                 "village": "炎峰里",
-                "address": "南投縣草屯鎮大成街104號1-2樓",
-                "tel": "(049)2318882"
+                "class": "文理類,",
+                "students": "高中,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2498,8 +2498,8 @@
                 "county": "南投縣",
                 "town": "草屯鎮",
                 "village": "敦和里",
-                "address": "南投縣草屯鎮信義街203號1-3樓",
-                "tel": "(049)2338282"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2517,8 +2517,8 @@
                 "county": "南投縣",
                 "town": "草屯鎮",
                 "village": "明正里",
-                "address": "南投縣草屯鎮中正路704號2-4樓",
-                "tel": "(049)2311866"
+                "class": "法政類,商類：珠算、心算、會計,",
+                "students": "成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
@@ -2536,8 +2536,8 @@
                 "county": "南投縣",
                 "town": "南投市",
                 "village": "三興里",
-                "address": "南投縣南投市建國路46號1-2樓",
-                "tel": "(049)2206520"
+                "class": "文理類,",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2555,8 +2555,8 @@
                 "county": "南投縣",
                 "town": "名間鄉",
                 "village": "濁水村",
-                "address": "南投縣名間鄉彰南路1之6號2樓",
-                "tel": "(049)2738068"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2574,8 +2574,8 @@
                 "county": "南投縣",
                 "town": "水里鄉",
                 "village": "北埔村",
-                "address": "南投縣水里鄉民族路277號3樓",
-                "tel": "(049)2778966"
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2593,8 +2593,8 @@
                 "county": "南投縣",
                 "town": "南投市",
                 "village": "漳和里",
-                "address": "南投縣南投市復興路756號1-2樓",
-                "tel": "(049)2235531"
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2612,8 +2612,8 @@
                 "county": "南投縣",
                 "town": "南投市",
                 "village": "康壽里",
-                "address": "南投縣南投市玉井街121號1-2樓",
-                "tel": "(049)2233537"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2631,8 +2631,8 @@
                 "county": "南投縣",
                 "town": "南投市",
                 "village": "漳興里",
-                "address": "南投縣南投市祖祠路17號1-3樓",
-                "tel": "(049)2208308"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2650,8 +2650,8 @@
                 "county": "南投縣",
                 "town": "竹山鎮",
                 "village": "硘磘里",
-                "address": "南投縣竹山鎮鯉南路74之21號2-3樓",
-                "tel": "(049)2661147"
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2669,8 +2669,8 @@
                 "county": "南投縣",
                 "town": "竹山鎮",
                 "village": "延和里",
-                "address": "南投縣竹山鎮下坪路2號1-3樓",
-                "tel": "(049)2635545"
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2688,8 +2688,8 @@
                 "county": "南投縣",
                 "town": "竹山鎮",
                 "village": "延和里",
-                "address": "南投縣竹山鎮大和街116號1-3樓",
-                "tel": "(049)2647420"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2707,8 +2707,8 @@
                 "county": "南投縣",
                 "town": "竹山鎮",
                 "village": "延和里",
-                "address": "南投縣竹山鎮集山路3段710號2-3樓",
-                "tel": "(049)2642477 0921642477"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2726,8 +2726,8 @@
                 "county": "南投縣",
                 "town": "草屯鎮",
                 "village": "明正里",
-                "address": "南投縣草屯鎮中正路730號1-4樓",
-                "tel": "(049)2365556"
+                "class": "外語類,",
+                "students": "國中、高中、社會人士"
             },
             "geometry": {
                 "type": "Point",
@@ -2745,8 +2745,8 @@
                 "county": "南投縣",
                 "town": "埔里鎮",
                 "village": "杷城里",
-                "address": "南投縣埔里鎮南興街2之9號1-3樓",
-                "tel": "(049)2995489"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2764,8 +2764,8 @@
                 "county": "南投縣",
                 "town": "集集鎮",
                 "village": "集集里",
-                "address": "南投縣集集鎮民生路137號1樓",
-                "tel": "(049)2762055"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2783,8 +2783,8 @@
                 "county": "南投縣",
                 "town": "南投市",
                 "village": "三和里",
-                "address": "南投縣南投市彰南路1段1020號1-3樓",
-                "tel": "(049)2206877"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2802,8 +2802,8 @@
                 "county": "南投縣",
                 "town": "竹山鎮",
                 "village": "竹山里",
-                "address": "南投縣竹山鎮祖師街87號1-3樓",
-                "tel": "(049)2657748"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2821,8 +2821,8 @@
                 "county": "南投縣",
                 "town": "埔里鎮",
                 "village": "北門里",
-                "address": "南投縣埔里鎮民權路103號1-3樓",
-                "tel": "(049)2422379"
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2840,8 +2840,8 @@
                 "county": "南投縣",
                 "town": "埔里鎮",
                 "village": "北門里",
-                "address": "南投縣埔里鎮民權路105號1-3樓",
-                "tel": "(049)2997047"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2859,8 +2859,8 @@
                 "county": "南投縣",
                 "town": "草屯鎮",
                 "village": "炎峰里",
-                "address": "南投縣草屯鎮大成街66號1-2樓",
-                "tel": "(049)2311798"
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2878,8 +2878,8 @@
                 "county": "南投縣",
                 "town": "草屯鎮",
                 "village": "富寮里",
-                "address": "南投縣草屯鎮富頂路一段166號2-3樓、158號1-3樓",
-                "tel": "(049)2562677"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2897,8 +2897,8 @@
                 "county": "南投縣",
                 "town": "南投市",
                 "village": "崇文里",
-                "address": "南投縣南投市崇文里5鄰彰南路1段1082號1-3樓",
-                "tel": "(049)2235266"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2916,8 +2916,8 @@
                 "county": "南投縣",
                 "town": "竹山鎮",
                 "village": "中山里",
-                "address": "南投縣竹山鎮自強路3號1-3樓",
-                "tel": "(049)2631605"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2935,8 +2935,8 @@
                 "county": "南投縣",
                 "town": "南投市",
                 "village": "營北里",
-                "address": "南投縣南投市向上路41號1-3樓",
-                "tel": "(049) 2316548"
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2954,8 +2954,8 @@
                 "county": "南投縣",
                 "town": "南投市",
                 "village": "康壽里",
-                "address": "南投縣南投市玉井街66-1號2-3樓",
-                "tel": "(049)2204218-9"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2973,8 +2973,8 @@
                 "county": "南投縣",
                 "town": "埔里鎮",
                 "village": "北梅里",
-                "address": "南投縣埔里鎮梅子路25之13號1-3樓",
-                "tel": "(049)2902966"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2992,8 +2992,8 @@
                 "county": "南投縣",
                 "town": "南投市",
                 "village": "內興里",
-                "address": "南投縣南投市光明南路85號1-3樓",
-                "tel": "(049)2335910"
+                "class": "文理類,",
+                "students": "國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -3011,8 +3011,8 @@
                 "county": "南投縣",
                 "town": "埔里鎮",
                 "village": "杷城里",
-                "address": "南投縣埔里鎮南興街9號1-2樓",
-                "tel": "(049)2981268"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3030,8 +3030,8 @@
                 "county": "南投縣",
                 "town": "草屯鎮",
                 "village": "炎峰里",
-                "address": "南投縣草屯鎮碧山路12號1-2樓",
-                "tel": "(049)2330649"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3049,8 +3049,8 @@
                 "county": "南投縣",
                 "town": "埔里鎮",
                 "village": "北安里",
-                "address": "南投縣埔里鎮北安里同春二街12號1-2樓",
-                "tel": "(049)2996028"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3068,8 +3068,8 @@
                 "county": "南投縣",
                 "town": "草屯鎮",
                 "village": "敦和里",
-                "address": "南投縣草屯鎮碧山路318號1-2樓",
-                "tel": "(049)2381138"
+                "class": "文理類,商類：珠算、心算、會計,",
+                "students": "未填寫"
             },
             "geometry": {
                 "type": "Point",
@@ -3087,8 +3087,8 @@
                 "county": "南投縣",
                 "town": "埔里鎮",
                 "village": "西門里",
-                "address": "南投縣埔里鎮北平街135號1-4樓",
-                "tel": "(049)2988880"
+                "class": "外語類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3106,8 +3106,8 @@
                 "county": "南投縣",
                 "town": "埔里鎮",
                 "village": "東門里",
-                "address": "南投縣埔里鎮北平街2號1-2樓",
-                "tel": "(049)2982677"
+                "class": "外語類,",
+                "students": "其他"
             },
             "geometry": {
                 "type": "Point",
@@ -3125,8 +3125,8 @@
                 "county": "南投縣",
                 "town": "南投市",
                 "village": "三和里",
-                "address": "南投縣南投市公園南街19號2樓",
-                "tel": "(049)2245409"
+                "class": "文理類,",
+                "students": "高中"
             },
             "geometry": {
                 "type": "Point",
@@ -3144,8 +3144,8 @@
                 "county": "南投縣",
                 "town": "南投市",
                 "village": "三民里",
-                "address": "南投縣南投市民生街67-1號1-2樓",
-                "tel": "(049)2202549"
+                "class": "音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3163,8 +3163,8 @@
                 "county": "南投縣",
                 "town": "南投市",
                 "village": "龍泉里",
-                "address": "南投縣南投市南陽路153號1-3樓",
-                "tel": "(049)2208160"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3182,8 +3182,8 @@
                 "county": "南投縣",
                 "town": "埔里鎮",
                 "village": "北門里",
-                "address": "南投縣埔里鎮北環路178號1-2樓",
-                "tel": "(049)2422540"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3201,8 +3201,8 @@
                 "county": "南投縣",
                 "town": "竹山鎮",
                 "village": "竹山里",
-                "address": "南投縣竹山鎮竹山里雲林路2之20之1號1-2樓",
-                "tel": "(049)2660188"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3220,8 +3220,8 @@
                 "county": "南投縣",
                 "town": "竹山鎮",
                 "village": "硘磘里",
-                "address": "南投縣竹山鎮建國路624號2樓",
-                "tel": "(049)2654722"
+                "class": "音樂、舞蹈類,",
+                "students": "成人(18歲以上),國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3239,8 +3239,8 @@
                 "county": "南投縣",
                 "town": "埔里鎮",
                 "village": "泰安里",
-                "address": "南投縣埔里鎮泰安里民族3街84號1樓",
-                "tel": "(049)2995097"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3258,8 +3258,8 @@
                 "county": "南投縣",
                 "town": "南投市",
                 "village": "平和里",
-                "address": "南投縣南投市芳美路399之6號1樓",
-                "tel": "(049)2242979"
+                "class": "商類：珠算、心算、會計,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3277,8 +3277,8 @@
                 "county": "南投縣",
                 "town": "名間鄉",
                 "village": "中山村",
-                "address": "南投縣名間鄉中山村頂部巷1-23號1-3樓、1-26號1樓",
-                "tel": "(049)2738728-9"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3296,8 +3296,8 @@
                 "county": "南投縣",
                 "town": "南投市",
                 "village": "漳和里",
-                "address": "南投縣南投市彰南路二段422巷79-6號1-3樓、79-7號1-3樓",
-                "tel": "(049)2230153"
+                "class": "外語類,",
+                "students": "國中,成人(18歲以上),國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3315,8 +3315,8 @@
                 "county": "南投縣",
                 "town": "南投市",
                 "village": "平和里",
-                "address": "南投縣南投市芳美路421號1-3樓",
-                "tel": "(049)2228185"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3334,8 +3334,8 @@
                 "county": "南投縣",
                 "town": "南投市",
                 "village": "平和里",
-                "address": "南投縣南投市民族路21號1-3樓",
-                "tel": "(049)2248007"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3353,8 +3353,8 @@
                 "county": "南投縣",
                 "town": "魚池鄉",
                 "village": "魚池村",
-                "address": "南投縣魚池鄉魚池街362巷11號2-3樓",
-                "tel": "(049)2896611"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3372,8 +3372,8 @@
                 "county": "南投縣",
                 "town": "草屯鎮",
                 "village": "炎峰里",
-                "address": "南投縣草屯鎮炎峰里大成街42號1樓",
-                "tel": "(049)2303272"
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3391,8 +3391,8 @@
                 "county": "南投縣",
                 "town": "名間鄉",
                 "village": "中正村",
-                "address": "南投縣名間鄉中正村南雅街131巷21號2-4樓",
-                "tel": "(049)2731931"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3410,8 +3410,8 @@
                 "county": "南投縣",
                 "town": "埔里鎮",
                 "village": "枇杷里",
-                "address": "南投縣埔里鎮枇杷里青田街12、16號1-4樓",
-                "tel": "(049)2987276.2999227"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3429,8 +3429,8 @@
                 "county": "南投縣",
                 "town": "南投市",
                 "village": "營北里",
-                "address": "南投縣南投市中興新村仁義南路65號1-3樓",
-                "tel": "(049)2352787"
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3448,8 +3448,8 @@
                 "county": "南投縣",
                 "town": "草屯鎮",
                 "village": "玉峰里",
-                "address": "南投縣草屯鎮炎峰街127號1-2樓",
-                "tel": "(049)2367060"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3467,8 +3467,8 @@
                 "county": "南投縣",
                 "town": "埔里鎮",
                 "village": "西門里",
-                "address": "南投縣埔里鎮北辰街133號1樓",
-                "tel": "(049)2424939"
+                "class": "文理類,",
+                "students": "國中,國小,幼童"
             },
             "geometry": {
                 "type": "Point",
@@ -3486,8 +3486,8 @@
                 "county": "南投縣",
                 "town": "竹山鎮",
                 "village": "延和里",
-                "address": "南投縣竹山鎮過坑巷18之1號1樓",
-                "tel": "(049)2643135"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3505,8 +3505,8 @@
                 "county": "南投縣",
                 "town": "草屯鎮",
                 "village": "炎峰里",
-                "address": "南投縣草屯鎮炎峰里大成街46號1-2樓",
-                "tel": "(049)2304070"
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3524,8 +3524,8 @@
                 "county": "南投縣",
                 "town": "草屯鎮",
                 "village": "新厝里",
-                "address": "南投縣草屯鎮虎山路738號1-2樓",
-                "tel": "(049)2320945"
+                "class": "外語類,",
+                "students": "國小、國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3543,8 +3543,8 @@
                 "county": "南投縣",
                 "town": "南投市",
                 "village": "三和里",
-                "address": "南投縣南投市彰南路1段858號2-4樓",
-                "tel": "(049)2226263"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3562,8 +3562,8 @@
                 "county": "南投縣",
                 "town": "埔里鎮",
                 "village": "北安里",
-                "address": "南投縣埔里鎮北安里明德路19號1樓",
-                "tel": "(049)2991099"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3581,8 +3581,8 @@
                 "county": "南投縣",
                 "town": "南投市",
                 "village": "漳和里",
-                "address": "南投縣南投市南崗二路319號1樓",
-                "tel": "(049)2239349"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3600,8 +3600,8 @@
                 "county": "南投縣",
                 "town": "南投市",
                 "village": "崇文里",
-                "address": "南投縣南投市文昌街99號1樓",
-                "tel": "(049)2236400"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3619,8 +3619,8 @@
                 "county": "南投縣",
                 "town": "埔里鎮",
                 "village": "北安里",
-                "address": "南投縣埔里鎮北安里明德路23號1樓",
-                "tel": "(049)2997396"
+                "class": "文理類,",
+                "students": "國小、國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3638,8 +3638,8 @@
                 "county": "南投縣",
                 "town": "草屯鎮",
                 "village": "炎峰里",
-                "address": "南投縣草屯鎮炎峰里明賢街1段62-1號1樓",
-                "tel": "(049)2365622"
+                "class": "外語類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3657,8 +3657,8 @@
                 "county": "南投縣",
                 "town": "南投市",
                 "village": "漳和里",
-                "address": "南投縣南投市漳和里南崗二路377巷6號1樓",
-                "tel": "(049)2205491"
+                "class": "外語類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3676,8 +3676,8 @@
                 "county": "南投縣",
                 "town": "南投市",
                 "village": "三興里",
-                "address": "南投縣南投市三興里南崗一路55巷36號1樓",
-                "tel": "0937241673"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3695,8 +3695,8 @@
                 "county": "南投縣",
                 "town": "草屯鎮",
                 "village": "炎峰里",
-                "address": "南投縣草屯鎮炎峰里炎峰街2-4號1-3樓",
-                "tel": "049-2326196"
+                "class": "外語類,",
+                "students": "成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
@@ -3714,8 +3714,8 @@
                 "county": "南投縣",
                 "town": "集集鎮",
                 "village": "和平里",
-                "address": "南投縣集集鎮和平里民生路360號1-2樓",
-                "tel": "(049)2760001"
+                "class": "外語類,",
+                "students": "國小、國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3733,8 +3733,8 @@
                 "county": "南投縣",
                 "town": "魚池鄉",
                 "village": "魚池村",
-                "address": "南投縣魚池鄉魚池街334巷4號1-3樓",
-                "tel": "(049)2897606"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3752,8 +3752,8 @@
                 "county": "南投縣",
                 "town": "草屯鎮",
                 "village": "新厝里",
-                "address": "南投縣草屯鎮大成街39號2-4樓",
-                "tel": "(049)2380699 0935318321"
+                "class": "文理類,電機、汽車修護、建築、工藝、製圖類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3771,8 +3771,8 @@
                 "county": "南投縣",
                 "town": "草屯鎮",
                 "village": "炎峰里",
-                "address": "南投縣草屯鎮炎峰街2-5號1-3樓",
-                "tel": "0987733269"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3790,8 +3790,8 @@
                 "county": "南投縣",
                 "town": "草屯鎮",
                 "village": "新厝里",
-                "address": "南投縣草屯鎮大成街51號2樓",
-                "tel": "(049)2338212"
+                "class": "音樂、舞蹈類,",
+                "students": "國小、國中、成人（18歲以上）"
             },
             "geometry": {
                 "type": "Point",
@@ -3809,8 +3809,8 @@
                 "county": "南投縣",
                 "town": "草屯鎮",
                 "village": "和平里",
-                "address": "南投縣草屯鎮和平里和平街33號1-2樓",
-                "tel": "(049)2333446"
+                "class": "文理類,",
+                "students": "國小,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -3828,8 +3828,8 @@
                 "county": "南投縣",
                 "town": "南投市",
                 "village": "漳和里",
-                "address": "南投縣南投市文化路370巷5號1-2樓",
-                "tel": "(049)2223188"
+                "class": "外語類,",
+                "students": "其他"
             },
             "geometry": {
                 "type": "Point",
@@ -3847,8 +3847,8 @@
                 "county": "南投縣",
                 "town": "草屯鎮",
                 "village": "山腳里",
-                "address": "南投縣草屯鎮虎山路353巷4號1-2樓",
-                "tel": "(049)2351953"
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3866,8 +3866,8 @@
                 "county": "南投縣",
                 "town": "南投市",
                 "village": "營北里",
-                "address": "南投縣南投市營北里光興街67號1樓",
-                "tel": "049-2325354"
+                "class": "外語類,商類：珠算、心算、會計,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3885,8 +3885,8 @@
                 "county": "南投縣",
                 "town": "埔里鎮",
                 "village": "西門里",
-                "address": "南投縣埔里鎮西門里北平街137號1-3樓",
-                "tel": "(049)2988880"
+                "class": "文理類,",
+                "students": "其他"
             },
             "geometry": {
                 "type": "Point",
@@ -3904,8 +3904,8 @@
                 "county": "南投縣",
                 "town": "南投市",
                 "village": "平和里",
-                "address": "南投縣南投市平和里芳美路427號1-3樓",
-                "tel": "(049)2200581"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3923,8 +3923,8 @@
                 "county": "南投縣",
                 "town": "草屯鎮",
                 "village": "玉峰里",
-                "address": "南投縣草屯鎮玉峰里平等街116號1樓",
-                "tel": "(049)2357993"
+                "class": "商類：珠算、心算、會計,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3942,8 +3942,8 @@
                 "county": "南投縣",
                 "town": "竹山鎮",
                 "village": "延和里",
-                "address": "南投縣竹山鎮集山路3段569號1-3樓",
-                "tel": "(049)2655332"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3961,8 +3961,8 @@
                 "county": "南投縣",
                 "town": "埔里鎮",
                 "village": "北門里",
-                "address": "南投縣埔里鎮北環路210號1樓",
-                "tel": "(049)2900965"
+                "class": "外語類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3980,8 +3980,8 @@
                 "county": "南投縣",
                 "town": "埔里鎮",
                 "village": "北梅里",
-                "address": "南投縣埔里鎮北梅里漢陽一街2號1-3樓",
-                "tel": "(049)2996231 2991581"
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3999,8 +3999,8 @@
                 "county": "南投縣",
                 "town": "南投市",
                 "village": "龍泉里",
-                "address": "南投縣南投市大同街34巷5號1樓",
-                "tel": "(049)2237630"
+                "class": "音樂、舞蹈類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -4018,8 +4018,8 @@
                 "county": "南投縣",
                 "town": "南投市",
                 "village": "三和里",
-                "address": "南投縣南投市大同南街31號1-2樓",
-                "tel": "(049)2223441"
+                "class": "文理類,",
+                "students": "幼兒至成人"
             },
             "geometry": {
                 "type": "Point",
@@ -4037,8 +4037,8 @@
                 "county": "南投縣",
                 "town": "埔里鎮",
                 "village": "清新里",
-                "address": "南投縣埔里鎮民生路77號1樓",
-                "tel": "(049)2990082"
+                "class": "外語類,",
+                "students": "國小、國中"
             },
             "geometry": {
                 "type": "Point",
@@ -4056,8 +4056,8 @@
                 "county": "南投縣",
                 "town": "草屯鎮",
                 "village": "玉峰里",
-                "address": "南投縣草屯鎮玉峰街56號1樓",
-                "tel": "(049)2328496"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -4075,8 +4075,8 @@
                 "county": "南投縣",
                 "town": "南投市",
                 "village": "三和里",
-                "address": "南投縣南投市三和二路95號",
-                "tel": "(049)2239376 2233719"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -4094,8 +4094,8 @@
                 "county": "南投縣",
                 "town": "草屯鎮",
                 "village": "新厝里",
-                "address": "南投縣草屯鎮太平路2段82號1-2樓、84號1樓、106巷2弄20號1樓",
-                "tel": "(049)2355686"
+                "class": "外語類,",
+                "students": "國小、國中"
             },
             "geometry": {
                 "type": "Point",
@@ -4113,8 +4113,8 @@
                 "county": "南投縣",
                 "town": "南投市",
                 "village": "三和里",
-                "address": "南投縣南投市彰南路1段956號1-2樓",
-                "tel": "(049)2205618"
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -4132,8 +4132,8 @@
                 "county": "南投縣",
                 "town": "南投市",
                 "village": "福興里",
-                "address": "南投縣南投市彰南路3段402、404號1樓",
-                "tel": "0492250435"
+                "class": "商類：珠算、心算、會計,",
+                "students": "國小、國中"
             },
             "geometry": {
                 "type": "Point",
@@ -4151,8 +4151,8 @@
                 "county": "南投縣",
                 "town": "南投市",
                 "village": "三和里",
-                "address": "南投縣南投市復興路101號4樓",
-                "tel": "049-2225366"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -4170,8 +4170,8 @@
                 "county": "南投縣",
                 "town": "埔里鎮",
                 "village": "北門里",
-                "address": "南投縣埔里鎮自強路90號",
-                "tel": "(049)2992509"
+                "class": "音樂、舞蹈類,",
+                "students": "國中、成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
@@ -4189,8 +4189,8 @@
                 "county": "南投縣",
                 "town": "埔里鎮",
                 "village": "西門里",
-                "address": "南投縣埔里鎮西安路一段144號1-2樓",
-                "tel": "(049)2989835"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -4208,8 +4208,8 @@
                 "county": "南投縣",
                 "town": "南投市",
                 "village": "三興里",
-                "address": "南投縣南投市三興里南崗一路135巷3號1-3樓",
-                "tel": "(049)2222657"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -4227,8 +4227,8 @@
                 "county": "南投縣",
                 "town": "草屯鎮",
                 "village": "炎峰里",
-                "address": "南投縣草屯鎮炎峰里育英街67號1-3樓",
-                "tel": "(049)2310162"
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -4246,8 +4246,8 @@
                 "county": "南投縣",
                 "town": "埔里鎮",
                 "village": "北安里",
-                "address": "南投縣埔里鎮北安里中山路2段159號2樓",
-                "tel": "(049)2982683"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",

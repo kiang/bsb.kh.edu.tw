@@ -20,6 +20,7 @@ $tr = [
 ];
 foreach (glob($basePath . '/data/raw/*.csv') as $csvFile) {
     $p = pathinfo($csvFile);
+    $detailPath = $basePath . '/data/raw/' . $p['filename'];
     $fh = fopen($csvFile, 'r');
     $head = fgetcsv($fh, 2048);
     while ($line = fgetcsv($fh, 2048)) {
@@ -74,6 +75,14 @@ foreach (glob($basePath . '/data/raw/*.csv') as $csvFile) {
             if(!isset($cityFc[$json['AddressList'][0]['COUNTY']])) {
                 $cityFc[$json['AddressList'][0]['COUNTY']] = $fc;
             }
+            $targets = [];
+            $detailFile = $detailPath . '/' . $data['代號'] . '.json';
+            if(file_exists($detailFile)) {
+                $detail = json_decode(file_get_contents($detailFile), true);
+                foreach($detail['核准科目'] AS $item) {
+                    $targets[$item['招生對象']] = true;
+                }
+            }
             $cityFc[$json['AddressList'][0]['COUNTY']]['features'][] = [
                 'type' => 'Feature',
                 'properties' => [
@@ -82,8 +91,8 @@ foreach (glob($basePath . '/data/raw/*.csv') as $csvFile) {
                     'county' => $json['AddressList'][0]['COUNTY'],
                     'town' => $json['AddressList'][0]['TOWN'],
                     'village' => $json['AddressList'][0]['VILLAGE'],
-                    'address' => $data['班址'],
-                    'tel' => $data['電話'],
+                    'class' => isset($detail['補習班類別/科目']) ? $detail['補習班類別/科目'] : '',
+                    'students' => implode(',', array_keys($targets)),
                 ],
                 'geometry' => [
                     'type' => 'Point',

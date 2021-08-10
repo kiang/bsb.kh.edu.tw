@@ -9,8 +9,8 @@
                 "county": "嘉義市",
                 "town": "東區",
                 "village": "興安里",
-                "address": "嘉義市東區興美二路208號(1-2樓)",
-                "tel": "(05)"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -28,8 +28,8 @@
                 "county": "嘉義市",
                 "town": "西區",
                 "village": "西榮里",
-                "address": "嘉義市中山路469號(2樓)",
-                "tel": "(05)2239595"
+                "class": "文理類,法政類,其他類,",
+                "students": "公職人員考試"
             },
             "geometry": {
                 "type": "Point",
@@ -47,8 +47,8 @@
                 "county": "嘉義市",
                 "town": "西區",
                 "village": "福全里",
-                "address": "嘉義市友愛路196號(1-2樓)",
-                "tel": "(05)2345912\/2330116"
+                "class": "文理類,外語類,",
+                "students": "國小,國中,學齡前"
             },
             "geometry": {
                 "type": "Point",
@@ -66,8 +66,8 @@
                 "county": "嘉義市",
                 "town": "西區",
                 "village": "新厝里",
-                "address": "嘉義市松江一街3號(1-2樓)",
-                "tel": "(05)2335625"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -85,8 +85,8 @@
                 "county": "嘉義市",
                 "town": "東區",
                 "village": "王田里",
-                "address": "嘉義市民權路22號(1樓)",
-                "tel": "(05) 2786295\/ 0989597887"
+                "class": "文理類,外語類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -104,8 +104,8 @@
                 "county": "嘉義市",
                 "town": "西區",
                 "village": "文化里",
-                "address": "嘉義市垂楊路400號6樓1",
-                "tel": "(05)2251850"
+                "class": "文理類,",
+                "students": "國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -123,8 +123,8 @@
                 "county": "嘉義市",
                 "town": "西區",
                 "village": "自強里",
-                "address": "嘉義市仁愛路1號(2樓)",
-                "tel": "(05)2353330"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -142,8 +142,8 @@
                 "county": "嘉義市",
                 "town": "西區",
                 "village": "新厝里",
-                "address": "嘉義市西區保安二路93號(1、2樓)",
-                "tel": "(05)2332533"
+                "class": "文理類,電機、汽車修護、建築、工藝、製圖類,",
+                "students": "學齡前,國小,國小高年級及國中"
             },
             "geometry": {
                 "type": "Point",
@@ -161,8 +161,8 @@
                 "county": "嘉義市",
                 "town": "東區",
                 "village": "林森里",
-                "address": "嘉義市東區忠孝路346巷58號1-2樓",
-                "tel": "0905813306"
+                "class": "文理類,",
+                "students": "國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -180,8 +180,8 @@
                 "county": "嘉義市",
                 "town": "東區",
                 "village": "過溝里",
-                "address": "嘉義市東區康樂街10號(1-2樓)",
-                "tel": "(05)2230303"
+                "class": "文理類,",
+                "students": "國中,高中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -199,8 +199,8 @@
                 "county": "嘉義市",
                 "town": "東區",
                 "village": "興安里",
-                "address": "嘉義市東區興安里環興街95號(1-2樓)",
-                "tel": "0935515756"
+                "class": "文理類,外語類,",
+                "students": "國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -218,8 +218,8 @@
                 "county": "嘉義市",
                 "town": "西區",
                 "village": "磚磘里",
-                "address": "嘉義市玉山路210號(1-2樓)",
-                "tel": "05-2363699"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -237,8 +237,8 @@
                 "county": "嘉義市",
                 "town": "西區",
                 "village": "車店里",
-                "address": "嘉義市南京路439號(1-2樓)",
-                "tel": "05-2830707"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -256,8 +256,8 @@
                 "county": "嘉義市",
                 "town": "東區",
                 "village": "安寮里",
-                "address": "嘉義市東區芳安路402號",
-                "tel": "05-2253908"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -275,8 +275,8 @@
                 "county": "嘉義市",
                 "town": "東區",
                 "village": "仁義里",
-                "address": "嘉義市嘉北街12巷60號(1樓)",
-                "tel": "05-2755298"
+                "class": "外語類,",
+                "students": "國小,國中,學齡前"
             },
             "geometry": {
                 "type": "Point",
@@ -294,8 +294,8 @@
                 "county": "嘉義市",
                 "town": "西區",
                 "village": "車店里",
-                "address": "嘉義市重慶路230號(1-2樓)",
-                "tel": "05-2368257"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -313,8 +313,8 @@
                 "county": "嘉義市",
                 "town": "西區",
                 "village": "翠岱里",
-                "address": "嘉義市新榮路35巷19號1樓",
-                "tel": "(05)2230908"
+                "class": "電機、汽車修護、建築、工藝、製圖類,",
+                "students": "成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
@@ -332,8 +332,8 @@
                 "county": "嘉義市",
                 "town": "西區",
                 "village": "保生里",
-                "address": "嘉義市保安二路31號(1-2樓)",
-                "tel": "05-2313399"
+                "class": "音樂、舞蹈類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -351,8 +351,8 @@
                 "county": "嘉義市",
                 "town": "西區",
                 "village": "福民里",
-                "address": "嘉義市徐州六街18號(1-2樓)",
-                "tel": "05-2851616"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -370,8 +370,8 @@
                 "county": "嘉義市",
                 "town": "西區",
                 "village": "美源里",
-                "address": "嘉義市興業西路139號2F1、2F2",
-                "tel": "05-2862677"
+                "class": "音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -389,8 +389,8 @@
                 "county": "嘉義市",
                 "town": "西區",
                 "village": "書院里",
-                "address": "嘉義市西區民安里9鄰蘭井街358號1樓",
-                "tel": "(05)2230600"
+                "class": "美容、美髮理髮類,",
+                "students": "成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
@@ -408,8 +408,8 @@
                 "county": "嘉義市",
                 "town": "西區",
                 "village": "文化里",
-                "address": "嘉義市西區國華街245號7樓之14",
-                "tel": "05-2292889"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -427,8 +427,8 @@
                 "county": "嘉義市",
                 "town": "東區",
                 "village": "王田里",
-                "address": "嘉義市東區圓福街125號1~3樓",
-                "tel": "05-2787683"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -446,8 +446,8 @@
                 "county": "嘉義市",
                 "town": "西區",
                 "village": "福民里",
-                "address": "嘉義市南京路398號(3-5樓)",
-                "tel": "05-2368766"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -465,8 +465,8 @@
                 "county": "嘉義市",
                 "town": "東區",
                 "village": "仁義里",
-                "address": "嘉義市嘉北街12巷1號(1-2樓)",
-                "tel": "05-2788858"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -484,8 +484,8 @@
                 "county": "嘉義市",
                 "town": "西區",
                 "village": "書院里",
-                "address": "嘉義市西區中山路569號(1-5樓)",
-                "tel": "05-2252628"
+                "class": "外語類,",
+                "students": "國小,國中,高中,成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
@@ -503,8 +503,8 @@
                 "county": "嘉義市",
                 "town": "西區",
                 "village": "番社里",
-                "address": "嘉義市民權路479號3樓",
-                "tel": "05-2236202"
+                "class": "文理類,",
+                "students": "研究所"
             },
             "geometry": {
                 "type": "Point",
@@ -522,8 +522,8 @@
                 "county": "嘉義市",
                 "town": "東區",
                 "village": "東興里",
-                "address": "嘉義市東區公明路174號(2樓)",
-                "tel": "(05)2779675"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -541,8 +541,8 @@
                 "county": "嘉義市",
                 "town": "西區",
                 "village": "湖邊里",
-                "address": "嘉義市西區友愛路1001號(1-4樓)",
-                "tel": "05-2318888"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -560,8 +560,8 @@
                 "county": "嘉義市",
                 "town": "西區",
                 "village": "福安里",
-                "address": "嘉義市泰瑞三街50號(1樓)",
-                "tel": "05-2330958"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -579,8 +579,8 @@
                 "county": "嘉義市",
                 "town": "西區",
                 "village": "港坪里",
-                "address": "嘉義市西區永利二街26號2樓",
-                "tel": "05-2839399"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -598,8 +598,8 @@
                 "county": "嘉義市",
                 "town": "西區",
                 "village": "致遠里",
-                "address": "嘉義市西區永安街339號(1-2樓)",
-                "tel": "0932468386"
+                "class": "音樂、舞蹈類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -617,8 +617,8 @@
                 "county": "嘉義市",
                 "town": "西區",
                 "village": "書院里",
-                "address": "嘉義市西區中山路577號(3至4樓)",
-                "tel": "(05)2278867 \/ 2279967"
+                "class": "外語類,",
+                "students": "成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
@@ -636,8 +636,8 @@
                 "county": "嘉義市",
                 "town": "西區",
                 "village": "劉厝里",
-                "address": "嘉義市西區自強街481號1樓",
-                "tel": "05-2865206"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -655,8 +655,8 @@
                 "county": "嘉義市",
                 "town": "東區",
                 "village": "太平里",
-                "address": "嘉義市東區新生路629號(1-3樓)",
-                "tel": "05-2755949"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -674,8 +674,8 @@
                 "county": "嘉義市",
                 "town": "西區",
                 "village": "書院里",
-                "address": "嘉義市西區中正路709號(1-3樓)",
-                "tel": "05-2258268"
+                "class": "資訊類,",
+                "students": "成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
@@ -693,8 +693,8 @@
                 "county": "嘉義市",
                 "town": "東區",
                 "village": "東興里",
-                "address": "嘉義市東區中山路123號3樓",
-                "tel": "05-2785534\/0919258051"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -712,8 +712,8 @@
                 "county": "嘉義市",
                 "town": "東區",
                 "village": "新開里",
-                "address": "嘉義市東區興業東路316號9樓1",
-                "tel": "05-2280936"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -731,8 +731,8 @@
                 "county": "嘉義市",
                 "town": "西區",
                 "village": "書院里",
-                "address": "嘉義市西區仁愛路371號(1-4樓)",
-                "tel": "05-2238283"
+                "class": "音樂、舞蹈類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -750,8 +750,8 @@
                 "county": "嘉義市",
                 "town": "西區",
                 "village": "保福里",
-                "address": "嘉義市西區國安三街9號(1-4樓)",
-                "tel": "(05)2326608"
+                "class": "音樂、舞蹈類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -769,8 +769,8 @@
                 "county": "嘉義市",
                 "town": "西區",
                 "village": "番社里",
-                "address": "嘉義市西區中山路498號(2-4樓)",
-                "tel": "05-2225577"
+                "class": "外語類,",
+                "students": "成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
@@ -788,8 +788,8 @@
                 "county": "嘉義市",
                 "town": "西區",
                 "village": "保福里",
-                "address": "嘉義市竹圍四路90之2號1樓",
-                "tel": "05-2312401"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -807,8 +807,8 @@
                 "county": "嘉義市",
                 "town": "西區",
                 "village": "導明里",
-                "address": "嘉義市西區成功街12號(1-2樓)",
-                "tel": "(05)2229639"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -826,8 +826,8 @@
                 "county": "嘉義市",
                 "town": "東區",
                 "village": "芳草里",
-                "address": "嘉義市立仁路50號(1-2F)",
-                "tel": "(05)2239063"
+                "class": "音樂、舞蹈類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -845,8 +845,8 @@
                 "county": "嘉義市",
                 "town": "東區",
                 "village": "林森里",
-                "address": "嘉義市東區維新路285號(1-2樓)",
-                "tel": "05-2781781"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -864,8 +864,8 @@
                 "county": "嘉義市",
                 "town": "西區",
                 "village": "保生里",
-                "address": "嘉義市西區北興街408之2號1至4樓",
-                "tel": "(05)2320171\/0952612618"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -883,8 +883,8 @@
                 "county": "嘉義市",
                 "town": "東區",
                 "village": "仁義里",
-                "address": "嘉義市東區台林街60號(1-2樓)",
-                "tel": "05-2762936"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -902,8 +902,8 @@
                 "county": "嘉義市",
                 "town": "西區",
                 "village": "磚磘里",
-                "address": "嘉義市西區大統路205號",
-                "tel": "(05)2841011"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -921,8 +921,8 @@
                 "county": "嘉義市",
                 "town": "東區",
                 "village": "興安里",
-                "address": "嘉義市東區興安街20之1號(1-2樓)",
-                "tel": "05-2238104"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -940,8 +940,8 @@
                 "county": "嘉義市",
                 "town": "東區",
                 "village": "新開里",
-                "address": "嘉義市東區市宅街24之1號1樓",
-                "tel": "(05)2221335"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -959,8 +959,8 @@
                 "county": "嘉義市",
                 "town": "東區",
                 "village": "太平里",
-                "address": "嘉義市東區維新路188號(1-2樓)",
-                "tel": "05-2780211"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -978,8 +978,8 @@
                 "county": "嘉義市",
                 "town": "西區",
                 "village": "翠岱里",
-                "address": "嘉義市興業西路94-2號(1-2樓)",
-                "tel": "05-2230902"
+                "class": "文理類,商類：珠算、心算、會計,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -997,8 +997,8 @@
                 "county": "嘉義市",
                 "town": "西區",
                 "village": "福民里",
-                "address": "嘉義市西區廣州街213號(1至3樓)",
-                "tel": "(05)2843770"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1016,8 +1016,8 @@
                 "county": "嘉義市",
                 "town": "西區",
                 "village": "福民里",
-                "address": "嘉義市西區溫州一街73號2樓",
-                "tel": "05-2836989"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1035,8 +1035,8 @@
                 "county": "嘉義市",
                 "town": "東區",
                 "village": "頂庄里",
-                "address": "嘉義市東區新生路726號(1-3樓)",
-                "tel": "05-2719620"
+                "class": "文理類,商類：珠算、心算、會計,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1054,8 +1054,8 @@
                 "county": "嘉義市",
                 "town": "西區",
                 "village": "文化里",
-                "address": "嘉義市西區國華街245號7樓3",
-                "tel": "05-2279355"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1073,8 +1073,8 @@
                 "county": "嘉義市",
                 "town": "西區",
                 "village": "保安里",
-                "address": "嘉義市西區北安路110號1-2樓",
-                "tel": "05-2310515"
+                "class": "音樂、舞蹈類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1092,8 +1092,8 @@
                 "county": "嘉義市",
                 "town": "西區",
                 "village": "福民里",
-                "address": "嘉義市重慶路74號5樓",
-                "tel": "05-2837678"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1111,8 +1111,8 @@
                 "county": "嘉義市",
                 "town": "東區",
                 "village": "華南里",
-                "address": "嘉義市中正路62號1樓",
-                "tel": "05-2782920"
+                "class": "音樂、舞蹈類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1130,8 +1130,8 @@
                 "county": "嘉義市",
                 "town": "西區",
                 "village": "獅子里",
-                "address": "嘉義市南京路172號(1-2樓)",
-                "tel": "05-2867730"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1149,8 +1149,8 @@
                 "county": "嘉義市",
                 "town": "西區",
                 "village": "國華里",
-                "address": "嘉義市長榮街294號1樓",
-                "tel": "05-2222178      0932-710175"
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1168,8 +1168,8 @@
                 "county": "嘉義市",
                 "town": "東區",
                 "village": "新開里",
-                "address": "嘉義市垂楊路45號6樓",
-                "tel": "05-2242420"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1187,8 +1187,8 @@
                 "county": "嘉義市",
                 "town": "西區",
                 "village": "磚?里",
-                "address": "嘉義市玉康路198號1樓",
-                "tel": "05-2359135"
+                "class": "瑜珈類,",
+                "students": "成人(18歲以上),學齡前"
             },
             "geometry": {
                 "type": "Point",
@@ -1206,8 +1206,8 @@
                 "county": "嘉義市",
                 "town": "西區",
                 "village": "西榮里",
-                "address": "嘉義市民生北路151號5樓",
-                "tel": "05-2273256\/(05-2275686)"
+                "class": "音樂、舞蹈類,",
+                "students": "成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
@@ -1225,8 +1225,8 @@
                 "county": "嘉義市",
                 "town": "東區",
                 "village": "興仁里",
-                "address": "嘉義市吳鳳南路573之2號(1-2樓)",
-                "tel": "05-2309911"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1244,8 +1244,8 @@
                 "county": "嘉義市",
                 "town": "西區",
                 "village": "福全里",
-                "address": "嘉義市德明路55號(1-3樓)",
-                "tel": "05-2325252"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1263,8 +1263,8 @@
                 "county": "嘉義市",
                 "town": "東區",
                 "village": "華南里",
-                "address": "嘉義市東區安和街67號(1-2樓)",
-                "tel": "(05)2761868"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1282,8 +1282,8 @@
                 "county": "嘉義市",
                 "town": "東區",
                 "village": "華南里",
-                "address": "嘉義市中正路101號1樓",
-                "tel": "05-2750089"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1301,8 +1301,8 @@
                 "county": "嘉義市",
                 "town": "西區",
                 "village": "港坪里",
-                "address": "嘉義市西區金山路271號(1-2樓)",
-                "tel": "05-2865997"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1320,8 +1320,8 @@
                 "county": "嘉義市",
                 "town": "東區",
                 "village": "仁義里",
-                "address": "嘉義市台林街98之1號(1-2樓)",
-                "tel": "05-2780998"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1339,8 +1339,8 @@
                 "county": "嘉義市",
                 "town": "東區",
                 "village": "宣信里",
-                "address": "嘉義市和平路41之1號(1-2樓)",
-                "tel": "(05)2279191"
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1358,8 +1358,8 @@
                 "county": "嘉義市",
                 "town": "東區",
                 "village": "東興里",
-                "address": "嘉義市新生路283號2樓2",
-                "tel": "05-2778538"
+                "class": "文理類,",
+                "students": "國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -1377,8 +1377,8 @@
                 "county": "嘉義市",
                 "town": "東區",
                 "village": "興村里",
-                "address": "嘉義市溪興街105巷26號1樓",
-                "tel": "0978901386"
+                "class": "音樂、舞蹈類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1396,8 +1396,8 @@
                 "county": "嘉義市",
                 "town": "西區",
                 "village": "文化里",
-                "address": "嘉義市垂楊路400號3樓之2",
-                "tel": "05-2165701\/0922157178"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1415,8 +1415,8 @@
                 "county": "嘉義市",
                 "town": "東區",
                 "village": "興仁里",
-                "address": "嘉義市東區軍輝路102號(1-2樓)",
-                "tel": "(05)2397602"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1434,8 +1434,8 @@
                 "county": "嘉義市",
                 "town": "西區",
                 "village": "保生里",
-                "address": "嘉義市西區自由路250號(1-4樓)",
-                "tel": "05-2333558"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1453,8 +1453,8 @@
                 "county": "嘉義市",
                 "town": "西區",
                 "village": "保福里",
-                "address": "嘉義市德安路146號之1(1-2樓)",
-                "tel": "(05)2346692"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1472,8 +1472,8 @@
                 "county": "嘉義市",
                 "town": "西區",
                 "village": "福民里",
-                "address": "嘉義市溫州一街97號(1-2樓)",
-                "tel": "05-2366215"
+                "class": "商類：珠算、心算、會計,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1491,8 +1491,8 @@
                 "county": "嘉義市",
                 "town": "東區",
                 "village": "太平里",
-                "address": "嘉義市維新路191號2樓",
-                "tel": "05-2741111"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1510,8 +1510,8 @@
                 "county": "嘉義市",
                 "town": "東區",
                 "village": "安業里",
-                "address": "嘉義市吳鳳南路116號(1-2樓)",
-                "tel": "2251572"
+                "class": "商類：珠算、心算、會計,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1529,8 +1529,8 @@
                 "county": "嘉義市",
                 "town": "西區",
                 "village": "新西里",
-                "address": "嘉義市新建街127號(1-4樓)",
-                "tel": "05-2856881"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1548,8 +1548,8 @@
                 "county": "嘉義市",
                 "town": "西區",
                 "village": "港坪里",
-                "address": "嘉義市育人路218號1樓",
-                "tel": "05-2861659"
+                "class": "商類：珠算、心算、會計,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1567,8 +1567,8 @@
                 "county": "嘉義市",
                 "town": "西區",
                 "village": "竹圍里",
-                "address": "嘉義市西區遠東街126號(1-4樓)、128號(4樓)",
-                "tel": "05-2328287"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1586,8 +1586,8 @@
                 "county": "嘉義市",
                 "town": "東區",
                 "village": "太平里",
-                "address": "嘉義市東區新生路631號(1-3樓)",
-                "tel": "05-2754656\/2710601"
+                "class": "法政類,",
+                "students": "高中"
             },
             "geometry": {
                 "type": "Point",
@@ -1605,8 +1605,8 @@
                 "county": "嘉義市",
                 "town": "西區",
                 "village": "番社里",
-                "address": "嘉義市林森西路560號(1-3樓)",
-                "tel": "05-2242696"
+                "class": "法政類,",
+                "students": "公職人員考試"
             },
             "geometry": {
                 "type": "Point",
@@ -1624,8 +1624,8 @@
                 "county": "嘉義市",
                 "town": "西區",
                 "village": "福民里",
-                "address": "嘉義市西區錦州二街19號(1-3樓)",
-                "tel": "05-2850905"
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1643,8 +1643,8 @@
                 "county": "嘉義市",
                 "town": "東區",
                 "village": "豐年里",
-                "address": "嘉義市崇文街145之1號(3樓)",
-                "tel": "05-2293147"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1662,8 +1662,8 @@
                 "county": "嘉義市",
                 "town": "西區",
                 "village": "新厝里",
-                "address": "嘉義市松江三街105號(2-3樓)",
-                "tel": "05-2342309"
+                "class": "文理類,資訊類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1681,8 +1681,8 @@
                 "county": "嘉義市",
                 "town": "西區",
                 "village": "導明里",
-                "address": "嘉義市民生南路55巷2號3樓1",
-                "tel": "05-2259557"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1700,8 +1700,8 @@
                 "county": "嘉義市",
                 "town": "西區",
                 "village": "北湖里",
-                "address": "嘉義市北社尾路219號(1-2樓)",
-                "tel": "05-2380312"
+                "class": "外語類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1719,8 +1719,8 @@
                 "county": "嘉義市",
                 "town": "西區",
                 "village": "美源里",
-                "address": "嘉義市民生南路254號",
-                "tel": "05-2364253、2864930"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1738,8 +1738,8 @@
                 "county": "嘉義市",
                 "town": "東區",
                 "village": "仁義里",
-                "address": "嘉義市忠孝路396巷37號",
-                "tel": "05-2754524"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1757,8 +1757,8 @@
                 "county": "嘉義市",
                 "town": "西區",
                 "village": "新厝里",
-                "address": "嘉義市友愛路825號2樓",
-                "tel": "2340329"
+                "class": "商類：珠算、心算、會計,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1776,8 +1776,8 @@
                 "county": "嘉義市",
                 "town": "西區",
                 "village": "福民里",
-                "address": "嘉義市溫州一街67號(2樓)",
-                "tel": "05-2355806"
+                "class": "文理類,商類：珠算、心算、會計,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1795,8 +1795,8 @@
                 "county": "嘉義市",
                 "town": "東區",
                 "village": "北門里",
-                "address": "嘉義市東區忠孝路307號2樓",
-                "tel": "05-2770482"
+                "class": "外語類,資訊類,家政、插花、烹飪類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
@@ -1814,8 +1814,8 @@
                 "county": "嘉義市",
                 "town": "東區",
                 "village": "過溝里",
-                "address": "嘉義市成仁街58號1樓、延平街156 之3號3樓",
-                "tel": "05-2231111"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1833,8 +1833,8 @@
                 "county": "嘉義市",
                 "town": "東區",
                 "village": "中山里",
-                "address": "嘉義市東區中山路48號(2-3樓)",
-                "tel": "05-2788049"
+                "class": "音樂、舞蹈類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1852,8 +1852,8 @@
                 "county": "嘉義市",
                 "town": "西區",
                 "village": "國華里",
-                "address": "嘉義市國華街210號2樓",
-                "tel": "05-2233777"
+                "class": "文理類,外語類,",
+                "students": "國小,國中,成人(18歲以上),學齡前"
             },
             "geometry": {
                 "type": "Point",
@@ -1871,8 +1871,8 @@
                 "county": "嘉義市",
                 "town": "東區",
                 "village": "新開里",
-                "address": "嘉義市體育路29號之一(3樓)",
-                "tel": "05-2223063"
+                "class": "音樂、舞蹈類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1890,8 +1890,8 @@
                 "county": "嘉義市",
                 "town": "西區",
                 "village": "番社里",
-                "address": "嘉義市西區民權路481號(1-3樓)、479號(1-2樓)",
-                "tel": "05-2233489"
+                "class": "文理類,",
+                "students": "國中,國小,高中,升四技二專大專"
             },
             "geometry": {
                 "type": "Point",
@@ -1909,8 +1909,8 @@
                 "county": "嘉義市",
                 "town": "西區",
                 "village": "國華里",
-                "address": "嘉義市西區國華街210號(3-5樓)",
-                "tel": "05-2242190-8"
+                "class": "文理類,",
+                "students": "高中"
             },
             "geometry": {
                 "type": "Point",
@@ -1928,8 +1928,8 @@
                 "county": "嘉義市",
                 "town": "東區",
                 "village": "中央里",
-                "address": "嘉義市中山路172號",
-                "tel": "05-2274252"
+                "class": "美容、美髮理髮類,",
+                "students": "成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",

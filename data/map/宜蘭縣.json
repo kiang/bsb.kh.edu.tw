@@ -9,8 +9,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "成功里",
-                "address": "宜蘭縣羅東鎮興東南路174之5號1-3樓、2樓之1、3樓之1",
-                "tel": "(03)9549868"
+                "class": "文理類,外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -28,8 +28,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "東村里",
-                "address": "宜蘭縣宜蘭市女中路1段127巷6號1-2樓",
-                "tel": "0956027999"
+                "class": "文理類,",
+                "students": "國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -47,8 +47,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "南豪里",
-                "address": "宜蘭縣羅東鎮興東南路25號1樓",
-                "tel": "0988645847"
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "其他"
             },
             "geometry": {
                 "type": "Point",
@@ -66,8 +66,8 @@
                 "county": "宜蘭縣",
                 "town": "冬山鄉",
                 "village": "南興村",
-                "address": "宜蘭縣冬山鄉照安路33巷42號1-2樓",
-                "tel": "(03)9591030"
+                "class": "音樂、舞蹈類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -85,8 +85,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "仁德里",
-                "address": "宜蘭縣羅東鎮興東南路188號2樓之3",
-                "tel": "0933144200"
+                "class": "文理類,",
+                "students": "學齡前,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -104,8 +104,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "國華里",
-                "address": "宜蘭縣羅東鎮北成路 一段280號1-4樓",
-                "tel": "(03)9615491"
+                "class": "文理類,",
+                "students": "國中,高中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -123,8 +123,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "中興里",
-                "address": "宜蘭縣宜蘭市林森路188號1-2樓",
-                "tel": "(03)389136"
+                "class": "文理類,外語類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -142,8 +142,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "成功里",
-                "address": "宜蘭縣宜蘭市東港路二段180號1-3樓",
-                "tel": "0908093178"
+                "class": "文理類,",
+                "students": "國小,國中,成人(18歲以上),高中"
             },
             "geometry": {
                 "type": "Point",
@@ -161,8 +161,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "西安里",
-                "address": "宜蘭縣羅東鎮成功街180號1-3樓",
-                "tel": "(03)9513598"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -180,8 +180,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "賢文里",
-                "address": "宜蘭縣羅東鎮中華路45號3樓",
-                "tel": "0919901967"
+                "class": "文理類,",
+                "students": "高中"
             },
             "geometry": {
                 "type": "Point",
@@ -199,8 +199,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "七結里",
-                "address": "宜蘭縣宜蘭市民族路590號1-2樓",
-                "tel": "(03)9323866"
+                "class": "其他類,",
+                "students": "國中小"
             },
             "geometry": {
                 "type": "Point",
@@ -218,8 +218,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "公正里",
-                "address": "宜蘭縣羅東鎮公正路230號4樓",
-                "tel": "(03)9558055"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -237,8 +237,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "成功里",
-                "address": "宜蘭縣羅東鎮維揚路8號2-3樓",
-                "tel": "(03)9611807"
+                "class": "文理類,外語類,其他類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -256,8 +256,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "漢民里",
-                "address": "宜蘭縣羅東鎮純精路二段103號1-2樓",
-                "tel": "(03)9530590"
+                "class": "文理類,其他類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -275,8 +275,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "七結里",
-                "address": "宜蘭縣宜蘭市女中路三段186號2-3樓",
-                "tel": "(03)9352691"
+                "class": "文理類,",
+                "students": "國中,高中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -294,8 +294,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "文化里",
-                "address": "宜蘭縣宜蘭市文化路50號1-2樓",
-                "tel": "(03)9313178"
+                "class": "其他類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -313,8 +313,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "成功里",
-                "address": "宜蘭縣羅東鎮體育路41巷1弄1號2樓",
-                "tel": "(03)9555036"
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -332,8 +332,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "公正里",
-                "address": "宜蘭縣羅東鎮公正路284巷1-5號6樓",
-                "tel": "0906267246"
+                "class": "文理類,外語類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -351,8 +351,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "賢文里",
-                "address": "宜蘭縣羅東鎮培英路26號1-3樓",
-                "tel": "(03)9611772"
+                "class": "文理類,",
+                "students": "高中"
             },
             "geometry": {
                 "type": "Point",
@@ -370,8 +370,8 @@
                 "county": "宜蘭縣",
                 "town": "蘇澳鎮",
                 "village": "隘丁里",
-                "address": "宜蘭縣蘇澳鎮城東路105號1-2樓",
-                "tel": "(03)9904773"
+                "class": "文理類,外語類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -389,8 +389,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "公正里",
-                "address": "宜蘭縣羅東鎮中正北路77號5樓",
-                "tel": "(03)9530775"
+                "class": "音樂、舞蹈類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -408,8 +408,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "成功里",
-                "address": "宜蘭縣羅東鎮興東南路166號1-2樓",
-                "tel": "(03)9577326"
+                "class": "文理類,外語類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -427,8 +427,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "大新里",
-                "address": "宜蘭縣羅東鎮中正北路38號2樓",
-                "tel": "(03)9557123"
+                "class": "文理類,外語類,",
+                "students": "專科至成人"
             },
             "geometry": {
                 "type": "Point",
@@ -446,8 +446,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "賢文里",
-                "address": "宜蘭縣羅東鎮四育路136巷9號1樓",
-                "tel": "(03)9515635"
+                "class": "文理類,外語類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -465,8 +465,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "思源里",
-                "address": "宜蘭縣宜蘭市宜中路 86號1樓",
-                "tel": "(03)9368005"
+                "class": "音樂、舞蹈類,",
+                "students": "學齡前,國小,其他"
             },
             "geometry": {
                 "type": "Point",
@@ -484,8 +484,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "負郭里",
-                "address": "宜蘭縣宜蘭市國榮路153號1樓",
-                "tel": "(03)9331296"
+                "class": "文理類,",
+                "students": "國小,學齡前,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -503,8 +503,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "思源里",
-                "address": "宜蘭縣宜蘭市宜中路79巷70號1、2樓",
-                "tel": "(03)9332980 \/ 9320850"
+                "class": "文理類,",
+                "students": "國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -522,8 +522,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "新東里",
-                "address": "宜蘭縣宜蘭市校舍一路99號1、2樓",
-                "tel": "(03)9389179"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -541,8 +541,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "漢民里",
-                "address": "宜蘭縣羅東鎮敬業路8之2號1-3樓",
-                "tel": "(03)9510808\/9510805"
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -560,8 +560,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "民權里",
-                "address": "宜蘭縣宜蘭市女中路二段307號1樓及3樓",
-                "tel": "(03)9699818"
+                "class": "文理類,",
+                "students": "高中"
             },
             "geometry": {
                 "type": "Point",
@@ -579,8 +579,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "南門里",
-                "address": "宜蘭縣宜蘭市民權路二段260號1樓",
-                "tel": "(03)9361152"
+                "class": "文理類,外語類,",
+                "students": "5-18歲學員,13歲以上，含成人"
             },
             "geometry": {
                 "type": "Point",
@@ -598,8 +598,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "信義里",
-                "address": "宜蘭縣羅東鎮純精路三段252巷2號1-2樓",
-                "tel": "(03)9571096"
+                "class": "文理類,外語類,",
+                "students": "高中,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -617,8 +617,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "賢文里",
-                "address": "宜蘭縣羅東鎮公正路171巷12號1-2樓",
-                "tel": "(03)9567827"
+                "class": "音樂、舞蹈類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -636,8 +636,8 @@
                 "county": "宜蘭縣",
                 "town": "五結鄉",
                 "village": "五結村",
-                "address": "宜蘭縣五結鄉中興路一段9號1-2樓",
-                "tel": "(03)9605213"
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -655,8 +655,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "賢文里",
-                "address": "宜蘭縣羅東鎮忠孝路155號1-4樓",
-                "tel": "(03)9567081"
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -674,8 +674,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "竹林里",
-                "address": "宜蘭縣羅東鎮復興路二段199號1-3樓",
-                "tel": "(03)9559100"
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -693,8 +693,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "賢文里",
-                "address": "宜蘭縣羅東鎮公正路289之7號2樓",
-                "tel": "(03)9511179"
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小至高中"
             },
             "geometry": {
                 "type": "Point",
@@ -712,8 +712,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "新東里",
-                "address": "宜蘭縣宜蘭市校舍二路22號1樓",
-                "tel": "(03)9370930"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -731,8 +731,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "思源里",
-                "address": "宜蘭縣宜蘭市宜中路73號1-3樓",
-                "tel": "(03)9320178"
+                "class": "文理類,",
+                "students": "國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -750,8 +750,8 @@
                 "county": "宜蘭縣",
                 "town": "蘇澳鎮",
                 "village": "永榮里",
-                "address": "宜蘭縣蘇澳鎮永榮里和平路60號1-3樓",
-                "tel": "(03)9905550"
+                "class": "文理類,外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -769,8 +769,8 @@
                 "county": "宜蘭縣",
                 "town": "冬山鄉",
                 "village": "冬山村",
-                "address": "宜蘭縣冬山鄉南興路78巷6號1-3樓",
-                "tel": "(03)9591633"
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -788,8 +788,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "七結里",
-                "address": "宜蘭縣宜蘭市農權路3段177號1樓",
-                "tel": "(03)9333331"
+                "class": "文理類,外語類,",
+                "students": "國、高中及成人"
             },
             "geometry": {
                 "type": "Point",
@@ -807,8 +807,8 @@
                 "county": "宜蘭縣",
                 "town": "礁溪鄉",
                 "village": "德陽村",
-                "address": "宜蘭縣礁溪鄉仁愛路174號1樓",
-                "tel": "0919-242075"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -826,8 +826,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "國華里",
-                "address": "宜蘭縣羅東鎮培英路87號1-3樓",
-                "tel": "(03)9512735"
+                "class": "文理類,外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -845,8 +845,8 @@
                 "county": "宜蘭縣",
                 "town": "礁溪鄉",
                 "village": "德陽村",
-                "address": "宜蘭縣礁溪鄉復興街15號1-4樓",
-                "tel": "(03)9873001"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -864,8 +864,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "新東里",
-                "address": "宜蘭縣宜蘭市陽明三路35號1-4樓",
-                "tel": "(03)9380059"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -883,8 +883,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "民權里",
-                "address": "宜蘭縣宜蘭市神農路二段70-2號2樓",
-                "tel": "(03)9352749"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -902,8 +902,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "思源里",
-                "address": "宜蘭縣宜蘭市民族路491號2樓",
-                "tel": "(03)9353725"
+                "class": "音樂、舞蹈類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -921,8 +921,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "建軍里",
-                "address": "宜蘭縣宜蘭市民族路407號1-2樓",
-                "tel": "9329599"
+                "class": "文理類,",
+                "students": "國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -940,8 +940,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "思源里",
-                "address": "宜蘭縣宜蘭市民族路491號4樓",
-                "tel": "(03)9325023"
+                "class": "文理類,外語類,",
+                "students": "其他"
             },
             "geometry": {
                 "type": "Point",
@@ -959,8 +959,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "擺厘里",
-                "address": "宜蘭縣宜蘭市女中路2段397號1-2樓",
-                "tel": "(03)9324933"
+                "class": "文理類,",
+                "students": "高中"
             },
             "geometry": {
                 "type": "Point",
@@ -978,8 +978,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "文化里",
-                "address": "宜蘭縣宜蘭市文化路36號1樓",
-                "tel": "03-9333990"
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -997,8 +997,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "東村里",
-                "address": "宜蘭縣宜蘭市陽明二路27號1-2樓",
-                "tel": "(03)9370725"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1016,8 +1016,8 @@
                 "county": "宜蘭縣",
                 "town": "蘇澳鎮",
                 "village": "永榮里",
-                "address": "宜蘭縣蘇澳鎮大同路109巷7號1-3樓",
-                "tel": "(03)9909298"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1035,8 +1035,8 @@
                 "county": "宜蘭縣",
                 "town": "蘇澳鎮",
                 "village": "聖湖里",
-                "address": "宜蘭縣蘇澳鎮蘇港路387號1-2樓",
-                "tel": "(03)9971378"
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1054,8 +1054,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "國華里",
-                "address": "宜蘭縣羅東鎮四育路79號4樓",
-                "tel": "(03)9515191"
+                "class": "文理類,",
+                "students": "高中"
             },
             "geometry": {
                 "type": "Point",
@@ -1073,8 +1073,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "負郭里",
-                "address": "宜蘭縣宜蘭市泰山路143號1-3樓",
-                "tel": "(03)9315880"
+                "class": "文理類,外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1092,8 +1092,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "負郭里",
-                "address": "宜蘭縣宜蘭市泰山路85巷2、6號1樓",
-                "tel": "(03)9312218"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1111,8 +1111,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "新東里",
-                "address": "宜蘭縣宜蘭市陽明三路38號1樓",
-                "tel": "(03)9386827"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1130,8 +1130,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "維揚里",
-                "address": "宜蘭縣羅東鎮維揚路70巷10號1樓",
-                "tel": "(03)9515218"
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小、國、高中及成人"
             },
             "geometry": {
                 "type": "Point",
@@ -1149,8 +1149,8 @@
                 "county": "宜蘭縣",
                 "town": "壯圍鄉",
                 "village": "吉祥村",
-                "address": "宜蘭縣壯圍鄉吉祥村壯五路71號1-3樓",
-                "tel": "(03)9380390"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1168,8 +1168,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "負郭里",
-                "address": "宜蘭縣宜蘭市民權新路344號、346號1、2、3樓",
-                "tel": "(03)9311313"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1187,8 +1187,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "黎明里",
-                "address": "宜蘭縣宜蘭市黎明三路446號1-3樓",
-                "tel": "(03)9311842"
+                "class": "文理類,外語類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1206,8 +1206,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "擺厘里",
-                "address": "宜蘭縣宜蘭市女中路二段439號1-2樓",
-                "tel": "(03)9326899"
+                "class": "文理類,",
+                "students": "高中"
             },
             "geometry": {
                 "type": "Point",
@@ -1225,8 +1225,8 @@
                 "county": "宜蘭縣",
                 "town": "員山鄉",
                 "village": "員山村",
-                "address": "宜蘭縣員山鄉員山村29鄰文化路100巷33號1樓",
-                "tel": "(03)9223347"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1244,8 +1244,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "擺厘里",
-                "address": "宜蘭縣宜蘭市女中路2段427號1-2樓",
-                "tel": "(03)9329589"
+                "class": "文理類,",
+                "students": "高中"
             },
             "geometry": {
                 "type": "Point",
@@ -1263,8 +1263,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "賢文里",
-                "address": "宜蘭縣羅東鎮民生路129號1-3樓",
-                "tel": "(03)9575100、9563090"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1282,8 +1282,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "南昌里",
-                "address": "宜蘭縣羅東鎮站前南路151號3樓",
-                "tel": "(03)9546553"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1301,8 +1301,8 @@
                 "county": "宜蘭縣",
                 "town": "冬山鄉",
                 "village": "南興村",
-                "address": "宜蘭縣冬山鄉香南路366號1-3樓",
-                "tel": "(03)9595093"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1320,8 +1320,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "民權里",
-                "address": "宜蘭縣宜蘭市中山路2段145號3樓之1",
-                "tel": "(03)9321096"
+                "class": "文理類,",
+                "students": "高中,國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1339,8 +1339,8 @@
                 "county": "宜蘭縣",
                 "town": "頭城鎮",
                 "village": "武營里",
-                "address": "宜蘭縣頭城鎮青雲路3段339號1-3樓",
-                "tel": "(03)9779791"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1358,8 +1358,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "負郭里",
-                "address": "宜蘭縣宜蘭市民權新路334號1-3樓",
-                "tel": "(03)9315599"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1377,8 +1377,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "負郭里",
-                "address": "宜蘭縣宜蘭市國榮路167號1樓",
-                "tel": "(03)9312218"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1396,8 +1396,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "公正里",
-                "address": "宜蘭縣羅東鎮中華路112號1-3樓",
-                "tel": "(03)9558830"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1415,8 +1415,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "國華里",
-                "address": "宜蘭縣羅東鎮四育路60號1-3樓",
-                "tel": "(03)9510292"
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1434,8 +1434,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "南門里",
-                "address": "宜蘭縣宜蘭市民權路2段116號1-3樓",
-                "tel": "0911219013"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1453,8 +1453,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "成功里",
-                "address": "宜蘭縣羅東鎮興東南路163號1-3樓",
-                "tel": "(03)9530030\/9530020"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1472,8 +1472,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "新東里",
-                "address": "宜蘭縣宜蘭市陽明二路128號1-2樓",
-                "tel": "(03)9372680"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1491,8 +1491,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "民族里",
-                "address": "宜蘭縣宜蘭市民權新路98號1-2樓",
-                "tel": "(03)9333626"
+                "class": "文理類,",
+                "students": "國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -1510,8 +1510,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "復興里",
-                "address": "宜蘭縣宜蘭市農權路154巷15號3樓",
-                "tel": "(03)9364225"
+                "class": "文理類,",
+                "students": "國中,國小,其他"
             },
             "geometry": {
                 "type": "Point",
@@ -1529,8 +1529,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "泰山里",
-                "address": "宜蘭縣宜蘭市民權新路453號1-2樓",
-                "tel": "(03) 9359095"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1548,8 +1548,8 @@
                 "county": "宜蘭縣",
                 "town": "蘇澳鎮",
                 "village": "蘇西里",
-                "address": "宜蘭縣蘇澳鎮中山路1段343號1樓",
-                "tel": "(03)9955002"
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1567,8 +1567,8 @@
                 "county": "宜蘭縣",
                 "town": "礁溪鄉",
                 "village": "大忠村",
-                "address": "宜蘭縣礁溪鄉和平路18號1-2樓",
-                "tel": "(03)9870969"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1586,8 +1586,8 @@
                 "county": "宜蘭縣",
                 "town": "冬山鄉",
                 "village": "順安村",
-                "address": "宜蘭縣冬山鄉華祥路2-9號1-2樓",
-                "tel": "(03)9581818"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1605,8 +1605,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "信義里",
-                "address": "宜蘭縣羅東鎮中華路172號1-3樓",
-                "tel": "(03)9577779\/9558198"
+                "class": "文理類,",
+                "students": "高中,國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1624,8 +1624,8 @@
                 "county": "宜蘭縣",
                 "town": "員山鄉",
                 "village": "員山村",
-                "address": "宜蘭縣員山鄉文化路146號1-2樓",
-                "tel": "(03)9225627"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1643,8 +1643,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "新東里",
-                "address": "宜蘭縣宜蘭市陽明三路65號1-2樓",
-                "tel": "(03)9384241"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1662,8 +1662,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "國華里",
-                "address": "宜蘭縣羅東鎮四育路127號1-2樓",
-                "tel": "(03)9512377"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1681,8 +1681,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "復興里",
-                "address": "宜蘭縣宜蘭市弘志路9號1樓",
-                "tel": "(02)23919950"
+                "class": "電機、汽車修護、建築、工藝、製圖類,",
+                "students": "公職人員考試"
             },
             "geometry": {
                 "type": "Point",
@@ -1700,8 +1700,8 @@
                 "county": "宜蘭縣",
                 "town": "五結鄉",
                 "village": "五結村",
-                "address": "宜蘭縣五結鄉新生路31號1-2樓",
-                "tel": "(03)9606106"
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1719,8 +1719,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "國華里",
-                "address": "宜蘭縣羅東鎮四育路48號2樓",
-                "tel": "(03)9613923"
+                "class": "外語類,",
+                "students": "國小,國中,成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
@@ -1738,8 +1738,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "樹林里",
-                "address": "宜蘭縣羅東鎮公正路346號2樓",
-                "tel": "(03)9575576"
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1757,8 +1757,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "北津里",
-                "address": "宜蘭縣宜蘭市大坡路1段43號1-2樓",
-                "tel": "0912-593485"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1776,8 +1776,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "賢文里",
-                "address": "宜蘭縣羅東鎮忠孝路149號1-4樓",
-                "tel": "(03)9548108"
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1795,8 +1795,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "漢民里",
-                "address": "宜蘭縣羅東鎮忠孝路22號",
-                "tel": "0953101028"
+                "class": "文理類,",
+                "students": "國中,國小六年級"
             },
             "geometry": {
                 "type": "Point",
@@ -1814,8 +1814,8 @@
                 "county": "宜蘭縣",
                 "town": "三星鄉",
                 "village": "義德村",
-                "address": "宜蘭縣三星鄉義德村星義路203號1-3樓",
-                "tel": "(03)9895911"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1833,8 +1833,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "新東里",
-                "address": "宜蘭縣宜蘭市女中路一段150號1-2樓",
-                "tel": "(03)9388083"
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1852,8 +1852,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "樹林里",
-                "address": "宜蘭縣羅東鎮豐年路31號1-2樓",
-                "tel": "(03)9569068"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1871,8 +1871,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "新東里",
-                "address": "宜蘭縣宜蘭市校舍一路87號1樓",
-                "tel": "(03)9380776"
+                "class": "外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1890,8 +1890,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "東村里",
-                "address": "宜蘭縣宜蘭市陽明二路73號1-4樓",
-                "tel": "(03)9380215"
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1909,8 +1909,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "集祥里",
-                "address": "宜蘭縣羅東鎮中正路169號1-3樓",
-                "tel": "(03)9550896"
+                "class": "外語類,",
+                "students": "成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
@@ -1928,8 +1928,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "思源里",
-                "address": "宜蘭縣宜蘭市嵐峰路三段300巷3號1-2樓",
-                "tel": "(03)9327496"
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1947,8 +1947,8 @@
                 "county": "宜蘭縣",
                 "town": "頭城鎮",
                 "village": "新建里",
-                "address": "宜蘭縣頭城鎮南興街21號1-2號",
-                "tel": "(03)9772484"
+                "class": "文理類,",
+                "students": "國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -1966,8 +1966,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "新民里",
-                "address": "宜蘭縣宜蘭市中山路3段108-1號1-2樓",
-                "tel": "(03)9312206"
+                "class": "法政類,商類：珠算、心算、會計,",
+                "students": "成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
@@ -1985,8 +1985,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "新東里",
-                "address": "宜蘭縣宜蘭市東港路二段155巷3號1-2樓、5號1-2樓",
-                "tel": "(03)9383631"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2004,8 +2004,8 @@
                 "county": "宜蘭縣",
                 "town": "五結鄉",
                 "village": "成興村",
-                "address": "宜蘭縣五結鄉成興村成鳳路188巷34號1-2樓",
-                "tel": "(03)9500662"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2023,8 +2023,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "建軍里",
-                "address": "宜蘭縣宜蘭市泰山路209號1-4樓",
-                "tel": "(03)9312215"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2042,8 +2042,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "公正里",
-                "address": "宜蘭縣羅東鎮中正北路1號1-4樓",
-                "tel": "(03)9566156"
+                "class": "資訊類,",
+                "students": "其他"
             },
             "geometry": {
                 "type": "Point",
@@ -2061,8 +2061,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "民族里",
-                "address": "宜蘭縣宜蘭市民族路128號1-2樓",
-                "tel": "(03)9363969"
+                "class": "外語類,",
+                "students": "成人(18歲以上),高中,國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2080,8 +2080,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "賢文里",
-                "address": "宜蘭縣羅東鎮民治街52號",
-                "tel": "(03)9517098"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2099,8 +2099,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "國華里",
-                "address": "宜蘭縣羅東鎮北成路一段170號1-3樓",
-                "tel": "(03)9510700"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2118,8 +2118,8 @@
                 "county": "宜蘭縣",
                 "town": "五結鄉",
                 "village": "成興村",
-                "address": "宜蘭縣五結鄉五濱路一段112巷26號1-2樓",
-                "tel": "(03)9602339"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2137,8 +2137,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "國華里",
-                "address": "宜蘭縣羅東鎮四育路91號1-2樓",
-                "tel": "(03)9510910\/9510939"
+                "class": "文理類,",
+                "students": "國小,高中,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2156,8 +2156,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "擺厘里",
-                "address": "宜蘭縣宜蘭市女中路二段429號1-2樓",
-                "tel": "(03)9363627"
+                "class": "文理類,",
+                "students": "國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -2175,8 +2175,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "樹林里",
-                "address": "宜蘭縣羅東鎮樹林里學府街33巷3號2樓",
-                "tel": "(03)9566771"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2194,8 +2194,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "信義里",
-                "address": "宜蘭縣羅東鎮中華路178號1-3樓",
-                "tel": "(03)9558115"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2213,8 +2213,8 @@
                 "county": "宜蘭縣",
                 "town": "三星鄉",
                 "village": "集慶村",
-                "address": "宜蘭縣三星鄉集慶村集慶七路45號1-2樓",
-                "tel": "(03)9895513"
+                "class": "外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2232,8 +2232,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "民族里",
-                "address": "宜蘭縣宜蘭市民權新路150號1-4樓",
-                "tel": "(03)9353147"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2251,8 +2251,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "思源里",
-                "address": "宜蘭縣宜蘭市女中路三段168號1-3樓",
-                "tel": "(03)9320892"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2270,8 +2270,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "樹林里",
-                "address": "宜蘭縣羅東鎮公正路342號2樓",
-                "tel": "9569188"
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2289,8 +2289,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "公正里",
-                "address": "宜蘭縣羅東鎮愛國路239號1-3樓",
-                "tel": "(03)955-0506"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2308,8 +2308,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "信義里",
-                "address": "宜蘭縣羅東鎮興東路185號3樓",
-                "tel": "(03)9547958"
+                "class": "文理類,外語類,",
+                "students": "國中,國小,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -2327,8 +2327,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "文化里",
-                "address": "宜蘭縣宜蘭市文化路70號1-3樓",
-                "tel": "(03)9351228"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2346,8 +2346,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "孝廉里",
-                "address": "宜蘭縣宜蘭市中山路三段220號1-4樓",
-                "tel": "(03)9367118"
+                "class": "文理類,",
+                "students": "成人(18歲以上),升大學(高中生)"
             },
             "geometry": {
                 "type": "Point",
@@ -2365,8 +2365,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "黎明里",
-                "address": "宜蘭縣宜蘭市黎明三路430號1-2樓",
-                "tel": "(03)9372384"
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2384,8 +2384,8 @@
                 "county": "宜蘭縣",
                 "town": "五結鄉",
                 "village": "大吉村",
-                "address": "宜蘭縣五結鄉大吉五路62巷11、31號1-2樓",
-                "tel": "(03)9600726"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2403,8 +2403,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "文化里",
-                "address": "宜蘭縣宜蘭市復興路2段70-3號4樓",
-                "tel": "(03)9359876"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2422,8 +2422,8 @@
                 "county": "宜蘭縣",
                 "town": "蘇澳鎮",
                 "village": "蘇西里",
-                "address": "宜蘭縣蘇澳鎮中山路一段385號",
-                "tel": "(03)9972866"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2441,8 +2441,8 @@
                 "county": "宜蘭縣",
                 "town": "頭城鎮",
                 "village": "金面里",
-                "address": "宜蘭縣頭城鎮青雲路二段341號2樓",
-                "tel": "(03)9770915"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2460,8 +2460,8 @@
                 "county": "宜蘭縣",
                 "town": "三星鄉",
                 "village": "義德村",
-                "address": "宜蘭縣三星鄉義德二路70號1-3樓",
-                "tel": "(03)9894355"
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2479,8 +2479,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "賢文里",
-                "address": "宜蘭縣羅東鎮中華路45號1-2樓",
-                "tel": "(03)9556116"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2498,8 +2498,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "中興里",
-                "address": "宜蘭縣宜蘭市中興路310號1樓",
-                "tel": "(03)9370219"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2517,8 +2517,8 @@
                 "county": "宜蘭縣",
                 "town": "五結鄉",
                 "village": "二結村",
-                "address": "宜蘭縣五結鄉二結路252號1-3樓",
-                "tel": "(03)9650829"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2536,8 +2536,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "賢文里",
-                "address": "宜蘭縣羅東鎮純精路2段262號1-2樓",
-                "tel": "(03)9558652"
+                "class": "文理類,",
+                "students": "國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -2555,8 +2555,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "信義里",
-                "address": "宜蘭縣羅東鎮純精路三段160巷16號2樓",
-                "tel": "(03)9571683"
+                "class": "文理類,",
+                "students": "高中"
             },
             "geometry": {
                 "type": "Point",
@@ -2574,8 +2574,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "負郭里",
-                "address": "宜蘭縣宜蘭市三清路120號1-3樓",
-                "tel": "(03)9330877"
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2593,8 +2593,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "北成里",
-                "address": "宜蘭縣羅東鎮北成路1段189號1樓",
-                "tel": "(03)9511161"
+                "class": "音樂、舞蹈類,",
+                "students": "其他,學齡前"
             },
             "geometry": {
                 "type": "Point",
@@ -2612,8 +2612,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "國華里",
-                "address": "宜蘭縣羅東鎮四育路131號1-2樓",
-                "tel": "(03)9513525"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2631,8 +2631,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "賢文里",
-                "address": "宜蘭縣羅東鎮民生路167號1樓",
-                "tel": "0920-208-461"
+                "class": "外語類,",
+                "students": "高中,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2650,8 +2650,8 @@
                 "county": "宜蘭縣",
                 "town": "礁溪鄉",
                 "village": "大忠村",
-                "address": "宜蘭縣礁溪鄉和平路30號1-2樓",
-                "tel": "(03)9889743"
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2669,8 +2669,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "信義里",
-                "address": "宜蘭縣羅東鎮中華路162號1-2樓",
-                "tel": "(03)9557303"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2688,8 +2688,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "延平里",
-                "address": "宜蘭縣宜蘭市東港路二段160巷86弄3號1-2樓",
-                "tel": "(03)9385303"
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2707,8 +2707,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "開明里",
-                "address": "宜蘭縣羅東鎮開羅街32號1-2樓",
-                "tel": "(03)9549035"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2726,8 +2726,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "文化里",
-                "address": "宜蘭縣宜蘭市文化路13號1-3樓",
-                "tel": "(03)9366006"
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2745,8 +2745,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "中興里",
-                "address": "宜蘭縣宜蘭市東港路二段430號1-3樓",
-                "tel": "(03)9380015"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2764,8 +2764,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "思源里",
-                "address": "宜蘭縣宜蘭市嵐峰路三段140號1樓",
-                "tel": "(03)9320776"
+                "class": "外語類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2783,8 +2783,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "大新里",
-                "address": "宜蘭縣宜蘭市宜興路1段255號2樓",
-                "tel": "(03)9358176"
+                "class": "外語類,",
+                "students": "高中、成人"
             },
             "geometry": {
                 "type": "Point",
@@ -2802,8 +2802,8 @@
                 "county": "宜蘭縣",
                 "town": "礁溪鄉",
                 "village": "龍潭村",
-                "address": "宜蘭縣礁溪鄉育龍路113號1-3樓",
-                "tel": "(03)9284110"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2821,8 +2821,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "公正里",
-                "address": "宜蘭縣羅東鎮林森路149號1-2樓",
-                "tel": "(03)9575718"
+                "class": "外語類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2840,8 +2840,8 @@
                 "county": "宜蘭縣",
                 "town": "蘇澳鎮",
                 "village": "永榮里",
-                "address": "宜蘭縣蘇澳鎮和平路36號1-2樓",
-                "tel": "(03)9905069"
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2859,8 +2859,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "東安里",
-                "address": "宜蘭縣羅東鎮光榮路495號3樓之一,之三",
-                "tel": "(03)9553507"
+                "class": "外語類,",
+                "students": "其他"
             },
             "geometry": {
                 "type": "Point",
@@ -2878,8 +2878,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "國華里",
-                "address": "宜蘭縣羅東鎮進德街1號1-2樓",
-                "tel": "(03)9614687"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2897,8 +2897,8 @@
                 "county": "宜蘭縣",
                 "town": "三星鄉",
                 "village": "義德村",
-                "address": "宜蘭縣三星鄉義德二路116號1樓",
-                "tel": "(03)9895343"
+                "class": "外語類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2916,8 +2916,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "大新里",
-                "address": "宜蘭縣羅東鎮中正路142、144號1-3樓",
-                "tel": "03-9550845"
+                "class": "外語類,資訊類,",
+                "students": "成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
@@ -2935,8 +2935,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "思源里",
-                "address": "宜蘭縣宜蘭市宜中路79巷5號1-3樓",
-                "tel": "(03)9365877"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2954,8 +2954,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "樹林里",
-                "address": "宜蘭縣羅東鎮純精路3段189號2樓",
-                "tel": "(03)9558686\/9565668"
+                "class": "外語類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2973,8 +2973,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "漢民里",
-                "address": "宜蘭縣羅東鎮培英路61巷2號1樓",
-                "tel": "9610563"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2992,8 +2992,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "成功里",
-                "address": "宜蘭縣宜蘭市東港路二段168號1-2樓",
-                "tel": "(03)937-2168"
+                "class": "文理類,外語類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3011,8 +3011,8 @@
                 "county": "宜蘭縣",
                 "town": "頭城鎮",
                 "village": "拔雅里",
-                "address": "宜蘭縣頭城鎮公園路54號1-3樓",
-                "tel": "03-9774799"
+                "class": "文理類,外語類,",
+                "students": "國中,國小,其他"
             },
             "geometry": {
                 "type": "Point",
@@ -3030,8 +3030,8 @@
                 "county": "宜蘭縣",
                 "town": "礁溪鄉",
                 "village": "大義村",
-                "address": "宜蘭縣礁溪鄉大義村義興街42號1-3樓",
-                "tel": "03-988-5106"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3049,8 +3049,8 @@
                 "county": "宜蘭縣",
                 "town": "礁溪鄉",
                 "village": "吳沙村",
-                "address": "宜蘭縣礁溪鄉礁溪路一段296號1樓",
-                "tel": "(03)928-9189"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3068,8 +3068,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "賢文里",
-                "address": "宜蘭縣羅東鎮培英路28號1-3樓",
-                "tel": "(03)951-0908"
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3087,8 +3087,8 @@
                 "county": "宜蘭縣",
                 "town": "員山鄉",
                 "village": "同樂村",
-                "address": "宜蘭縣員山鄉同樂村同新路227號1-3樓",
-                "tel": "(03)9222385"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3106,8 +3106,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "負郭里",
-                "address": "宜蘭縣宜蘭市民權新路208號1樓",
-                "tel": "(03)9327878"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3125,8 +3125,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "東安里",
-                "address": "宜蘭縣羅東鎮光榮路495號5樓之1",
-                "tel": "(03)9559981"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3144,8 +3144,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "復興里",
-                "address": "宜蘭縣宜蘭市中華路77號1樓",
-                "tel": "(03)9311899"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3163,8 +3163,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "南津里",
-                "address": "宜蘭縣宜蘭市建蘭南路186號2-3樓",
-                "tel": "(03)9251216"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3182,8 +3182,8 @@
                 "county": "宜蘭縣",
                 "town": "五結鄉",
                 "village": "四結村",
-                "address": "宜蘭縣五結鄉中興路3段302巷8-1號1樓",
-                "tel": "(03)9651177"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3201,8 +3201,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "成功里",
-                "address": "宜蘭縣羅東鎮興東南路140號1-3樓",
-                "tel": "(03)9531557"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3220,8 +3220,8 @@
                 "county": "宜蘭縣",
                 "town": "壯圍鄉",
                 "village": "吉祥村",
-                "address": "宜蘭縣壯圍鄉中央路2段381號1-3樓",
-                "tel": "(03)9387966"
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3239,8 +3239,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "南昌里",
-                "address": "宜蘭縣羅東鎮站前南路93-1號2樓",
-                "tel": "(03)9550520"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3258,8 +3258,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "樹林里",
-                "address": "宜蘭縣羅東鎮純精路3段33號1-3樓",
-                "tel": "(03)9547531"
+                "class": "文理類,",
+                "students": "國小,國中,高中,高中、成人"
             },
             "geometry": {
                 "type": "Point",
@@ -3277,8 +3277,8 @@
                 "county": "宜蘭縣",
                 "town": "礁溪鄉",
                 "village": "大忠村",
-                "address": "宜蘭縣礁溪鄉礁溪路四段78號2樓",
-                "tel": "(03)9882865"
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3296,8 +3296,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "文化里",
-                "address": "宜蘭縣宜蘭市復興路2段70-1號2樓",
-                "tel": "0953882536"
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3315,8 +3315,8 @@
                 "county": "宜蘭縣",
                 "town": "蘇澳鎮",
                 "village": "聖愛里",
-                "address": "宜蘭縣蘇澳鎮中山路1段431號1-2樓",
-                "tel": "(03)9972225"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3334,8 +3334,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "南昌里",
-                "address": "宜蘭縣羅東鎮站前南路144號1-2樓",
-                "tel": "(03)9558289"
+                "class": "文理類,商類：珠算、心算、會計,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3353,8 +3353,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "仁德里",
-                "address": "宜蘭縣羅東鎮興東南路133、135號2樓",
-                "tel": "(03)9531456"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3372,8 +3372,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "信義里",
-                "address": "宜蘭縣羅東鎮興東路185號1-2樓",
-                "tel": "(03)9547958"
+                "class": "文理類,外語類,",
+                "students": "國小,國中,高中,國、高中"
             },
             "geometry": {
                 "type": "Point",
@@ -3391,8 +3391,8 @@
                 "county": "宜蘭縣",
                 "town": "員山鄉",
                 "village": "員山村",
-                "address": "宜蘭縣員山鄉復興路50號1-3樓",
-                "tel": "(03)9220246"
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3410,8 +3410,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "民族里",
-                "address": "宜蘭縣宜蘭市民權新路62號2樓",
-                "tel": "(03)9314228"
+                "class": "文理類,",
+                "students": "研究所"
             },
             "geometry": {
                 "type": "Point",
@@ -3429,8 +3429,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "慈安里",
-                "address": "宜蘭縣宜蘭市慈安路71號1-2樓",
-                "tel": "(03)9388112"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3448,8 +3448,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "樹林里",
-                "address": "宜蘭縣羅東鎮公正路320號1-3樓",
-                "tel": "(03)9557507、9567790"
+                "class": "文理類,",
+                "students": "高中"
             },
             "geometry": {
                 "type": "Point",
@@ -3467,8 +3467,8 @@
                 "county": "宜蘭縣",
                 "town": "礁溪鄉",
                 "village": "大義村",
-                "address": "宜蘭縣礁溪鄉義興街20號1-2樓",
-                "tel": "(03)9882686"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3486,8 +3486,8 @@
                 "county": "宜蘭縣",
                 "town": "五結鄉",
                 "village": "協和村",
-                "address": "宜蘭縣五結鄉協同街1巷5號1-2樓",
-                "tel": "(03)9500365"
+                "class": "外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3505,8 +3505,8 @@
                 "county": "宜蘭縣",
                 "town": "冬山鄉",
                 "village": "南興村",
-                "address": "宜蘭縣冬山鄉香南路378號1-2樓",
-                "tel": "(03)9595721"
+                "class": "文理類,",
+                "students": "國中小,國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3524,8 +3524,8 @@
                 "county": "宜蘭縣",
                 "town": "五結鄉",
                 "village": "中興村",
-                "address": "宜蘭縣五結鄉台興路61巷12號1-3樓",
-                "tel": "(03)9650366"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3543,8 +3543,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "漢民里",
-                "address": "宜蘭縣羅東鎮敬業路36號1樓",
-                "tel": "(03)9610811"
+                "class": "商類：珠算、心算、會計,",
+                "students": "null"
             },
             "geometry": {
                 "type": "Point",
@@ -3562,8 +3562,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "文化里",
-                "address": "宜蘭縣宜蘭市復興路2段28號1-5樓",
-                "tel": "(03)9360034"
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3581,8 +3581,8 @@
                 "county": "宜蘭縣",
                 "town": "五結鄉",
                 "village": "中興村",
-                "address": "宜蘭縣五結鄉台興路53號1-2樓",
-                "tel": "(03)9655955"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3600,8 +3600,8 @@
                 "county": "宜蘭縣",
                 "town": "五結鄉",
                 "village": "二結村",
-                "address": "宜蘭縣五結鄉中正路3段169巷12號1-2樓",
-                "tel": "0958088592"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3619,8 +3619,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "負郭里",
-                "address": "宜蘭縣宜蘭市泰山路147號1-2樓",
-                "tel": "(03)9368910"
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "null"
             },
             "geometry": {
                 "type": "Point",
@@ -3638,8 +3638,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "思源里",
-                "address": "宜蘭縣宜蘭市嵐峰路三段326巷6號1-3樓",
-                "tel": "(03)9312699"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3657,8 +3657,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "國華里",
-                "address": "宜蘭縣羅東鎮北成路1段282號1-3樓",
-                "tel": "(03)9613748"
+                "class": "文理類,",
+                "students": "國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -3676,8 +3676,8 @@
                 "county": "宜蘭縣",
                 "town": "頭城鎮",
                 "village": "城南里",
-                "address": "宜蘭縣頭城鎮和平街88號1樓",
-                "tel": "0952-309277"
+                "class": "文理類,外語類,",
+                "students": "國小,國中,高中,成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
@@ -3695,8 +3695,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "國華里",
-                "address": "宜蘭縣羅東鎮四育路79號5樓",
-                "tel": "(03)9615494"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3714,8 +3714,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "信義里",
-                "address": "宜蘭縣羅東鎮純精路三段190號1樓",
-                "tel": "(03)9533223"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3733,8 +3733,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "思源里",
-                "address": "宜蘭縣宜蘭市宜中路43號1-3樓",
-                "tel": "(03)9311931"
+                "class": "外語類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3752,8 +3752,8 @@
                 "county": "宜蘭縣",
                 "town": "壯圍鄉",
                 "village": "吉祥村",
-                "address": "宜蘭縣壯圍鄉中央路2段342號1-3樓",
-                "tel": "(03)9373606"
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3771,8 +3771,8 @@
                 "county": "宜蘭縣",
                 "town": "頭城鎮",
                 "village": "金面里",
-                "address": "宜蘭縣頭城鎮青雲路2段639號1-2樓",
-                "tel": "(03)9770696"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3790,8 +3790,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "樹林里",
-                "address": "宜蘭縣羅東鎮樹人路46號1樓、2樓之6",
-                "tel": "(03)9544237"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3809,8 +3809,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "泰山里",
-                "address": "宜蘭縣宜蘭市民權新路471號1-2樓",
-                "tel": "(03)9367002"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3828,8 +3828,8 @@
                 "county": "宜蘭縣",
                 "town": "冬山鄉",
                 "village": "南興村",
-                "address": "宜蘭縣冬山鄉香南路355號2樓",
-                "tel": "(03)9590800"
+                "class": "文理類,外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3847,8 +3847,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "南豪里",
-                "address": "宜蘭縣羅東鎮文化街78號1樓",
-                "tel": "(03)9548338"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3866,8 +3866,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "延平里",
-                "address": "宜蘭縣宜蘭市延平路56巷57號1-3樓",
-                "tel": "(03)9373317"
+                "class": "文理類,",
+                "students": "其他"
             },
             "geometry": {
                 "type": "Point",
@@ -3885,8 +3885,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "思源里",
-                "address": "宜蘭縣宜蘭市宜中路51號1-3樓",
-                "tel": "(03)9366086"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3904,8 +3904,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "文化里",
-                "address": "宜蘭縣宜蘭市文化路35號1-3樓",
-                "tel": "(03)9363092"
+                "class": "文理類,",
+                "students": "國中高中"
             },
             "geometry": {
                 "type": "Point",
@@ -3923,8 +3923,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "公正里",
-                "address": "宜蘭縣羅東鎮林森路183、185、187號1樓",
-                "tel": "(03)9551009，9551209"
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3942,8 +3942,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "神農里",
-                "address": "宜蘭縣宜蘭市中山路2段238號2-3樓、宜興路1段5號2-3樓、宜興路1段7、9號1-3樓",
-                "tel": "(03)9367689"
+                "class": "資訊類,音樂、舞蹈類,",
+                "students": "其他"
             },
             "geometry": {
                 "type": "Point",
@@ -3961,8 +3961,8 @@
                 "county": "宜蘭縣",
                 "town": "礁溪鄉",
                 "village": "龍潭村",
-                "address": "宜蘭縣礁溪鄉龍潭村育龍路127號1-3樓",
-                "tel": "(03)9284110"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3980,8 +3980,8 @@
                 "county": "宜蘭縣",
                 "town": "冬山鄉",
                 "village": "南興村",
-                "address": "宜蘭縣冬山鄉香南路226巷8號1-2樓",
-                "tel": "(03)9590317"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3999,8 +3999,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "維揚里",
-                "address": "宜蘭縣羅東鎮中山路4段111號1-3樓",
-                "tel": "(03)9518080"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -4018,8 +4018,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "七結里",
-                "address": "宜蘭縣宜蘭市女中路3段64、102號8樓",
-                "tel": "(03)9334700"
+                "class": "音樂、舞蹈類,",
+                "students": "其他"
             },
             "geometry": {
                 "type": "Point",
@@ -4037,8 +4037,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "公正里",
-                "address": "宜蘭縣羅東鎮愛國路201號1樓",
-                "tel": "(03)9578208"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -4056,8 +4056,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "菜園里",
-                "address": "宜蘭縣宜蘭市力行路62號1樓",
-                "tel": "0952-868932"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -4075,8 +4075,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "泰山里",
-                "address": "宜蘭縣宜蘭市泰山路324巷1弄8號1至2樓",
-                "tel": "(03)9329992"
+                "class": "文理類,商類：珠算、心算、會計,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -4094,8 +4094,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "信義里",
-                "address": "宜蘭縣羅東鎮中華路178之5號1-3樓",
-                "tel": "(03)9534552"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -4113,8 +4113,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "公正里",
-                "address": "宜蘭縣羅東鎮愛國路250號1~2樓",
-                "tel": "(03)9533055"
+                "class": "文理類,",
+                "students": "其他,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -4132,8 +4132,8 @@
                 "county": "宜蘭縣",
                 "town": "冬山鄉",
                 "village": "清溝村",
-                "address": "宜蘭縣冬山鄉永安路258巷2號1~2樓",
-                "tel": "(03)9588113"
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -4151,8 +4151,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "公正里",
-                "address": "宜蘭縣羅東鎮愛國路238號1-3樓",
-                "tel": "(03)9534727"
+                "class": "文理類,商類：珠算、心算、會計,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -4170,8 +4170,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "漢民里",
-                "address": "宜蘭縣羅東鎮國華街64號",
-                "tel": "(03)9613760"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -4189,8 +4189,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "國華里",
-                "address": "宜蘭縣羅東鎮北成路1段86號",
-                "tel": "(03)9518836"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -4208,8 +4208,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "民族里",
-                "address": "宜蘭縣宜蘭市民族路145巷1號2-3樓、民族路143之1號2-3樓",
-                "tel": "(03)9311627"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -4227,8 +4227,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "樹林里",
-                "address": "宜蘭縣羅東鎮純精路三段107號2樓及樹人路52號1-3樓",
-                "tel": "(03)9560113\/9568113"
+                "class": "外語類,",
+                "students": "國小,國中,高中,學齡前"
             },
             "geometry": {
                 "type": "Point",
@@ -4246,8 +4246,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "南門里",
-                "address": "宜蘭縣宜蘭市民權路2段108號1-3樓",
-                "tel": "(03)9358545"
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -4265,8 +4265,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "東安里",
-                "address": "宜蘭縣羅東鎮中山路2段506號3-5樓",
-                "tel": "03-9532998"
+                "class": "電機、汽車修護、建築、工藝、製圖類,資訊類,家政、插花、烹飪類,美容、美髮理髮類,商類：珠算、心算、會計,",
+                "students": "成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
@@ -4284,8 +4284,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "公正里",
-                "address": "宜蘭縣羅東鎮中正北路77號2樓",
-                "tel": "(03)9577958"
+                "class": "文理類,",
+                "students": "其他"
             },
             "geometry": {
                 "type": "Point",
@@ -4303,8 +4303,8 @@
                 "county": "宜蘭縣",
                 "town": "蘇澳鎮",
                 "village": "隘丁里",
-                "address": "宜蘭縣蘇澳鎮和平路119、121號1-3樓",
-                "tel": "(03)9907360"
+                "class": "文理類,外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -4322,8 +4322,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "賢文里",
-                "address": "宜蘭縣羅東鎮中華路74之2號",
-                "tel": "(03)9533030"
+                "class": "文理類,外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -4341,8 +4341,8 @@
                 "county": "宜蘭縣",
                 "town": "五結鄉",
                 "village": "四結村",
-                "address": "宜蘭縣五結鄉中興路三段80號",
-                "tel": "(03)9658819"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -4360,8 +4360,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "南門里",
-                "address": "宜蘭縣宜蘭市民權路2段106號1-3樓",
-                "tel": "(03)9369975"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -4379,8 +4379,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "思源里",
-                "address": "宜蘭縣宜蘭市女中路三段319號3樓",
-                "tel": "(03)9325675"
+                "class": "外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -4398,8 +4398,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "國華里",
-                "address": "宜蘭縣羅東鎮四育路79號2樓",
-                "tel": "(03)9611700"
+                "class": "文理類,",
+                "students": "國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -4417,8 +4417,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "維揚里",
-                "address": "宜蘭縣羅東鎮維揚路79號1-2樓、79-1號",
-                "tel": "(03)9510410"
+                "class": "文理類,外語類,家政、插花、烹飪類,音樂、舞蹈類,其他類,",
+                "students": "社會人士"
             },
             "geometry": {
                 "type": "Point",
@@ -4436,8 +4436,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "大新里",
-                "address": "宜蘭縣羅東鎮大同路27號1-3樓",
-                "tel": "(03)9548995"
+                "class": "法政類,商類：珠算、心算、會計,",
+                "students": "公職人員考試,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -4455,8 +4455,8 @@
                 "county": "宜蘭縣",
                 "town": "壯圍鄉",
                 "village": "吉祥村",
-                "address": "宜蘭縣壯圍鄉吉祥村壯五路145號",
-                "tel": "(03)9372657"
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -4474,8 +4474,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "信義里",
-                "address": "宜蘭縣羅東鎮中華路178-8號1-4樓",
-                "tel": "(03)9533933"
+                "class": "文理類,外語類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -4493,8 +4493,8 @@
                 "county": "宜蘭縣",
                 "town": "蘇澳鎮",
                 "village": "聖湖里",
-                "address": "宜蘭縣蘇澳鎮聖湖里蘇港路349號1-3樓",
-                "tel": "(03)9952823"
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -4512,8 +4512,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "開明里",
-                "address": "宜蘭縣羅東鎮開羅街40號1樓",
-                "tel": "(03)9549807"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -4531,8 +4531,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "集祥里",
-                "address": "宜蘭縣羅東鎮長春路60號2樓",
-                "tel": "(03)9540367"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -4550,8 +4550,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "東村里",
-                "address": "宜蘭縣宜蘭市女中路1段121號1樓、123號2樓",
-                "tel": "(03)9385111、(03)9381187"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -4569,8 +4569,8 @@
                 "county": "宜蘭縣",
                 "town": "頭城鎮",
                 "village": "拔雅里",
-                "address": "宜蘭縣頭城鎮公園路30號1-4樓",
-                "tel": "(03)978-9966"
+                "class": "文理類,外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -4588,8 +4588,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "文化里",
-                "address": "宜蘭縣宜蘭市復興路2段72之1號",
-                "tel": "(03)9351209"
+                "class": "商類：珠算、心算、會計,",
+                "students": "其他"
             },
             "geometry": {
                 "type": "Point",
@@ -4607,8 +4607,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "信義里",
-                "address": "宜蘭縣羅東鎮中華路208之1號1樓",
-                "tel": "(03)9553113"
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -4626,8 +4626,8 @@
                 "county": "宜蘭縣",
                 "town": "冬山鄉",
                 "village": "南興村",
-                "address": "宜蘭縣冬山鄉照安路113巷1弄16號1~3樓",
-                "tel": "(03)9590699"
+                "class": "文理類,",
+                "students": "其他"
             },
             "geometry": {
                 "type": "Point",
@@ -4645,8 +4645,8 @@
                 "county": "宜蘭縣",
                 "town": "蘇澳鎮",
                 "village": "永榮里",
-                "address": "宜蘭縣蘇澳鎮永榮里和平路18號1-3樓",
-                "tel": "(03)9909556"
+                "class": "文理類,外語類,商類：珠算、心算、會計,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -4664,8 +4664,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "北成里",
-                "address": "宜蘭縣羅東鎮敬業路33號1-2樓",
-                "tel": "(03)9613399"
+                "class": "文理類,",
+                "students": "國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -4683,8 +4683,8 @@
                 "county": "宜蘭縣",
                 "town": "礁溪鄉",
                 "village": "大忠村",
-                "address": "宜蘭縣礁溪鄉大忠路8號1-3樓及大忠路13號1-2樓",
-                "tel": "(03)9874448"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -4702,8 +4702,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "公正里",
-                "address": "宜蘭縣羅東鎮公正路284巷1-2號3樓",
-                "tel": "(03)9556803"
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "其他"
             },
             "geometry": {
                 "type": "Point",
@@ -4721,8 +4721,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "中興里",
-                "address": "宜蘭縣宜蘭市中興路332號1樓",
-                "tel": "(03)9371528"
+                "class": "家政、插花、烹飪類,",
+                "students": "其他"
             },
             "geometry": {
                 "type": "Point",
@@ -4740,8 +4740,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "民族里",
-                "address": "宜蘭縣宜蘭市民權新路105號1、2樓",
-                "tel": "(03)9363939、0919282332"
+                "class": "文理類,",
+                "students": "國中,國小,其他"
             },
             "geometry": {
                 "type": "Point",
@@ -4759,8 +4759,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "思源里",
-                "address": "宜蘭縣宜蘭市農權路3段15號1-3樓",
-                "tel": "(03)9328138"
+                "class": "文理類,",
+                "students": "高中,國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -4778,8 +4778,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "思源里",
-                "address": "宜蘭縣宜蘭市嵐峰路三段136號1-2樓",
-                "tel": "(03)9315622"
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -4797,8 +4797,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "民權里",
-                "address": "宜蘭縣宜蘭市復興路一段16號1-3樓",
-                "tel": "(03)9328340"
+                "class": "外語類,音樂、舞蹈類,",
+                "students": "國小-成人"
             },
             "geometry": {
                 "type": "Point",
@@ -4816,8 +4816,8 @@
                 "county": "宜蘭縣",
                 "town": "礁溪鄉",
                 "village": "大忠村",
-                "address": "宜蘭縣礁溪鄉和平路54號1樓",
-                "tel": "(03)9882021"
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,其他類,",
+                "students": "國小,其他"
             },
             "geometry": {
                 "type": "Point",
@@ -4835,8 +4835,8 @@
                 "county": "宜蘭縣",
                 "town": "三星鄉",
                 "village": "義德村",
-                "address": "宜蘭縣三星鄉星德一路75號1-2樓",
-                "tel": "(03)9895226.9895108"
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -4854,8 +4854,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "公正里",
-                "address": "宜蘭縣羅東鎮公正路234號1-2樓",
-                "tel": "(03)9558077"
+                "class": "文理類,外語類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -4873,8 +4873,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "東村里",
-                "address": "宜蘭縣宜蘭市陽明二路15號1樓",
-                "tel": "(03)9372275"
+                "class": "文理類,外語類,",
+                "students": "其他,國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -4892,8 +4892,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "羅莊里",
-                "address": "宜蘭縣羅東鎮南宜二路6號1-3樓",
-                "tel": "(03)9549638"
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小國中"
             },
             "geometry": {
                 "type": "Point",
@@ -4911,8 +4911,8 @@
                 "county": "宜蘭縣",
                 "town": "冬山鄉",
                 "village": "廣興村",
-                "address": "宜蘭縣冬山鄉廣興路441巷1號1樓、439-1號1-3樓",
-                "tel": "(03)9512675"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -4930,8 +4930,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "信義里",
-                "address": "宜蘭縣羅東鎮中華路182之5號3、4樓",
-                "tel": "(03)9559568"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -4949,8 +4949,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "西安里",
-                "address": "宜蘭縣羅東鎮純精路一段85號1-3樓",
-                "tel": "(03)9518952 \/ 9612123"
+                "class": "文理類,",
+                "students": "其他"
             },
             "geometry": {
                 "type": "Point",
@@ -4968,8 +4968,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "思源里",
-                "address": "宜蘭縣宜蘭市宜中路79巷3號1-3樓",
-                "tel": "(03)9367468"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -4987,8 +4987,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "賢文里",
-                "address": "宜蘭縣羅東鎮公正路243之1號1-4樓",
-                "tel": "(03)9552300"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -5006,8 +5006,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "神農里",
-                "address": "宜蘭縣宜蘭市光復路35號",
-                "tel": "(03)9334002"
+                "class": "文理類,外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -5025,8 +5025,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "復興里",
-                "address": "宜蘭縣宜蘭市農權路154巷15號4樓",
-                "tel": "(03)9351574"
+                "class": "文理類,",
+                "students": "高中"
             },
             "geometry": {
                 "type": "Point",
@@ -5044,8 +5044,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "東村里",
-                "address": "宜蘭縣宜蘭市校舍二路73號2樓",
-                "tel": "(03)9387768"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -5063,8 +5063,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "大新里",
-                "address": "宜蘭縣羅東鎮站前路46巷3號1樓",
-                "tel": "(03)9562521"
+                "class": "文理類,商類：珠算、心算、會計,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -5082,8 +5082,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "信義里",
-                "address": "宜蘭縣羅東鎮中華路178-1號1-4樓",
-                "tel": "(03)9556135"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -5101,8 +5101,8 @@
                 "county": "宜蘭縣",
                 "town": "五結鄉",
                 "village": "五結村",
-                "address": "宜蘭縣五結鄉自強路175號1-2樓",
-                "tel": "0982484455"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -5120,8 +5120,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "國華里",
-                "address": "宜蘭縣羅東鎮培英路154號9樓之1",
-                "tel": "(03)9552909"
+                "class": "外語類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -5139,8 +5139,8 @@
                 "county": "宜蘭縣",
                 "town": "蘇澳鎮",
                 "village": "隘丁里",
-                "address": "宜蘭縣蘇澳鎮大同路52號1-2樓",
-                "tel": "(03)9904699 \/ 9559302"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -5158,8 +5158,8 @@
                 "county": "宜蘭縣",
                 "town": "礁溪鄉",
                 "village": "大忠村",
-                "address": "宜蘭縣礁溪鄉和平路80號1-2樓",
-                "tel": "(03)9884505"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -5177,8 +5177,8 @@
                 "county": "宜蘭縣",
                 "town": "冬山鄉",
                 "village": "南興村",
-                "address": "宜蘭縣冬山鄉照安路45號1-2樓",
-                "tel": "(03)9594201"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -5196,8 +5196,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "賢文里",
-                "address": "宜蘭縣羅東鎮忠孝路147號1-3樓",
-                "tel": "(03)9553845"
+                "class": "文理類,外語類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -5215,8 +5215,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "南門里",
-                "address": "宜蘭縣宜蘭市三清路35號1-2樓、41號1-3樓",
-                "tel": "(03)9310128"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -5234,8 +5234,8 @@
                 "county": "宜蘭縣",
                 "town": "礁溪鄉",
                 "village": "大忠村",
-                "address": "宜蘭縣礁溪鄉和平路91號1樓",
-                "tel": "(03)9880827"
+                "class": "商類：珠算、心算、會計,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -5253,8 +5253,8 @@
                 "county": "宜蘭縣",
                 "town": "頭城鎮",
                 "village": "武營里",
-                "address": "宜蘭縣頭城鎮開蘭路301號1-3樓",
-                "tel": "(03)9776255"
+                "class": "外語類,商類：珠算、心算、會計,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -5272,8 +5272,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "國華里",
-                "address": "宜蘭縣羅東鎮北成路一段190號1-2樓",
-                "tel": "(03)9613833"
+                "class": "外語類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -5291,8 +5291,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "文化里",
-                "address": "宜蘭縣宜蘭市民族路338號5樓",
-                "tel": "(03)9367373"
+                "class": "文理類,",
+                "students": "高中"
             },
             "geometry": {
                 "type": "Point",
@@ -5310,8 +5310,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "信義里",
-                "address": "宜蘭縣羅東鎮中華路178-3號1-4樓",
-                "tel": "(03)9540026"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -5329,8 +5329,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "信義里",
-                "address": "宜蘭縣羅東鎮中華路178之7號1-2樓",
-                "tel": "(03)9552237"
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -5348,8 +5348,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "思源里",
-                "address": "宜蘭縣宜蘭市宜中路47號1-3樓",
-                "tel": "(03)9357857"
+                "class": "外語類,",
+                "students": "其他"
             },
             "geometry": {
                 "type": "Point",
@@ -5367,8 +5367,8 @@
                 "county": "宜蘭縣",
                 "town": "頭城鎮",
                 "village": "城北里",
-                "address": "宜蘭縣頭城鎮纘祥路36號1-2樓",
-                "tel": "(03)9770868"
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -5386,8 +5386,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "仁德里",
-                "address": "宜蘭縣羅東鎮興東南路269之1號1-4樓",
-                "tel": "(03)9577364"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -5405,8 +5405,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "南昌里",
-                "address": "宜蘭縣羅東鎮中正南路84、86號1-2樓",
-                "tel": "(03)9559030"
+                "class": "文理類,外語類,其他類,",
+                "students": "國小,國中,國小、國中"
             },
             "geometry": {
                 "type": "Point",
@@ -5424,8 +5424,8 @@
                 "county": "宜蘭縣",
                 "town": "頭城鎮",
                 "village": "新建里",
-                "address": "宜蘭縣頭城鎮青雲路二段761號",
-                "tel": "(03)9773616"
+                "class": "音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -5443,8 +5443,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "賢文里",
-                "address": "宜蘭縣羅東鎮四育路126號1-3樓",
-                "tel": "(03)9612558"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -5462,8 +5462,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "民權里",
-                "address": "宜蘭縣宜蘭市民權里中華路52-1、52-2、52-3號1樓、52-2號2樓之2",
-                "tel": "(03)9355424"
+                "class": "文理類,",
+                "students": "高中"
             },
             "geometry": {
                 "type": "Point",
@@ -5481,8 +5481,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "孝廉里",
-                "address": "宜蘭縣宜蘭市新興路175號l-2樓",
-                "tel": "0905168976"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -5500,8 +5500,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "大新里",
-                "address": "宜蘭縣羅東鎮和平路98號1樓",
-                "tel": "(03)9576573"
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -5519,8 +5519,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "樹林里",
-                "address": "宜蘭縣羅東鎮樹人路39號1-3樓",
-                "tel": "(03)9540453"
+                "class": "文理類,商類：珠算、心算、會計,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -5538,8 +5538,8 @@
                 "county": "宜蘭縣",
                 "town": "礁溪鄉",
                 "village": "龍潭村",
-                "address": "宜蘭縣礁溪鄉龍潭村育龍路133號1-2樓",
-                "tel": "(03)9282100"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -5557,8 +5557,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "民族里",
-                "address": "宜蘭縣宜蘭市民權新路102號1-2樓",
-                "tel": "(03)9353411"
+                "class": "文理類,外語類,資訊類,家政、插花、烹飪類,美術、書法、攝影、美工設計、圍棋類,瑜珈類,其他類,",
+                "students": "成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
@@ -5576,8 +5576,8 @@
                 "county": "宜蘭縣",
                 "town": "礁溪鄉",
                 "village": "吳沙村",
-                "address": "宜蘭縣礁溪鄉吳沙村育英路124號1-2樓、126號1-2樓",
-                "tel": "(03)9285345"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -5595,8 +5595,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "七結里",
-                "address": "宜蘭縣宜蘭市民族路582號2樓",
-                "tel": "(03)9321666"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -5614,8 +5614,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "民權里",
-                "address": "宜蘭縣宜蘭市女中路2段309號2樓之1",
-                "tel": "(03)9322488"
+                "class": "外語類,",
+                "students": "其他"
             },
             "geometry": {
                 "type": "Point",
@@ -5633,8 +5633,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "信義里",
-                "address": "宜蘭縣羅東鎮興東路319號1-2樓321號1-3樓",
-                "tel": "(03)9572126"
+                "class": "外語類,音樂、舞蹈類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -5652,8 +5652,8 @@
                 "county": "宜蘭縣",
                 "town": "頭城鎮",
                 "village": "城南里",
-                "address": "宜蘭縣頭城鎮青雲路三段72號1樓",
-                "tel": "(03)9771777"
+                "class": "外語類,",
+                "students": "其他"
             },
             "geometry": {
                 "type": "Point",
@@ -5671,8 +5671,8 @@
                 "county": "宜蘭縣",
                 "town": "蘇澳鎮",
                 "village": "隘丁里",
-                "address": "宜蘭縣蘇澳鎮仁愛路161號1-2樓",
-                "tel": "(03)9905910"
+                "class": "文理類,音樂、舞蹈類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -5690,8 +5690,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "民權里",
-                "address": "宜蘭縣宜蘭市中華路235號1至4樓",
-                "tel": "(03)9363926"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -5709,8 +5709,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "公正里",
-                "address": "宜蘭縣羅東鎮林森路198號、200號1樓",
-                "tel": "(03)9557695"
+                "class": "文理類,資訊類,",
+                "students": "成人(18歲以上),國中"
             },
             "geometry": {
                 "type": "Point",
@@ -5728,8 +5728,8 @@
                 "county": "宜蘭縣",
                 "town": "羅東鎮",
                 "village": "賢文里",
-                "address": "宜蘭縣羅東鎮民權路200號1樓",
-                "tel": "(03)9576873\/9549787"
+                "class": "商類：珠算、心算、會計,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -5747,8 +5747,8 @@
                 "county": "宜蘭縣",
                 "town": "宜蘭市",
                 "village": "神農里",
-                "address": "宜蘭縣宜蘭市和睦路1之30號2樓",
-                "tel": "(03)9324247"
+                "class": "音樂、舞蹈類,",
+                "students": "其他"
             },
             "geometry": {
                 "type": "Point",

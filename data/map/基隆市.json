@@ -9,8 +9,8 @@
                 "county": "基隆市",
                 "town": "七堵區",
                 "village": "實踐里",
-                "address": "基隆市七堵區百三街138號",
-                "tel": "0974-232332"
+                "class": "音樂、舞蹈類,瑜珈類,",
+                "students": "幼兒、國小、青少年、成人,學齡前,成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
@@ -28,8 +28,8 @@
                 "county": "基隆市",
                 "town": "中山區",
                 "village": "和慶里",
-                "address": "基隆市中山區中和路168巷3弄15號1樓",
-                "tel": "（02）2437-2876"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -47,8 +47,8 @@
                 "county": "基隆市",
                 "town": "信義區",
                 "village": "仁壽里",
-                "address": "基隆市信義區信一路133之8號5樓",
-                "tel": "（02）2426-4098"
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小、國中、高中、成人"
             },
             "geometry": {
                 "type": "Point",
@@ -66,8 +66,8 @@
                 "county": "基隆市",
                 "town": "暖暖區",
                 "village": "暖西里",
-                "address": "基隆市暖暖區暖暖街379巷123號1樓",
-                "tel": "（02）2458-8161"
+                "class": "音樂、舞蹈類,",
+                "students": "國小、青少年、成 人"
             },
             "geometry": {
                 "type": "Point",
@@ -85,8 +85,8 @@
                 "county": "基隆市",
                 "town": "中正區",
                 "village": "中濱里",
-                "address": "基隆市中正區武昌街5之1號2樓",
-                "tel": "（02）2462-1978"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -104,8 +104,8 @@
                 "county": "基隆市",
                 "town": "信義區",
                 "village": "孝忠里",
-                "address": "基隆市信義區教忠街56號1樓",
-                "tel": "（02）2466-6621"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -123,8 +123,8 @@
                 "county": "基隆市",
                 "town": "信義區",
                 "village": "義和里",
-                "address": "基隆市信義區正信路151巷5-1號1樓、基隆市信義區正信路151巷5-2號1樓、基隆市信義區正信路151巷5-3號1樓",
-                "tel": "0958-318615、（02）2465-2535"
+                "class": "文理類,商類：珠算、心算、會計,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -142,8 +142,8 @@
                 "county": "基隆市",
                 "town": "中正區",
                 "village": "德義里",
-                "address": "基隆市中正區信二路276之1號1樓",
-                "tel": "（02）2421-1624"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -161,8 +161,8 @@
                 "county": "基隆市",
                 "town": "中山區",
                 "village": "西康里",
-                "address": "基隆市中山區復興路95號2樓",
-                "tel": "0911-938126"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -180,8 +180,8 @@
                 "county": "基隆市",
                 "town": "仁愛區",
                 "village": "水錦里",
-                "address": "基隆市仁愛區劉銘傳路1之2號3樓",
-                "tel": "（02）2428-9211"
+                "class": "外語類,資訊類,家政、插花、烹飪類,縫紉類,美容、美髮理髮類,音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類,瑜珈類,",
+                "students": "國小以上（依規招收）"
             },
             "geometry": {
                 "type": "Point",
@@ -199,8 +199,8 @@
                 "county": "基隆市",
                 "town": "仁愛區",
                 "village": "和明里",
-                "address": "基隆市仁愛區仁二路86號4樓",
-                "tel": "（02）2428-2155"
+                "class": "文理類,",
+                "students": "國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -218,8 +218,8 @@
                 "county": "基隆市",
                 "town": "仁愛區",
                 "village": "玉田里",
-                "address": "基隆市仁愛區仁二路201號3樓",
-                "tel": "（02）2428-2880"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -237,8 +237,8 @@
                 "county": "基隆市",
                 "town": "信義區",
                 "village": "義民里",
-                "address": "基隆市信義區信二路63號2樓、基隆市信義區信二路65號2樓",
-                "tel": "（02）2425-9480"
+                "class": "文理類,外語類,音樂、舞蹈類,商類：珠算、心算、會計,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -256,8 +256,8 @@
                 "county": "基隆市",
                 "town": "暖暖區",
                 "village": "暖西里",
-                "address": "基隆市暖暖區暖暖街357號1樓",
-                "tel": "（02）2459-6888"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -275,8 +275,8 @@
                 "county": "基隆市",
                 "town": "暖暖區",
                 "village": "暖西里",
-                "address": "基隆市暖暖區暖暖街441號1樓",
-                "tel": "（02）2457-1781"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -294,8 +294,8 @@
                 "county": "基隆市",
                 "town": "信義區",
                 "village": "智慧里",
-                "address": "基隆市信義區仁一路25號4樓",
-                "tel": "（02）2425-6615"
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "幼兒、兒童、青少年、成人"
             },
             "geometry": {
                 "type": "Point",
@@ -313,8 +313,8 @@
                 "county": "基隆市",
                 "town": "仁愛區",
                 "village": "新店里",
-                "address": "基隆市仁愛區忠二路26號3樓",
-                "tel": "（02）2428-0217"
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小以上至成人"
             },
             "geometry": {
                 "type": "Point",
@@ -332,8 +332,8 @@
                 "county": "基隆市",
                 "town": "中正區",
                 "village": "港通里",
-                "address": "基隆市中正區義一路18號9樓B",
-                "tel": "（02）2426-7088"
+                "class": "外語類,",
+                "students": "成人(18歲以上),高中,國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -351,8 +351,8 @@
                 "county": "基隆市",
                 "town": "仁愛區",
                 "village": "和明里",
-                "address": "基隆市仁愛區愛六路8之1號",
-                "tel": "（02）2425-6660"
+                "class": "文理類,",
+                "students": "國小,學齡前"
             },
             "geometry": {
                 "type": "Point",
@@ -370,8 +370,8 @@
                 "county": "基隆市",
                 "town": "仁愛區",
                 "village": "和明里",
-                "address": "基隆市仁愛區愛六路26號1、2樓",
-                "tel": "（02）2428-7733"
+                "class": "文理類,外語類,",
+                "students": "學齡前,成人(18歲以上),國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -389,8 +389,8 @@
                 "county": "基隆市",
                 "town": "中山區",
                 "village": "中和里",
-                "address": "基隆市中山區中和路95號1樓",
-                "tel": "（02）2437-9891"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -408,8 +408,8 @@
                 "county": "基隆市",
                 "town": "安樂區",
                 "village": "五福里",
-                "address": "基隆市安樂區樂利三街28巷2號1樓",
-                "tel": "（02）2434-6100"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -427,8 +427,8 @@
                 "county": "基隆市",
                 "town": "信義區",
                 "village": "仁壽里",
-                "address": "基隆市信義區信二路273之1號2F、基隆市信義區信二路273之2號3F",
-                "tel": "（02）2428-8338"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -446,8 +446,8 @@
                 "county": "基隆市",
                 "town": "暖暖區",
                 "village": "暖同里",
-                "address": "基隆市暖暖區暖暖街106之1號2樓",
-                "tel": "（02）2459-0279"
+                "class": "文理類,",
+                "students": "國小,學齡前"
             },
             "geometry": {
                 "type": "Point",
@@ -465,8 +465,8 @@
                 "county": "基隆市",
                 "town": "中正區",
                 "village": "砂子里",
-                "address": "基隆市中正區觀海街71號1樓",
-                "tel": "（02）2460-7272"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -484,8 +484,8 @@
                 "county": "基隆市",
                 "town": "仁愛區",
                 "village": "智仁里",
-                "address": "基隆市仁愛區仁二路119巷5號1樓",
-                "tel": "（02）2428-4047"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -503,8 +503,8 @@
                 "county": "基隆市",
                 "town": "七堵區",
                 "village": "友一里",
-                "address": "基隆市七堵區綠葉街15號1-2樓",
-                "tel": "（02）2450-8661"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -522,8 +522,8 @@
                 "county": "基隆市",
                 "town": "七堵區",
                 "village": "正明里",
-                "address": "基隆市七堵區南興路108號",
-                "tel": "（02）2456-4568"
+                "class": "文理類,",
+                "students": "國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -541,8 +541,8 @@
                 "county": "基隆市",
                 "town": "仁愛區",
                 "village": "和明里",
-                "address": "基隆市仁愛區仁一路299號3-5樓",
-                "tel": "（02）2428-3007"
+                "class": "外語類,",
+                "students": "國小,學齡前,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -560,8 +560,8 @@
                 "county": "基隆市",
                 "town": "仁愛區",
                 "village": "仁德里",
-                "address": "基隆市仁愛區愛三路128號8樓",
-                "tel": "（02）2425-2645"
+                "class": "文理類,",
+                "students": "高中,國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -579,8 +579,8 @@
                 "county": "基隆市",
                 "town": "信義區",
                 "village": "仁壽里",
-                "address": "基隆市信義區信一路133之1號2樓",
-                "tel": "（02）2426-2386"
+                "class": "文理類,",
+                "students": "國小、國中"
             },
             "geometry": {
                 "type": "Point",
@@ -598,8 +598,8 @@
                 "county": "基隆市",
                 "town": "中正區",
                 "village": "港通里",
-                "address": "基隆市中正區義一路18號12樓",
-                "tel": "（02）2424-7777"
+                "class": "文理類,",
+                "students": "國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -617,8 +617,8 @@
                 "county": "基隆市",
                 "town": "中正區",
                 "village": "港通里",
-                "address": "基隆市中正區義一路18號15樓",
-                "tel": "（02）2427-7700"
+                "class": "瑜珈類,",
+                "students": "其他"
             },
             "geometry": {
                 "type": "Point",
@@ -636,8 +636,8 @@
                 "county": "基隆市",
                 "town": "安樂區",
                 "village": "五福里",
-                "address": "基隆市安樂區樂利三街30巷15號1樓",
-                "tel": "（02）2433-3018"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -655,8 +655,8 @@
                 "county": "基隆市",
                 "town": "仁愛區",
                 "village": "和明里",
-                "address": "基隆市仁愛區仁一路277號3樓之2",
-                "tel": "（02）2421-2868"
+                "class": "音樂、舞蹈類,",
+                "students": "各年齡層"
             },
             "geometry": {
                 "type": "Point",
@@ -674,8 +674,8 @@
                 "county": "基隆市",
                 "town": "中正區",
                 "village": "中正里",
-                "address": "基隆市中正區中正路668號2樓",
-                "tel": "（02）2463-6962"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -693,8 +693,8 @@
                 "county": "基隆市",
                 "town": "七堵區",
                 "village": "正光里",
-                "address": "基隆市七堵區崇禮街26號1-3樓",
-                "tel": "（02）2455-3300"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -712,8 +712,8 @@
                 "county": "基隆市",
                 "town": "仁愛區",
                 "village": "花崗里",
-                "address": "基隆市仁愛區愛九路1號3樓",
-                "tel": "02-24268058"
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -731,8 +731,8 @@
                 "county": "基隆市",
                 "town": "暖暖區",
                 "village": "暖西里",
-                "address": "基隆市暖暖區暖暖街457號4、5樓",
-                "tel": "（02）2458-2020"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -750,8 +750,8 @@
                 "county": "基隆市",
                 "town": "信義區",
                 "village": "仁義里",
-                "address": "基隆市信義區信一路111號11樓",
-                "tel": "（02）2429-1717"
+                "class": "文理類,",
+                "students": "國中.高中"
             },
             "geometry": {
                 "type": "Point",
@@ -769,8 +769,8 @@
                 "county": "基隆市",
                 "town": "仁愛區",
                 "village": "和明里",
-                "address": "基隆市仁愛區仁二路120號3樓",
-                "tel": "（02）2425-6299"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -788,8 +788,8 @@
                 "county": "基隆市",
                 "town": "安樂區",
                 "village": "武崙里",
-                "address": "基隆市安樂區基金一路135巷21弄25號1、2樓及基隆市安樂區基金一路135巷21弄1號1樓",
-                "tel": "（02）2432-7730"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -807,8 +807,8 @@
                 "county": "基隆市",
                 "town": "信義區",
                 "village": "孝忠里",
-                "address": "基隆市信義區深溪路155號1~4樓",
-                "tel": "(02)2468-5188"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -826,8 +826,8 @@
                 "county": "基隆市",
                 "town": "仁愛區",
                 "village": "智仁里",
-                "address": "基隆市仁愛區延平街12巷16號3樓",
-                "tel": "（02）2425-0198"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -845,8 +845,8 @@
                 "county": "基隆市",
                 "town": "七堵區",
                 "village": "百福里",
-                "address": "基隆市七堵區福二街172巷6號1樓",
-                "tel": "（02）2452-8202"
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -864,8 +864,8 @@
                 "county": "基隆市",
                 "town": "中正區",
                 "village": "建國里",
-                "address": "基隆市中正區祥豐街347號2樓",
-                "tel": "（02）2462-9210"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -883,8 +883,8 @@
                 "county": "基隆市",
                 "town": "信義區",
                 "village": "仁壽里",
-                "address": "基隆市信義區信一路133號2樓",
-                "tel": "（02）2424-4000"
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -902,8 +902,8 @@
                 "county": "基隆市",
                 "town": "仁愛區",
                 "village": "水錦里",
-                "address": "基隆市仁愛區劉銘傳路76號1、2樓",
-                "tel": "（02）2428-1911"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -921,8 +921,8 @@
                 "county": "基隆市",
                 "town": "仁愛區",
                 "village": "文昌里",
-                "address": "基隆市仁愛區孝三路99巷7號4樓之2",
-                "tel": "（02）2425-4990"
+                "class": "文理類,",
+                "students": "成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
@@ -940,8 +940,8 @@
                 "county": "基隆市",
                 "town": "信義區",
                 "village": "東明里",
-                "address": "基隆市信義區東光路261之17號3、4樓",
-                "tel": "(02)2466-0099"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -959,8 +959,8 @@
                 "county": "基隆市",
                 "town": "仁愛區",
                 "village": "智仁里",
-                "address": "基隆市仁愛區仁二路127號1-3樓",
-                "tel": "（02）2428-1319"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -978,8 +978,8 @@
                 "county": "基隆市",
                 "town": "中山區",
                 "village": "中和里",
-                "address": "基隆市中山區中和路70巷1號3樓",
-                "tel": "（02）2437-1212"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -997,8 +997,8 @@
                 "county": "基隆市",
                 "town": "信義區",
                 "village": "孝賢里",
-                "address": "基隆市信義區深澳坑路2-28號",
-                "tel": "（02）2465-6218"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1016,8 +1016,8 @@
                 "county": "基隆市",
                 "town": "中山區",
                 "village": "中和里",
-                "address": "基隆市中山區中和路97號1樓、基隆市中山區中和路97-1號1樓",
-                "tel": "（02）2437-9379"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1035,8 +1035,8 @@
                 "county": "基隆市",
                 "town": "信義區",
                 "village": "孝忠里",
-                "address": "基隆市信義區深溪路35號1-4樓",
-                "tel": "（02）2466-9308"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1054,8 +1054,8 @@
                 "county": "基隆市",
                 "town": "仁愛區",
                 "village": "和明里",
-                "address": "基隆市仁愛區仁二路120號4樓",
-                "tel": "（02）2426-6006"
+                "class": "文理類,音樂、舞蹈類,",
+                "students": "國小,學齡前,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1073,8 +1073,8 @@
                 "county": "基隆市",
                 "town": "仁愛區",
                 "village": "新店里",
-                "address": "基隆市仁愛區孝二路96號2樓",
-                "tel": "（02）2422-1000"
+                "class": "外語類,",
+                "students": "國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -1092,8 +1092,8 @@
                 "county": "基隆市",
                 "town": "安樂區",
                 "village": "四維里",
-                "address": "基隆市安樂區安和一街144號",
-                "tel": "（02）2431-8008"
+                "class": "文理類,商類：珠算、心算、會計,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1111,8 +1111,8 @@
                 "county": "基隆市",
                 "town": "暖暖區",
                 "village": "過港里",
-                "address": "基隆市暖暖區過港路148號2、3樓",
-                "tel": "（02）2457-5931"
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1130,8 +1130,8 @@
                 "county": "基隆市",
                 "town": "安樂區",
                 "village": "內寮里",
-                "address": "基隆市安樂區基金三路52之8號1-3樓、基隆市安樂區基金三路52之9號1-2樓",
-                "tel": "（02）2433-3938分機431"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1149,8 +1149,8 @@
                 "county": "基隆市",
                 "town": "安樂區",
                 "village": "四維里",
-                "address": "基隆市安樂區安和一街136號1樓、基隆市安樂區安和一街150號1樓",
-                "tel": "（02）2430-2166"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1168,8 +1168,8 @@
                 "county": "基隆市",
                 "town": "安樂區",
                 "village": "武崙里",
-                "address": "基隆市安樂區基金一路135巷21弄63號1樓及基隆市安樂區基金一路135巷21弄57號1樓",
-                "tel": "（02）2432-2111"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1187,8 +1187,8 @@
                 "county": "基隆市",
                 "town": "七堵區",
                 "village": "百福里",
-                "address": "基隆市七堵區百三街89巷2-2號3樓、基隆市七堵區百三街89巷4-2號3樓",
-                "tel": "（02）2452-0661"
+                "class": "文理類,商類：珠算、心算、會計,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1206,8 +1206,8 @@
                 "county": "基隆市",
                 "town": "七堵區",
                 "village": "永平里",
-                "address": "基隆市七堵區明德一路186號3樓、基隆市七堵區明德一路188號3樓",
-                "tel": "（02）2456-0768"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1225,8 +1225,8 @@
                 "county": "基隆市",
                 "town": "安樂區",
                 "village": "武崙里",
-                "address": "基隆市安樂區基金一路135巷21弄65、67、87號1樓",
-                "tel": "（02）2434-1111"
+                "class": "文理類,",
+                "students": "國小.國中,國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1244,8 +1244,8 @@
                 "county": "基隆市",
                 "town": "仁愛區",
                 "village": "水錦里",
-                "address": "基隆市仁愛區仁二路19-1號2樓",
-                "tel": "（02）2423-0237"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1263,8 +1263,8 @@
                 "county": "基隆市",
                 "town": "中正區",
                 "village": "真砂里",
-                "address": "基隆市中正區豐稔街49號1樓",
-                "tel": "(02)2462-6789"
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1282,8 +1282,8 @@
                 "county": "基隆市",
                 "town": "暖暖區",
                 "village": "暖同里",
-                "address": "基隆市暖暖區暖暖街252號",
-                "tel": "（02）2458-2625"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1301,8 +1301,8 @@
                 "county": "基隆市",
                 "town": "安樂區",
                 "village": "六合里",
-                "address": "基隆市安樂區樂利三街126之1號2樓",
-                "tel": "（02）2431-8218"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1320,8 +1320,8 @@
                 "county": "基隆市",
                 "town": "中正區",
                 "village": "正濱里",
-                "address": "基隆市中正區中正路623-1號2樓、基隆市中正區中正路625-1號2樓",
-                "tel": "（02）2462-3058"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1339,8 +1339,8 @@
                 "county": "基隆市",
                 "town": "安樂區",
                 "village": "鶯歌里",
-                "address": "基隆市安樂區麥金路240號1樓",
-                "tel": "（02）2431-5599"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1358,8 +1358,8 @@
                 "county": "基隆市",
                 "town": "暖暖區",
                 "village": "碇安里",
-                "address": "基隆市暖暖區源遠路249巷8號1樓",
-                "tel": "(02)2458-2355"
+                "class": "文理類,",
+                "students": "國中.小"
             },
             "geometry": {
                 "type": "Point",
@@ -1377,8 +1377,8 @@
                 "county": "基隆市",
                 "town": "仁愛區",
                 "village": "新店里",
-                "address": "基隆市仁愛區孝二路106號1、3樓、基隆市仁愛區忠一路3巷6號1樓",
-                "tel": "（02）2428-8808"
+                "class": "資訊類,",
+                "students": "高中\/職以上"
             },
             "geometry": {
                 "type": "Point",
@@ -1396,8 +1396,8 @@
                 "county": "基隆市",
                 "town": "安樂區",
                 "village": "外寮里",
-                "address": "基隆市安樂區武嶺街16-2號3樓",
-                "tel": "（02）2430-2820"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1415,8 +1415,8 @@
                 "county": "基隆市",
                 "town": "信義區",
                 "village": "孝忠里",
-                "address": "基隆市信義區深美街149號、基隆市信義區教忠街110號",
-                "tel": "（02）2465-5999"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1434,8 +1434,8 @@
                 "county": "基隆市",
                 "town": "七堵區",
                 "village": "堵北里",
-                "address": "基隆市七堵區福一街101號1-2樓、基隆市七堵區福一街103號1-2樓",
-                "tel": "（02）2451-6689"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1453,8 +1453,8 @@
                 "county": "基隆市",
                 "town": "暖暖區",
                 "village": "碇和里",
-                "address": "基隆市暖暖區東碇路501號1樓、基隆市暖暖區暖碇路38巷96號1樓",
-                "tel": "（02）2459-1668"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1472,8 +1472,8 @@
                 "county": "基隆市",
                 "town": "信義區",
                 "village": "孝忠里",
-                "address": "基隆市信義區教忠街40巷32號1-2樓",
-                "tel": "（02）2466-3131"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1491,8 +1491,8 @@
                 "county": "基隆市",
                 "town": "中正區",
                 "village": "港通里",
-                "address": "基隆市中正區義一路22、24號3樓",
-                "tel": "（02）2423-3679"
+                "class": "外語類,",
+                "students": "其他"
             },
             "geometry": {
                 "type": "Point",
@@ -1510,8 +1510,8 @@
                 "county": "基隆市",
                 "town": "中山區",
                 "village": "德和里",
-                "address": "基隆市中山區復興路334巷19號1樓",
-                "tel": "（02）2437-1400"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1529,8 +1529,8 @@
                 "county": "基隆市",
                 "town": "暖暖區",
                 "village": "碇和里",
-                "address": "基隆市暖暖區源遠路170-2號1樓",
-                "tel": "（02）2459-4567"
+                "class": "文理類,",
+                "students": "高中,國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1548,8 +1548,8 @@
                 "county": "基隆市",
                 "town": "暖暖區",
                 "village": "碇和里",
-                "address": "基隆市暖暖區源遠路170-2號2樓",
-                "tel": "（02）2459-4567"
+                "class": "文理類,",
+                "students": "國小、國中、高中(教室A),國小、國中、高中(教室B),國小、國中、高中(教室C),國小、國中、高中(教室D)"
             },
             "geometry": {
                 "type": "Point",
@@ -1567,8 +1567,8 @@
                 "county": "基隆市",
                 "town": "仁愛區",
                 "village": "和明里",
-                "address": "基隆市仁愛區仁一路261之1號2樓",
-                "tel": "（02）2422-3615"
+                "class": "音樂、舞蹈類,",
+                "students": "國小.國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1586,8 +1586,8 @@
                 "county": "基隆市",
                 "town": "七堵區",
                 "village": "正明里",
-                "address": "基隆市七堵區開元路118、118之1、120號",
-                "tel": "（02）2455-7777"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1605,8 +1605,8 @@
                 "county": "基隆市",
                 "town": "仁愛區",
                 "village": "和明里",
-                "address": "基隆市仁愛區仁一路295之10號5樓",
-                "tel": "（02）2426-6555"
+                "class": "外語類,",
+                "students": "其他"
             },
             "geometry": {
                 "type": "Point",
@@ -1624,8 +1624,8 @@
                 "county": "基隆市",
                 "town": "安樂區",
                 "village": "鶯歌里",
-                "address": "基隆市安樂區安樂路二段183之5號6樓",
-                "tel": "（02）2432-2684"
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國中小成人"
             },
             "geometry": {
                 "type": "Point",
@@ -1643,8 +1643,8 @@
                 "county": "基隆市",
                 "town": "暖暖區",
                 "village": "碇安里",
-                "address": "基隆市暖暖區暖碇路151號1樓",
-                "tel": "（02）2459-2268"
+                "class": "文理類,",
+                "students": "國中小"
             },
             "geometry": {
                 "type": "Point",
@@ -1662,8 +1662,8 @@
                 "county": "基隆市",
                 "town": "信義區",
                 "village": "孝忠里",
-                "address": "基隆市信義區深溪路141號4樓、143號4樓、145號4樓",
-                "tel": "（02）2468-3535"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1681,8 +1681,8 @@
                 "county": "基隆市",
                 "town": "安樂區",
                 "village": "鶯歌里",
-                "address": "基隆市安樂區安樂路二段139之1號2樓",
-                "tel": "（02）2431-6060"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1700,8 +1700,8 @@
                 "county": "基隆市",
                 "town": "七堵區",
                 "village": "富民里",
-                "address": "基隆市七堵區明德一路156號2-4樓；基隆市七堵區明德一路158號1-4樓",
-                "tel": "（02）2455-3031"
+                "class": "外語類,",
+                "students": "其他"
             },
             "geometry": {
                 "type": "Point",
@@ -1719,8 +1719,8 @@
                 "county": "基隆市",
                 "town": "仁愛區",
                 "village": "和明里",
-                "address": "基隆市仁愛區仁二路150號1-3樓",
-                "tel": "（02）2424-2050"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1738,8 +1738,8 @@
                 "county": "基隆市",
                 "town": "信義區",
                 "village": "仁壽里",
-                "address": "基隆市信義區信一路133-6號5樓",
-                "tel": "（02）2422-1778"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1757,8 +1757,8 @@
                 "county": "基隆市",
                 "town": "中正區",
                 "village": "新富里",
-                "address": "基隆市中正區新豐街251巷12號1-4樓",
-                "tel": "（02）2469-5050"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1776,8 +1776,8 @@
                 "county": "基隆市",
                 "town": "信義區",
                 "village": "仁壽里",
-                "address": "基隆市信義區信一 路132號5樓之1及基隆市信義區信一路132號5樓之2",
-                "tel": "（02）2425-2902"
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1795,8 +1795,8 @@
                 "county": "基隆市",
                 "town": "中正區",
                 "village": "港通里",
-                "address": "基隆市中正區義一路 4、6號2、3樓",
-                "tel": "（02）2425-0691"
+                "class": "文理類,",
+                "students": "研究所"
             },
             "geometry": {
                 "type": "Point",
@@ -1814,8 +1814,8 @@
                 "county": "基隆市",
                 "town": "暖暖區",
                 "village": "碇安里",
-                "address": "基隆市暖暖區暖碇路157號1、2樓",
-                "tel": "(02)24585935"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1833,8 +1833,8 @@
                 "county": "基隆市",
                 "town": "安樂區",
                 "village": "五福里",
-                "address": "基隆市安樂區樂利三街28巷14號1樓",
-                "tel": "（02）2431-8886"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1852,8 +1852,8 @@
                 "county": "基隆市",
                 "town": "安樂區",
                 "village": "安和里",
-                "address": "基隆市安樂區安一路173號及175號1樓",
-                "tel": "02-2429-1730"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1871,8 +1871,8 @@
                 "county": "基隆市",
                 "town": "七堵區",
                 "village": "實踐里",
-                "address": "基隆市七堵區福一街20巷29號1樓",
-                "tel": "（02）2451-8226"
+                "class": "文理類,",
+                "students": "國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -1890,8 +1890,8 @@
                 "county": "基隆市",
                 "town": "暖暖區",
                 "village": "碇內里",
-                "address": "基隆市暖暖區源遠路260巷26弄17-1號2",
-                "tel": "（02）2457-1009"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1909,8 +1909,8 @@
                 "county": "基隆市",
                 "town": "仁愛區",
                 "village": "智仁里",
-                "address": "基隆市仁愛區仁二路95號2樓",
-                "tel": "0935123249"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1928,8 +1928,8 @@
                 "county": "基隆市",
                 "town": "仁愛區",
                 "village": "光華里",
-                "address": "基隆市仁愛區華二街10號1-4樓",
-                "tel": "（02）2434-0699"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1947,8 +1947,8 @@
                 "county": "基隆市",
                 "town": "中正區",
                 "village": "正義里",
-                "address": "基隆市中正區正義路2巷111號4樓、基隆市中正區正義路2巷112號4樓",
-                "tel": "（02）2428-6118"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1966,8 +1966,8 @@
                 "county": "基隆市",
                 "town": "暖暖區",
                 "village": "碇安里",
-                "address": "基隆市暖暖區源遠路277巷15號1樓",
-                "tel": "（02）2458-8389"
+                "class": "文理類,商類：珠算、心算、會計,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1985,8 +1985,8 @@
                 "county": "基隆市",
                 "town": "仁愛區",
                 "village": "智仁里",
-                "address": "基隆市仁愛區延平街12巷6號1-3樓",
-                "tel": "(02)24286820"
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國中小"
             },
             "geometry": {
                 "type": "Point",
@@ -2004,8 +2004,8 @@
                 "county": "基隆市",
                 "town": "中正區",
                 "village": "港通里",
-                "address": "基隆市中正區義一路18號12樓",
-                "tel": "(02)24252773、24253566"
+                "class": "音樂、舞蹈類,",
+                "students": "成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
@@ -2023,8 +2023,8 @@
                 "county": "基隆市",
                 "town": "暖暖區",
                 "village": "暖西里",
-                "address": "基隆市暖暖區暖暖街379巷6號",
-                "tel": "（02）2458-5582"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2042,8 +2042,8 @@
                 "county": "基隆市",
                 "town": "仁愛區",
                 "village": "玉田里",
-                "address": "基隆市仁愛區仁二路193-3號4樓",
-                "tel": "（02）2420-1139"
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2061,8 +2061,8 @@
                 "county": "基隆市",
                 "town": "暖暖區",
                 "village": "碇安里",
-                "address": "基隆市暖暖區暖碇路159號1、2樓",
-                "tel": "（02）2458-3600"
+                "class": "文理類,外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2080,8 +2080,8 @@
                 "county": "基隆市",
                 "town": "安樂區",
                 "village": "四維里",
-                "address": "基隆市安樂區安和一街129巷3號、基隆市安樂區安和一街129巷3-1號",
-                "tel": "(02)2431-9440"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2099,8 +2099,8 @@
                 "county": "基隆市",
                 "town": "七堵區",
                 "village": "正明里",
-                "address": "基隆市七堵區南興路86-1號2樓",
-                "tel": "（02）2456-6588"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2118,8 +2118,8 @@
                 "county": "基隆市",
                 "town": "七堵區",
                 "village": "實踐里",
-                "address": "基隆市七堵區福一街16號1樓",
-                "tel": "（02）2452-8666"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2137,8 +2137,8 @@
                 "county": "基隆市",
                 "town": "中正區",
                 "village": "真砂里",
-                "address": "基隆市中正區豐稔街41巷25號1樓",
-                "tel": "0983-135202"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2156,8 +2156,8 @@
                 "county": "基隆市",
                 "town": "安樂區",
                 "village": "四維里",
-                "address": "基隆市安樂區安和一街129巷1號、1-1號",
-                "tel": "（02）3401-2122"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2175,8 +2175,8 @@
                 "county": "基隆市",
                 "town": "仁愛區",
                 "village": "仁德里",
-                "address": "基隆市仁愛區愛二路55號3樓",
-                "tel": "（02）2420-1000"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2194,8 +2194,8 @@
                 "county": "基隆市",
                 "town": "仁愛區",
                 "village": "仁德里",
-                "address": "基隆市仁愛區愛三路128號5樓",
-                "tel": "（02）2423-3916"
+                "class": "文理類,電機、汽車修護、建築、工藝、製圖類,商類：珠算、心算、會計,",
+                "students": "成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
@@ -2213,8 +2213,8 @@
                 "county": "基隆市",
                 "town": "中正區",
                 "village": "德義里",
-                "address": "基隆市中正區信一路158號2-3樓",
-                "tel": "（02）2428-3338"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2232,8 +2232,8 @@
                 "county": "基隆市",
                 "town": "中正區",
                 "village": "新豐里",
-                "address": "基隆市中正區新豐街488-3、488-5、488-6號2樓",
-                "tel": "（02）2460-1981"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2251,8 +2251,8 @@
                 "county": "基隆市",
                 "town": "仁愛區",
                 "village": "玉田里",
-                "address": "基隆市仁愛區仁一路305號5、6、10樓",
-                "tel": "（02）2429-3987"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2270,8 +2270,8 @@
                 "county": "基隆市",
                 "town": "安樂區",
                 "village": "外寮里",
-                "address": "基隆市安樂區武嶺街213-2、213-3、213-4、247-3、247-4、247-5號",
-                "tel": "（02）2431-9977"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2289,8 +2289,8 @@
                 "county": "基隆市",
                 "town": "仁愛區",
                 "village": "和明里",
-                "address": "基隆市仁愛區仁二路72號2-3樓",
-                "tel": "（02）2425-3233"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2308,8 +2308,8 @@
                 "county": "基隆市",
                 "town": "信義區",
                 "village": "仁壽里",
-                "address": "基隆市信義區信一路133-2、133-3號5樓",
-                "tel": "（02）2426-2893"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2327,8 +2327,8 @@
                 "county": "基隆市",
                 "town": "仁愛區",
                 "village": "智仁里",
-                "address": "基隆市仁愛區愛七路14巷5號1樓、基隆市仁愛區延平街12巷16號4樓",
-                "tel": "（02）2425-2048"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2346,8 +2346,8 @@
                 "county": "基隆市",
                 "town": "暖暖區",
                 "village": "暖暖里",
-                "address": "基隆市暖暖區暖暖街269號1-2樓",
-                "tel": "（02）2458-4567"
+                "class": "文理類,",
+                "students": "國中,國小,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -2365,8 +2365,8 @@
                 "county": "基隆市",
                 "town": "暖暖區",
                 "village": "暖暖里",
-                "address": "基隆市暖暖區暖暖街271號2樓",
-                "tel": "0935-351-709"
+                "class": "瑜珈類,",
+                "students": "其他"
             },
             "geometry": {
                 "type": "Point",
@@ -2384,8 +2384,8 @@
                 "county": "基隆市",
                 "town": "安樂區",
                 "village": "鶯安里",
-                "address": "基隆市安樂區麥金路199-1號3號",
-                "tel": "（02）3401-2101"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2403,8 +2403,8 @@
                 "county": "基隆市",
                 "town": "暖暖區",
                 "village": "暖西里",
-                "address": "基隆市暖暖區東勢街6之50及6之51號1樓及夾層",
-                "tel": "（02）2458-4677"
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小、國中,國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2422,8 +2422,8 @@
                 "county": "基隆市",
                 "town": "中山區",
                 "village": "德安里",
-                "address": "基隆市中山區德安路2-14號2樓",
-                "tel": "（02）2437-7163"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2441,8 +2441,8 @@
                 "county": "基隆市",
                 "town": "仁愛區",
                 "village": "和明里",
-                "address": "基隆市仁愛區仁二路86號3樓、基隆市仁愛區 仁二路88號3樓",
-                "tel": "（02）2422-6999"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2460,8 +2460,8 @@
                 "county": "基隆市",
                 "town": "中正區",
                 "village": "港通里",
-                "address": "基隆市中正區義一路18號7樓",
-                "tel": "（02）2423-0250、（02）2427-8210"
+                "class": "文理類,",
+                "students": "高中"
             },
             "geometry": {
                 "type": "Point",
@@ -2479,8 +2479,8 @@
                 "county": "基隆市",
                 "town": "安樂區",
                 "village": "武崙里",
-                "address": "基隆市安樂區基金一路206號3樓",
-                "tel": "（02）2433-6666"
+                "class": "文理類,",
+                "students": "國小,國中,高中,國小、國中、高中職"
             },
             "geometry": {
                 "type": "Point",
@@ -2498,8 +2498,8 @@
                 "county": "基隆市",
                 "town": "中山區",
                 "village": "安民里",
-                "address": "基隆市中山區安一路57號2樓",
-                "tel": "（02）24215338、（02）24275836"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2517,8 +2517,8 @@
                 "county": "基隆市",
                 "town": "中山區",
                 "village": "安民里",
-                "address": "基隆市中山區安一路57號3樓",
-                "tel": "（02）2423-1369"
+                "class": "音樂、舞蹈類,",
+                "students": "其他"
             },
             "geometry": {
                 "type": "Point",
@@ -2536,8 +2536,8 @@
                 "county": "基隆市",
                 "town": "中山區",
                 "village": "和慶里",
-                "address": "基隆市中山區中和路168巷5弄17號2樓及基隆市中山區中和路168巷5弄31號1樓",
-                "tel": "（02）2437-7808"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2555,8 +2555,8 @@
                 "county": "基隆市",
                 "town": "七堵區",
                 "village": "堵北里",
-                "address": "基隆市七堵區福一街110巷5號1-2樓、基隆市七堵區福一街110巷7號1-2樓、基隆市七堵區福一街114號1樓",
-                "tel": "（02）2451-4372"
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2574,8 +2574,8 @@
                 "county": "基隆市",
                 "town": "七堵區",
                 "village": "實踐里",
-                "address": "基隆市七堵區福一街51巷12號1樓",
-                "tel": "（02）2452-7065"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2593,8 +2593,8 @@
                 "county": "基隆市",
                 "town": "安樂區",
                 "village": "三民里",
-                "address": "基隆市安樂區麥金路416號1樓",
-                "tel": "（02）2433-3928"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2612,8 +2612,8 @@
                 "county": "基隆市",
                 "town": "中正區",
                 "village": "中正里",
-                "address": "基隆市中正區中正路666-1號2樓",
-                "tel": "（02）2463-4152"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2631,8 +2631,8 @@
                 "county": "基隆市",
                 "town": "七堵區",
                 "village": "實踐里",
-                "address": "基隆市七堵區福一街51巷8號1樓",
-                "tel": "（02）2452-1480"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2650,8 +2650,8 @@
                 "county": "基隆市",
                 "town": "安樂區",
                 "village": "七賢里",
-                "address": "基隆市安樂區安樂路2段90號1-2樓、基隆市安樂區安樂路二段88-1號2樓、基隆市安樂區安樂路2段195號3樓",
-                "tel": "（02）2433-3958"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2669,8 +2669,8 @@
                 "county": "基隆市",
                 "town": "信義區",
                 "village": "義和里",
-                "address": "基隆市信義區信二路49號2、3樓",
-                "tel": "(02)24233888"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2688,8 +2688,8 @@
                 "county": "基隆市",
                 "town": "中山區",
                 "village": "和慶里",
-                "address": "基隆市中山區中和路168巷7弄12號2樓",
-                "tel": "（02）2436-6099"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2707,8 +2707,8 @@
                 "county": "基隆市",
                 "town": "中正區",
                 "village": "港通里",
-                "address": "基隆市中正區義一路18號11樓",
-                "tel": "（02）2423-7866"
+                "class": "音樂、舞蹈類,",
+                "students": "國小.國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2726,8 +2726,8 @@
                 "county": "基隆市",
                 "town": "仁愛區",
                 "village": "玉田里",
-                "address": "基隆市仁愛區仁二路205號3-4樓",
-                "tel": "（02）2423-9566"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2745,8 +2745,8 @@
                 "county": "基隆市",
                 "town": "中山區",
                 "village": "德安里",
-                "address": "基隆市中山區復興路259巷30-1號",
-                "tel": "（02）2437-3113"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2764,8 +2764,8 @@
                 "county": "基隆市",
                 "town": "安樂區",
                 "village": "武崙里",
-                "address": "基隆市安樂區基金一路135巷21弄84號1樓",
-                "tel": "（02）2433-1332"
+                "class": "商類：珠算、心算、會計,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2783,8 +2783,8 @@
                 "county": "基隆市",
                 "town": "信義區",
                 "village": "孝忠里",
-                "address": "基隆市信義區教忠街108號4樓",
-                "tel": "（02）2465-8789"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2802,8 +2802,8 @@
                 "county": "基隆市",
                 "town": "暖暖區",
                 "village": "碇安里",
-                "address": "基隆市暖暖區源遠路297巷92號1樓",
-                "tel": "（02）2458-3188"
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2821,8 +2821,8 @@
                 "county": "基隆市",
                 "town": "仁愛區",
                 "village": "新店里",
-                "address": "基隆市仁愛區忠二路16之1號1-3樓",
-                "tel": "（02）2428-0933"
+                "class": "文理類,法政類,",
+                "students": "升四技二專大專,公職人員考試"
             },
             "geometry": {
                 "type": "Point",
@@ -2840,8 +2840,8 @@
                 "county": "基隆市",
                 "town": "安樂區",
                 "village": "武崙里",
-                "address": "基隆市安樂區基金一路135巷5弄34號1樓、基隆市安樂區基金一路135巷5弄36號1樓",
-                "tel": "（02）2431-7144"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2859,8 +2859,8 @@
                 "county": "基隆市",
                 "town": "仁愛區",
                 "village": "新店里",
-                "address": "基隆市仁愛區忠二路31之2號3樓",
-                "tel": "（02）2427-7438"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2878,8 +2878,8 @@
                 "county": "基隆市",
                 "town": "信義區",
                 "village": "信綠里",
-                "address": "基隆市信義區東信路310巷24號1-2樓",
-                "tel": "（02）2465-0409"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2897,8 +2897,8 @@
                 "county": "基隆市",
                 "town": "中正區",
                 "village": "港通里",
-                "address": "基隆市中正區義一路2號7樓",
-                "tel": "（02）2428-5737"
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2916,8 +2916,8 @@
                 "county": "基隆市",
                 "town": "仁愛區",
                 "village": "文昌里",
-                "address": "基隆市仁愛區孝三路32號1-4樓",
-                "tel": "（02）2422-1656"
+                "class": "文理類,商類：珠算、心算、會計,",
+                "students": "國小、國中,國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2935,8 +2935,8 @@
                 "county": "基隆市",
                 "town": "安樂區",
                 "village": "鶯歌里",
-                "address": "基隆市安樂區安樂路二段131之5號、基隆市安樂區安樂路二段133之5號",
-                "tel": "（02）2431-6062"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2954,8 +2954,8 @@
                 "county": "基隆市",
                 "town": "安樂區",
                 "village": "外寮里",
-                "address": "基隆市安樂區武嶺街213之1號",
-                "tel": "（02）2430-3333"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2973,8 +2973,8 @@
                 "county": "基隆市",
                 "town": "安樂區",
                 "village": "嘉仁里",
-                "address": "基隆市安樂區樂一路144號3樓",
-                "tel": "0937-184-420"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2992,8 +2992,8 @@
                 "county": "基隆市",
                 "town": "中正區",
                 "village": "港通里",
-                "address": "基隆市中正區義一路22號4樓、基隆市中正區義一路24號4樓",
-                "tel": "（02）2421-3545"
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3011,8 +3011,8 @@
                 "county": "基隆市",
                 "town": "仁愛區",
                 "village": "智仁里",
-                "address": "基隆市仁愛區延平街6號1樓",
-                "tel": "0933-767855"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3030,8 +3030,8 @@
                 "county": "基隆市",
                 "town": "信義區",
                 "village": "孝德里",
-                "address": "基隆市信義區深澳坑路6巷141號1樓",
-                "tel": "（02）2466-5389"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3049,8 +3049,8 @@
                 "county": "基隆市",
                 "town": "安樂區",
                 "village": "七賢里",
-                "address": "基隆市安樂區安樂路2段130號3樓、基隆市安樂區安樂路2段132號3樓",
-                "tel": "（02）2430-2388"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3068,8 +3068,8 @@
                 "county": "基隆市",
                 "town": "安樂區",
                 "village": "長樂里",
-                "address": "基隆市安樂區樂利三街22之7號1樓及地下4層",
-                "tel": "（02）2432-1630"
+                "class": "外語類,",
+                "students": "學齡前"
             },
             "geometry": {
                 "type": "Point",
@@ -3087,8 +3087,8 @@
                 "county": "基隆市",
                 "town": "七堵區",
                 "village": "富民里",
-                "address": "基隆市七堵區永富路112號1樓",
-                "tel": "（02）2455-1343"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3106,8 +3106,8 @@
                 "county": "基隆市",
                 "town": "安樂區",
                 "village": "武崙里",
-                "address": "基隆市安樂區基金一路135巷21弄43號1樓",
-                "tel": "（02）2432-1497"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3125,8 +3125,8 @@
                 "county": "基隆市",
                 "town": "仁愛區",
                 "village": "花崗里",
-                "address": "基隆市仁愛區仁一路133號4樓、基隆市仁愛區仁一路133號4-1樓",
-                "tel": "（02）2421-3240"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3144,8 +3144,8 @@
                 "county": "基隆市",
                 "town": "暖暖區",
                 "village": "暖西里",
-                "address": "基隆市暖暖區暖暖街421號",
-                "tel": "（02）2459-6699"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3163,8 +3163,8 @@
                 "county": "基隆市",
                 "town": "中山區",
                 "village": "德和里",
-                "address": "基隆市中山區復興路212巷5弄3號1樓",
-                "tel": "（02）2436-7528"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3182,8 +3182,8 @@
                 "county": "基隆市",
                 "town": "仁愛區",
                 "village": "和明里",
-                "address": "基隆市仁愛區仁二路142號1-2樓",
-                "tel": "（02）2424-2050"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3201,8 +3201,8 @@
                 "county": "基隆市",
                 "town": "仁愛區",
                 "village": "博愛里",
-                "address": "基隆市仁愛區愛二路33號3、4樓",
-                "tel": "（02）2422-9488"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3220,8 +3220,8 @@
                 "county": "基隆市",
                 "town": "七堵區",
                 "village": "百福里",
-                "address": "基隆市七堵區百五街64巷23號1樓",
-                "tel": "（02）2451-9788"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3239,8 +3239,8 @@
                 "county": "基隆市",
                 "town": "中山區",
                 "village": "中和里",
-                "address": "基隆市中山區中和路85巷9號",
-                "tel": "（02）2437-9215"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3258,8 +3258,8 @@
                 "county": "基隆市",
                 "town": "七堵區",
                 "village": "正明里",
-                "address": "基隆市七堵區南興路90號2樓",
-                "tel": "（02）2455-6580"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3277,8 +3277,8 @@
                 "county": "基隆市",
                 "town": "安樂區",
                 "village": "鶯歌里",
-                "address": "基隆市安樂區安樂路二段153號6樓、基隆市安樂區安樂路二段155號2樓",
-                "tel": "（02）3401-0535"
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3296,8 +3296,8 @@
                 "county": "基隆市",
                 "town": "仁愛區",
                 "village": "智仁里",
-                "address": "基隆市仁愛區延平街1號1樓、基隆市仁愛區延平街12巷16號1樓",
-                "tel": "（02）2427-1669"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3315,8 +3315,8 @@
                 "county": "基隆市",
                 "town": "中山區",
                 "village": "和慶里",
-                "address": "基隆市中山區中和路168巷7弄22號2樓",
-                "tel": "（02）2437-3928"
+                "class": "文理類,",
+                "students": "國中小"
             },
             "geometry": {
                 "type": "Point",
@@ -3334,8 +3334,8 @@
                 "county": "基隆市",
                 "town": "中正區",
                 "village": "新富里",
-                "address": "基隆市中正區新豐街251巷1弄25號2.3樓",
-                "tel": "（02）2469-1838"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3353,8 +3353,8 @@
                 "county": "基隆市",
                 "town": "仁愛區",
                 "village": "和明里",
-                "address": "基隆市仁愛區仁一路265巷16號4樓",
-                "tel": "（02）2421-3610"
+                "class": "商類：珠算、心算、會計,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3372,8 +3372,8 @@
                 "county": "基隆市",
                 "town": "暖暖區",
                 "village": "過港里",
-                "address": "基隆市暖暖區寧靜街153之1號1樓",
-                "tel": "（02）2458-6866"
+                "class": "外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3391,8 +3391,8 @@
                 "county": "基隆市",
                 "town": "安樂區",
                 "village": "武崙里",
-                "address": "基隆市安樂區基金一路135巷5弄14號",
-                "tel": "（02）2432-7571"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3410,8 +3410,8 @@
                 "county": "基隆市",
                 "town": "仁愛區",
                 "village": "智仁里",
-                "address": "基隆市仁愛區延平街12巷16號2樓",
-                "tel": "（02）2429-4155"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3429,8 +3429,8 @@
                 "county": "基隆市",
                 "town": "中山區",
                 "village": "西定里",
-                "address": "基隆市中山區西定路296巷1號",
-                "tel": "（02）2428-1896"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3448,8 +3448,8 @@
                 "county": "基隆市",
                 "town": "暖暖區",
                 "village": "暖同里",
-                "address": "基隆市暖暖區暖暖街232號",
-                "tel": "（02）2459-2082"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3467,8 +3467,8 @@
                 "county": "基隆市",
                 "town": "中山區",
                 "village": "西榮里",
-                "address": "基隆市中山區西定路51號",
-                "tel": "（02）2427-4895"
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3486,8 +3486,8 @@
                 "county": "基隆市",
                 "town": "七堵區",
                 "village": "永平里",
-                "address": "基隆市七堵區明德一路186號5樓",
-                "tel": "（02）2455-5195"
+                "class": "外語類,",
+                "students": "國中.小"
             },
             "geometry": {
                 "type": "Point",
@@ -3505,8 +3505,8 @@
                 "county": "基隆市",
                 "town": "中山區",
                 "village": "中和里",
-                "address": "基隆市中山區中和路89號2樓、基隆市中山區中和路91號2樓",
-                "tel": "（02）2437-0586、2437-9898"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3524,8 +3524,8 @@
                 "county": "基隆市",
                 "town": "信義區",
                 "village": "東明里",
-                "address": "基隆市信義區東信路45號5樓",
-                "tel": "（02）2466-1122"
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3543,8 +3543,8 @@
                 "county": "基隆市",
                 "town": "信義區",
                 "village": "禮東里",
-                "address": "基隆市信義區東明路10號3樓",
-                "tel": "（02）2468-3000 （02）2465-6000"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3562,8 +3562,8 @@
                 "county": "基隆市",
                 "town": "仁愛區",
                 "village": "玉田里",
-                "address": "基隆市仁愛區仁二路193號3樓",
-                "tel": "（02）2423-4131"
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,商類：珠算、心算、會計,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3581,8 +3581,8 @@
                 "county": "基隆市",
                 "town": "仁愛區",
                 "village": "忠勇里",
-                "address": "基隆市仁愛區仁二路198號3-4樓",
-                "tel": "（02）2429-4759"
+                "class": "文理類,外語類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3600,8 +3600,8 @@
                 "county": "基隆市",
                 "town": "七堵區",
                 "village": "堵北里",
-                "address": "基隆市七堵區福一街172巷4號",
-                "tel": "（02）2451-7796"
+                "class": "商類：珠算、心算、會計,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3619,8 +3619,8 @@
                 "county": "基隆市",
                 "town": "七堵區",
                 "village": "實踐里",
-                "address": "基隆市七堵區福二街77號1、2樓",
-                "tel": "（02）2451-9602"
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3638,8 +3638,8 @@
                 "county": "基隆市",
                 "town": "七堵區",
                 "village": "正光里",
-                "address": "基隆市七堵區崇禮街29號2樓",
-                "tel": "（02）2456-0947"
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3657,8 +3657,8 @@
                 "county": "基隆市",
                 "town": "信義區",
                 "village": "仁壽里",
-                "address": "基隆市信義區信一路133號4樓、基隆市信義區信一路133-1號4樓",
-                "tel": "（02）2422-1969"
+                "class": "文理類,商類：珠算、心算、會計,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3676,8 +3676,8 @@
                 "county": "基隆市",
                 "town": "七堵區",
                 "village": "永平里",
-                "address": "基隆市七堵區明德一路186之1號2樓",
-                "tel": "（02）2456-0725"
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,商類：珠算、心算、會計,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3695,8 +3695,8 @@
                 "county": "基隆市",
                 "town": "仁愛區",
                 "village": "龍門里",
-                "address": "基隆市仁愛區南榮路134巷2之1號4樓",
-                "tel": "（02）2423-9558"
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3714,8 +3714,8 @@
                 "county": "基隆市",
                 "town": "安樂區",
                 "village": "武崙里",
-                "address": "基隆市安樂區基金一路135巷21弄89號1樓",
-                "tel": "（02）2432-1557"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3733,8 +3733,8 @@
                 "county": "基隆市",
                 "town": "仁愛區",
                 "village": "智仁里",
-                "address": "基隆市仁愛區仁二路95號4-5樓",
-                "tel": "（02）2429-4713"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3752,8 +3752,8 @@
                 "county": "基隆市",
                 "town": "仁愛區",
                 "village": "和明里",
-                "address": "基隆市仁愛區仁一路265巷16號3樓",
-                "tel": "（02）2424-2245"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3771,8 +3771,8 @@
                 "county": "基隆市",
                 "town": "中山區",
                 "village": "安民里",
-                "address": "基隆市中山區安一路72號2樓",
-                "tel": "（02）2425-7702"
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3790,8 +3790,8 @@
                 "county": "基隆市",
                 "town": "安樂區",
                 "village": "六合里",
-                "address": "基隆市安樂區樂利三街132巷2弄7號",
-                "tel": "（02）2433-5636"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3809,8 +3809,8 @@
                 "county": "基隆市",
                 "town": "仁愛區",
                 "village": "光華里",
-                "address": "基隆市仁愛區成功一路133巷1號、基隆市仁愛區成功一路133巷1之1號",
-                "tel": "（02）2433-8174"
+                "class": "外語類,資訊類,音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類,瑜珈類,",
+                "students": "國小以上（依規招收）"
             },
             "geometry": {
                 "type": "Point",
@@ -3828,8 +3828,8 @@
                 "county": "基隆市",
                 "town": "仁愛區",
                 "village": "水錦里",
-                "address": "基隆市仁愛區劉銘傳路3號4樓、基隆市仁愛區劉銘傳路5號4樓",
-                "tel": "（02）2420-2608"
+                "class": "文理類,外語類,",
+                "students": "國中,國小,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -3847,8 +3847,8 @@
                 "county": "基隆市",
                 "town": "中正區",
                 "village": "港通里",
-                "address": "基隆市中正區義一路18號8樓",
-                "tel": "（02）2423-6147"
+                "class": "文理類,",
+                "students": "國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -3866,8 +3866,8 @@
                 "county": "基隆市",
                 "town": "中山區",
                 "village": "西定里",
-                "address": "基隆市中山區西定路345號2樓",
-                "tel": "（02）2426-3355"
+                "class": "文理類,",
+                "students": "其他"
             },
             "geometry": {
                 "type": "Point",
@@ -3885,8 +3885,8 @@
                 "county": "基隆市",
                 "town": "安樂區",
                 "village": "四維里",
-                "address": "基隆市安樂區安和一街125巷2、4、2之1、2之4號及安和一街127、127之1號",
-                "tel": "（02）2433-7777、（02）2433-4908"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3904,8 +3904,8 @@
                 "county": "基隆市",
                 "town": "安樂區",
                 "village": "安和里",
-                "address": "基隆市安樂區安一路107號3樓",
-                "tel": "（02）2427-5836"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3923,8 +3923,8 @@
                 "county": "基隆市",
                 "town": "中正區",
                 "village": "正砂里",
-                "address": "基隆市中正區中正路199號2樓",
-                "tel": "（02）2462-8011"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3942,8 +3942,8 @@
                 "county": "基隆市",
                 "town": "七堵區",
                 "village": "正光里",
-                "address": "基隆市七堵區南興路77號2樓",
-                "tel": "（02）2455-1881"
+                "class": "文理類,",
+                "students": "國小,高中,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3961,8 +3961,8 @@
                 "county": "基隆市",
                 "town": "暖暖區",
                 "village": "暖暖里",
-                "address": "基隆市暖暖區暖暖街191-1號、基隆市暖暖區暖暖街197巷6-1號1-3樓",
-                "tel": "（02）2458-2158"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3980,8 +3980,8 @@
                 "county": "基隆市",
                 "town": "仁愛區",
                 "village": "吉仁里",
-                "address": "基隆市仁愛區南榮路183號7樓",
-                "tel": "（02）2427-4745"
+                "class": "商類：珠算、心算、會計,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3999,8 +3999,8 @@
                 "county": "基隆市",
                 "town": "仁愛區",
                 "village": "仁德里",
-                "address": "基隆市仁愛區愛三路118號5-6樓",
-                "tel": "（02）2424-6703"
+                "class": "外語類,",
+                "students": "國小以上（依規招收）"
             },
             "geometry": {
                 "type": "Point",
@@ -4018,8 +4018,8 @@
                 "county": "基隆市",
                 "town": "中正區",
                 "village": "砂子里",
-                "address": "基隆市中正區北寧路349-2號2樓、基隆市中正區調和街1巷11號1樓",
-                "tel": "（02）2469-5128、2469-5286"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -4037,8 +4037,8 @@
                 "county": "基隆市",
                 "town": "信義區",
                 "village": "仁壽里",
-                "address": "基隆市信義區信一路132號4樓",
-                "tel": "（02）2427-9106"
+                "class": "文理類,",
+                "students": "國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -4056,8 +4056,8 @@
                 "county": "基隆市",
                 "town": "仁愛區",
                 "village": "和明里",
-                "address": "基隆市仁愛區愛六路6號2-4樓",
-                "tel": "（02）2428-0556"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -4075,8 +4075,8 @@
                 "county": "基隆市",
                 "town": "七堵區",
                 "village": "永安里",
-                "address": "基隆市七堵區自治北街25號",
-                "tel": "（02）2455-2223"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -4094,8 +4094,8 @@
                 "county": "基隆市",
                 "town": "仁愛區",
                 "village": "玉田里",
-                "address": "基隆市仁愛區仁一路305號7-8樓",
-                "tel": "（02）2429-3987"
+                "class": "文理類,",
+                "students": "高中"
             },
             "geometry": {
                 "type": "Point",
@@ -4113,8 +4113,8 @@
                 "county": "基隆市",
                 "town": "七堵區",
                 "village": "永平里",
-                "address": "基隆市七堵區自治北街24-2號3樓",
-                "tel": "（02）2456-9930"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -4132,8 +4132,8 @@
                 "county": "基隆市",
                 "town": "信義區",
                 "village": "仁壽里",
-                "address": "基隆市信義區信一路121號2.3.4樓",
-                "tel": "（02）2420-2195"
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -4151,8 +4151,8 @@
                 "county": "基隆市",
                 "town": "信義區",
                 "village": "禮東里",
-                "address": "基隆市信義區東明路26號1樓",
-                "tel": "（02）2466-2500"
+                "class": "商類：珠算、心算、會計,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -4170,8 +4170,8 @@
                 "county": "基隆市",
                 "town": "中正區",
                 "village": "港通里",
-                "address": "基隆市中正區義一路18號10樓",
-                "tel": "（02）24234220"
+                "class": "音樂、舞蹈類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -4189,8 +4189,8 @@
                 "county": "基隆市",
                 "town": "仁愛區",
                 "village": "玉田里",
-                "address": "基隆市仁愛區仁二路206號2-3樓",
-                "tel": "（02）2424-9191"
+                "class": "文理類,",
+                "students": "國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -4208,8 +4208,8 @@
                 "county": "基隆市",
                 "town": "仁愛區",
                 "village": "文昌里",
-                "address": "基隆市仁愛區忠一路20號8樓",
-                "tel": "（02）2425-6666"
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -4227,8 +4227,8 @@
                 "county": "基隆市",
                 "town": "仁愛區",
                 "village": "和明里",
-                "address": "基隆市仁愛區愛五路12號3樓",
-                "tel": "（02）2423-2388"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",

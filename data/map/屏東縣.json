@@ -9,8 +9,8 @@
                 "county": "屏東縣",
                 "town": "萬巒鄉",
                 "village": "五溝村",
-                "address": "屏東縣萬巒鄉東興路26-6號1~2樓",
-                "tel": "0931-399512"
+                "class": "文理類,",
+                "students": "學齡前,國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -28,8 +28,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "仁愛里",
-                "address": "屏東縣屏東市自由路420-4號1~2樓",
-                "tel": "(08)736-6383"
+                "class": "文理類,",
+                "students": "國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -47,8 +47,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "仁愛里",
-                "address": "屏東縣屏東市自由路420-10號1~2樓",
-                "tel": "(08)735-1998"
+                "class": "文理類,",
+                "students": "國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -66,8 +66,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "豐田里",
-                "address": "屏東縣屏東市高豐街98號1-2樓",
-                "tel": "0918-465748"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -85,8 +85,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "瑞光里",
-                "address": "屏東縣屏東市田中一橫巷473號1~2樓",
-                "tel": "0982-992168"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -104,8 +104,8 @@
                 "county": "屏東縣",
                 "town": "枋寮鄉",
                 "village": "隆山村",
-                "address": "屏東縣枋寮鄉隆安路150巷23號1樓",
-                "tel": "0975-309033"
+                "class": "文理類,",
+                "students": "學齡前,國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -123,8 +123,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "勝利里",
-                "address": "屏東縣屏東市成功路206號1~4樓",
-                "tel": "(08)736-1084"
+                "class": "外語類,電機、汽車修護、建築、工藝、製圖類,家政、插花、烹飪類,美容、美髮理髮類,音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類,商類：珠算、心算、會計,瑜珈類,",
+                "students": "高中、成人,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -142,8 +142,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "大同里",
-                "address": "屏東縣屏東市光復路74號1樓",
-                "tel": "0931-842201"
+                "class": "文理類,",
+                "students": "學齡前,國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -161,8 +161,8 @@
                 "county": "屏東縣",
                 "town": "東港鎮",
                 "village": "興東里",
-                "address": "屏東縣東港鎮光復路一段291號",
-                "tel": "(08)8351585"
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -180,8 +180,8 @@
                 "county": "屏東縣",
                 "town": "潮州鎮",
                 "village": "三共里",
-                "address": "屏東縣潮州鎮海康街145巷11號1樓",
-                "tel": "(08)780-2832"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -199,8 +199,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "崇蘭里",
-                "address": "屏東縣屏東市博愛路308號1~2樓",
-                "tel": "(08)7330855"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -218,8 +218,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "長春里",
-                "address": "屏東縣屏東市廣東路10號1樓",
-                "tel": "(08)723-0058"
+                "class": "外語類,",
+                "students": "國小、國中,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -237,8 +237,8 @@
                 "county": "屏東縣",
                 "town": "九如鄉",
                 "village": "東寧村",
-                "address": "屏東縣九如鄉林森路23號1~2樓",
-                "tel": "0980-088313"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -256,8 +256,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "三山里",
-                "address": "屏東縣屏東市金城街61之3號1~2樓",
-                "tel": "0929-409300"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -275,8 +275,8 @@
                 "county": "屏東縣",
                 "town": "東港鎮",
                 "village": "興東里",
-                "address": "屏東縣東港鎮明德一路366巷21號1樓",
-                "tel": "0987497038"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -294,8 +294,8 @@
                 "county": "屏東縣",
                 "town": "東港鎮",
                 "village": "船頭里",
-                "address": "屏東縣東港鎮水源路40號1~2樓",
-                "tel": "0936-374179"
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小,國中,國小、國中、成人"
             },
             "geometry": {
                 "type": "Point",
@@ -313,8 +313,8 @@
                 "county": "屏東縣",
                 "town": "里港鄉",
                 "village": "玉田村",
-                "address": "屏東縣里港鄉八德路170號1~2樓",
-                "tel": "0983388278"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -332,8 +332,8 @@
                 "county": "屏東縣",
                 "town": "恆春鎮",
                 "village": "網紗里",
-                "address": "屏東縣恆春鎮省北路40巷40號1樓",
-                "tel": "8880728"
+                "class": "文理類,外語類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -351,8 +351,8 @@
                 "county": "屏東縣",
                 "town": "潮州鎮",
                 "village": "潮州里",
-                "address": "屏東縣潮州鎮四維路41號",
-                "tel": "0931977727"
+                "class": "文理類,外語類,音樂、舞蹈類,",
+                "students": "高中,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -370,8 +370,8 @@
                 "county": "屏東縣",
                 "town": "潮州鎮",
                 "village": "三和里",
-                "address": "屏東縣潮州鎮朝昇路314號1-2樓",
-                "tel": "(08)7800020"
+                "class": "外語類,",
+                "students": "成人(18歲以上),高中,國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -389,8 +389,8 @@
                 "county": "屏東縣",
                 "town": "麟洛鄉",
                 "village": "田中村",
-                "address": "屏東縣麟洛鄉中華路210號1樓",
-                "tel": "(08)7261585"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -408,8 +408,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "公館里",
-                "address": "屏東縣屏東市公興路221巷26號",
-                "tel": "0929930901"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -427,8 +427,8 @@
                 "county": "屏東縣",
                 "town": "高樹鄉",
                 "village": "田子村",
-                "address": "屏東縣高樹鄉田子村平安巷3號",
-                "tel": "0975-030519"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -446,8 +446,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "永城里",
-                "address": "屏東縣屏東市和平路490號6樓",
-                "tel": "(08)7327001"
+                "class": "文理類,",
+                "students": "國中,國小,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -465,8 +465,8 @@
                 "county": "屏東縣",
                 "town": "九如鄉",
                 "village": "後庄村",
-                "address": "屏東縣九如鄉後庄路213號1~2樓",
-                "tel": "(08)7757575"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -484,8 +484,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "豐田里",
-                "address": "屏東縣屏東市建豐路165號1~2樓",
-                "tel": "0927020207"
+                "class": "文理類,其他類,",
+                "students": "學齡前,國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -503,8 +503,8 @@
                 "county": "屏東縣",
                 "town": "潮州鎮",
                 "village": "三共里",
-                "address": "屏東縣潮州鎮朝昇路80巷88弄17號1~2樓",
-                "tel": "(08)7897573"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -522,8 +522,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "溝美里",
-                "address": "屏東縣屏東市自由路360號2~3樓",
-                "tel": "08-7351899"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -541,8 +541,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "崇蘭里",
-                "address": "屏東縣屏東市崇蘭里崇朝路130號1樓",
-                "tel": "0920323496"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -560,8 +560,8 @@
                 "county": "屏東縣",
                 "town": "林邊鄉",
                 "village": "光林村",
-                "address": "屏東縣林邊鄉中林路6號1樓",
-                "tel": "08-8750178"
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -579,8 +579,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "文明里",
-                "address": "屏東縣屏東市文明里中山路58-3號",
-                "tel": "0919-568-116"
+                "class": "文理類,外語類,資訊類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -598,8 +598,8 @@
                 "county": "屏東縣",
                 "town": "恆春鎮",
                 "village": "城北里",
-                "address": "屏東縣恆春鎮北門路39巷18號1~3樓",
-                "tel": "0933688922"
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -617,8 +617,8 @@
                 "county": "屏東縣",
                 "town": "東港鎮",
                 "village": "興東里",
-                "address": "屏東縣東港鎮興東里興東路103號1~2樓",
-                "tel": "0921255285"
+                "class": "其他類,",
+                "students": "國小、國中、高中、成人"
             },
             "geometry": {
                 "type": "Point",
@@ -636,8 +636,8 @@
                 "county": "屏東縣",
                 "town": "里港鄉",
                 "village": "過江村",
-                "address": "屏東縣里港鄉過江村仁愛路77號1~2樓",
-                "tel": "08-7720922"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -655,8 +655,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "崇武里",
-                "address": "屏東縣屏東市華盛一街12號1~2樓",
-                "tel": "0925098058"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -674,8 +674,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "大連里",
-                "address": "屏東縣屏東市大連里豐榮街96號1~2樓",
-                "tel": "(08)7375501"
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,商類：珠算、心算、會計,",
+                "students": "國小,國中,國小、國中"
             },
             "geometry": {
                 "type": "Point",
@@ -693,8 +693,8 @@
                 "county": "屏東縣",
                 "town": "東港鎮",
                 "village": "興東里",
-                "address": "屏東縣東港鎮興東里明德路93號1樓",
-                "tel": "0933-688-213"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -712,8 +712,8 @@
                 "county": "屏東縣",
                 "town": "東港鎮",
                 "village": "興臺里",
-                "address": "屏東縣東港鎮中山路15-3號1-2樓",
-                "tel": "0958-332057"
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -731,8 +731,8 @@
                 "county": "屏東縣",
                 "town": "恆春鎮",
                 "village": "城西里",
-                "address": "屏東縣恆春鎮城西里西門路139號1樓",
-                "tel": "08-8882127"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -750,8 +750,8 @@
                 "county": "屏東縣",
                 "town": "東港鎮",
                 "village": "船頭里",
-                "address": "屏東縣東港鎮船頭里大成路22巷30號1樓",
-                "tel": "(08)833-3598"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -769,8 +769,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "厚生里",
-                "address": "屏東縣屏東市建武路20號1-2樓",
-                "tel": "08-7550655"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -788,8 +788,8 @@
                 "county": "屏東縣",
                 "town": "萬丹鄉",
                 "village": "寶厝村",
-                "address": "屏東縣萬丹鄉萬新路1495巷71號1-2樓",
-                "tel": "0931178075"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -807,8 +807,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "崇蘭里",
-                "address": "屏東縣屏東市崇蘭里崇朝路76號1樓",
-                "tel": "0978912079"
+                "class": "文理類,",
+                "students": "國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -826,8 +826,8 @@
                 "county": "屏東縣",
                 "town": "東港鎮",
                 "village": "新勝里",
-                "address": "屏東縣東港鎮中山路2-85號1-2樓",
-                "tel": "(08)835-5751"
+                "class": "文理類,",
+                "students": "高中,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -845,8 +845,8 @@
                 "county": "屏東縣",
                 "town": "潮州鎮",
                 "village": "三共里",
-                "address": "屏東縣潮州鎮三共里8鄰朝昇路22巷38號",
-                "tel": "(08)7880515"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -864,8 +864,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "豐田里",
-                "address": "屏東縣屏東市建豐路245號1-2樓",
-                "tel": "08-736 0607"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -883,8 +883,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "大武里",
-                "address": "屏東縣屏東市大武路17號1-2樓",
-                "tel": "08-7530017"
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -902,8 +902,8 @@
                 "county": "屏東縣",
                 "town": "東港鎮",
                 "village": "興東里",
-                "address": "屏東縣東港鎮中正路二段291號1-2樓",
-                "tel": "0918-403-377"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -921,8 +921,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "豐田里",
-                "address": "屏東縣屏東市建豐路277巷6號1-2樓",
-                "tel": "0935-755-323"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -940,8 +940,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "崇蘭里",
-                "address": "屏東縣屏東市廣東路1496號",
-                "tel": "0910757288"
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -959,8 +959,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "明正里",
-                "address": "屏東縣屏東市中正路142號1樓",
-                "tel": "08-7386789 \/ 0953909230"
+                "class": "音樂、舞蹈類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -978,8 +978,8 @@
                 "county": "屏東縣",
                 "town": "東港鎮",
                 "village": "興東里",
-                "address": "屏東縣東港鎮中正路二段505號1-2樓",
-                "tel": "(08)8324649"
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -997,8 +997,8 @@
                 "county": "屏東縣",
                 "town": "長治鄉",
                 "village": "繁昌村",
-                "address": "屏東縣長治鄉繁昌村振興路8號1F",
-                "tel": "0935-794-749"
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1016,8 +1016,8 @@
                 "county": "屏東縣",
                 "town": "萬丹鄉",
                 "village": "社口村",
-                "address": "屏東縣萬丹鄉社皮路二段360號1-2樓",
-                "tel": "(08)7075208\/0912198271"
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1035,8 +1035,8 @@
                 "county": "屏東縣",
                 "town": "內埔鄉",
                 "village": "龍泉村",
-                "address": "屏東縣內埔鄉龍泉村原勝路99號",
-                "tel": "(08)7705672"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1054,8 +1054,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "崇武里",
-                "address": "屏東縣屏東市華盛街1-18號1~2樓",
-                "tel": "0939504883"
+                "class": "外語類,",
+                "students": "國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -1073,8 +1073,8 @@
                 "county": "屏東縣",
                 "town": "內埔鄉",
                 "village": "龍泉村",
-                "address": "屏東縣內埔鄉龍泉村中勝路282號1樓",
-                "tel": "08-7707182 \/ 0928784664"
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1092,8 +1092,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "大連里",
-                "address": "屏東縣屏東市建豐路120號1-2樓",
-                "tel": "0910757288"
+                "class": "外語類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1111,8 +1111,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "崇蘭里",
-                "address": "屏東縣屏東市廣東路1540號1-2樓",
-                "tel": "(08)7330102"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1130,8 +1130,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "溝美里",
-                "address": "屏東縣屏東市溝美里自由路362-1號1樓",
-                "tel": "0920-558828"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1149,8 +1149,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "崇武里",
-                "address": "屏東縣屏東市華盛街16-5號1-2樓",
-                "tel": "(08)7557878"
+                "class": "外語類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1168,8 +1168,8 @@
                 "county": "屏東縣",
                 "town": "林邊鄉",
                 "village": "永樂村",
-                "address": "屏東縣林邊鄉榮農路5巷10-20號1樓",
-                "tel": "(08)8758036"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1187,8 +1187,8 @@
                 "county": "屏東縣",
                 "town": "萬丹鄉",
                 "village": "寶厝村",
-                "address": "屏東縣萬丹鄉中興路二段488號",
-                "tel": "(08)7763917"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1206,8 +1206,8 @@
                 "county": "屏東縣",
                 "town": "鹽埔鄉",
                 "village": "高朗村",
-                "address": "屏東縣鹽埔鄉高朗村三民路13號",
-                "tel": "(08)7935080"
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1225,8 +1225,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "豐田里",
-                "address": "屏東縣屏東市建豐路235號1樓",
-                "tel": "(08)7389292"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1244,8 +1244,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "武廟里",
-                "address": "屏東縣屏東市中山路28號",
-                "tel": "08-8219199"
+                "class": "文理類,商類：珠算、心算、會計,",
+                "students": "成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
@@ -1263,8 +1263,8 @@
                 "county": "屏東縣",
                 "town": "恆春鎮",
                 "village": "網紗里",
-                "address": "屏東縣恆春鎮省北路121巷5之1號",
-                "tel": "(08)8891872"
+                "class": "商類：珠算、心算、會計,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1282,8 +1282,8 @@
                 "county": "屏東縣",
                 "town": "潮州鎮",
                 "village": "光華里",
-                "address": "屏東縣潮州鎮南進路27-1號",
-                "tel": "0928-697-858\/7881799"
+                "class": "文理類,",
+                "students": "國小國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1301,8 +1301,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "長春里",
-                "address": "屏東縣屏東市林森路5-7號",
-                "tel": "(08)7214275"
+                "class": "外語類,",
+                "students": "國小國中高中"
             },
             "geometry": {
                 "type": "Point",
@@ -1320,8 +1320,8 @@
                 "county": "屏東縣",
                 "town": "內埔鄉",
                 "village": "龍潭村",
-                "address": "屏東縣內埔鄉昭勝路375號1-2樓",
-                "tel": "(08)7707531"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1339,8 +1339,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "崇蘭里",
-                "address": "屏東縣屏東市崇蘭里崇朝路38號",
-                "tel": "(08)7662325"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1358,8 +1358,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "大連里",
-                "address": "屏東縣屏東市建豐路286-2號",
-                "tel": "08-7360885"
+                "class": "外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1377,8 +1377,8 @@
                 "county": "屏東縣",
                 "town": "內埔鄉",
                 "village": "內埔村",
-                "address": "屏東縣內埔鄉仁華路3號、5號1-2樓",
-                "tel": "(08)7691006"
+                "class": "文理類,商類：珠算、心算、會計,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1396,8 +1396,8 @@
                 "county": "屏東縣",
                 "town": "里港鄉",
                 "village": "玉田村",
-                "address": "屏東縣里港鄉玉田村4鄰精華街2號1-2樓",
-                "tel": "0917810213"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1415,8 +1415,8 @@
                 "county": "屏東縣",
                 "town": "東港鎮",
                 "village": "船頭里",
-                "address": "屏東縣東港鎮水源二街28號1-2樓",
-                "tel": "(08)8336220"
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1434,8 +1434,8 @@
                 "county": "屏東縣",
                 "town": "萬丹鄉",
                 "village": "社口村",
-                "address": "屏東縣萬丹鄉社皮路二段461號1-2樓",
-                "tel": "08-707-6938 \/ 0922-620161"
+                "class": "音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1453,8 +1453,8 @@
                 "county": "屏東縣",
                 "town": "潮州鎮",
                 "village": "新榮里",
-                "address": "屏東縣潮州鎮新榮里清水南路23巷16號1-3樓",
-                "tel": "(08)7890995"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1472,8 +1472,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "崇蘭里",
-                "address": "屏東縣屏東市廣東路1400號1-3樓",
-                "tel": "(08)7322733"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1491,8 +1491,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "豐田里",
-                "address": "屏東縣屏東市豐田里瑞光路二段78號",
-                "tel": "08-7233625"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1510,8 +1510,8 @@
                 "county": "屏東縣",
                 "town": "高樹鄉",
                 "village": "長榮村",
-                "address": "屏東縣高樹鄉弘農路10號1樓",
-                "tel": "0963495126"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1529,8 +1529,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "溝美里",
-                "address": "屏東縣屏東市自由路361-2號1-2樓",
-                "tel": "(08)7350345"
+                "class": "文理類,",
+                "students": "高中,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1548,8 +1548,8 @@
                 "county": "屏東縣",
                 "town": "里港鄉",
                 "village": "玉田村",
-                "address": "屏東縣里港鄉玉田村玉田路67-6號1-2樓",
-                "tel": "(08)7750300"
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1567,8 +1567,8 @@
                 "county": "屏東縣",
                 "town": "枋寮鄉",
                 "village": "隆山村",
-                "address": "屏東縣枋寮鄉隆山村隆安路23號1樓",
-                "tel": "0913675188"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1586,8 +1586,8 @@
                 "county": "屏東縣",
                 "town": "萬丹鄉",
                 "village": "萬惠村",
-                "address": "屏東縣萬丹鄉萬惠村中興路二段661號2-3樓",
-                "tel": "08-7770666"
+                "class": "文理類,",
+                "students": "國小,學齡前"
             },
             "geometry": {
                 "type": "Point",
@@ -1605,8 +1605,8 @@
                 "county": "屏東縣",
                 "town": "恆春鎮",
                 "village": "城北里",
-                "address": "屏東縣恆春鎮新興路126號1-2樓",
-                "tel": "(08)8880019"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1624,8 +1624,8 @@
                 "county": "屏東縣",
                 "town": "里港鄉",
                 "village": "過江村",
-                "address": "屏東縣里港鄉過江路41之107號",
-                "tel": "(08)7758670"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1643,8 +1643,8 @@
                 "county": "屏東縣",
                 "town": "潮州鎮",
                 "village": "光華里",
-                "address": "屏東縣潮州鎮光華里華安街47巷15號2樓",
-                "tel": "(08)7897520"
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1662,8 +1662,8 @@
                 "county": "屏東縣",
                 "town": "恆春鎮",
                 "village": "網紗里",
-                "address": "屏東縣恆春鎮省北路40巷109弄8-3號1樓",
-                "tel": "(08)8881200"
+                "class": "外語類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1681,8 +1681,8 @@
                 "county": "屏東縣",
                 "town": "內埔鄉",
                 "village": "內埔村",
-                "address": "屏東縣內埔鄉內埔村仁智路42-1號1樓",
-                "tel": "(08)7786605"
+                "class": "文理類,",
+                "students": "國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -1700,8 +1700,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "潭墘里",
-                "address": "屏東縣屏東市蘭州街154之1號1樓",
-                "tel": "(08)7661206"
+                "class": "音樂、舞蹈類,",
+                "students": "國中,成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
@@ -1719,8 +1719,8 @@
                 "county": "屏東縣",
                 "town": "東港鎮",
                 "village": "船頭里",
-                "address": "屏東縣東港鎮船頭里水源路8號1-2樓",
-                "tel": "(09)21587584"
+                "class": "外語類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1738,8 +1738,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "大武里",
-                "address": "屏東縣屏東市大武里華盛3街23號1-2樓",
-                "tel": "(08)7539495"
+                "class": "音樂、舞蹈類,",
+                "students": "學齡前"
             },
             "geometry": {
                 "type": "Point",
@@ -1757,8 +1757,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "溝美里",
-                "address": "屏東縣屏東市公義街15-2號1、2樓",
-                "tel": "(08)7367385"
+                "class": "文理類,外語類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1776,8 +1776,8 @@
                 "county": "屏東縣",
                 "town": "東港鎮",
                 "village": "新勝里",
-                "address": "屏東縣東港鎮新勝街73號1-2樓",
-                "tel": "0920423232"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1795,8 +1795,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "豐源里",
-                "address": "屏東縣屏東市豐源里公園東路27號1-2樓",
-                "tel": "(08)7220351"
+                "class": "外語類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1814,8 +1814,8 @@
                 "county": "屏東縣",
                 "town": "崁頂鄉",
                 "village": "園寮村",
-                "address": "屏東縣嵌頂鄉園寮村南平巷87號1樓",
-                "tel": "0930256609 \/ 0930259121"
+                "class": "外語類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1833,8 +1833,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "仁愛里",
-                "address": "屏東縣屏東市長春街169號1-2樓",
-                "tel": "08-7369797"
+                "class": "外語類,",
+                "students": "國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -1852,8 +1852,8 @@
                 "county": "屏東縣",
                 "town": "內埔鄉",
                 "village": "內埔村",
-                "address": "屏東縣內埔鄉內埔村仁智路46號1-2樓",
-                "tel": "(08)7795534"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1871,8 +1871,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "瑞光里",
-                "address": "屏東縣屏東市瑞光里香揚巷231號1樓",
-                "tel": "(08)7223950"
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1890,8 +1890,8 @@
                 "county": "屏東縣",
                 "town": "九如鄉",
                 "village": "九明村",
-                "address": "屏東縣九如鄉九明村九龍路95號",
-                "tel": "(08)7394991"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1909,8 +1909,8 @@
                 "county": "屏東縣",
                 "town": "內埔鄉",
                 "village": "內田村",
-                "address": "屏東縣內埔鄉仁和路82號1-2樓",
-                "tel": "(08)7693677 \/ 0963162990"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1928,8 +1928,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "崇禮里",
-                "address": "屏東縣屏東市民族路148號2樓",
-                "tel": "(08)7654422"
+                "class": "外語類,",
+                "students": "成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
@@ -1947,8 +1947,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "崇蘭里",
-                "address": "屏東縣屏東市崇蘭里古松西巷385-58號",
-                "tel": "(08)7379090"
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1966,8 +1966,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "溝美里",
-                "address": "屏東縣屏東市仁愛路124號2-3樓",
-                "tel": "(08)7383789"
+                "class": "文理類,",
+                "students": "國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -1985,8 +1985,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "華山里",
-                "address": "屏東縣屏東市華山里華山街32號2樓",
-                "tel": "(08)-7388608"
+                "class": "音樂、舞蹈類,",
+                "students": "國小,學齡前"
             },
             "geometry": {
                 "type": "Point",
@@ -2004,8 +2004,8 @@
                 "county": "屏東縣",
                 "town": "恆春鎮",
                 "village": "城北里",
-                "address": "屏東縣恆春鎮中正路232巷101弄32-1號1樓",
-                "tel": "(08)8880558"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2023,8 +2023,8 @@
                 "county": "屏東縣",
                 "town": "林邊鄉",
                 "village": "仁和村",
-                "address": "屏東縣林邊鄉仁和村和平路41-9號1-2樓",
-                "tel": "08-8753340"
+                "class": "外語類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2042,8 +2042,8 @@
                 "county": "屏東縣",
                 "town": "新園鄉",
                 "village": "仙吉村",
-                "address": "屏東縣新園鄉仙隆路49巷61號1-2樓",
-                "tel": "(08)8687631"
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2061,8 +2061,8 @@
                 "county": "屏東縣",
                 "town": "潮州鎮",
                 "village": "永春里",
-                "address": "屏東縣潮州鎮中洲路149號1-2樓",
-                "tel": "7803179"
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2080,8 +2080,8 @@
                 "county": "屏東縣",
                 "town": "林邊鄉",
                 "village": "林邊村",
-                "address": "屏東縣林邊鄉忠愛路4號1樓",
-                "tel": "(08)8752573"
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2099,8 +2099,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "太平里",
-                "address": "屏東縣屏東市天津街12-8號",
-                "tel": "(08)7336863"
+                "class": "文理類,外語類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2118,8 +2118,8 @@
                 "county": "屏東縣",
                 "town": "九如鄉",
                 "village": "九清村",
-                "address": "屏東縣九如鄉維新街50號1-2樓",
-                "tel": "(08)7394972"
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2137,8 +2137,8 @@
                 "county": "屏東縣",
                 "town": "九如鄉",
                 "village": "九明村",
-                "address": "屏東縣九如鄉忠孝街90巷16號1樓",
-                "tel": "(08)7393282"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2156,8 +2156,8 @@
                 "county": "屏東縣",
                 "town": "九如鄉",
                 "village": "東寧村",
-                "address": "屏東縣九如鄉東寧路174號1-2樓",
-                "tel": "08-7393780"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2175,8 +2175,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "溝美里",
-                "address": "屏東縣屏東市仁愛路116號1-2樓",
-                "tel": "08-7368948"
+                "class": "文理類,外語類,",
+                "students": "國中,國中、高中,成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
@@ -2194,8 +2194,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "大武里",
-                "address": "屏東縣屏東市大武里武威街170巷78號1-2樓",
-                "tel": "0965212980"
+                "class": "文理類,",
+                "students": "國小.國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2213,8 +2213,8 @@
                 "county": "屏東縣",
                 "town": "潮州鎮",
                 "village": "光華里",
-                "address": "屏東縣潮州鎮南進路29號",
-                "tel": "(08)7802695"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2232,8 +2232,8 @@
                 "county": "屏東縣",
                 "town": "九如鄉",
                 "village": "東寧村",
-                "address": "屏東縣九如鄉東寧村東寧路137-1號",
-                "tel": "(08)7391461"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2251,8 +2251,8 @@
                 "county": "屏東縣",
                 "town": "新園鄉",
                 "village": "新園村",
-                "address": "屏東縣新園鄉新厝路96號1~2樓",
-                "tel": "(08)868-7292"
+                "class": "文理類,外語類,",
+                "students": "國小.國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2270,8 +2270,8 @@
                 "county": "屏東縣",
                 "town": "萬丹鄉",
                 "village": "萬全村",
-                "address": "屏東縣萬丹鄉萬全村萬榮街11號1樓",
-                "tel": "(08)7770209"
+                "class": "文理類,外語類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2289,8 +2289,8 @@
                 "county": "屏東縣",
                 "town": "東港鎮",
                 "village": "興東里",
-                "address": "屏東縣東港鎮光復路一段258號",
-                "tel": "(08)8333825"
+                "class": "文理類,外語類,其他類,",
+                "students": "國小,國小.國中,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2308,8 +2308,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "歸心里",
-                "address": "屏東縣屏東市歸心里福正巷23-1號",
-                "tel": "(08)7226473"
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2327,8 +2327,8 @@
                 "county": "屏東縣",
                 "town": "枋寮鄉",
                 "village": "天時村",
-                "address": "屏東縣枋寮鄉建興路82號",
-                "tel": "0935791892"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2346,8 +2346,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "大同里",
-                "address": "屏東縣屏東市逢甲路11.13.15號1-2樓",
-                "tel": "(08)7655537"
+                "class": "外語類,",
+                "students": "滿12歲之學生及成人"
             },
             "geometry": {
                 "type": "Point",
@@ -2365,8 +2365,8 @@
                 "county": "屏東縣",
                 "town": "潮州鎮",
                 "village": "三和里",
-                "address": "屏東縣潮州鎮三和里合順街33-3號1-2樓",
-                "tel": "0933722914\/7898828"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2384,8 +2384,8 @@
                 "county": "屏東縣",
                 "town": "東港鎮",
                 "village": "船頭里",
-                "address": "屏東縣東港鎮船頭里27鄰新義路62號1樓",
-                "tel": "(08)835-1413"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2403,8 +2403,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "大同里",
-                "address": "屏東縣屏東市中山路4號2樓",
-                "tel": "(08)8101010"
+                "class": "外語類,",
+                "students": "12歲以上"
             },
             "geometry": {
                 "type": "Point",
@@ -2422,8 +2422,8 @@
                 "county": "屏東縣",
                 "town": "里港鄉",
                 "village": "大平村",
-                "address": "屏東縣里港鄉大平村文昌巷14號1樓",
-                "tel": "(08)7757673"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2441,8 +2441,8 @@
                 "county": "屏東縣",
                 "town": "萬丹鄉",
                 "village": "厦北村",
-                "address": "屏東縣萬丹鄉下蚶路410號",
-                "tel": "0938905183"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2460,8 +2460,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "端正里",
-                "address": "屏東縣屏東市蘇州街90-1號",
-                "tel": "0925098058"
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2479,8 +2479,8 @@
                 "county": "屏東縣",
                 "town": "潮州鎮",
                 "village": "光華里",
-                "address": "屏東縣潮州鎮永安路2-2號1樓",
-                "tel": "7898116"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2498,8 +2498,8 @@
                 "county": "屏東縣",
                 "town": "萬丹鄉",
                 "village": "寶厝村",
-                "address": "屏東縣萬丹鄉萬新路1495巷63號1樓",
-                "tel": "0919-750236 \/ 7776090"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2517,8 +2517,8 @@
                 "county": "屏東縣",
                 "town": "東港鎮",
                 "village": "興東里",
-                "address": "屏東縣東港鎮中正路1段115號1-2樓",
-                "tel": "(08)835-0606"
+                "class": "文理類,法政類,",
+                "students": "成人(18歲以上),高中"
             },
             "geometry": {
                 "type": "Point",
@@ -2536,8 +2536,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "豐田里",
-                "address": "屏東縣屏東市高豐街117巷15號1-2樓",
-                "tel": "(08)7363778"
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2555,8 +2555,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "崇蘭里",
-                "address": "屏東縣屏東市博愛路302之1號1-2樓",
-                "tel": "08-7327141"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2574,8 +2574,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "豐田里",
-                "address": "屏東縣屏東市田寮巷36號1~2樓",
-                "tel": "(08)7362532"
+                "class": "外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2593,8 +2593,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "溝美里",
-                "address": "屏東縣屏東市自由路359號1-2樓",
-                "tel": "(08)7381278"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2612,8 +2612,8 @@
                 "county": "屏東縣",
                 "town": "新園鄉",
                 "village": "仙吉村",
-                "address": "屏東縣新園鄉新田路22巷6號2-3樓",
-                "tel": "(08)8686908"
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2631,8 +2631,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "大連里",
-                "address": "屏東縣屏東市建豐路214號1-2樓",
-                "tel": "(08)7385091"
+                "class": "文理類,外語類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2650,8 +2650,8 @@
                 "county": "屏東縣",
                 "town": "內埔鄉",
                 "village": "內埔村",
-                "address": "屏東縣內埔鄉文昌路38號1-2樓",
-                "tel": "(08)7786066"
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2669,8 +2669,8 @@
                 "county": "屏東縣",
                 "town": "潮州鎮",
                 "village": "光華里",
-                "address": "屏東縣潮州鎮永誠街50巷2號1樓",
-                "tel": "7886233"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2688,8 +2688,8 @@
                 "county": "屏東縣",
                 "town": "萬丹鄉",
                 "village": "萬生村",
-                "address": "屏東縣萬丹鄉萬生村萬新路1612號",
-                "tel": "(08)7770302"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2707,8 +2707,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "大連里",
-                "address": "屏東縣屏東市德豐街40號1-2樓",
-                "tel": "(08)7374075"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2726,8 +2726,8 @@
                 "county": "屏東縣",
                 "town": "萬丹鄉",
                 "village": "萬生村",
-                "address": "屏東縣萬丹鄉萬新路1582號1-2樓",
-                "tel": "（08）7779505"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2745,8 +2745,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "崇蘭里",
-                "address": "屏東縣屏東市廣東路1406號1-3樓",
-                "tel": "(08)7337206"
+                "class": "文理類,外語類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2764,8 +2764,8 @@
                 "county": "屏東縣",
                 "town": "高樹鄉",
                 "village": "高樹村",
-                "address": "屏東縣高樹鄉高樹村華光路50-2號",
-                "tel": "0931 736 509"
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2783,8 +2783,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "豐源里",
-                "address": "屏東縣屏東市公園東路19號",
-                "tel": "(08)722-4119"
+                "class": "美容、美髮理髮類,",
+                "students": "成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
@@ -2802,8 +2802,8 @@
                 "county": "屏東縣",
                 "town": "內埔鄉",
                 "village": "東寧村",
-                "address": "屏東縣內埔鄉自強路104號",
-                "tel": "(08)7693456 \/ 0980315088"
+                "class": "外語類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2821,8 +2821,8 @@
                 "county": "屏東縣",
                 "town": "萬丹鄉",
                 "village": "萬後村",
-                "address": "屏東縣萬丹鄉萬壽路二段261號1-2樓",
-                "tel": "(08)7763238"
+                "class": "文理類,商類：珠算、心算、會計,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2840,8 +2840,8 @@
                 "county": "屏東縣",
                 "town": "萬巒鄉",
                 "village": "萬金村",
-                "address": "屏東縣萬巒鄉萬德路70巷1號",
-                "tel": "(08)7836075"
+                "class": "文理類,外語類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2859,8 +2859,8 @@
                 "county": "屏東縣",
                 "town": "新園鄉",
                 "village": "仙吉村",
-                "address": "屏東縣新園鄉仙吉路143號1~3樓",
-                "tel": "(08)8686963"
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2878,8 +2878,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "北興里",
-                "address": "屏東縣屏東市興隆街7號",
-                "tel": "08-7321421 \/ 0910-928210"
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2897,8 +2897,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "崇蘭里",
-                "address": "屏東縣屏東市中山路187號2樓",
-                "tel": "(08)7651378"
+                "class": "音樂、舞蹈類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2916,8 +2916,8 @@
                 "county": "屏東縣",
                 "town": "恆春鎮",
                 "village": "城北里",
-                "address": "屏東縣恆春鎮北門路174巷2-2號1樓",
-                "tel": "(08)8881001"
+                "class": "外語類,",
+                "students": "兒童、中學生、成人"
             },
             "geometry": {
                 "type": "Point",
@@ -2935,8 +2935,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "楠樹里",
-                "address": "屏東縣屏東市福建路3-8號6樓",
-                "tel": "(08)7336177"
+                "class": "文理類,外語類,",
+                "students": "高中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2954,8 +2954,8 @@
                 "county": "屏東縣",
                 "town": "潮州鎮",
                 "village": "永春里",
-                "address": "屏東縣潮州鎮自由路206號",
-                "tel": "7898907--0960500692"
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2973,8 +2973,8 @@
                 "county": "屏東縣",
                 "town": "內埔鄉",
                 "village": "內埔村",
-                "address": "屏東縣內埔鄉內埔村中興路178號",
-                "tel": "(08)7788105"
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2992,8 +2992,8 @@
                 "county": "屏東縣",
                 "town": "長治鄉",
                 "village": "崙上村",
-                "address": "屏東縣長治鄉崙上村中興路411號1樓",
-                "tel": "0925262862"
+                "class": "文理類,外語類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3011,8 +3011,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "溝美里",
-                "address": "屏東縣屏東市溝美里自由路361-1號",
-                "tel": "08-7388037"
+                "class": "文理類,外語類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3030,8 +3030,8 @@
                 "county": "屏東縣",
                 "town": "里港鄉",
                 "village": "過江村",
-                "address": "屏東縣里港鄉仁愛路78號1~4樓",
-                "tel": "(08)7750088"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3049,8 +3049,8 @@
                 "county": "屏東縣",
                 "town": "鹽埔鄉",
                 "village": "鹽中村",
-                "address": "屏東縣鹽埔鄉鹽中村民族路6之1號",
-                "tel": "(08)7932028"
+                "class": "文理類,外語類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3068,8 +3068,8 @@
                 "county": "屏東縣",
                 "town": "崁頂鄉",
                 "village": "崁頂村",
-                "address": "屏東縣嵌頂鄉崁頂村中正2巷21-1號",
-                "tel": "(08)8631890"
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3087,8 +3087,8 @@
                 "county": "屏東縣",
                 "town": "內埔鄉",
                 "village": "內埔村",
-                "address": "屏東縣內埔鄉內埔村中華二街99號",
-                "tel": "08-7693530"
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3106,8 +3106,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "厚生里",
-                "address": "屏東縣屏東市建武路111號",
-                "tel": "(08)7539299"
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3125,8 +3125,8 @@
                 "county": "屏東縣",
                 "town": "東港鎮",
                 "village": "船頭里",
-                "address": "屏東縣東港鎮船頭路25之210號1樓",
-                "tel": "(08)8327563"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3144,8 +3144,8 @@
                 "county": "屏東縣",
                 "town": "崁頂鄉",
                 "village": "崁頂村",
-                "address": "屏東縣嵌頂鄉嵌頂村中正路2-7號1-2樓",
-                "tel": "(08)8630807 \/ 0920688746"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3163,8 +3163,8 @@
                 "county": "屏東縣",
                 "town": "萬丹鄉",
                 "village": "寶厝村",
-                "address": "屏東縣萬丹鄉中興路二段482.482-1號",
-                "tel": "0932808240"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3182,8 +3182,8 @@
                 "county": "屏東縣",
                 "town": "里港鄉",
                 "village": "大平村",
-                "address": "屏東縣里港鄉仁愛路10號",
-                "tel": "(08)7722248"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3201,8 +3201,8 @@
                 "county": "屏東縣",
                 "town": "潮州鎮",
                 "village": "三星里",
-                "address": "屏東縣潮州鎮愛國路46號",
-                "tel": "(08)7889403"
+                "class": "外語類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3220,8 +3220,8 @@
                 "county": "屏東縣",
                 "town": "東港鎮",
                 "village": "船頭里",
-                "address": "屏東縣東港鎮水源路28號",
-                "tel": "(08)8310532"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3239,8 +3239,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "溝美里",
-                "address": "屏東縣屏東市仁愛路107號",
-                "tel": "08-7353652"
+                "class": "文理類,外語類,",
+                "students": "國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -3258,8 +3258,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "大連里",
-                "address": "屏東縣屏東市豐榮街155號",
-                "tel": "(08)7375298"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3277,8 +3277,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "溝美里",
-                "address": "屏東縣屏東市自由路363-1號",
-                "tel": "(08)7365159"
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3296,8 +3296,8 @@
                 "county": "屏東縣",
                 "town": "萬丹鄉",
                 "village": "萬後村",
-                "address": "屏東縣萬丹鄉萬壽路二段243號",
-                "tel": "(08)7760698"
+                "class": "家政、插花、烹飪類,",
+                "students": "成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
@@ -3315,8 +3315,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "北興里",
-                "address": "屏東縣屏東市公裕街287號",
-                "tel": "(08)7336828"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3334,8 +3334,8 @@
                 "county": "屏東縣",
                 "town": "麟洛鄉",
                 "village": "麟趾村",
-                "address": "屏東縣麟洛鄉麟趾村中興街67號",
-                "tel": "(08)7213633"
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3353,8 +3353,8 @@
                 "county": "屏東縣",
                 "town": "潮州鎮",
                 "village": "三共里",
-                "address": "屏東縣潮州鎮曲江街20巷3號1-2樓",
-                "tel": "(08)7899122"
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3372,8 +3372,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "豐田里",
-                "address": "屏東縣屏東市瑞光路二段23號",
-                "tel": "(08)7222298"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3391,8 +3391,8 @@
                 "county": "屏東縣",
                 "town": "潮州鎮",
                 "village": "潮州里",
-                "address": "屏東縣潮州鎮長興路54號",
-                "tel": "(08)7883360"
+                "class": "文理類,外語類,音樂、舞蹈類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3410,8 +3410,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "大連里",
-                "address": "屏東縣屏東市豐年街18號",
-                "tel": "(08)7384650"
+                "class": "文理類,外語類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3429,8 +3429,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "大連里",
-                "address": "屏東縣屏東市德豐街158號",
-                "tel": "(08)7367652"
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3448,8 +3448,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "橋南里",
-                "address": "屏東縣屏東市民生路67-7號",
-                "tel": "0926354151"
+                "class": "文理類,音樂、舞蹈類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3467,8 +3467,8 @@
                 "county": "屏東縣",
                 "town": "東港鎮",
                 "village": "新勝里",
-                "address": "屏東縣東港鎮新基街101號",
-                "tel": "(08)8334096"
+                "class": "外語類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3486,8 +3486,8 @@
                 "county": "屏東縣",
                 "town": "潮州鎮",
                 "village": "永春里",
-                "address": "屏東縣潮州鎮永春里興隆路18號1-3樓",
-                "tel": "0926354151"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3505,8 +3505,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "一心里",
-                "address": "屏東縣屏東市廣東南路61號",
-                "tel": "(08)7526588"
+                "class": "文理類,外語類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3524,8 +3524,8 @@
                 "county": "屏東縣",
                 "town": "潮州鎮",
                 "village": "三和里",
-                "address": "屏東縣潮州鎮和順街34號",
-                "tel": "7883949\/0929677052"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3543,8 +3543,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "北勢里",
-                "address": "屏東縣屏東市自由路450號7樓之1",
-                "tel": "(08)7353235"
+                "class": "文理類,",
+                "students": "高中"
             },
             "geometry": {
                 "type": "Point",
@@ -3562,8 +3562,8 @@
                 "county": "屏東縣",
                 "town": "萬丹鄉",
                 "village": "萬後村",
-                "address": "屏東縣萬丹鄉萬壽路二段245號",
-                "tel": "776-0933"
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3581,8 +3581,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "豐田里",
-                "address": "屏東縣屏東市建豐路95號",
-                "tel": "(08)7353949"
+                "class": "文理類,外語類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3600,8 +3600,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "大連里",
-                "address": "屏東縣屏東市建豐路270號",
-                "tel": "(08)7353599"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3619,8 +3619,8 @@
                 "county": "屏東縣",
                 "town": "麟洛鄉",
                 "village": "麟趾村",
-                "address": "屏東縣麟洛鄉麟趾村中正路國小巷32號",
-                "tel": "(08)7216192"
+                "class": "文理類,外語類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3638,8 +3638,8 @@
                 "county": "屏東縣",
                 "town": "恆春鎮",
                 "village": "網紗里",
-                "address": "屏東縣恆春鎮省北路40巷6號",
-                "tel": "(08)8898397"
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3657,8 +3657,8 @@
                 "county": "屏東縣",
                 "town": "內埔鄉",
                 "village": "內田村",
-                "address": "屏東縣內埔鄉內田村復興路19號",
-                "tel": "(08)7794475"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3676,8 +3676,8 @@
                 "county": "屏東縣",
                 "town": "內埔鄉",
                 "village": "內田村",
-                "address": "屏東縣內埔鄉內田村德美路235號",
-                "tel": "(08)7694088"
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3695,8 +3695,8 @@
                 "county": "屏東縣",
                 "town": "高樹鄉",
                 "village": "高樹村",
-                "address": "屏東縣高樹鄉南興路74-7號",
-                "tel": "0928170292"
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3714,8 +3714,8 @@
                 "county": "屏東縣",
                 "town": "高樹鄉",
                 "village": "長榮村",
-                "address": "屏東縣高樹鄉興中路2巷11號1~2樓",
-                "tel": "(08)7966591"
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3733,8 +3733,8 @@
                 "county": "屏東縣",
                 "town": "高樹鄉",
                 "village": "長榮村",
-                "address": "屏東縣高樹鄉雙興路86號",
-                "tel": "(08)7962130  0912355943"
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3752,8 +3752,8 @@
                 "county": "屏東縣",
                 "town": "麟洛鄉",
                 "village": "麟趾村",
-                "address": "屏東縣麟洛鄉仁愛街61-1號",
-                "tel": "(08)7238686"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3771,8 +3771,8 @@
                 "county": "屏東縣",
                 "town": "東港鎮",
                 "village": "新勝里",
-                "address": "屏東縣東港鎮新勝街62巷46號",
-                "tel": "(08)833-3714"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3790,8 +3790,8 @@
                 "county": "屏東縣",
                 "town": "潮州鎮",
                 "village": "三共里",
-                "address": "屏東縣潮州鎮北門路16號",
-                "tel": "08-789-2347"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3809,8 +3809,8 @@
                 "county": "屏東縣",
                 "town": "新園鄉",
                 "village": "中洲村",
-                "address": "屏東縣新園鄉中洲村仁愛路33號1~3樓",
-                "tel": "(08)8335951"
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3828,8 +3828,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "潭墘里",
-                "address": "屏東縣屏東市廣東路1271號",
-                "tel": "(08)7336868"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3847,8 +3847,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "崇武里",
-                "address": "屏東縣屏東市建國路129號1~4樓",
-                "tel": "(08)753-5000"
+                "class": "文理類,",
+                "students": "國中,高中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3866,8 +3866,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "大連里",
-                "address": "屏東縣屏東市建豐路56號",
-                "tel": "(08)7387532"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3885,8 +3885,8 @@
                 "county": "屏東縣",
                 "town": "萬丹鄉",
                 "village": "萬惠村",
-                "address": "屏東縣萬丹鄉萬惠村萬丹路一段36號一樓",
-                "tel": "0929101255"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3904,8 +3904,8 @@
                 "county": "屏東縣",
                 "town": "恆春鎮",
                 "village": "城北里",
-                "address": "屏東縣恆春鎮城北里北門路68巷8號",
-                "tel": "(08)8883450"
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3923,8 +3923,8 @@
                 "county": "屏東縣",
                 "town": "恆春鎮",
                 "village": "城北里",
-                "address": "屏東縣恆春鎮中正路232巷166號",
-                "tel": "(08)8899188"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3942,8 +3942,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "崇禮里",
-                "address": "屏東縣屏東市民族路104號2樓",
-                "tel": "(08)7330935"
+                "class": "文理類,",
+                "students": "高中"
             },
             "geometry": {
                 "type": "Point",
@@ -3961,8 +3961,8 @@
                 "county": "屏東縣",
                 "town": "內埔鄉",
                 "village": "內田村",
-                "address": "屏東縣內埔鄉內田村廣濟路79號",
-                "tel": "(08)7788811"
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3980,8 +3980,8 @@
                 "county": "屏東縣",
                 "town": "東港鎮",
                 "village": "新勝里",
-                "address": "屏東縣東港鎮中山路2-81號",
-                "tel": "(08)8328070"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3999,8 +3999,8 @@
                 "county": "屏東縣",
                 "town": "內埔鄉",
                 "village": "內埔村",
-                "address": "屏東縣內埔鄉仁華路2號1樓",
-                "tel": "(08)7792703"
+                "class": "商類：珠算、心算、會計,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -4018,8 +4018,8 @@
                 "county": "屏東縣",
                 "town": "萬丹鄉",
                 "village": "萬全村",
-                "address": "屏東縣萬丹鄉成功街二段13號",
-                "tel": "(08)7771262"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -4037,8 +4037,8 @@
                 "county": "屏東縣",
                 "town": "內埔鄉",
                 "village": "東寧村",
-                "address": "屏東縣內埔鄉勝利路254號",
-                "tel": "(08)7784012"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -4056,8 +4056,8 @@
                 "county": "屏東縣",
                 "town": "東港鎮",
                 "village": "新勝里",
-                "address": "屏東縣東港鎮新勝街77號",
-                "tel": "(08)8337730"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -4075,8 +4075,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "崇蘭里",
-                "address": "屏東縣屏東市廣東路1404號",
-                "tel": "(08)7335614"
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -4094,8 +4094,8 @@
                 "county": "屏東縣",
                 "town": "恆春鎮",
                 "village": "網紗里",
-                "address": "屏東縣恆春鎮省北路33號",
-                "tel": "(08)8883858"
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -4113,8 +4113,8 @@
                 "county": "屏東縣",
                 "town": "鹽埔鄉",
                 "village": "新二村",
-                "address": "屏東縣鹽埔鄉新二村維新路211-6號",
-                "tel": "(08)7937159"
+                "class": "文理類,外語類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -4132,8 +4132,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "長春里",
-                "address": "屏東縣屏東市長春里廣州街4號2-4樓",
-                "tel": "(08)7211651"
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -4151,8 +4151,8 @@
                 "county": "屏東縣",
                 "town": "東港鎮",
                 "village": "興東里",
-                "address": "屏東縣東港鎮中正路一段53號",
-                "tel": "8333063"
+                "class": "音樂、舞蹈類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -4170,8 +4170,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "龍華里",
-                "address": "屏東縣屏東市龍華路152號",
-                "tel": "(08)7523786"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -4189,8 +4189,8 @@
                 "county": "屏東縣",
                 "town": "里港鄉",
                 "village": "大平村",
-                "address": "屏東縣里港鄉大平村信義路24號",
-                "tel": "(08)7361266"
+                "class": "文理類,外語類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -4208,8 +4208,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "仁愛里",
-                "address": "屏東縣屏東市自由路420-9號",
-                "tel": "(08)7382857"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -4227,8 +4227,8 @@
                 "county": "屏東縣",
                 "town": "萬丹鄉",
                 "village": "萬全村",
-                "address": "屏東縣萬丹鄉萬全村成功街二段111、113號",
-                "tel": "(08)7761243"
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -4246,8 +4246,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "大同里",
-                "address": "屏東縣屏東市南昌街1號",
-                "tel": "(08)7652590"
+                "class": "文理類,",
+                "students": "不限"
             },
             "geometry": {
                 "type": "Point",
@@ -4265,8 +4265,8 @@
                 "county": "屏東縣",
                 "town": "潮州鎮",
                 "village": "光華里",
-                "address": "屏東縣潮州鎮光華里南進路7號",
-                "tel": "(08)7895755"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -4284,8 +4284,8 @@
                 "county": "屏東縣",
                 "town": "潮州鎮",
                 "village": "永春里",
-                "address": "屏東縣潮州鎮中洲路128.130號",
-                "tel": "08-7805390"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -4303,8 +4303,8 @@
                 "county": "屏東縣",
                 "town": "潮州鎮",
                 "village": "光華里",
-                "address": "屏東縣潮州鎮中山路東段27號",
-                "tel": "(08)7894216"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -4322,8 +4322,8 @@
                 "county": "屏東縣",
                 "town": "九如鄉",
                 "village": "東寧村",
-                "address": "屏東縣九如鄉東富街16巷8號1~4樓",
-                "tel": "(08)7397425"
+                "class": "文理類,",
+                "students": "國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -4341,8 +4341,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "新生里",
-                "address": "屏東縣屏東市復興南路一段376巷1號1-2樓",
-                "tel": "(08)7561561"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -4360,8 +4360,8 @@
                 "county": "屏東縣",
                 "town": "枋寮鄉",
                 "village": "人和村",
-                "address": "屏東縣枋寮鄉人和村中華路145號",
-                "tel": "(08)8713749"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -4379,8 +4379,8 @@
                 "county": "屏東縣",
                 "town": "林邊鄉",
                 "village": "仁和村",
-                "address": "屏東縣林邊鄉仁和村仁愛路84-1號",
-                "tel": "(08)8328088"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -4398,8 +4398,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "永安里",
-                "address": "屏東縣屏東市棒球路140號",
-                "tel": "(08)7561336"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -4417,8 +4417,8 @@
                 "county": "屏東縣",
                 "town": "林邊鄉",
                 "village": "光林村",
-                "address": "屏東縣林邊鄉仁愛路76-2號",
-                "tel": "(08)8755468"
+                "class": "文理類,外語類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -4436,8 +4436,8 @@
                 "county": "屏東縣",
                 "town": "萬丹鄉",
                 "village": "萬全村",
-                "address": "屏東縣萬丹鄉成功街二段162號",
-                "tel": "7761662"
+                "class": "文理類,外語類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -4455,8 +4455,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "崇蘭里",
-                "address": "屏東縣屏東市中山路176號",
-                "tel": "(08)7321822"
+                "class": "外語類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -4474,8 +4474,8 @@
                 "county": "屏東縣",
                 "town": "枋寮鄉",
                 "village": "安樂村",
-                "address": "屏東縣枋寮鄉安樂路2巷9號",
-                "tel": "(08)8782600"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -4493,8 +4493,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "潭墘里",
-                "address": "屏東縣屏東市廣東路1516號",
-                "tel": "(08)7346642"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -4512,8 +4512,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "文明里",
-                "address": "屏東縣屏東市桂林街8-3號",
-                "tel": "0933684552"
+                "class": "音樂、舞蹈類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -4531,8 +4531,8 @@
                 "county": "屏東縣",
                 "town": "萬丹鄉",
                 "village": "萬全村",
-                "address": "屏東縣萬丹鄉萬全村西環路752號",
-                "tel": "(08)7774114"
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -4550,8 +4550,8 @@
                 "county": "屏東縣",
                 "town": "東港鎮",
                 "village": "興東里",
-                "address": "屏東縣東港鎮明禮路38巷12號",
-                "tel": "(08)8321958"
+                "class": "外語類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -4569,8 +4569,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "北勢里",
-                "address": "屏東縣屏東市自由路474號2樓",
-                "tel": "(08)7383500"
+                "class": "文理類,",
+                "students": "國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -4588,8 +4588,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "前進里",
-                "address": "屏東縣屏東市前進里清進巷75-4號二樓",
-                "tel": "(08)7537505"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -4607,8 +4607,8 @@
                 "county": "屏東縣",
                 "town": "新園鄉",
                 "village": "共和村",
-                "address": "屏東縣新園鄉共和村光復路61號1樓",
-                "tel": "08-8330667"
+                "class": "文理類,外語類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -4626,8 +4626,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "潭墘里",
-                "address": "屏東縣屏東市潭漧里廣東路1277號",
-                "tel": "(08)7348567"
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -4645,8 +4645,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "崇智里",
-                "address": "屏東縣屏東市崇智里重慶路1號4樓",
-                "tel": "(08)8001188"
+                "class": "文理類,",
+                "students": "高中"
             },
             "geometry": {
                 "type": "Point",
@@ -4664,8 +4664,8 @@
                 "county": "屏東縣",
                 "town": "枋寮鄉",
                 "village": "隆山村",
-                "address": "屏東縣枋寮鄉中山路56-1號",
-                "tel": "(08)8780808"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -4683,8 +4683,8 @@
                 "county": "屏東縣",
                 "town": "車城鄉",
                 "village": "福興村",
-                "address": "屏東縣車城鄉仁愛路1巷3號",
-                "tel": "(08)8825152"
+                "class": "文理類,外語類,",
+                "students": "國小.國中,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -4702,8 +4702,8 @@
                 "county": "屏東縣",
                 "town": "枋寮鄉",
                 "village": "人和村",
-                "address": "屏東縣枋寮鄉中華路238號",
-                "tel": "(08)8710631"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -4721,8 +4721,8 @@
                 "county": "屏東縣",
                 "town": "九如鄉",
                 "village": "九清村",
-                "address": "屏東縣九如鄉九清村信義街8號",
-                "tel": "(08)7397269"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -4740,8 +4740,8 @@
                 "county": "屏東縣",
                 "town": "東港鎮",
                 "village": "興東里",
-                "address": "屏東縣東港鎮興東路117號",
-                "tel": "(08)8334386"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -4759,8 +4759,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "長春里",
-                "address": "屏東縣屏東市廣州街2-1號",
-                "tel": "(08)7224204"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -4778,8 +4778,8 @@
                 "county": "屏東縣",
                 "town": "東港鎮",
                 "village": "共和里",
-                "address": "屏東縣東港鎮光復路三段87號1~3樓",
-                "tel": "(08)8310956"
+                "class": "文理類,外語類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -4797,8 +4797,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "永安里",
-                "address": "屏東縣屏東市自立南路169號",
-                "tel": "(08)7553637"
+                "class": "文理類,外語類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -4816,8 +4816,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "大同里",
-                "address": "屏東縣屏東市復興路10號",
-                "tel": "(08)7651922"
+                "class": "資訊類,",
+                "students": "成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
@@ -4835,8 +4835,8 @@
                 "county": "屏東縣",
                 "town": "東港鎮",
                 "village": "新勝里",
-                "address": "屏東縣東港鎮新勝街62巷7弄10號",
-                "tel": "(08)8321131"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -4854,8 +4854,8 @@
                 "county": "屏東縣",
                 "town": "崁頂鄉",
                 "village": "力社村",
-                "address": "屏東縣嵌頂鄉力社村舊店路1-22號",
-                "tel": "0938908536\/8633545"
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -4873,8 +4873,8 @@
                 "county": "屏東縣",
                 "town": "潮州鎮",
                 "village": "新榮里",
-                "address": "屏東縣潮州鎮清水南路29號",
-                "tel": "(08)7884709"
+                "class": "音樂、舞蹈類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -4892,8 +4892,8 @@
                 "county": "屏東縣",
                 "town": "枋寮鄉",
                 "village": "人和村",
-                "address": "屏東縣枋寮鄉人和村民生路95號",
-                "tel": "(08)8717880"
+                "class": "文理類,音樂、舞蹈類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -4911,8 +4911,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "崇武里",
-                "address": "屏東縣屏東市華盛二街32號",
-                "tel": "0939504883"
+                "class": "外語類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -4930,8 +4930,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "大武里",
-                "address": "屏東縣屏東市武愛街35號",
-                "tel": "(08)7515195"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -4949,8 +4949,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "崇蘭里",
-                "address": "屏東縣屏東市廣東路1346號",
-                "tel": "(08)7653677"
+                "class": "文理類,商類：珠算、心算、會計,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -4968,8 +4968,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "新生里",
-                "address": "屏東縣屏東市復興南路一段35巷20號",
-                "tel": "(08)7530052"
+                "class": "文理類,音樂、舞蹈類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -4987,8 +4987,8 @@
                 "county": "屏東縣",
                 "town": "枋寮鄉",
                 "village": "天時村",
-                "address": "屏東縣枋寮鄉天時村中華路420號",
-                "tel": "(08)8714528"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -5006,8 +5006,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "瑞光里",
-                "address": "屏東縣屏東市安心四橫巷229號",
-                "tel": "(08)7237081"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -5025,8 +5025,8 @@
                 "county": "屏東縣",
                 "town": "枋寮鄉",
                 "village": "地利村",
-                "address": "屏東縣枋寮鄉地利村24鄰自強路88號",
-                "tel": "(08)8711480"
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -5044,8 +5044,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "文明里",
-                "address": "屏東縣屏東市上海路81-1號",
-                "tel": "(08)7327526"
+                "class": "文理類,",
+                "students": "高中"
             },
             "geometry": {
                 "type": "Point",
@@ -5063,8 +5063,8 @@
                 "county": "屏東縣",
                 "town": "萬丹鄉",
                 "village": "萬安村",
-                "address": "屏東縣萬丹鄉萬安村和平東路57號",
-                "tel": "(08)7761792"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -5082,8 +5082,8 @@
                 "county": "屏東縣",
                 "town": "林邊鄉",
                 "village": "永樂村",
-                "address": "屏東縣林邊鄉美華路260號",
-                "tel": "08-8758860"
+                "class": "文理類,外語類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -5101,8 +5101,8 @@
                 "county": "屏東縣",
                 "town": "枋寮鄉",
                 "village": "地利村",
-                "address": "屏東縣枋寮鄉地利村自立路107號",
-                "tel": "(08)8711853"
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -5120,8 +5120,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "龍華里",
-                "address": "屏東縣屏東市龍華里龍華路98號",
-                "tel": "(08)7527186"
+                "class": "文理類,",
+                "students": "國小國中"
             },
             "geometry": {
                 "type": "Point",
@@ -5139,8 +5139,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "大連里",
-                "address": "屏東縣屏東市豐年街31巷8號3~4樓",
-                "tel": "(08)7373528"
+                "class": "文理類,外語類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -5158,8 +5158,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "龍華里",
-                "address": "屏東縣屏東市龍華里龍華路149巷5號",
-                "tel": "(08)7561573"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -5177,8 +5177,8 @@
                 "county": "屏東縣",
                 "town": "萬丹鄉",
                 "village": "萬全村",
-                "address": "屏東縣萬丹鄉萬全村萬榮街145號",
-                "tel": "0982272248"
+                "class": "文理類,音樂、舞蹈類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -5196,8 +5196,8 @@
                 "county": "屏東縣",
                 "town": "九如鄉",
                 "village": "東寧村",
-                "address": "屏東縣九如鄉東寧村成功二街12號",
-                "tel": "(08)7394003"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -5215,8 +5215,8 @@
                 "county": "屏東縣",
                 "town": "林邊鄉",
                 "village": "永樂村",
-                "address": "屏東縣林邊鄉永樂村榮農路5巷10-4號1~2樓",
-                "tel": "(08)8755698"
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -5234,8 +5234,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "端正里",
-                "address": "屏東縣屏東市中正路109號1~5樓",
-                "tel": "(08)7322916"
+                "class": "音樂、舞蹈類,",
+                "students": "國小至成人"
             },
             "geometry": {
                 "type": "Point",
@@ -5253,8 +5253,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "大連里",
-                "address": "屏東縣屏東市建豐路124號",
-                "tel": "(08)7373529"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -5272,8 +5272,8 @@
                 "county": "屏東縣",
                 "town": "長治鄉",
                 "village": "香楊村",
-                "address": "屏東縣長治鄉香潭路101號1樓之2",
-                "tel": "0930809170"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -5291,8 +5291,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "永安里",
-                "address": "屏東縣屏東市建國路41-4號",
-                "tel": "(08)7516651"
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小、國中、高中、成人"
             },
             "geometry": {
                 "type": "Point",
@@ -5310,8 +5310,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "崇武里",
-                "address": "屏東縣屏東市華盛街1-33號",
-                "tel": "(08)7519654"
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -5329,8 +5329,8 @@
                 "county": "屏東縣",
                 "town": "萬丹鄉",
                 "village": "社口村",
-                "address": "屏東縣萬丹鄉社皮路2段506號",
-                "tel": "(08)7075209"
+                "class": "文理類,外語類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -5348,8 +5348,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "潭墘里",
-                "address": "屏東縣屏東市廣東路1514號",
-                "tel": "(08)7336868"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -5367,8 +5367,8 @@
                 "county": "屏東縣",
                 "town": "佳冬鄉",
                 "village": "石光村",
-                "address": "屏東縣佳冬鄉石光村石光街20號",
-                "tel": "0988532818"
+                "class": "商類：珠算、心算、會計,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -5386,8 +5386,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "永安里",
-                "address": "屏東縣屏東市永安里合作街153號",
-                "tel": "(08)7537134"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -5405,8 +5405,8 @@
                 "county": "屏東縣",
                 "town": "佳冬鄉",
                 "village": "佳冬村",
-                "address": "屏東縣佳冬鄉進學街103號",
-                "tel": "(08)8661472"
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -5424,8 +5424,8 @@
                 "county": "屏東縣",
                 "town": "潮州鎮",
                 "village": "三星里",
-                "address": "屏東縣潮州鎮愛國路85號",
-                "tel": "(08)7889206"
+                "class": "外語類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -5443,8 +5443,8 @@
                 "county": "屏東縣",
                 "town": "東港鎮",
                 "village": "興東里",
-                "address": "屏東縣東港鎮光復路一段77號",
-                "tel": "(08)8328060"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -5462,8 +5462,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "北勢里",
-                "address": "屏東縣屏東市廣東路807號1-2樓",
-                "tel": "(08)7668237"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -5481,8 +5481,8 @@
                 "county": "屏東縣",
                 "town": "東港鎮",
                 "village": "興東里",
-                "address": "屏東縣東港鎮興東里明德路46號1樓",
-                "tel": "08-8335788"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -5500,8 +5500,8 @@
                 "county": "屏東縣",
                 "town": "林邊鄉",
                 "village": "永樂村",
-                "address": "屏東縣林邊鄉美華路170之26號",
-                "tel": "(08)8757090"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -5519,8 +5519,8 @@
                 "county": "屏東縣",
                 "town": "鹽埔鄉",
                 "village": "鹽中村",
-                "address": "屏東縣鹽埔鄉鹽中村勝利路71號2樓",
-                "tel": "(08)7938969"
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -5538,8 +5538,8 @@
                 "county": "屏東縣",
                 "town": "潮州鎮",
                 "village": "三星里",
-                "address": "屏東縣潮州鎮三星里愛國路100號",
-                "tel": "(08)7899747"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -5557,8 +5557,8 @@
                 "county": "屏東縣",
                 "town": "里港鄉",
                 "village": "土庫村",
-                "address": "屏東縣里港鄉土庫村南興路6之9號",
-                "tel": "(08)7734196"
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -5576,8 +5576,8 @@
                 "county": "屏東縣",
                 "town": "林邊鄉",
                 "village": "永樂村",
-                "address": "屏東縣林邊鄉美華路170之25號",
-                "tel": "(08)8751139"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -5595,8 +5595,8 @@
                 "county": "屏東縣",
                 "town": "竹田鄉",
                 "village": "竹田村",
-                "address": "屏東縣竹田鄉自強路41-16號",
-                "tel": "(08)7710246"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -5614,8 +5614,8 @@
                 "county": "屏東縣",
                 "town": "里港鄉",
                 "village": "玉田村",
-                "address": "屏東縣里港鄉永樂路37之5號",
-                "tel": "(08)7757818\/0956757818"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -5633,8 +5633,8 @@
                 "county": "屏東縣",
                 "town": "枋寮鄉",
                 "village": "枋寮村",
-                "address": "屏東縣枋寮鄉中興路26號",
-                "tel": "088780393"
+                "class": "音樂、舞蹈類,",
+                "students": "不限"
             },
             "geometry": {
                 "type": "Point",
@@ -5652,8 +5652,8 @@
                 "county": "屏東縣",
                 "town": "枋寮鄉",
                 "village": "隆山村",
-                "address": "屏東縣枋寮鄉隆山村金山路202號",
-                "tel": "(08)8787945"
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -5671,8 +5671,8 @@
                 "county": "屏東縣",
                 "town": "潮州鎮",
                 "village": "光華里",
-                "address": "屏東縣潮州鎮永康街60號",
-                "tel": "(08)7801456"
+                "class": "文理類,外語類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -5690,8 +5690,8 @@
                 "county": "屏東縣",
                 "town": "新園鄉",
                 "village": "瓦磘村",
-                "address": "屏東縣新園鄉瓦磘村四環路65-3號",
-                "tel": "(08)8685010"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -5709,8 +5709,8 @@
                 "county": "屏東縣",
                 "town": "車城鄉",
                 "village": "溫泉村",
-                "address": "屏東縣嵌頂鄉文化路54號",
-                "tel": "(08)8633511"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -5728,8 +5728,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "仁愛里",
-                "address": "屏東縣屏東市中正路456巷8號",
-                "tel": "(08)7384352"
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -5747,8 +5747,8 @@
                 "county": "屏東縣",
                 "town": "潮州鎮",
                 "village": "光華里",
-                "address": "屏東縣潮州鎮朝昇東路173號",
-                "tel": "(08)7896822"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -5766,8 +5766,8 @@
                 "county": "屏東縣",
                 "town": "佳冬鄉",
                 "village": "佳冬村",
-                "address": "屏東縣佳冬鄉永富街5號",
-                "tel": "08-8670960 \/ 0929827390"
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -5785,8 +5785,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "厚生里",
-                "address": "屏東縣屏東市厚生里建國路176-4號1-3樓",
-                "tel": "(08)7539683"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -5804,8 +5804,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "華山里",
-                "address": "屏東縣屏東市莊敬街一段213號",
-                "tel": "087378879(80)"
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -5823,8 +5823,8 @@
                 "county": "屏東縣",
                 "town": "里港鄉",
                 "village": "過江村",
-                "address": "屏東縣里港鄉仁愛路57巷41號",
-                "tel": "(08)7759526"
+                "class": "外語類,",
+                "students": "國中小"
             },
             "geometry": {
                 "type": "Point",
@@ -5842,8 +5842,8 @@
                 "county": "屏東縣",
                 "town": "長治鄉",
                 "village": "崙上村",
-                "address": "屏東縣長治鄉崑崙路190巷1號",
-                "tel": "(08)7627100"
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -5861,8 +5861,8 @@
                 "county": "屏東縣",
                 "town": "萬丹鄉",
                 "village": "社口村",
-                "address": "屏東縣萬丹鄉社皮路2段487號",
-                "tel": "(08)7072771"
+                "class": "文理類,外語類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -5880,8 +5880,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "公館里",
-                "address": "屏東縣屏東市公華街256號",
-                "tel": "(08)7532822"
+                "class": "外語類,",
+                "students": "國小、國中生"
             },
             "geometry": {
                 "type": "Point",
@@ -5899,8 +5899,8 @@
                 "county": "屏東縣",
                 "town": "里港鄉",
                 "village": "過江村",
-                "address": "屏東縣里港鄉仁愛路79號",
-                "tel": "08-7720977"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -5918,8 +5918,8 @@
                 "county": "屏東縣",
                 "town": "潮州鎮",
                 "village": "三共里",
-                "address": "屏東縣潮州鎮延平路206-2號3樓",
-                "tel": "(08)7890099"
+                "class": "文理類,法政類,商類：珠算、心算、會計,",
+                "students": "成人(18歲以上),高中"
             },
             "geometry": {
                 "type": "Point",
@@ -5937,8 +5937,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "崇智里",
-                "address": "屏東縣屏東市民族路217號(2、3F)",
-                "tel": "(08)7333713"
+                "class": "文理類,",
+                "students": "升二技插大"
             },
             "geometry": {
                 "type": "Point",
@@ -5956,8 +5956,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "崇禮里",
-                "address": "屏東縣屏東市桂林街31號",
-                "tel": "(08)7663213"
+                "class": "文理類,法政類,商類：珠算、心算、會計,",
+                "students": "成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
@@ -5975,8 +5975,8 @@
                 "county": "屏東縣",
                 "town": "潮州鎮",
                 "village": "三和里",
-                "address": "屏東縣潮州鎮朝昇路361號",
-                "tel": "7887030"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -5994,8 +5994,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "崇武里",
-                "address": "屏東縣屏東市華盛街1-7號",
-                "tel": "(08)7514456"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -6013,8 +6013,8 @@
                 "county": "屏東縣",
                 "town": "潮州鎮",
                 "village": "新生里",
-                "address": "屏東縣潮州鎮新生里公園路25號",
-                "tel": "(08)7808181"
+                "class": "外語類,資訊類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -6032,8 +6032,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "三山里",
-                "address": "屏東縣屏東市海豐街5-11號",
-                "tel": "0937686570"
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -6051,8 +6051,8 @@
                 "county": "屏東縣",
                 "town": "潮州鎮",
                 "village": "三共里",
-                "address": "屏東縣潮州鎮北門路215號",
-                "tel": "(08)7881639"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -6070,8 +6070,8 @@
                 "county": "屏東縣",
                 "town": "佳冬鄉",
                 "village": "塭豐村",
-                "address": "屏東縣佳冬鄉塭豐村塭田路236號",
-                "tel": "(08)8662046"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -6089,8 +6089,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "崇武里",
-                "address": "屏東縣屏東市華盛街1-22號",
-                "tel": "(08)-7517168"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -6108,8 +6108,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "新興里",
-                "address": "屏東縣屏東市新興街3巷48號1樓",
-                "tel": "0925618566"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -6127,8 +6127,8 @@
                 "county": "屏東縣",
                 "town": "鹽埔鄉",
                 "village": "新二村",
-                "address": "屏東縣鹽埔鄉維新路197-1號",
-                "tel": "(08)7939066"
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -6146,8 +6146,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "崇蘭里",
-                "address": "屏東縣屏東市廣東路1542號",
-                "tel": "(08)7337878"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -6165,8 +6165,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "崇武里",
-                "address": "屏東縣屏東市崇武里華盛街1-26號",
-                "tel": "(08)7553666"
+                "class": "音樂、舞蹈類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -6184,8 +6184,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "崇蘭里",
-                "address": "屏東縣屏東市崇蘭里自由路747號",
-                "tel": "(08)7333750"
+                "class": "音樂、舞蹈類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -6203,8 +6203,8 @@
                 "county": "屏東縣",
                 "town": "鹽埔鄉",
                 "village": "新圍村",
-                "address": "屏東縣鹽埔鄉新圍村維新路111-2號",
-                "tel": "(08)7936066"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -6222,8 +6222,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "豐田里",
-                "address": "屏東縣屏東市豐田里廣東路276-1號",
-                "tel": "(08)7371248"
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -6241,8 +6241,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "崇武里",
-                "address": "屏東縣屏東市華盛街6巷63號",
-                "tel": "0931951501"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -6260,8 +6260,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "崇禮里",
-                "address": "屏東縣屏東市中山路25號",
-                "tel": "(08)7325018"
+                "class": "資訊類,",
+                "students": "國小至成人"
             },
             "geometry": {
                 "type": "Point",
@@ -6279,8 +6279,8 @@
                 "county": "屏東縣",
                 "town": "里港鄉",
                 "village": "過江村",
-                "address": "屏東縣里港鄉過江村過江路48-10號",
-                "tel": "(08)7758369"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -6298,8 +6298,8 @@
                 "county": "屏東縣",
                 "town": "萬丹鄉",
                 "village": "寶厝村",
-                "address": "屏東縣萬丹鄉福德街20號",
-                "tel": "(08)7777381"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -6317,8 +6317,8 @@
                 "county": "屏東縣",
                 "town": "東港鎮",
                 "village": "朝安里",
-                "address": "屏東縣東港鎮通明街32-9號",
-                "tel": "(08)8354949"
+                "class": "文理類,外語類,資訊類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -6336,8 +6336,8 @@
                 "county": "屏東縣",
                 "town": "里港鄉",
                 "village": "過江村",
-                "address": "屏東縣里港鄉過江村仁愛路53號1-2樓",
-                "tel": "(08)7755056"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -6355,8 +6355,8 @@
                 "county": "屏東縣",
                 "town": "新園鄉",
                 "village": "共和村",
-                "address": "屏東縣新園鄉共和村鹽港路55號1-3樓",
-                "tel": "(08)8310719"
+                "class": "文理類,外語類,商類：珠算、心算、會計,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -6374,8 +6374,8 @@
                 "county": "屏東縣",
                 "town": "內埔鄉",
                 "village": "東寧村",
-                "address": "屏東縣內埔鄉東寧村勝利路258號1-3樓",
-                "tel": "(08)7782015"
+                "class": "外語類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -6393,8 +6393,8 @@
                 "county": "屏東縣",
                 "town": "內埔鄉",
                 "village": "東寧村",
-                "address": "屏東縣內埔鄉東寧村勝利路247號",
-                "tel": "(08)7690779"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -6412,8 +6412,8 @@
                 "county": "屏東縣",
                 "town": "枋寮鄉",
                 "village": "隆山村",
-                "address": "屏東縣枋寮鄉隆安路157號",
-                "tel": "(08)8782988"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -6431,8 +6431,8 @@
                 "county": "屏東縣",
                 "town": "佳冬鄉",
                 "village": "塭豐村",
-                "address": "屏東縣佳冬鄉塭田路118巷16號",
-                "tel": "(08)8670960"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -6450,8 +6450,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "勝利里",
-                "address": "屏東縣屏東市廣東路870巷1號1樓",
-                "tel": "(08)7341188"
+                "class": "音樂、舞蹈類,",
+                "students": "未填寫"
             },
             "geometry": {
                 "type": "Point",
@@ -6469,8 +6469,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "中正里",
-                "address": "屏東縣屏東市華正路240號",
-                "tel": "(08)7380404"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -6488,8 +6488,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "豐田里",
-                "address": "屏東縣屏東市豐田里民學路74號",
-                "tel": "08-7231212"
+                "class": "外語類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -6507,8 +6507,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "潭墘里",
-                "address": "屏東縣屏東市大同北路97.97-1號",
-                "tel": "08-7332658"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -6526,8 +6526,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "潭墘里",
-                "address": "屏東縣屏東市大同北路91號1~3樓",
-                "tel": "(08)7336887"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -6545,8 +6545,8 @@
                 "county": "屏東縣",
                 "town": "潮州鎮",
                 "village": "永春里",
-                "address": "屏東縣潮州鎮光輪路203號",
-                "tel": "(08)7888799"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -6564,8 +6564,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "大連里",
-                "address": "屏東縣屏東市豐年街209號3樓",
-                "tel": "(08)7379377"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -6583,8 +6583,8 @@
                 "county": "屏東縣",
                 "town": "潮州鎮",
                 "village": "光華里",
-                "address": "屏東縣潮州鎮光華里育德街81號",
-                "tel": "(08)7893096"
+                "class": "商類：珠算、心算、會計,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -6602,8 +6602,8 @@
                 "county": "屏東縣",
                 "town": "崁頂鄉",
                 "village": "崁頂村",
-                "address": "屏東縣嵌頂鄉崁頂村中興路18-11號",
-                "tel": "(08)8633973"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -6621,8 +6621,8 @@
                 "county": "屏東縣",
                 "town": "林邊鄉",
                 "village": "林邊村",
-                "address": "屏東縣林邊鄉林邊村中林路282-19號",
-                "tel": "(08)8750357"
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -6640,8 +6640,8 @@
                 "county": "屏東縣",
                 "town": "內埔鄉",
                 "village": "東寧村",
-                "address": "屏東縣內埔鄉東寧村勝利路398號",
-                "tel": "(08)7781415"
+                "class": "外語類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -6659,8 +6659,8 @@
                 "county": "屏東縣",
                 "town": "里港鄉",
                 "village": "大平村",
-                "address": "屏東縣里港鄉四維路10號1~3樓",
-                "tel": "(08)7759177"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -6678,8 +6678,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "溝美里",
-                "address": "屏東縣屏東市仁愛路132-1號2樓",
-                "tel": "(08)7362200"
+                "class": "文理類,",
+                "students": "高中"
             },
             "geometry": {
                 "type": "Point",
@@ -6697,8 +6697,8 @@
                 "county": "屏東縣",
                 "town": "里港鄉",
                 "village": "大平村",
-                "address": "屏東縣里港鄉大平村四維路60號",
-                "tel": "(08)7755244"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -6716,8 +6716,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "豐田里",
-                "address": "屏東縣屏東市建豐路305號",
-                "tel": "(08)7383968"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -6735,8 +6735,8 @@
                 "county": "屏東縣",
                 "town": "長治鄉",
                 "village": "進興村",
-                "address": "屏東縣長治鄉進德街14號",
-                "tel": "(08)7352790"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -6754,8 +6754,8 @@
                 "county": "屏東縣",
                 "town": "林邊鄉",
                 "village": "光林村",
-                "address": "屏東縣林邊鄉仁愛路2巷24-2號",
-                "tel": "(08)8756248"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -6773,8 +6773,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "新生里",
-                "address": "屏東縣屏東市復興南路一段362號",
-                "tel": "(08)7558855"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -6792,8 +6792,8 @@
                 "county": "屏東縣",
                 "town": "東港鎮",
                 "village": "興東里",
-                "address": "屏東縣東港鎮中正路一段123、125號",
-                "tel": "(08)8334023"
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -6811,8 +6811,8 @@
                 "county": "屏東縣",
                 "town": "新園鄉",
                 "village": "仙吉村",
-                "address": "屏東縣新園鄉仙吉村仙吉路19-8號1-2樓",
-                "tel": "(08)8686636"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -6830,8 +6830,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "大連里",
-                "address": "屏東縣屏東市建豐路212號",
-                "tel": "(08)7382803"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -6849,8 +6849,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "仁愛里",
-                "address": "屏東縣屏東市自由路420-7號1.2.4樓",
-                "tel": "(08)7350353"
+                "class": "外語類,",
+                "students": "學齡前,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -6868,8 +6868,8 @@
                 "county": "屏東縣",
                 "town": "新園鄉",
                 "village": "鹽埔村",
-                "address": "屏東縣新園鄉鹽埔村聖心路168號",
-                "tel": "(08)8355321"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -6887,8 +6887,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "崇智里",
-                "address": "屏東縣屏東市光復路140號1.2.3.4樓",
-                "tel": "(08)7336001"
+                "class": "文理類,法政類,商類：珠算、心算、會計,",
+                "students": "成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
@@ -6906,8 +6906,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "端正里",
-                "address": "屏東縣屏東市中華路二四○號",
-                "tel": "(08)7385654"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -6925,8 +6925,8 @@
                 "county": "屏東縣",
                 "town": "內埔鄉",
                 "village": "內埔村",
-                "address": "屏東縣內埔鄉內埔村東陽街五號",
-                "tel": "(08)7787302"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -6944,8 +6944,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "端正里",
-                "address": "屏東縣屏東市中正路三○九-一號",
-                "tel": "(08)7351268"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -6963,8 +6963,8 @@
                 "county": "屏東縣",
                 "town": "長治鄉",
                 "village": "新潭村",
-                "address": "屏東縣長治鄉長興路220號1~2樓",
-                "tel": "08-7366948"
+                "class": "文理類,",
+                "students": "國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -6982,8 +6982,8 @@
                 "county": "屏東縣",
                 "town": "潮州鎮",
                 "village": "三共里",
-                "address": "屏東縣潮州鎮三共里北門路127號",
-                "tel": "(08)7891099"
+                "class": "外語類,",
+                "students": "國中、國小"
             },
             "geometry": {
                 "type": "Point",
@@ -7001,8 +7001,8 @@
                 "county": "屏東縣",
                 "town": "枋寮鄉",
                 "village": "隆山村",
-                "address": "屏東縣枋寮鄉隆安路150巷42號",
-                "tel": "(08)8788068"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -7020,8 +7020,8 @@
                 "county": "屏東縣",
                 "town": "內埔鄉",
                 "village": "內田村",
-                "address": "屏東縣內埔鄉光明路292巷72號",
-                "tel": "(08)7782273"
+                "class": "外語類,",
+                "students": "國小、國中生"
             },
             "geometry": {
                 "type": "Point",
@@ -7039,8 +7039,8 @@
                 "county": "屏東縣",
                 "town": "林邊鄉",
                 "village": "永樂村",
-                "address": "屏東縣林邊鄉美華路262號",
-                "tel": "(08)8758860"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -7058,8 +7058,8 @@
                 "county": "屏東縣",
                 "town": "潮州鎮",
                 "village": "三共里",
-                "address": "屏東縣潮州鎮三共里北門路137號",
-                "tel": "(08)7890218"
+                "class": "外語類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -7077,8 +7077,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "大連里",
-                "address": "屏東縣屏東市建豐路226號",
-                "tel": "(08)7353533  0913555316"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -7096,8 +7096,8 @@
                 "county": "屏東縣",
                 "town": "內埔鄉",
                 "village": "內田村",
-                "address": "屏東縣內埔鄉福德路12號",
-                "tel": "(08)7690398"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -7115,8 +7115,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "溝美里",
-                "address": "屏東縣屏東市自由路389號",
-                "tel": "(08)7375959"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -7134,8 +7134,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "端正里",
-                "address": "屏東縣屏東市蘇州街90號",
-                "tel": "(08)7348541"
+                "class": "外語類,",
+                "students": "未填寫"
             },
             "geometry": {
                 "type": "Point",
@@ -7153,8 +7153,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "空翔里",
-                "address": "屏東縣屏東市博愛路269號",
-                "tel": "(08)7343648"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -7172,8 +7172,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "大連里",
-                "address": "屏東縣屏東市建豐路190號",
-                "tel": "(08)7352515"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -7191,8 +7191,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "豐源里",
-                "address": "屏東縣屏東市豐源里23鄰水源街27號",
-                "tel": "(08)7222789"
+                "class": "文理類,外語類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -7210,8 +7210,8 @@
                 "county": "屏東縣",
                 "town": "東港鎮",
                 "village": "興東里",
-                "address": "屏東縣東港鎮興東里新興三街60號1-3樓",
-                "tel": "(08)8333929"
+                "class": "文理類,外語類,",
+                "students": "國中小"
             },
             "geometry": {
                 "type": "Point",
@@ -7229,8 +7229,8 @@
                 "county": "屏東縣",
                 "town": "里港鄉",
                 "village": "玉田村",
-                "address": "屏東縣里港鄉玉田村八鄰八德路176號",
-                "tel": "(08)7758087"
+                "class": "外語類,",
+                "students": "國小、國中"
             },
             "geometry": {
                 "type": "Point",
@@ -7248,8 +7248,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "大連里",
-                "address": "屏東縣屏東市大連里建豐路206號2-3樓",
-                "tel": "08-738-2347"
+                "class": "外語類,",
+                "students": "國小,國中,成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
@@ -7267,8 +7267,8 @@
                 "county": "屏東縣",
                 "town": "長治鄉",
                 "village": "進興村",
-                "address": "屏東縣長治鄉進興村潭頭路37巷10號1-3樓",
-                "tel": "08-7372842"
+                "class": "外語類,",
+                "students": "未填寫"
             },
             "geometry": {
                 "type": "Point",
@@ -7286,8 +7286,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "大武里",
-                "address": "屏東縣屏東市武愛街71巷6號",
-                "tel": "7534757"
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -7305,8 +7305,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "崇智里",
-                "address": "屏東縣屏東市重慶路一號1樓",
-                "tel": "(08)7322376"
+                "class": "法政類,資訊類,商類：珠算、心算、會計,",
+                "students": "成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
@@ -7324,8 +7324,8 @@
                 "county": "屏東縣",
                 "town": "潮州鎮",
                 "village": "新榮里",
-                "address": "屏東縣潮州鎮民榮街5號",
-                "tel": "(08)7880175"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -7343,8 +7343,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "楠樹里",
-                "address": "屏東縣屏東市福建路3之5號3樓",
-                "tel": "08-7332461"
+                "class": "文理類,",
+                "students": "高中"
             },
             "geometry": {
                 "type": "Point",
@@ -7362,8 +7362,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "崇蘭里",
-                "address": "屏東縣屏東市崇蘭里古松巷221號",
-                "tel": "08-7336750"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -7381,8 +7381,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "豐田里",
-                "address": "屏東縣屏東市建豐路99號1~3樓",
-                "tel": "(08)7351321"
+                "class": "外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -7400,8 +7400,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "崇智里",
-                "address": "屏東縣屏東市民族路169號1-2樓",
-                "tel": "08-7656689"
+                "class": "外語類,",
+                "students": "國小、國中、高中、成人"
             },
             "geometry": {
                 "type": "Point",
@@ -7419,8 +7419,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "大武里",
-                "address": "屏東縣屏東市永大路169號1-2樓",
-                "tel": "7560688"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -7438,8 +7438,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "溝美里",
-                "address": "屏東縣屏東市大連路62-20號1-2樓",
-                "tel": "08-7363052"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -7457,8 +7457,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "泰安里",
-                "address": "屏東縣屏東市信義路141之2號第4樓",
-                "tel": "08-7325538"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -7476,8 +7476,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "北勢里",
-                "address": "屏東縣屏東市自由路450號4樓之1",
-                "tel": "(08)7361084"
+                "class": "外語類,家政、插花、烹飪類,",
+                "students": "未填寫"
             },
             "geometry": {
                 "type": "Point",
@@ -7495,8 +7495,8 @@
                 "county": "屏東縣",
                 "town": "九如鄉",
                 "village": "九塊村",
-                "address": "屏東縣九如鄉維新街152之10號",
-                "tel": "(08)7394850"
+                "class": "文理類,",
+                "students": "國中小"
             },
             "geometry": {
                 "type": "Point",
@@ -7514,8 +7514,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "大連里",
-                "address": "屏東縣屏東市大連路15-11號1樓",
-                "tel": "(08)7360353"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -7533,8 +7533,8 @@
                 "county": "屏東縣",
                 "town": "潮州鎮",
                 "village": "三共里",
-                "address": "屏東縣潮州鎮天文街38號",
-                "tel": "08-7893833"
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "幼兒、國小、國中,國小、國中"
             },
             "geometry": {
                 "type": "Point",
@@ -7552,8 +7552,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "楠樹里",
-                "address": "屏東縣屏東市福建路3-4號2樓",
-                "tel": "7669292"
+                "class": "文理類,",
+                "students": "高中"
             },
             "geometry": {
                 "type": "Point",
@@ -7571,8 +7571,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "橋北里",
-                "address": "屏東縣屏東市民和路43號",
-                "tel": "(08)7233012"
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -7590,8 +7590,8 @@
                 "county": "屏東縣",
                 "town": "萬丹鄉",
                 "village": "萬全村",
-                "address": "屏東縣萬丹鄉萬榮街131號1至2樓",
-                "tel": "(08)7778198"
+                "class": "美術、書法、攝影、美工設計、圍棋類,商類：珠算、心算、會計,",
+                "students": "學齡前,國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -7609,8 +7609,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "空翔里",
-                "address": "屏東縣屏東市博愛路282號1~2樓",
-                "tel": "08-7338691"
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -7628,8 +7628,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "崇智里",
-                "address": "屏東縣屏東市民族路213號8樓",
-                "tel": "7330780\/7335208"
+                "class": "文理類,",
+                "students": "升四技二專大專"
             },
             "geometry": {
                 "type": "Point",
@@ -7647,8 +7647,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "北勢里",
-                "address": "屏東縣屏東市信義路266號",
-                "tel": "(08)7370815"
+                "class": "電機、汽車修護、建築、工藝、製圖類,",
+                "students": "高中"
             },
             "geometry": {
                 "type": "Point",
@@ -7666,8 +7666,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "永安里",
-                "address": "屏東縣屏東市自立南路104號",
-                "tel": "(08)7551051"
+                "class": "電機、汽車修護、建築、工藝、製圖類,",
+                "students": "其他"
             },
             "geometry": {
                 "type": "Point",
@@ -7685,8 +7685,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "豐田里",
-                "address": "屏東縣屏東市高豐街79號1樓",
-                "tel": "(08)7385522"
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -7704,8 +7704,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "崇蘭里",
-                "address": "屏東縣屏東市廣東路1085號",
-                "tel": "7330220"
+                "class": "外語類,",
+                "students": "國小、國中"
             },
             "geometry": {
                 "type": "Point",
@@ -7723,8 +7723,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "豐田里",
-                "address": "屏東縣屏東市民學路100號",
-                "tel": "(08)7223409"
+                "class": "外語類,資訊類,美容、美髮理髮類,",
+                "students": "國中、高中、成人,國小、國中、高中、成人"
             },
             "geometry": {
                 "type": "Point",
@@ -7742,8 +7742,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "斯文里",
-                "address": "屏東縣屏東市中正路195之3號4樓",
-                "tel": "(08)7347581"
+                "class": "音樂、舞蹈類,",
+                "students": "未填寫"
             },
             "geometry": {
                 "type": "Point",
@@ -7761,8 +7761,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "興樂里",
-                "address": "屏東縣屏東市林森路42之6號",
-                "tel": "0981956514"
+                "class": "音樂、舞蹈類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
