@@ -18,6 +18,7 @@ $tr = [
     '臺南市' => '台南市',
     '臺東縣' => '台東縣',
 ];
+$missingFh = fopen($basePath . '/data/missing.csv', 'w');
 foreach (glob($basePath . '/data/raw/*.csv') as $csvFile) {
     $p = pathinfo($csvFile);
     $detailPath = $basePath . '/data/raw/' . $p['filename'];
@@ -37,7 +38,6 @@ foreach (glob($basePath . '/data/raw/*.csv') as $csvFile) {
         }
         $jsonFile = $rawPath . '/' . $address . '.json';
         if (!file_exists($jsonFile)) {
-            continue;
             $apiUrl = $config['tgos']['url'] . '?' . http_build_query([
                 'oAPPId' => $config['tgos']['APPID'], //應用程式識別碼(APPId)
                 'oAPIKey' => $config['tgos']['APIKey'], // 應用程式介接驗證碼(APIKey)
@@ -102,6 +102,12 @@ foreach (glob($basePath . '/data/raw/*.csv') as $csvFile) {
                     ],
                 ],
             ];
+        } else {
+            fputcsv($missingFh, [
+                $data['代號'],
+                $data['補習班'],
+                $address,
+            ]);
         }
     }
 }

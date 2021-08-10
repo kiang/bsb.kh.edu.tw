@@ -1,0 +1,45 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "金門縣金湖鎮山外街76-8、76-9號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "1",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[金門縣]\tT:1,V:-1,R:1,S:-1,L:-1,A:-1,SA:-1,T:-1,AR:-1,NO:0(-23),E:-1,N:-1",
+      "OutTraceInfo": "[金門縣]\t { 模糊比對 } (金湖鎮)\t找到符合的[鄉鎮市區]，(山外街)\t找到符合的[路街名]，(76-876-9號)\t進行[找小於且最接近的門牌號碼]，找到小於輸入的門牌號碼 -23 號，模糊比對找到 1 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "金門縣金湖鎮山外里4鄰山外街53號",
+      "COUNTY": "金門縣",
+      "TOWN": "金湖鎮",
+      "VILLAGE": "山外里",
+      "NEIGHBORHOOD": "4鄰",
+      "ROAD": "山外街",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "NUMBER": "53號",
+      "X": 118.415113,
+      "Y": 24.443904
+    }
+  ]
+}

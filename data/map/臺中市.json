@@ -40588,6 +40588,25 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "42200207319139",
+                "name": "臺中市私立孔老師數學語文短期補習班",
+                "county": "臺中市",
+                "town": "大里區",
+                "village": "西榮里",
+                "class": "文理類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.686082,
+                    24.114456
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "42200207319443",
                 "name": "臺中市私立佳欣美語短期補習班",
                 "county": "臺中市",

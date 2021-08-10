@@ -1,0 +1,61 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "苗栗縣頭份市成功里建國路180巷8號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "2",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[苗栗縣]\tT:1,V:1,R:1,S:-1,L:0,A:-1,SA:-1,T:-1,AR:-1,NO:0(+2)(-2),E:-1,N:-1",
+      "OutTraceInfo": "[苗栗縣]\t { 模糊比對 } (頭份市)\t找到符合的[鄉鎮市區]，(成功里)\t找到符合的[村里]，(建國路)\t找到符合的[路街名]，(180巷)\t找不到符合的[巷]，(180)\t找不到符合的[門牌號碼]，進行轉換搜尋[巷視為號]，進行[雙號過濾]，進行[找大於且最接近的門牌號碼]，找到大於輸入的門牌號碼 +2 號，進行[找小於且最接近的門牌號碼]，找到小於輸入的門牌號碼 -2 號，模糊比對找到 2 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "苗栗縣頭份市成功里11鄰建國路178號",
+      "COUNTY": "苗栗縣",
+      "TOWN": "頭份市",
+      "VILLAGE": "成功里",
+      "NEIGHBORHOOD": "11鄰",
+      "ROAD": "建國路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "NUMBER": "178號",
+      "X": 120.908507,
+      "Y": 24.696632
+    },
+    {
+      "FULL_ADDR": "苗栗縣頭份市成功里11鄰建國路182號",
+      "COUNTY": "苗栗縣",
+      "TOWN": "頭份市",
+      "VILLAGE": "成功里",
+      "NEIGHBORHOOD": "11鄰",
+      "ROAD": "建國路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "NUMBER": "182號",
+      "X": 120.908332,
+      "Y": 24.696736
+    }
+  ]
+}

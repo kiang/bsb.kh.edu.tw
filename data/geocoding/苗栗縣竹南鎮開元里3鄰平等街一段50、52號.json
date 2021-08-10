@@ -1,0 +1,45 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "苗栗縣竹南鎮開元里3鄰平等街一段50、52號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "1",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[苗栗縣]\tT:1,V:1,R:1,S:1,L:-1,A:-1,SA:-1,T:-1,AR:-1,NO:0(-4972),E:-1,N:-1",
+      "OutTraceInfo": "[苗栗縣]\t { 模糊比對 } (竹南鎮)\t找到符合的[鄉鎮市區]，(開元里)\t找到符合的[村里]，(平等街)\t找到符合的[路街名]，(1)\t找到符合的[路段]，(5052號)\t進行[雙號過濾]，進行[找小於且最接近的門牌號碼]，找到小於輸入的門牌號碼 -4972 號，模糊比對找到 1 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "苗栗縣竹南鎮開元里3鄰平等街一段80號",
+      "COUNTY": "苗栗縣",
+      "TOWN": "竹南鎮",
+      "VILLAGE": "開元里",
+      "NEIGHBORHOOD": "3鄰",
+      "ROAD": "平等街",
+      "SECTION": "1",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "NUMBER": "80號",
+      "X": 120.865726,
+      "Y": 24.680804
+    }
+  ]
+}

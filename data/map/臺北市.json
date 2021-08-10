@@ -21816,6 +21816,25 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "20201006030001",
+                "name": "茂榞科技股份有限公司附設臺北市私立以馬內利語文文理短期補習班內湖分班",
+                "county": "臺北市",
+                "town": "大安區",
+                "village": "虎嘯里",
+                "class": "外語類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.551078,
+                    25.023284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "20201703140263",
                 "name": "臺北市私立高明音樂文理短期補習班民權分班",
                 "county": "臺北市",
@@ -28511,6 +28530,25 @@
                 "village": "敦煌里",
                 "class": "文理類,",
                 "students": "其他"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.551721,
+                    25.037338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "20200811190154",
+                "name": "大同文理補習班",
+                "county": "臺北市",
+                "town": "大安區",
+                "village": "敦煌里",
+                "class": "文理類,",
+                "students": "學齡前"
             },
             "geometry": {
                 "type": "Point",
