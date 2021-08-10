@@ -1,0 +1,5762 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39202107300001",
+                "name": "私立加貝爾美語文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "成功里",
+                "address": "宜蘭縣羅東鎮興東南路174之5號1-3樓、2樓之1、3樓之1",
+                "tel": "(03)9549868"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.767115,
+                    24.672664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39202104200001",
+                "name": "私立翰林文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "東村里",
+                "address": "宜蘭縣宜蘭市女中路1段127巷6號1-2樓",
+                "tel": "0956027999"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.766368,
+                    24.748512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39202104070001",
+                "name": "私立小鹿日方才藝空間短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "南豪里",
+                "address": "宜蘭縣羅東鎮興東南路25號1樓",
+                "tel": "0988645847"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.771321,
+                    24.668959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39202102230001",
+                "name": "私立春天音樂技藝短期補習班",
+                "county": "宜蘭縣",
+                "town": "冬山鄉",
+                "village": "南興村",
+                "address": "宜蘭縣冬山鄉照安路33巷42號1-2樓",
+                "tel": "(03)9591030"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.794616,
+                    24.631312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39202009020001",
+                "name": "私立啟聖文教事業有限公司附設宜蘭縣私立啟聖文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "仁德里",
+                "address": "宜蘭縣羅東鎮興東南路188號2樓之3",
+                "tel": "0933144200"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.767252,
+                    24.673043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39202008170001",
+                "name": "亞昕教育股份有限公司附設宜蘭縣私立亞洲文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "國華里",
+                "address": "宜蘭縣羅東鎮北成路 一段280號1-4樓",
+                "tel": "(03)9615491"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.756594,
+                    24.67779
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39202008030001",
+                "name": "私立第一文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "中興里",
+                "address": "宜蘭縣宜蘭市林森路188號1-2樓",
+                "tel": "(03)389136"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.760794,
+                    24.757497
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39202007060001",
+                "name": "私立約書亞文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "成功里",
+                "address": "宜蘭縣宜蘭市東港路二段180號1-3樓",
+                "tel": "0908093178"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.766167,
+                    24.751884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39202004210001",
+                "name": "私立傑元文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "西安里",
+                "address": "宜蘭縣羅東鎮成功街180號1-3樓",
+                "tel": "(03)9513598"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.761217,
+                    24.669416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39202003030001",
+                "name": "私立永明數學短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "賢文里",
+                "address": "宜蘭縣羅東鎮中華路45號3樓",
+                "tel": "0919901967"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.766684,
+                    24.677572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39202001200001",
+                "name": "私立遇見愛技藝短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "七結里",
+                "address": "宜蘭縣宜蘭市民族路590號1-2樓",
+                "tel": "(03)9323866"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.73797,
+                    24.747163
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201912170001",
+                "name": "私立好學星球文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "公正里",
+                "address": "宜蘭縣羅東鎮公正路230號4樓",
+                "tel": "(03)9558055"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.76702,
+                    24.679486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201911220002",
+                "name": "私立光樺文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "成功里",
+                "address": "宜蘭縣羅東鎮維揚路8號2-3樓",
+                "tel": "(03)9611807"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.762441,
+                    24.672751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201911220001",
+                "name": "私立百創科學文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "漢民里",
+                "address": "宜蘭縣羅東鎮純精路二段103號1-2樓",
+                "tel": "(03)9530590"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.763329,
+                    24.676777
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201912170002",
+                "name": "私立德明文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "七結里",
+                "address": "宜蘭縣宜蘭市女中路三段186號2-3樓",
+                "tel": "(03)9352691"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.737652,
+                    24.747097
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201908150001",
+                "name": "私立合映生活藝術技藝短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "文化里",
+                "address": "宜蘭縣宜蘭市文化路50號1-2樓",
+                "tel": "(03)9313178"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.747882,
+                    24.748646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201906030001",
+                "name": "私立新頭腦文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "成功里",
+                "address": "宜蘭縣羅東鎮體育路41巷1弄1號2樓",
+                "tel": "(03)9555036"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.766512,
+                    24.669916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201904020001",
+                "name": "私立學霸文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "公正里",
+                "address": "宜蘭縣羅東鎮公正路284巷1-5號6樓",
+                "tel": "0906267246"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.765073,
+                    24.680069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201903050001",
+                "name": "私立冠昇高中文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "賢文里",
+                "address": "宜蘭縣羅東鎮培英路26號1-3樓",
+                "tel": "(03)9611772"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.762328,
+                    24.677375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201901240001",
+                "name": "私立稚元文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "蘇澳鎮",
+                "village": "隘丁里",
+                "address": "宜蘭縣蘇澳鎮城東路105號1-2樓",
+                "tel": "(03)9904773"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.84132,
+                    24.616502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201812030001",
+                "name": "私立輕舞飛揚舞蹈技藝短期補習班羅東分班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "公正里",
+                "address": "宜蘭縣羅東鎮中正北路77號5樓",
+                "tel": "(03)9530775"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.757614,
+                    24.684335
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201811050001",
+                "name": "私立資優旗艦文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "成功里",
+                "address": "宜蘭縣羅東鎮興東南路166號1-2樓",
+                "tel": "(03)9577326"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.767557,
+                    24.672284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201811050002",
+                "name": "私立三元及第文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "大新里",
+                "address": "宜蘭縣羅東鎮中正北路38號2樓",
+                "tel": "(03)9557123"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.771947,
+                    24.679238
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201810120001",
+                "name": "私立喬一文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "賢文里",
+                "address": "宜蘭縣羅東鎮四育路136巷9號1樓",
+                "tel": "(03)9515635"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.761249,
+                    24.679493
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201810080001",
+                "name": "私立喜姆比舞蹈藝想空間技藝短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "思源里",
+                "address": "宜蘭縣宜蘭市宜中路 86號1樓",
+                "tel": "(03)9368005"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.742617,
+                    24.746417
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201808090001",
+                "name": "正聿文化有限公司附設私立正聿文理短期補習班短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "負郭里",
+                "address": "宜蘭縣宜蘭市國榮路153號1樓",
+                "tel": "(03)9331296"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.745531,
+                    24.753425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201801220001",
+                "name": "私立學bar文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "思源里",
+                "address": "宜蘭縣宜蘭市宜中路79巷70號1、2樓",
+                "tel": "(03)9332980 \/ 9320850"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.742062,
+                    24.747358
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201801190001",
+                "name": "私立悟理文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "新東里",
+                "address": "宜蘭縣宜蘭市校舍一路99號1、2樓",
+                "tel": "(03)9389179"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.763948,
+                    24.750553
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201709250001",
+                "name": "私立明思文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "漢民里",
+                "address": "宜蘭縣羅東鎮敬業路8之2號1-3樓",
+                "tel": "(03)9510808\/9510805"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.759217,
+                    24.673705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201709080001",
+                "name": "得勝者文教股份有限公司附屬宜蘭縣私立得勝者文教文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "民權里",
+                "address": "宜蘭縣宜蘭市女中路二段307號1樓及3樓",
+                "tel": "(03)9699818"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.754546,
+                    24.745857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201708030001",
+                "name": "私立英革蘭囍鵲文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "南門里",
+                "address": "宜蘭縣宜蘭市民權路二段260號1樓",
+                "tel": "(03)9361152"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.746161,
+                    24.757031
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201707070002",
+                "name": "私立李爵英文文理短期補習班羅東分班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "信義里",
+                "address": "宜蘭縣羅東鎮純精路三段252巷2號1-2樓",
+                "tel": "(03)9571096"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.766498,
+                    24.684087
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201707070001",
+                "name": "私立加雅音樂學苑技藝短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "賢文里",
+                "address": "宜蘭縣羅東鎮公正路171巷12號1-2樓",
+                "tel": "(03)9567827"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.76785,
+                    24.678495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201706280001",
+                "name": "私立鼎升美語文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "五結鄉",
+                "village": "五結村",
+                "address": "宜蘭縣五結鄉中興路一段9號1-2樓",
+                "tel": "(03)9605213"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.797257,
+                    24.6868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201706250001",
+                "name": "冠宜文理短期補習班公正分班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "賢文里",
+                "address": "宜蘭縣羅東鎮忠孝路155號1-4樓",
+                "tel": "(03)9567081"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.765788,
+                    24.679431
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201704190001",
+                "name": "私立蒲公英文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "竹林里",
+                "address": "宜蘭縣羅東鎮復興路二段199號1-3樓",
+                "tel": "(03)9559100"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.764813,
+                    24.689505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201703030001",
+                "name": "私立心荷美術技藝短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "賢文里",
+                "address": "宜蘭縣羅東鎮公正路289之7號2樓",
+                "tel": "(03)9511179"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.763231,
+                    24.680052
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201702170001",
+                "name": "私立傑耀文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "新東里",
+                "address": "宜蘭縣宜蘭市校舍二路22號1樓",
+                "tel": "(03)9370930"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.764257,
+                    24.749758
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201610280001",
+                "name": "私立書帆文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "思源里",
+                "address": "宜蘭縣宜蘭市宜中路73號1-3樓",
+                "tel": "(03)9320178"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.74257,
+                    24.746815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201609140001",
+                "name": "私立學晟文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "蘇澳鎮",
+                "village": "永榮里",
+                "address": "宜蘭縣蘇澳鎮永榮里和平路60號1-3樓",
+                "tel": "(03)9905550"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.836337,
+                    24.620809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201608040001",
+                "name": "私立喬治亞文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "冬山鄉",
+                "village": "冬山村",
+                "address": "宜蘭縣冬山鄉南興路78巷6號1-3樓",
+                "tel": "(03)9591633"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.790632,
+                    24.634156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201608010001",
+                "name": "私立晴天日語學習園地文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "七結里",
+                "address": "宜蘭縣宜蘭市農權路3段177號1樓",
+                "tel": "(03)9333331"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.737972,
+                    24.750274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201607250001",
+                "name": "私立Jenny美語教室文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "礁溪鄉",
+                "village": "德陽村",
+                "address": "宜蘭縣礁溪鄉仁愛路174號1樓",
+                "tel": "0919-242075"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.766754,
+                    24.824923
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201605100001",
+                "name": "私立菩提文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "國華里",
+                "address": "宜蘭縣羅東鎮培英路87號1-3樓",
+                "tel": "(03)9512735"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.760473,
+                    24.677731
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201605100002",
+                "name": "私立成名文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "礁溪鄉",
+                "village": "德陽村",
+                "address": "宜蘭縣礁溪鄉復興街15號1-4樓",
+                "tel": "(03)9873001"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.771582,
+                    24.824677
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201604120001",
+                "name": "私立大元文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "新東里",
+                "address": "宜蘭縣宜蘭市陽明三路35號1-4樓",
+                "tel": "(03)9380059"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.765552,
+                    24.749908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201602220001",
+                "name": "私立汎米亞文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "民權里",
+                "address": "宜蘭縣宜蘭市神農路二段70-2號2樓",
+                "tel": "(03)9352749"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.751077,
+                    24.751391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201602170001",
+                "name": "私立輕舞飛揚舞蹈技藝短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "思源里",
+                "address": "宜蘭縣宜蘭市民族路491號2樓",
+                "tel": "(03)9353725"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.740775,
+                    24.748453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201602020001",
+                "name": "私立達仁文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "建軍里",
+                "address": "宜蘭縣宜蘭市民族路407號1-2樓",
+                "tel": "9329599"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.743309,
+                    24.749731
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201601220001",
+                "name": "私立格特威國際語言學苑文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "思源里",
+                "address": "宜蘭縣宜蘭市民族路491號4樓",
+                "tel": "(03)9325023"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.740775,
+                    24.748453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201511190001",
+                "name": "私立林旺資優文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "擺厘里",
+                "address": "宜蘭縣宜蘭市女中路2段397號1-2樓",
+                "tel": "(03)9324933"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.751759,
+                    24.744962
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201510230001",
+                "name": "私立探索語言文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "文化里",
+                "address": "宜蘭縣宜蘭市文化路36號1樓",
+                "tel": "03-9333990"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.747789,
+                    24.748349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201510010001",
+                "name": "私立傑英文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "東村里",
+                "address": "宜蘭縣宜蘭市陽明二路27號1-2樓",
+                "tel": "(03)9370725"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.76398,
+                    24.7492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201510050002",
+                "name": "私立首向文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "蘇澳鎮",
+                "village": "永榮里",
+                "address": "宜蘭縣蘇澳鎮大同路109巷7號1-3樓",
+                "tel": "(03)9909298"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.833792,
+                    24.622309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201510050001",
+                "name": "私立領袖菁英文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "蘇澳鎮",
+                "village": "聖湖里",
+                "address": "宜蘭縣蘇澳鎮蘇港路387號1-2樓",
+                "tel": "(03)9971378"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.837377,
+                    24.595822
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201509150001",
+                "name": "私立極限文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "國華里",
+                "address": "宜蘭縣羅東鎮四育路79號4樓",
+                "tel": "(03)9515191"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.760141,
+                    24.678184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201509110001",
+                "name": "私立徐薇英文語文文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "負郭里",
+                "address": "宜蘭縣宜蘭市泰山路143號1-3樓",
+                "tel": "(03)9315880"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.742643,
+                    24.753563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201508040001",
+                "name": "私立達文西文理短期補習班雪山村分班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "負郭里",
+                "address": "宜蘭縣宜蘭市泰山路85巷2、6號1樓",
+                "tel": "(03)9312218"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.744711,
+                    24.75363
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201507140001",
+                "name": "私立金育文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "新東里",
+                "address": "宜蘭縣宜蘭市陽明三路38號1樓",
+                "tel": "(03)9386827"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.765956,
+                    24.749565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201507100001",
+                "name": "私立形象藝術空間技藝短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "維揚里",
+                "address": "宜蘭縣羅東鎮維揚路70巷10號1樓",
+                "tel": "(03)9515218"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.761503,
+                    24.672675
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201506290001",
+                "name": "私立大佑文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "壯圍鄉",
+                "village": "吉祥村",
+                "address": "宜蘭縣壯圍鄉吉祥村壯五路71號1-3樓",
+                "tel": "(03)9380390"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.789405,
+                    24.744744
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201506150001",
+                "name": "私立愛微斯文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "負郭里",
+                "address": "宜蘭縣宜蘭市民權新路344號、346號1、2、3樓",
+                "tel": "(03)9311313"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.742431,
+                    24.753001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201506030001",
+                "name": "私立尤揚文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "黎明里",
+                "address": "宜蘭縣宜蘭市黎明三路446號1-3樓",
+                "tel": "(03)9311842"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.767906,
+                    24.750875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201505070001",
+                "name": "私立李爵英文文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "擺厘里",
+                "address": "宜蘭縣宜蘭市女中路二段439號1-2樓",
+                "tel": "(03)9326899"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.750677,
+                    24.74464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201503260001",
+                "name": "私立全智文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "員山鄉",
+                "village": "員山村",
+                "address": "宜蘭縣員山鄉員山村29鄰文化路100巷33號1樓",
+                "tel": "(03)9223347"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.724931,
+                    24.747509
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201412230001",
+                "name": "私立田春木高中數學文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "擺厘里",
+                "address": "宜蘭縣宜蘭市女中路2段427號1-2樓",
+                "tel": "(03)9329589"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.750998,
+                    24.744747
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201412040001",
+                "name": "私立小星星文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "賢文里",
+                "address": "宜蘭縣羅東鎮民生路129號1-3樓",
+                "tel": "(03)9575100、9563090"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.765586,
+                    24.677931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201410140002",
+                "name": "私立快樂地文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "南昌里",
+                "address": "宜蘭縣羅東鎮站前南路151號3樓",
+                "tel": "(03)9546553"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.774575,
+                    24.671185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201410140001",
+                "name": "私立康軒文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "冬山鄉",
+                "village": "南興村",
+                "address": "宜蘭縣冬山鄉香南路366號1-3樓",
+                "tel": "(03)9595093"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.791212,
+                    24.630828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201409230001",
+                "name": "私立方田文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "民權里",
+                "address": "宜蘭縣宜蘭市中山路2段145號3樓之1",
+                "tel": "(03)9321096"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.754611,
+                    24.747361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201408250001",
+                "name": "私立理翔文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "頭城鎮",
+                "village": "武營里",
+                "address": "宜蘭縣頭城鎮青雲路3段339號1-3樓",
+                "tel": "(03)9779791"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.826989,
+                    24.860392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201408080001",
+                "name": "私立全能文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "負郭里",
+                "address": "宜蘭縣宜蘭市民權新路334號1-3樓",
+                "tel": "(03)9315599"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.742715,
+                    24.752922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201408070001",
+                "name": "私立愛因斯坦文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "負郭里",
+                "address": "宜蘭縣宜蘭市國榮路167號1樓",
+                "tel": "(03)9312218"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.744957,
+                    24.75374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201407310001",
+                "name": "私立力允文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "公正里",
+                "address": "宜蘭縣羅東鎮中華路112號1-3樓",
+                "tel": "(03)9558830"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.767765,
+                    24.680266
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201407140001",
+                "name": "私立勤進文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "國華里",
+                "address": "宜蘭縣羅東鎮四育路60號1-3樓",
+                "tel": "(03)9510292"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.760254,
+                    24.673409
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201406300001",
+                "name": "私立陽光文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "南門里",
+                "address": "宜蘭縣宜蘭市民權路2段116號1-3樓",
+                "tel": "0911219013"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.747726,
+                    24.755192
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201406270001",
+                "name": "私立卓越文理短期補習班東光分班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "成功里",
+                "address": "宜蘭縣羅東鎮興東南路163號1-3樓",
+                "tel": "(03)9530030\/9530020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.768024,
+                    24.671113
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201405080001",
+                "name": "私立菁菁文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "新東里",
+                "address": "宜蘭縣宜蘭市陽明二路128號1-2樓",
+                "tel": "(03)9372680"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.76311,
+                    24.751439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201404240001",
+                "name": "私立吉尼爾文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "民族里",
+                "address": "宜蘭縣宜蘭市民權新路98號1-2樓",
+                "tel": "(03)9333626"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.749033,
+                    24.751242
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201403310001",
+                "name": "私立許老師文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "復興里",
+                "address": "宜蘭縣宜蘭市農權路154巷15號3樓",
+                "tel": "(03)9364225"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.751867,
+                    24.747522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201403240001",
+                "name": "私立菁英文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "泰山里",
+                "address": "宜蘭縣宜蘭市民權新路453號1-2樓",
+                "tel": "(03) 9359095"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.741608,
+                    24.753336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201401160002",
+                "name": "私立學勝美語文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "蘇澳鎮",
+                "village": "蘇西里",
+                "address": "宜蘭縣蘇澳鎮中山路1段343號1樓",
+                "tel": "(03)9955002"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.841809,
+                    24.595711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201401160003",
+                "name": "私立非凡文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "礁溪鄉",
+                "village": "大忠村",
+                "address": "宜蘭縣礁溪鄉和平路18號1-2樓",
+                "tel": "(03)9870969"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.769313,
+                    24.822631
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201404090001",
+                "name": "私立佰科文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "冬山鄉",
+                "village": "順安村",
+                "address": "宜蘭縣冬山鄉華祥路2-9號1-2樓",
+                "tel": "(03)9581818"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.759418,
+                    24.656307
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201311280002",
+                "name": "私立卓越文理短期補習班羅東分班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "信義里",
+                "address": "宜蘭縣羅東鎮中華路172號1-3樓",
+                "tel": "(03)9577779\/9558198"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.768294,
+                    24.68187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201310180003",
+                "name": "私立博士文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "員山鄉",
+                "village": "員山村",
+                "address": "宜蘭縣員山鄉文化路146號1-2樓",
+                "tel": "(03)9225627"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.723236,
+                    24.745505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201309020001",
+                "name": "私立簡老師數理教室文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "新東里",
+                "address": "宜蘭縣宜蘭市陽明三路65號1-2樓",
+                "tel": "(03)9384241"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.765095,
+                    24.750806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201308120001",
+                "name": "私立班理查文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "國華里",
+                "address": "宜蘭縣羅東鎮四育路127號1-2樓",
+                "tel": "(03)9512377"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.785743,
+                    24.666253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201302270001",
+                "name": "私立宜華土木建築短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "復興里",
+                "address": "宜蘭縣宜蘭市弘志路9號1樓",
+                "tel": "(02)23919950"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.752917,
+                    24.746078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201303190001",
+                "name": "私立楊平文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "五結鄉",
+                "village": "五結村",
+                "address": "宜蘭縣五結鄉新生路31號1-2樓",
+                "tel": "(03)9606106"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.796976,
+                    24.685727
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201307220001",
+                "name": "私立睿智凱瑞語文短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "國華里",
+                "address": "宜蘭縣羅東鎮四育路48號2樓",
+                "tel": "(03)9613923"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.766212,
+                    24.67648
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201305220002",
+                "name": "私立致悅文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "樹林里",
+                "address": "宜蘭縣羅東鎮公正路346號2樓",
+                "tel": "(03)9575576"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.760247,
+                    24.680835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201301100001",
+                "name": "私立宏文宏儒文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "北津里",
+                "address": "宜蘭縣宜蘭市大坡路1段43號1-2樓",
+                "tel": "0912-593485"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.755101,
+                    24.769338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201211050001",
+                "name": "私立澳斯汀美語短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "賢文里",
+                "address": "宜蘭縣羅東鎮忠孝路149號1-4樓",
+                "tel": "(03)9548108"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.765761,
+                    24.67931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201210220002",
+                "name": "私立飛揚文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "漢民里",
+                "address": "宜蘭縣羅東鎮忠孝路22號",
+                "tel": "0953101028"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.764581,
+                    24.675049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201210220001",
+                "name": "私立伯格文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "三星鄉",
+                "village": "義德村",
+                "address": "宜蘭縣三星鄉義德村星義路203號1-3樓",
+                "tel": "(03)9895911"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.649638,
+                    24.667247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201210090001",
+                "name": "私立菁華文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "新東里",
+                "address": "宜蘭縣宜蘭市女中路一段150號1-2樓",
+                "tel": "(03)9388083"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.765843,
+                    24.748757
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201209040001",
+                "name": "私立立傑文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "樹林里",
+                "address": "宜蘭縣羅東鎮豐年路31號1-2樓",
+                "tel": "(03)9569068"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.758291,
+                    24.680913
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201207200001",
+                "name": "私立布萊恩美語短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "新東里",
+                "address": "宜蘭縣宜蘭市校舍一路87號1樓",
+                "tel": "(03)9380776"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.764399,
+                    24.750703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201207170001",
+                "name": "私立艾莉文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "東村里",
+                "address": "宜蘭縣宜蘭市陽明二路73號1-4樓",
+                "tel": "(03)9380215"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.763165,
+                    24.750626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201206290001",
+                "name": "真善美文化藝術有限公司羅東分公司附設私立地球村語文短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "集祥里",
+                "address": "宜蘭縣羅東鎮中正路169號1-3樓",
+                "tel": "(03)9550896"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.771587,
+                    24.676849
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201206210001",
+                "name": "私立薇琪文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "思源里",
+                "address": "宜蘭縣宜蘭市嵐峰路三段300巷3號1-2樓",
+                "tel": "(03)9327496"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.73632,
+                    24.745744
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201206130001",
+                "name": "私立登竹文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "頭城鎮",
+                "village": "新建里",
+                "address": "宜蘭縣頭城鎮南興街21號1-2號",
+                "tel": "(03)9772484"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.824601,
+                    24.85496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201205290001",
+                "name": "東海國際電腦資訊有限公司附設私立大東海法商文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "新民里",
+                "address": "宜蘭縣宜蘭市中山路3段108-1號1-2樓",
+                "tel": "(03)9312206"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.752767,
+                    24.757705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201205160002",
+                "name": "私立米那米文理短期補習班中華分班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "新東里",
+                "address": "宜蘭縣宜蘭市東港路二段155巷3號1-2樓、5號1-2樓",
+                "tel": "(03)9383631"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.76696,
+                    24.751248
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201205160001",
+                "name": "私立美地文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "五結鄉",
+                "village": "成興村",
+                "address": "宜蘭縣五結鄉成興村成鳳路188巷34號1-2樓",
+                "tel": "(03)9500662"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.826674,
+                    24.663243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201202130001",
+                "name": "私立達文西文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "建軍里",
+                "address": "宜蘭縣宜蘭市泰山路209號1-4樓",
+                "tel": "(03)9312215"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.740799,
+                    24.752582
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201110310001",
+                "name": "私立聯成電腦語文短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "公正里",
+                "address": "宜蘭縣羅東鎮中正北路1號1-4樓",
+                "tel": "(03)9566156"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.77194,
+                    24.678156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201109300001",
+                "name": "私立王牌語文短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "民族里",
+                "address": "宜蘭縣宜蘭市民族路128號1-2樓",
+                "tel": "(03)9363969"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.750561,
+                    24.752862
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201108220002",
+                "name": "私立謙華文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "賢文里",
+                "address": "宜蘭縣羅東鎮民治街52號",
+                "tel": "(03)9517098"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.76133,
+                    24.679825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201108220001",
+                "name": "私立全人文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "國華里",
+                "address": "宜蘭縣羅東鎮北成路一段170號1-3樓",
+                "tel": "(03)9510700"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.758349,
+                    24.676061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201108030001",
+                "name": "私立貝律文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "五結鄉",
+                "village": "成興村",
+                "address": "宜蘭縣五結鄉五濱路一段112巷26號1-2樓",
+                "tel": "(03)9602339"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.828845,
+                    24.666975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201112290001",
+                "name": "私立卓越文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "國華里",
+                "address": "宜蘭縣羅東鎮四育路91號1-2樓",
+                "tel": "(03)9510910\/9510939"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.760638,
+                    24.678231
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201107130002",
+                "name": "私立創意種子語文短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "擺厘里",
+                "address": "宜蘭縣宜蘭市女中路二段429號1-2樓",
+                "tel": "(03)9363627"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.75093,
+                    24.744727
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201106070001",
+                "name": "私立希望種子文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "樹林里",
+                "address": "宜蘭縣羅東鎮樹林里學府街33巷3號2樓",
+                "tel": "(03)9566771"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.76167,
+                    24.682545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201105300001",
+                "name": "私立立學文理短期補習班羅東分班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "信義里",
+                "address": "宜蘭縣羅東鎮中華路178號1-3樓",
+                "tel": "(03)9558115"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.768327,
+                    24.681985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201105250001",
+                "name": "私立精英專業美語短期補習班",
+                "county": "宜蘭縣",
+                "town": "三星鄉",
+                "village": "集慶村",
+                "address": "宜蘭縣三星鄉集慶村集慶七路45號1-2樓",
+                "tel": "(03)9895513"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.652866,
+                    24.666035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201104210002",
+                "name": "私立米那米文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "民族里",
+                "address": "宜蘭縣宜蘭市民權新路150號1-4樓",
+                "tel": "(03)9353147"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.747649,
+                    24.751591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201104210001",
+                "name": "私立文鼎文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "思源里",
+                "address": "宜蘭縣宜蘭市女中路三段168號1-3樓",
+                "tel": "(03)9320892"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.738327,
+                    24.746759
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201102160001",
+                "name": "私立奇朵.巴布熊潛能美術短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "樹林里",
+                "address": "宜蘭縣羅東鎮公正路342號2樓",
+                "tel": "9569188"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.760525,
+                    24.680796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201308150001",
+                "name": "私立立學文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "公正里",
+                "address": "宜蘭縣羅東鎮愛國路239號1-3樓",
+                "tel": "(03)955-0506"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.765691,
+                    24.679901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201101170004",
+                "name": "私立凱茜美語文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "信義里",
+                "address": "宜蘭縣羅東鎮興東路185號3樓",
+                "tel": "(03)9547958"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.769491,
+                    24.68156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201101190001",
+                "name": "私立逸凡文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "文化里",
+                "address": "宜蘭縣宜蘭市文化路70號1-3樓",
+                "tel": "(03)9351228"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.748108,
+                    24.749451
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201101190003",
+                "name": "智基科技開發股份有限公司附設私立宜蘭志光法商短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "孝廉里",
+                "address": "宜蘭縣宜蘭市中山路三段220號1-4樓",
+                "tel": "(03)9367118"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.753489,
+                    24.760766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201101190002",
+                "name": "私立智遠文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "黎明里",
+                "address": "宜蘭縣宜蘭市黎明三路430號1-2樓",
+                "tel": "(03)9372384"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.767934,
+                    24.750451
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201011250001",
+                "name": "私立周老師文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "五結鄉",
+                "village": "大吉村",
+                "address": "宜蘭縣五結鄉大吉五路62巷11、31號1-2樓",
+                "tel": "(03)9600726"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.801512,
+                    24.697474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201011010001",
+                "name": "私立王強資優文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "文化里",
+                "address": "宜蘭縣宜蘭市復興路2段70-3號4樓",
+                "tel": "(03)9359876"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.747833,
+                    24.749085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201101210002",
+                "name": "私立欣欣文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "蘇澳鎮",
+                "village": "蘇西里",
+                "address": "宜蘭縣蘇澳鎮中山路一段385號",
+                "tel": "(03)9972866"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.840856,
+                    24.595953
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200208070007",
+                "name": "私立書田文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "頭城鎮",
+                "village": "金面里",
+                "address": "宜蘭縣頭城鎮青雲路二段341號2樓",
+                "tel": "(03)9770915"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.807964,
+                    24.845835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201606050001",
+                "name": "私立上將文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "三星鄉",
+                "village": "義德村",
+                "address": "宜蘭縣三星鄉義德二路70號1-3樓",
+                "tel": "(03)9894355"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.651064,
+                    24.665448
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201101210001",
+                "name": "私立史麥爾美語文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "賢文里",
+                "address": "宜蘭縣羅東鎮中華路45號1-2樓",
+                "tel": "(03)9556116"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.766684,
+                    24.677572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201008110001",
+                "name": "私立勤易文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "中興里",
+                "address": "宜蘭縣宜蘭市中興路310號1樓",
+                "tel": "(03)9370219"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.762511,
+                    24.75709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201007280002",
+                "name": "私立育橋文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "五結鄉",
+                "village": "二結村",
+                "address": "宜蘭縣五結鄉二結路252號1-3樓",
+                "tel": "(03)9650829"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.768546,
+                    24.705666
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201007280001",
+                "name": "私立正賦文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "賢文里",
+                "address": "宜蘭縣羅東鎮純精路2段262號1-2樓",
+                "tel": "(03)9558652"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.764289,
+                    24.679592
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201008110003",
+                "name": "私立羅東東學文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "信義里",
+                "address": "宜蘭縣羅東鎮純精路三段160巷16號2樓",
+                "tel": "(03)9571683"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.765975,
+                    24.682494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201008110002",
+                "name": "鼎真文教出版事業有限公司附設私立鼎臻美語文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "負郭里",
+                "address": "宜蘭縣宜蘭市三清路120號1-3樓",
+                "tel": "(03)9330877"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.745796,
+                    24.755583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201007050001",
+                "name": "財團法人天主教蘭陽青年會附設舞蹈短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "北成里",
+                "address": "宜蘭縣羅東鎮北成路1段189號1樓",
+                "tel": "(03)9511161"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.757521,
+                    24.676079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201006100004",
+                "name": "私立鍾老師專業作文文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "國華里",
+                "address": "宜蘭縣羅東鎮四育路131號1-2樓",
+                "tel": "(03)9513525"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.785995,
+                    24.667214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39201006100002",
+                "name": "私立韋傑英文短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "賢文里",
+                "address": "宜蘭縣羅東鎮民生路167號1樓",
+                "tel": "0920-208-461"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.764292,
+                    24.678051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200911020001",
+                "name": "私立文莘文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "礁溪鄉",
+                "village": "大忠村",
+                "address": "宜蘭縣礁溪鄉和平路30號1-2樓",
+                "tel": "(03)9889743"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.768994,
+                    24.822737
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200907210001",
+                "name": "私立台大曾強文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "信義里",
+                "address": "宜蘭縣羅東鎮中華路162號1-2樓",
+                "tel": "(03)9557303"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.768201,
+                    24.681612
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200907240001",
+                "name": "私立朱芸文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "延平里",
+                "address": "宜蘭縣宜蘭市東港路二段160巷86弄3號1-2樓",
+                "tel": "(03)9385303"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.766614,
+                    24.754466
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200907200002",
+                "name": "私立羅東格林文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "開明里",
+                "address": "宜蘭縣羅東鎮開羅街32號1-2樓",
+                "tel": "(03)9549035"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.773453,
+                    24.673843
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200905050001",
+                "name": "私立磊哥頂尖數學文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "文化里",
+                "address": "宜蘭縣宜蘭市文化路13號1-3樓",
+                "tel": "(03)9366006"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.74793,
+                    24.749445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200904210003",
+                "name": "私立薇閣文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "中興里",
+                "address": "宜蘭縣宜蘭市東港路二段430號1-3樓",
+                "tel": "(03)9380015"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.76242,
+                    24.755275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200904070001",
+                "name": "私立泰瑞美語短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "思源里",
+                "address": "宜蘭縣宜蘭市嵐峰路三段140號1樓",
+                "tel": "(03)9320776"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.739102,
+                    24.745034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200903250001",
+                "name": "真善美文化藝術有限公司附設宜蘭縣私立國際地球村文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "大新里",
+                "address": "宜蘭縣宜蘭市宜興路1段255號2樓",
+                "tel": "(03)9358176"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.757901,
+                    24.756027
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200903090001",
+                "name": "私立頂尖優勢文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "礁溪鄉",
+                "village": "龍潭村",
+                "address": "宜蘭縣礁溪鄉育龍路113號1-3樓",
+                "tel": "(03)9284110"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.746504,
+                    24.781286
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200812080001",
+                "name": "私立陳樞華專業英語短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "公正里",
+                "address": "宜蘭縣羅東鎮林森路149號1-2樓",
+                "tel": "(03)9575718"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.758308,
+                    24.684362
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200811120002",
+                "name": "私立洺堂文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "蘇澳鎮",
+                "village": "永榮里",
+                "address": "宜蘭縣蘇澳鎮和平路36號1-2樓",
+                "tel": "(03)9905069"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.835211,
+                    24.620875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200811120001",
+                "name": "私立佩格美語短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "東安里",
+                "address": "宜蘭縣羅東鎮光榮路495號3樓之一,之三",
+                "tel": "(03)9553507"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.777582,
+                    24.681076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200811120004",
+                "name": "私立蓓蒑文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "國華里",
+                "address": "宜蘭縣羅東鎮進德街1號1-2樓",
+                "tel": "(03)9614687"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.755692,
+                    24.670275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200808130001",
+                "name": "私立新球美語短期補習班",
+                "county": "宜蘭縣",
+                "town": "三星鄉",
+                "village": "義德村",
+                "address": "宜蘭縣三星鄉義德二路116號1樓",
+                "tel": "(03)9895343"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.65021,
+                    24.665334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200807090001",
+                "name": "私立巨匠電腦語文短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "大新里",
+                "address": "宜蘭縣羅東鎮中正路142、144號1-3樓",
+                "tel": "03-9550845"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.771919,
+                    24.677885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200807090002",
+                "name": "私立語樂英語短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "思源里",
+                "address": "宜蘭縣宜蘭市宜中路79巷5號1-3樓",
+                "tel": "(03)9365877"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.742501,
+                    24.747078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200806040001",
+                "name": "私立宜學語文短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "樹林里",
+                "address": "宜蘭縣羅東鎮純精路3段189號2樓",
+                "tel": "(03)9558686\/9565668"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.765635,
+                    24.684156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200804170002",
+                "name": "私立全腦文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "漢民里",
+                "address": "宜蘭縣羅東鎮培英路61巷2號1樓",
+                "tel": "9610563"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.761489,
+                    24.677233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200803310001",
+                "name": "私立宸安文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "成功里",
+                "address": "宜蘭縣宜蘭市東港路二段168號1-2樓",
+                "tel": "(03)937-2168"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.766428,
+                    24.751837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200803280002",
+                "name": "私立心成文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "頭城鎮",
+                "village": "拔雅里",
+                "address": "宜蘭縣頭城鎮公園路54號1-3樓",
+                "tel": "03-9774799"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.820072,
+                    24.85922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200803030001",
+                "name": "私立林阿銀文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "礁溪鄉",
+                "village": "大義村",
+                "address": "宜蘭縣礁溪鄉大義村義興街42號1-3樓",
+                "tel": "03-988-5106"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.768809,
+                    24.816383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200801070001",
+                "name": "私立小海豚學園文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "礁溪鄉",
+                "village": "吳沙村",
+                "address": "宜蘭縣礁溪鄉礁溪路一段296號1樓",
+                "tel": "(03)928-9189"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.762082,
+                    24.78952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200712250001",
+                "name": "私立高格文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "賢文里",
+                "address": "宜蘭縣羅東鎮培英路28號1-3樓",
+                "tel": "(03)951-0908"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.762255,
+                    24.677379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200712200001",
+                "name": "私立聚星文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "員山鄉",
+                "village": "同樂村",
+                "address": "宜蘭縣員山鄉同樂村同新路227號1-3樓",
+                "tel": "(03)9222385"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.72859,
+                    24.762474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200709070001",
+                "name": "私立捷登文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "負郭里",
+                "address": "宜蘭縣宜蘭市民權新路208號1樓",
+                "tel": "(03)9327878"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.745738,
+                    24.752109
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200707190002",
+                "name": "私立倍立方文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "東安里",
+                "address": "宜蘭縣羅東鎮光榮路495號5樓之1",
+                "tel": "(03)9559981"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.777582,
+                    24.681076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200707090001",
+                "name": "私立英格兒美語短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "復興里",
+                "address": "宜蘭縣宜蘭市中華路77號1樓",
+                "tel": "(03)9311899"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.753276,
+                    24.747688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200707090002",
+                "name": "私立慶豐文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "南津里",
+                "address": "宜蘭縣宜蘭市建蘭南路186號2-3樓",
+                "tel": "(03)9251216"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.760819,
+                    24.723462
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200706200001",
+                "name": "私立展青科學教育文理短期補習班五結分班",
+                "county": "宜蘭縣",
+                "town": "五結鄉",
+                "village": "四結村",
+                "address": "宜蘭縣五結鄉中興路3段302巷8-1號1樓",
+                "tel": "(03)9651177"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.765834,
+                    24.693178
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200704110002",
+                "name": "私立高格文理短期補習班東光分班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "成功里",
+                "address": "宜蘭縣羅東鎮興東南路140號1-3樓",
+                "tel": "(03)9531557"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.767867,
+                    24.671752
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200703150001",
+                "name": "私立維多利亞文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "壯圍鄉",
+                "village": "吉祥村",
+                "address": "宜蘭縣壯圍鄉中央路2段381號1-3樓",
+                "tel": "(03)9387966"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.787294,
+                    24.749423
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200703050002",
+                "name": "私立熊寶貝文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "南昌里",
+                "address": "宜蘭縣羅東鎮站前南路93-1號2樓",
+                "tel": "(03)9550520"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.775057,
+                    24.669464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200701160001",
+                "name": "私立有金文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "樹林里",
+                "address": "宜蘭縣羅東鎮純精路3段33號1-3樓",
+                "tel": "(03)9547531"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.764154,
+                    24.681001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200701100001",
+                "name": "私立瑪侍德文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "礁溪鄉",
+                "village": "大忠村",
+                "address": "宜蘭縣礁溪鄉礁溪路四段78號2樓",
+                "tel": "(03)9882865"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.769178,
+                    24.819721
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200612210001",
+                "name": "私立浩學文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "文化里",
+                "address": "宜蘭縣宜蘭市復興路2段70-1號2樓",
+                "tel": "0953882536"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.747833,
+                    24.749085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200610260001",
+                "name": "私立真善美文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "蘇澳鎮",
+                "village": "聖愛里",
+                "address": "宜蘭縣蘇澳鎮中山路1段431號1-2樓",
+                "tel": "(03)9972225"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.839819,
+                    24.59619
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200610200001",
+                "name": "私立張令宜珠心算文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "南昌里",
+                "address": "宜蘭縣羅東鎮站前南路144號1-2樓",
+                "tel": "(03)9558289"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.775104,
+                    24.67004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200610120001",
+                "name": "私立成功文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "仁德里",
+                "address": "宜蘭縣羅東鎮興東南路133、135號2樓",
+                "tel": "(03)9531456"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.771553,
+                    24.679976
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200610020001",
+                "name": "私立凱西美語文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "信義里",
+                "address": "宜蘭縣羅東鎮興東路185號1-2樓",
+                "tel": "(03)9547958"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.769491,
+                    24.68156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200609050001",
+                "name": "私立員源圈文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "員山鄉",
+                "village": "員山村",
+                "address": "宜蘭縣員山鄉復興路50號1-3樓",
+                "tel": "(03)9220246"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.720491,
+                    24.746742
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200609010001",
+                "name": "台灣知識庫股份有限公司附設私立大碩洋碩甄戰數位學堂文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "民族里",
+                "address": "宜蘭縣宜蘭市民權新路62號2樓",
+                "tel": "(03)9314228"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.750011,
+                    24.750993
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200608230001",
+                "name": "私立奇湧文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "慈安里",
+                "address": "宜蘭縣宜蘭市慈安路71號1-2樓",
+                "tel": "(03)9388112"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.763468,
+                    24.760041
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200608230002",
+                "name": "私立上榜文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "樹林里",
+                "address": "宜蘭縣羅東鎮公正路320號1-3樓",
+                "tel": "(03)9557507、9567790"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.76315,
+                    24.680491
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200608070001",
+                "name": "私立興儒文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "礁溪鄉",
+                "village": "大義村",
+                "address": "宜蘭縣礁溪鄉義興街20號1-2樓",
+                "tel": "(03)9882686"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.768844,
+                    24.816538
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200608030001",
+                "name": "私立家恩美語短期補習班",
+                "county": "宜蘭縣",
+                "town": "五結鄉",
+                "village": "協和村",
+                "address": "宜蘭縣五結鄉協同街1巷5號1-2樓",
+                "tel": "(03)9500365"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.800691,
+                    24.686402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200607210001",
+                "name": "私立蜜蘋果文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "冬山鄉",
+                "village": "南興村",
+                "address": "宜蘭縣冬山鄉香南路378號1-2樓",
+                "tel": "(03)9595721"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.791195,
+                    24.631179
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200605100001",
+                "name": "私立育可佳文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "五結鄉",
+                "village": "中興村",
+                "address": "宜蘭縣五結鄉台興路61巷12號1-3樓",
+                "tel": "(03)9650366"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.768024,
+                    24.697282
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200604260001",
+                "name": "私立資優珠心算短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "漢民里",
+                "address": "宜蘭縣羅東鎮敬業路36號1樓",
+                "tel": "(03)9610811"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.759321,
+                    24.674461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200605230001",
+                "name": "私立建宏文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "文化里",
+                "address": "宜蘭縣宜蘭市復興路2段28號1-5樓",
+                "tel": "(03)9360034"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.749123,
+                    24.748743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200603290001",
+                "name": "私立奇妙文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "五結鄉",
+                "village": "中興村",
+                "address": "宜蘭縣五結鄉台興路53號1-2樓",
+                "tel": "(03)9655955"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.768494,
+                    24.6966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200603030001",
+                "name": "私立伊莎美語文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "五結鄉",
+                "village": "二結村",
+                "address": "宜蘭縣五結鄉中正路3段169巷12號1-2樓",
+                "tel": "0958088592"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.770563,
+                    24.707515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200602170001",
+                "name": "私立蘇荷美術短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "負郭里",
+                "address": "宜蘭縣宜蘭市泰山路147號1-2樓",
+                "tel": "(03)9368910"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.742536,
+                    24.75346
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200602130001",
+                "name": "私立倍加文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "思源里",
+                "address": "宜蘭縣宜蘭市嵐峰路三段326巷6號1-3樓",
+                "tel": "(03)9312699"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.736067,
+                    24.746171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200602090001",
+                "name": "亞昕教育股份有限公司附設宜蘭縣私立佳昕文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "國華里",
+                "address": "宜蘭縣羅東鎮北成路1段282號1-3樓",
+                "tel": "(03)9613748"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.756791,
+                    24.677724
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200601270001",
+                "name": "私立蘇珊美語文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "頭城鎮",
+                "village": "城南里",
+                "address": "宜蘭縣頭城鎮和平街88號1樓",
+                "tel": "0952-309277"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.82416,
+                    24.856826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200507280002",
+                "name": "私立約翰文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "國華里",
+                "address": "宜蘭縣羅東鎮四育路79號5樓",
+                "tel": "(03)9615494"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.760141,
+                    24.678184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200512130001",
+                "name": "私立愛得生文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "信義里",
+                "address": "宜蘭縣羅東鎮純精路三段190號1樓",
+                "tel": "(03)9533223"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.765838,
+                    24.683532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200512120003",
+                "name": "私立聖堡羅語言企管教育短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "思源里",
+                "address": "宜蘭縣宜蘭市宜中路43號1-3樓",
+                "tel": "(03)9311931"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.742373,
+                    24.7461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200509220002",
+                "name": "私立傑申文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "壯圍鄉",
+                "village": "吉祥村",
+                "address": "宜蘭縣壯圍鄉中央路2段342號1-3樓",
+                "tel": "(03)9373606"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.786983,
+                    24.74823
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200509220001",
+                "name": "私立立承文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "頭城鎮",
+                "village": "金面里",
+                "address": "宜蘭縣頭城鎮青雲路2段639號1-2樓",
+                "tel": "(03)9770696"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.812989,
+                    24.847683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200509020001",
+                "name": "私立學一文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "樹林里",
+                "address": "宜蘭縣羅東鎮樹人路46號1樓、2樓之6",
+                "tel": "(03)9544237"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.763536,
+                    24.681856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200509020004",
+                "name": "私立陳智文文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "泰山里",
+                "address": "宜蘭縣宜蘭市民權新路471號1-2樓",
+                "tel": "(03)9367002"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.741463,
+                    24.753571
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200409200001",
+                "name": "私立萊恩文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "冬山鄉",
+                "village": "南興村",
+                "address": "宜蘭縣冬山鄉香南路355號2樓",
+                "tel": "(03)9590800"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.791058,
+                    24.630631
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200409200002",
+                "name": "私立微妮文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "南豪里",
+                "address": "宜蘭縣羅東鎮文化街78號1樓",
+                "tel": "(03)9548338"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.770126,
+                    24.671412
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200507150001",
+                "name": "私立貝斯特文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "延平里",
+                "address": "宜蘭縣宜蘭市延平路56巷57號1-3樓",
+                "tel": "(03)9373317"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.767763,
+                    24.754175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200507150002",
+                "name": "私立黃主任文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "思源里",
+                "address": "宜蘭縣宜蘭市宜中路51號1-3樓",
+                "tel": "(03)9366086"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.742418,
+                    24.746286
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200506200001",
+                "name": "私立清析文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "文化里",
+                "address": "宜蘭縣宜蘭市文化路35號1-3樓",
+                "tel": "(03)9363092"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.748075,
+                    24.749891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200505100001",
+                "name": "私立立捷文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "公正里",
+                "address": "宜蘭縣羅東鎮林森路183、185、187號1樓",
+                "tel": "(03)9551009，9551209"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.765851,
+                    24.680333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200505060001",
+                "name": "私立勤學社音樂電腦才藝補習班宜蘭分部",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "神農里",
+                "address": "宜蘭縣宜蘭市中山路2段238號2-3樓、宜興路1段5號2-3樓、宜興路1段7、9號1-3樓",
+                "tel": "(03)9367689"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.754748,
+                    24.747838
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200505060002",
+                "name": "私立優勢文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "礁溪鄉",
+                "village": "龍潭村",
+                "address": "宜蘭縣礁溪鄉龍潭村育龍路127號1-3樓",
+                "tel": "(03)9284110"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.746584,
+                    24.781586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200504130002",
+                "name": "私立彩云文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "冬山鄉",
+                "village": "南興村",
+                "address": "宜蘭縣冬山鄉香南路226巷8號1-2樓",
+                "tel": "(03)9590317"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.792653,
+                    24.627939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200504070001",
+                "name": "私立恒譽文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "維揚里",
+                "address": "宜蘭縣羅東鎮中山路4段111號1-3樓",
+                "tel": "(03)9518080"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.761056,
+                    24.673604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200503230001",
+                "name": "私立K&amp;B舞蹈世界短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "七結里",
+                "address": "宜蘭縣宜蘭市女中路3段64、102號8樓",
+                "tel": "(03)9334700"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.732727,
+                    24.748362
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200502210001",
+                "name": "私立標點文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "公正里",
+                "address": "宜蘭縣羅東鎮愛國路201號1樓",
+                "tel": "(03)9578208"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.766063,
+                    24.681052
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200501240001",
+                "name": "私立逗點國語文短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "菜園里",
+                "address": "宜蘭縣宜蘭市力行路62號1樓",
+                "tel": "0952-868932"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.758522,
+                    24.762664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200412290001",
+                "name": "私立魯老師文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "泰山里",
+                "address": "宜蘭縣宜蘭市泰山路324巷1弄8號1至2樓",
+                "tel": "(03)9329992"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.736177,
+                    24.750774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200502010001",
+                "name": "私立高格文理短期補習班中華分班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "信義里",
+                "address": "宜蘭縣羅東鎮中華路178之5號1-3樓",
+                "tel": "(03)9534552"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.768384,
+                    24.682157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200411010001",
+                "name": "私立超強文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "公正里",
+                "address": "宜蘭縣羅東鎮愛國路250號1~2樓",
+                "tel": "(03)9533055"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.765486,
+                    24.679995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200409240001",
+                "name": "私立狀元吉第文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "冬山鄉",
+                "village": "清溝村",
+                "address": "宜蘭縣冬山鄉永安路258巷2號1~2樓",
+                "tel": "(03)9588113"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.768351,
+                    24.662815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200408030001",
+                "name": "私立向虹珠心算文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "公正里",
+                "address": "宜蘭縣羅東鎮愛國路238號1-3樓",
+                "tel": "(03)9534727"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.765559,
+                    24.680204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200408110001",
+                "name": "私立友聞文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "漢民里",
+                "address": "宜蘭縣羅東鎮國華街64號",
+                "tel": "(03)9613760"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.761062,
+                    24.677198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200408120001",
+                "name": "私立新多元文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "國華里",
+                "address": "宜蘭縣羅東鎮北成路1段86號",
+                "tel": "(03)9518836"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.760345,
+                    24.675518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200406230002",
+                "name": "私立加楓文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "民族里",
+                "address": "宜蘭縣宜蘭市民族路145巷1號2-3樓、民族路143之1號2-3樓",
+                "tel": "(03)9311627"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.750243,
+                    24.752502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200406090001",
+                "name": "私立楓橋美語文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "樹林里",
+                "address": "宜蘭縣羅東鎮純精路三段107號2樓及樹人路52號1-3樓",
+                "tel": "(03)9560113\/9568113"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.764784,
+                    24.682637
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200404210001",
+                "name": "私立杰恩文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "南門里",
+                "address": "宜蘭縣宜蘭市民權路2段108號1-3樓",
+                "tel": "(03)9358545"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.747818,
+                    24.755065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200401060001",
+                "name": "私立群創技藝短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "東安里",
+                "address": "宜蘭縣羅東鎮中山路2段506號3-5樓",
+                "tel": "03-9532998"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.77497,
+                    24.675294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200404080002",
+                "name": "知識達數位科技股份有限公司附設宜蘭縣私立高點建國文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "公正里",
+                "address": "宜蘭縣羅東鎮中正北路77號2樓",
+                "tel": "(03)9577958"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.757614,
+                    24.684335
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200404080003",
+                "name": "私立立文文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "蘇澳鎮",
+                "village": "隘丁里",
+                "address": "宜蘭縣蘇澳鎮和平路119、121號1-3樓",
+                "tel": "(03)9907360"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.841499,
+                    24.617428
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200404080005",
+                "name": "私立龍之堡英文會話短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "賢文里",
+                "address": "宜蘭縣羅東鎮中華路74之2號",
+                "tel": "(03)9533030"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.767266,
+                    24.678761
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200404080006",
+                "name": "私立想想學坊文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "五結鄉",
+                "village": "四結村",
+                "address": "宜蘭縣五結鄉中興路三段80號",
+                "tel": "(03)9658819"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.772405,
+                    24.692985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200310310001",
+                "name": "私立小太陽文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "南門里",
+                "address": "宜蘭縣宜蘭市民權路2段106號1-3樓",
+                "tel": "(03)9369975"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.747879,
+                    24.755033
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200310090001",
+                "name": "私立何嘉仁語文短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "思源里",
+                "address": "宜蘭縣宜蘭市女中路三段319號3樓",
+                "tel": "(03)9325675"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.740127,
+                    24.745944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200306170001",
+                "name": "私立國華文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "國華里",
+                "address": "宜蘭縣羅東鎮四育路79號2樓",
+                "tel": "(03)9611700"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.760141,
+                    24.678184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200907140001",
+                "name": "私立中國青年救國團宜蘭縣團務指導委員會附設私立蘭陽家政、舞蹈、語文短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "維揚里",
+                "address": "宜蘭縣羅東鎮維揚路79號1-2樓、79-1號",
+                "tel": "(03)9510410"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.761307,
+                    24.671948
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200304290001",
+                "name": "智基科技開發股份有限公司附設私立志光法商短期補習班羅東分班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "大新里",
+                "address": "宜蘭縣羅東鎮大同路27號1-3樓",
+                "tel": "(03)9548995"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.772679,
+                    24.678661
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200303030001",
+                "name": "私立樹田文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "壯圍鄉",
+                "village": "吉祥村",
+                "address": "宜蘭縣壯圍鄉吉祥村壯五路145號",
+                "tel": "(03)9372657"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.786325,
+                    24.745788
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200304290005",
+                "name": "私立禾名文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "信義里",
+                "address": "宜蘭縣羅東鎮中華路178-8號1-4樓",
+                "tel": "(03)9533933"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.768411,
+                    24.682234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200304290007",
+                "name": "私立太陽花田文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "蘇澳鎮",
+                "village": "聖湖里",
+                "address": "宜蘭縣蘇澳鎮聖湖里蘇港路349號1-3樓",
+                "tel": "(03)9952823"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.83839,
+                    24.595645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200211080001",
+                "name": "私立貝登堡文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "開明里",
+                "address": "宜蘭縣羅東鎮開羅街40號1樓",
+                "tel": "(03)9549807"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.773124,
+                    24.673774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200210210001",
+                "name": "私立聖保羅語言企管教育短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "集祥里",
+                "address": "宜蘭縣羅東鎮長春路60號2樓",
+                "tel": "(03)9540367"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.770792,
+                    24.678032
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200304290008",
+                "name": "私立佳音語文短期補習班黎明分班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "東村里",
+                "address": "宜蘭縣宜蘭市女中路1段121號1樓、123號2樓",
+                "tel": "(03)9385111、(03)9381187"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.766594,
+                    24.748754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200304290009",
+                "name": "私立育立愛兒村文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "頭城鎮",
+                "village": "拔雅里",
+                "address": "宜蘭縣頭城鎮公園路30號1-4樓",
+                "tel": "(03)978-9966"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.81979,
+                    24.858756
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200209130001",
+                "name": "私立超人珠心算短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "文化里",
+                "address": "宜蘭縣宜蘭市復興路2段72之1號",
+                "tel": "(03)9351209"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.747788,
+                    24.749099
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200209100002",
+                "name": "私立立誠文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "信義里",
+                "address": "宜蘭縣羅東鎮中華路208之1號1樓",
+                "tel": "(03)9553113"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.76911,
+                    24.684391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200208260001",
+                "name": "私立東華文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "冬山鄉",
+                "village": "南興村",
+                "address": "宜蘭縣冬山鄉照安路113巷1弄16號1~3樓",
+                "tel": "(03)9590699"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.794214,
+                    24.629746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200208080029",
+                "name": "私立欣欣記憶文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "蘇澳鎮",
+                "village": "永榮里",
+                "address": "宜蘭縣蘇澳鎮永榮里和平路18號1-3樓",
+                "tel": "(03)9909556"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.834891,
+                    24.620932
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200208070027",
+                "name": "私立世界地球公民文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "北成里",
+                "address": "宜蘭縣羅東鎮敬業路33號1-2樓",
+                "tel": "(03)9613399"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.759016,
+                    24.673784
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200208070024",
+                "name": "私立哈林易文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "礁溪鄉",
+                "village": "大忠村",
+                "address": "宜蘭縣礁溪鄉大忠路8號1-3樓及大忠路13號1-2樓",
+                "tel": "(03)9874448"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.768449,
+                    24.818783
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200208070023",
+                "name": "私立達利美學空間技藝短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "公正里",
+                "address": "宜蘭縣羅東鎮公正路284巷1-2號3樓",
+                "tel": "(03)9556803"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.765073,
+                    24.680069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200208090009",
+                "name": "私立陳韻如美食烹飪短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "中興里",
+                "address": "宜蘭縣宜蘭市中興路332號1樓",
+                "tel": "(03)9371528"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.761779,
+                    24.756916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200207120005",
+                "name": "私立方圓文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "民族里",
+                "address": "宜蘭縣宜蘭市民權新路105號1、2樓",
+                "tel": "(03)9363939、0919282332"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.74911,
+                    24.751059
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200208070018",
+                "name": "私立永冠文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "思源里",
+                "address": "宜蘭縣宜蘭市農權路3段15號1-3樓",
+                "tel": "(03)9328138"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.742714,
+                    24.748629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200208070017",
+                "name": "私立展青科學教育文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "思源里",
+                "address": "宜蘭縣宜蘭市嵐峰路三段136號1-2樓",
+                "tel": "(03)9315622"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.73918,
+                    24.745027
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200208090026",
+                "name": "私立圓音符音樂美語中心短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "民權里",
+                "address": "宜蘭縣宜蘭市復興路一段16號1-3樓",
+                "tel": "(03)9328340"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.752993,
+                    24.749444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200208070016",
+                "name": "私立一橋文理才藝短期補習班",
+                "county": "宜蘭縣",
+                "town": "礁溪鄉",
+                "village": "大忠村",
+                "address": "宜蘭縣礁溪鄉和平路54號1樓",
+                "tel": "(03)9882021"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.76817,
+                    24.822959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200208070013",
+                "name": "私立玟軒文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "三星鄉",
+                "village": "義德村",
+                "address": "宜蘭縣三星鄉星德一路75號1-2樓",
+                "tel": "(03)9895226.9895108"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.648559,
+                    24.664653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200208080026",
+                "name": "私立快樂園文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "公正里",
+                "address": "宜蘭縣羅東鎮公正路234號1-2樓",
+                "tel": "(03)9558077"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.766932,
+                    24.679504
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200208080025",
+                "name": "私立長春藤語文短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "東村里",
+                "address": "宜蘭縣宜蘭市陽明二路15號1樓",
+                "tel": "(03)9372275"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.763824,
+                    24.748735
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200208090021",
+                "name": "私立梵谷畫室短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "羅莊里",
+                "address": "宜蘭縣羅東鎮南宜二路6號1-3樓",
+                "tel": "(03)9549638"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.777299,
+                    24.670698
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200208070006",
+                "name": "私立蘇老師文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "冬山鄉",
+                "village": "廣興村",
+                "address": "宜蘭縣冬山鄉廣興路441巷1號1樓、439-1號1-3樓",
+                "tel": "(03)9512675"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.743551,
+                    24.66899
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200208080021",
+                "name": "私立芝蔴街文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "信義里",
+                "address": "宜蘭縣羅東鎮中華路182之5號3、4樓",
+                "tel": "(03)9559568"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.768718,
+                    24.683171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200208060058",
+                "name": "私立無尾熊文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "西安里",
+                "address": "宜蘭縣羅東鎮純精路一段85號1-3樓",
+                "tel": "(03)9518952 \/ 9612123"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.764568,
+                    24.670005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200208060054",
+                "name": "私立佑苗文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "思源里",
+                "address": "宜蘭縣宜蘭市宜中路79巷3號1-3樓",
+                "tel": "(03)9367468"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.742565,
+                    24.747062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200208080015",
+                "name": "私立新教育文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "賢文里",
+                "address": "宜蘭縣羅東鎮公正路243之1號1-4樓",
+                "tel": "(03)9552300"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.765344,
+                    24.679645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200208080014",
+                "name": "私立小哈佛美語短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "神農里",
+                "address": "宜蘭縣宜蘭市光復路35號",
+                "tel": "(03)9334002"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.756128,
+                    24.754892
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200208060051",
+                "name": "私立德祥文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "復興里",
+                "address": "宜蘭縣宜蘭市農權路154巷15號4樓",
+                "tel": "(03)9351574"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.751867,
+                    24.747522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200208080013",
+                "name": "私立加州柏克萊語文短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "東村里",
+                "address": "宜蘭縣宜蘭市校舍二路73號2樓",
+                "tel": "(03)9387768"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.762551,
+                    24.749086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200208080056",
+                "name": "創新才藝文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "大新里",
+                "address": "宜蘭縣羅東鎮站前路46巷3號1樓",
+                "tel": "(03)9562521"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.773527,
+                    24.676293
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200208060045",
+                "name": "私立柏拉圖文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "信義里",
+                "address": "宜蘭縣羅東鎮中華路178-1號1-4樓",
+                "tel": "(03)9556135"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.768345,
+                    24.682037
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200208080055",
+                "name": "私立立陽文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "五結鄉",
+                "village": "五結村",
+                "address": "宜蘭縣五結鄉自強路175號1-2樓",
+                "tel": "0982484455"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.795064,
+                    24.683971
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200208080006",
+                "name": "私立VIVIAN英語教室文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "國華里",
+                "address": "宜蘭縣羅東鎮培英路154號9樓之1",
+                "tel": "(03)9552909"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.758043,
+                    24.679262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200208060038",
+                "name": "私立張老師文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "蘇澳鎮",
+                "village": "隘丁里",
+                "address": "宜蘭縣蘇澳鎮大同路52號1-2樓",
+                "tel": "(03)9904699 \/ 9559302"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.834419,
+                    24.61943
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200208060037",
+                "name": "私立華翰文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "礁溪鄉",
+                "village": "大忠村",
+                "address": "宜蘭縣礁溪鄉和平路80號1-2樓",
+                "tel": "(03)9884505"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.767497,
+                    24.82316
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200208080054",
+                "name": "私立小荳苗文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "冬山鄉",
+                "village": "南興村",
+                "address": "宜蘭縣冬山鄉照安路45號1-2樓",
+                "tel": "(03)9594201"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.793372,
+                    24.631212
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200208090027",
+                "name": "私立格林文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "賢文里",
+                "address": "宜蘭縣羅東鎮忠孝路147號1-3樓",
+                "tel": "(03)9553845"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.765753,
+                    24.679265
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200208060033",
+                "name": "私立愛兒村文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "南門里",
+                "address": "宜蘭縣宜蘭市三清路35號1-2樓、41號1-3樓",
+                "tel": "(03)9310128"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.748035,
+                    24.75605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200208080053",
+                "name": "私立大聖技藝文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "礁溪鄉",
+                "village": "大忠村",
+                "address": "宜蘭縣礁溪鄉和平路91號1樓",
+                "tel": "(03)9880827"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.767221,
+                    24.823086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200208080050",
+                "name": "私立群菁心算美語短期補習班",
+                "county": "宜蘭縣",
+                "town": "頭城鎮",
+                "village": "武營里",
+                "address": "宜蘭縣頭城鎮開蘭路301號1-3樓",
+                "tel": "(03)9776255"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.82716,
+                    24.863053
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200208080002",
+                "name": "私立寶貝屋美語短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "國華里",
+                "address": "宜蘭縣羅東鎮北成路一段190號1-2樓",
+                "tel": "(03)9613833"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.758084,
+                    24.676397
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200208080042",
+                "name": "私立東學資優文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "文化里",
+                "address": "宜蘭縣宜蘭市民族路338號5樓",
+                "tel": "(03)9367373"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.745492,
+                    24.751013
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200208060030",
+                "name": "私立巨人文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "信義里",
+                "address": "宜蘭縣羅東鎮中華路178-3號1-4樓",
+                "tel": "(03)9540026"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.768379,
+                    24.682124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200208090016",
+                "name": "私立大地美術短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "信義里",
+                "address": "宜蘭縣羅東鎮中華路178之7號1-2樓",
+                "tel": "(03)9552237"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.768405,
+                    24.682209
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200208070044",
+                "name": "私立佳音語文短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "思源里",
+                "address": "宜蘭縣宜蘭市宜中路47號1-3樓",
+                "tel": "(03)9357857"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.742394,
+                    24.746198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200208060027",
+                "name": "私立向陽文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "頭城鎮",
+                "village": "城北里",
+                "address": "宜蘭縣頭城鎮纘祥路36號1-2樓",
+                "tel": "(03)9770868"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.822543,
+                    24.857603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200208060026",
+                "name": "私立曾強文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "仁德里",
+                "address": "宜蘭縣羅東鎮興東南路269之1號1-4樓",
+                "tel": "(03)9577364"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.766981,
+                    24.673532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200208070060",
+                "name": "私立冠宜文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "南昌里",
+                "address": "宜蘭縣羅東鎮中正南路84、86號1-2樓",
+                "tel": "(03)9559030"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.770339,
+                    24.67236
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200208090024",
+                "name": "私立123才藝中心音樂文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "頭城鎮",
+                "village": "新建里",
+                "address": "宜蘭縣頭城鎮青雲路二段761號",
+                "tel": "(03)9773616"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.822097,
+                    24.853999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200208070057",
+                "name": "私立福爾摩莎英語會話短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "賢文里",
+                "address": "宜蘭縣羅東鎮四育路126號1-3樓",
+                "tel": "(03)9612558"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.760904,
+                    24.679314
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200208060019",
+                "name": "私立上榜文理短期補習班宜蘭分班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "民權里",
+                "address": "宜蘭縣宜蘭市民權里中華路52-1、52-2、52-3號1樓、52-2號2樓之2",
+                "tel": "(03)9355424"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.75424,
+                    24.746144
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200208070034",
+                "name": "私立標竿文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "孝廉里",
+                "address": "宜蘭縣宜蘭市新興路175號l-2樓",
+                "tel": "0905168976"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.755325,
+                    24.762056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200208090015",
+                "name": "私立一筆美術書法短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "大新里",
+                "address": "宜蘭縣羅東鎮和平路98號1樓",
+                "tel": "(03)9576573"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.772273,
+                    24.676148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200208080047",
+                "name": "私立復華珠心算文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "樹林里",
+                "address": "宜蘭縣羅東鎮樹人路39號1-3樓",
+                "tel": "(03)9540453"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.76433,
+                    24.682911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200208060013",
+                "name": "私立康喬文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "礁溪鄉",
+                "village": "龍潭村",
+                "address": "宜蘭縣礁溪鄉龍潭村育龍路133號1-2樓",
+                "tel": "(03)9282100"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.746579,
+                    24.781725
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200208090004",
+                "name": "中國青年救國團宜蘭縣團務指導委員會附設蘭苑電腦語文家政短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "民族里",
+                "address": "宜蘭縣宜蘭市民權新路102號1-2樓",
+                "tel": "(03)9353411"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.748915,
+                    24.75127
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200208060010",
+                "name": "私立維新文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "礁溪鄉",
+                "village": "吳沙村",
+                "address": "宜蘭縣礁溪鄉吳沙村育英路124號1-2樓、126號1-2樓",
+                "tel": "(03)9285345"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.757515,
+                    24.785527
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200208070047",
+                "name": "私立培爾傑特美語會話短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "七結里",
+                "address": "宜蘭縣宜蘭市民族路582號2樓",
+                "tel": "(03)9321666"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.738238,
+                    24.747412
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200208070036",
+                "name": "私立高登日語短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "民權里",
+                "address": "宜蘭縣宜蘭市女中路2段309號2樓之1",
+                "tel": "(03)9322488"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.754452,
+                    24.74583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200208070039",
+                "name": "私立勤學社音樂英文會話短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "信義里",
+                "address": "宜蘭縣羅東鎮興東路319號1-2樓321號1-3樓",
+                "tel": "(03)9572126"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.770647,
+                    24.685067
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200208070048",
+                "name": "私立小博士英語會話短期補習班",
+                "county": "宜蘭縣",
+                "town": "頭城鎮",
+                "village": "城南里",
+                "address": "宜蘭縣頭城鎮青雲路三段72號1樓",
+                "tel": "(03)9771777"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.823905,
+                    24.855502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200208080032",
+                "name": "私立家禾音樂文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "蘇澳鎮",
+                "village": "隘丁里",
+                "address": "宜蘭縣蘇澳鎮仁愛路161號1-2樓",
+                "tel": "(03)9905910"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.834192,
+                    24.617144
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200208070041",
+                "name": "私立大鳥芝蔴街文理短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "民權里",
+                "address": "宜蘭縣宜蘭市中華路235號1至4樓",
+                "tel": "(03)9363926"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.751823,
+                    24.751749
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200209050002",
+                "name": "私立鼎弘文理資訊短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "公正里",
+                "address": "宜蘭縣羅東鎮林森路198號、200號1樓",
+                "tel": "(03)9557695"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.766127,
+                    24.680482
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200208080049",
+                "name": "私立層階資優數學心珠算短期補習班",
+                "county": "宜蘭縣",
+                "town": "羅東鎮",
+                "village": "賢文里",
+                "address": "宜蘭縣羅東鎮民權路200號1樓",
+                "tel": "(03)9576873\/9549787"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.764658,
+                    24.676919
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200208090013",
+                "name": "私立鳳翎舞蹈短期補習班",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "village": "神農里",
+                "address": "宜蘭縣宜蘭市和睦路1之30號2樓",
+                "tel": "(03)9324247"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.754987,
+                    24.751062
+                ]
+            }
+        }
+    ]
+}

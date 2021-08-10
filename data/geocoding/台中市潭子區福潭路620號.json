@@ -1,0 +1,61 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "臺中市潭子區福潭路620號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "2",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[臺中市]\tT:1,V:-1,R:1,S:-1,L:-1,A:-1,SA:-1,T:-1,AR:-1,NO:0(+2)(-4),E:-1,N:-1",
+      "OutTraceInfo": "[臺中市]\t { 模糊比對 } (潭子區)\t找到符合的[鄉鎮市區]，(福潭路)\t找到符合的[路街名]，(620號)\t進行[雙號過濾]，進行[找大於且最接近的門牌號碼]，找到大於輸入的門牌號碼 +2 號，進行[找小於且最接近的門牌號碼]，找到小於輸入的門牌號碼 -4 號，模糊比對找到 2 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "臺中市潭子區潭陽里11鄰福潭路616號",
+      "COUNTY": "臺中市",
+      "TOWN": "潭子區",
+      "VILLAGE": "潭陽里",
+      "NEIGHBORHOOD": "11鄰",
+      "ROAD": "福潭路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "NUMBER": "616號",
+      "X": 120.710928,
+      "Y": 24.212869
+    },
+    {
+      "FULL_ADDR": "臺中市潭子區潭陽里11鄰福潭路622號",
+      "COUNTY": "臺中市",
+      "TOWN": "潭子區",
+      "VILLAGE": "潭陽里",
+      "NEIGHBORHOOD": "11鄰",
+      "ROAD": "福潭路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "NUMBER": "622號",
+      "X": 120.710938,
+      "Y": 24.213204
+    }
+  ]
+}

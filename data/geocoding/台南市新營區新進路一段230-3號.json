@@ -1,0 +1,61 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "臺南市新營區新進路一段230-3號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "2",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[臺南市]\tT:1,V:-1,R:1,-S:0,L:-1,A:-1,SA:-1,T:-1,AR:-1,NO:1,E:-1,N:-1",
+      "OutTraceInfo": "[臺南市]\t { 模糊比對 } (新營區)\t找到符合的[鄉鎮市區]，(新進路)\t找到符合的[路街名]，(1)\t找不到符合的[路段]，(230-3號)\t找到符合的[門牌號碼]，進行[雙號過濾]，進行[找最小門牌的號之、之號]，模糊比對找到 2 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "臺南市新營區興業里1鄰新進路230之3號",
+      "COUNTY": "臺南市",
+      "TOWN": "新營區",
+      "VILLAGE": "興業里",
+      "NEIGHBORHOOD": "1鄰",
+      "ROAD": "新進路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "NUMBER": "230之3號",
+      "X": 120.318589,
+      "Y": 23.301950
+    },
+    {
+      "FULL_ADDR": "臺南市新營區興業里1鄰新進路230號之3",
+      "COUNTY": "臺南市",
+      "TOWN": "新營區",
+      "VILLAGE": "興業里",
+      "NEIGHBORHOOD": "1鄰",
+      "ROAD": "新進路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "NUMBER": "230號之3",
+      "X": 120.318550,
+      "Y": 23.301955
+    }
+  ]
+}

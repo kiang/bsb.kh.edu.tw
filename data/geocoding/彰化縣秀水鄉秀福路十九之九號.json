@@ -1,0 +1,77 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "彰化縣秀水鄉秀福路十九之九號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "3",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[彰化縣]\tT:1,V:-1,R:1,S:-1,L:-1,A:-1,SA:-1,T:-1,AR:-1,NO:0(+1),E:-1,N:-1",
+      "OutTraceInfo": "[彰化縣]\t { 模糊比對 } (秀水鄉)\t找到符合的[鄉鎮市區]，(秀福路)\t找到符合的[路街名]，(十九之九號)\t進行[找大於且最接近門牌的號之、之號]，找到大於輸入的門牌的號之、之號 1 號，模糊比對找到 3 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "彰化縣秀水鄉福安村28鄰秀福路19之1號",
+      "COUNTY": "彰化縣",
+      "TOWN": "秀水鄉",
+      "VILLAGE": "福安村",
+      "NEIGHBORHOOD": "28鄰",
+      "ROAD": "秀福路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "NUMBER": "19之1號",
+      "X": 120.493258,
+      "Y": 24.028017
+    },
+    {
+      "FULL_ADDR": "彰化縣秀水鄉福安村28鄰秀福路20之1號",
+      "COUNTY": "彰化縣",
+      "TOWN": "秀水鄉",
+      "VILLAGE": "福安村",
+      "NEIGHBORHOOD": "28鄰",
+      "ROAD": "秀福路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "NUMBER": "20之1號",
+      "X": 120.492170,
+      "Y": 24.028334
+    },
+    {
+      "FULL_ADDR": "彰化縣秀水鄉福安村28鄰秀福路52之1號",
+      "COUNTY": "彰化縣",
+      "TOWN": "秀水鄉",
+      "VILLAGE": "福安村",
+      "NEIGHBORHOOD": "28鄰",
+      "ROAD": "秀福路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "NUMBER": "52之1號",
+      "X": 120.490091,
+      "Y": 24.028549
+    }
+  ]
+}
