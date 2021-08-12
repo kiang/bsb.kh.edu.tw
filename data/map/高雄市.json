@@ -15090,25 +15090,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "70200803279001",
-                "name": "私立聖大文理短期補習班",
-                "county": "高雄市",
-                "town": "仁武區",
-                "village": "八卦里",
-                "class": "文理類,",
-                "students": "國中,國小,高中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.330669,
-                    22.689677
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "70200705070001",
                 "name": "承龍文理股份有限公司附設私立明華文理短期補習班",
                 "county": "高雄市",

@@ -7604,6 +7604,25 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "42201702160001",
+                "name": "臺中市私立丹利文教文理短期補習班",
+                "county": "臺中市",
+                "town": "西屯區",
+                "village": "何安里",
+                "class": "文理類,",
+                "students": "高中,國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.655053,
+                    24.163951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "42201702130001",
                 "name": "臺中市私立民辰文理短期補習班",
                 "county": "臺中市",
@@ -8389,7 +8408,7 @@
                 "town": "霧峰區",
                 "village": "本堂里",
                 "class": "文理類,",
-                "students": "國中,國小,國小、國中"
+                "students": "國小,國中,國小、國中"
             },
             "geometry": {
                 "type": "Point",
@@ -15433,7 +15452,7 @@
             "type": "Feature",
             "properties": {
                 "code": "42201110190001",
-                "name": "菁英雲教育科技股份有限公司台中分公司附設臺中市私立菁英國際語文短期補習班",
+                "name": "菁英雲教育科技股份有限公司附設臺中市私立菁英國際語文短期補習班",
                 "county": "臺中市",
                 "town": "東區",
                 "village": "新庄里",
@@ -26604,25 +26623,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "42200610029013",
-                "name": "私立精華文理短期補習班",
-                "county": "臺中市",
-                "town": "沙鹿區",
-                "village": "鹿寮里",
-                "class": "文理類,",
-                "students": "國中,國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.565884,
-                    24.243389
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "42200610029009",
                 "name": "私立萊士康英語短期補習班",
                 "county": "臺中市",
@@ -33748,6 +33748,25 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "42200208120309",
+                "name": "私立勁昇文理短期補習班",
+                "county": "臺中市",
+                "town": "北區",
+                "village": "中正里",
+                "class": "文理類,",
+                "students": "未填寫"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.675532,
+                    24.145375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "42200208120541",
                 "name": "志光教育科技股份有限公司附設臺中市私立志光文理公職證照短期補習班",
                 "county": "臺中市",
@@ -34502,6 +34521,25 @@
                 "coordinates": [
                     120.80614,
                     24.266072
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42200208120288",
+                "name": "臺中市私立迦諾文理短期補習班",
+                "county": "臺中市",
+                "town": "北屯區",
+                "village": "同榮里",
+                "class": "文理類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.660383,
+                    24.19336
                 ]
             }
         },
@@ -35667,25 +35705,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "42200207319751",
-                "name": "私立梅花鹿美語短期補習班",
-                "county": "臺中市",
-                "town": "豐原區",
-                "village": "豐榮里",
-                "class": "外語類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.718776,
-                    24.253693
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "42200207319399",
                 "name": "臺中市私立達文文理短期補習班",
                 "county": "臺中市",
@@ -35699,6 +35718,25 @@
                 "coordinates": [
                     120.729789,
                     24.309263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42200207319751",
+                "name": "私立梅花鹿美語短期補習班",
+                "county": "臺中市",
+                "town": "豐原區",
+                "village": "豐榮里",
+                "class": "外語類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.718776,
+                    24.253693
                 ]
             }
         },
@@ -40214,7 +40252,7 @@
                 "town": "大肚區",
                 "village": "福山里",
                 "class": "文理類,",
-                "students": "未填寫"
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -42038,7 +42076,7 @@
                 "town": "霧峰區",
                 "village": "本鄉里",
                 "class": "家政、插花、烹飪類,",
-                "students": "未填寫"
+                "students": "成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
