@@ -656,7 +656,7 @@
                 "town": "太平區",
                 "village": "新吉里",
                 "class": "文理類,音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國小,國中,高中,學齡前,成人(18歲以上)"
+                "students": "高中,成人(18歲以上),學齡前,國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -960,7 +960,7 @@
                 "town": "太平區",
                 "village": "中政里",
                 "class": "文理類,",
-                "students": "國小"
+                "students": "成人(18歲以上),國小"
             },
             "geometry": {
                 "type": "Point",
@@ -6141,6 +6141,25 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "42201802020001",
+                "name": "臺中市私立巴比倫文理短期補習班",
+                "county": "臺中市",
+                "town": "北屯區",
+                "village": "廍子里",
+                "class": "文理類,外語類,",
+                "students": "國小,成人(18歲以上),國中,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.72645,
+                    24.165172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "42201712250001",
                 "name": "臺中市私立林森建豪文理短期補習班",
                 "county": "臺中市",
@@ -6610,25 +6629,6 @@
                 "coordinates": [
                     120.532351,
                     24.251669
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "42201709080001",
-                "name": "臺中市私立群昇文理短期補習班",
-                "county": "臺中市",
-                "town": "潭子區",
-                "village": "潭陽里",
-                "class": "文理類,",
-                "students": "國中,國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.710472,
-                    24.210566
                 ]
             }
         },
@@ -9319,8 +9319,8 @@
                 "county": "臺中市",
                 "town": "太平區",
                 "village": "新興里",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -21993,7 +21993,7 @@
                 "town": "烏日區",
                 "village": "仁德里",
                 "class": "文理類,",
-                "students": "國小,國中,高中"
+                "students": "國小,高中,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -35420,6 +35420,25 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "42200208120246",
+                "name": "私立由申甲文理短期補習班",
+                "county": "臺中市",
+                "town": "北區",
+                "village": "育德里",
+                "class": "文理類,",
+                "students": "國中,國小,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.677422,
+                    24.158984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "42200207319453",
                 "name": "私立卓英珠心算文理短期補習班",
                 "county": "臺中市",
@@ -36143,7 +36162,7 @@
             "type": "Feature",
             "properties": {
                 "code": "42200207319502",
-                "name": "私立東霖文理短期補習班",
+                "name": "臺中市私立東霖文理短期補習班",
                 "county": "臺中市",
                 "town": "清水區",
                 "village": "南社里",

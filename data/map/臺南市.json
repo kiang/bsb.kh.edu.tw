@@ -61,6 +61,25 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "62202107180001",
+                "name": "臺南市私立雙安文理短期補習班(為比對教職員工資料預登立案資訊)",
+                "county": "臺南市",
+                "town": "北區",
+                "village": "雙安里",
+                "class": "文理類,外語類,",
+                "students": "國小,學齡前,高中,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.199709,
+                    23.005139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "62202107300001",
                 "name": "臺南市私立常春藤文理技藝短期補習班",
                 "county": "臺南市",
@@ -194,25 +213,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "62202107180001",
-                "name": "臺南市私立雙安文理短期補習班(為比對教職員工資料預登立案資訊)",
-                "county": "臺南市",
-                "town": "北區",
-                "village": "雙安里",
-                "class": "文理類,外語類,",
-                "students": "國小,學齡前,高中,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.199709,
-                    23.005139
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "62202107090001",
                 "name": "臺南市私立優力美文理短期補習班",
                 "county": "臺南市",
@@ -237,7 +237,7 @@
                 "county": "臺南市",
                 "town": "東區",
                 "village": "文聖里",
-                "class": "文理類,",
+                "class": "文理類,外語類,",
                 "students": "國小,國中"
             },
             "geometry": {
@@ -18268,14 +18268,14 @@
                 "county": "臺南市",
                 "town": "東區",
                 "village": "東明里",
-                "class": "外語類,",
+                "class": "文理類,外語類,",
                 "students": "國小"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.227847,
-                    22.991503
+                    120.227624,
+                    22.991747
                 ]
             }
         },

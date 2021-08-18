@@ -4,6 +4,25 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "33202108120001",
+                "name": "私立辰星文理語文自然科學數學短期補習班青埔分班",
+                "county": "桃園市",
+                "town": "大園區",
+                "village": "橫峰里",
+                "class": "文理類,外語類,其他類,",
+                "students": "國中,高中,國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.21218,
+                    25.005934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "33202108100001",
                 "name": "私立樂光音樂短期補習班",
                 "county": "桃園市",

@@ -4,6 +4,25 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "87202108120001",
+                "name": "屏東縣私立睿其文理短期補習班",
+                "county": "屏東縣",
+                "town": "屏東市",
+                "village": "大連里",
+                "class": "文理類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.508464,
+                    22.682186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "87202107120001",
                 "name": "屏東縣私立享學文理短期補習班",
                 "county": "屏東縣",

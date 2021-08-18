@@ -23,6 +23,25 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "21202108110001",
+                "name": "私立優學教育股份有限公司附設優創文理技藝短期補習班",
+                "county": "新北市",
+                "town": "林口區",
+                "village": "西林里",
+                "class": "文理類,音樂、舞蹈類,",
+                "students": "不限年齡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.379099,
+                    25.075396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "21202108100006",
                 "name": "私立高陞文理短期補習班",
                 "county": "新北市",
@@ -112,25 +131,6 @@
                 "coordinates": [
                     121.44765,
                     25.050234
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "21202108110001",
-                "name": "私立優學教育股份有限公司附設優創文理技藝短期補習班",
-                "county": "新北市",
-                "town": "林口區",
-                "village": "西林里",
-                "class": "文理類,音樂、舞蹈類,",
-                "students": "不限年齡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.379099,
-                    25.075396
                 ]
             }
         },
@@ -18472,25 +18472,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "21201210160001",
-                "name": "私立泳禾文理短期補習班",
-                "county": "新北市",
-                "town": "永和區",
-                "village": "潭安里",
-                "class": "文理類,",
-                "students": "不限年齡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.516097,
-                    24.998124
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "21201210170001",
                 "name": "私立裕仁文理語文短期補習班",
                 "county": "新北市",
@@ -18504,6 +18485,25 @@
                 "coordinates": [
                     121.504662,
                     25.256771
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21201210160001",
+                "name": "私立泳禾文理短期補習班",
+                "county": "新北市",
+                "town": "永和區",
+                "village": "潭安里",
+                "class": "文理類,",
+                "students": "不限年齡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.516097,
+                    24.998124
                 ]
             }
         },
@@ -18529,25 +18529,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "21201210120002",
-                "name": "私立北大遊戲間圍棋短期補習班",
-                "county": "新北市",
-                "town": "樹林區",
-                "village": "柑園里",
-                "class": "美術、書法、攝影、美工設計、圍棋類,",
-                "students": "(不限年齡)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.378412,
-                    24.949987
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "21201210120001",
                 "name": "私立青禾資優文理語文短期補習班",
                 "county": "新北市",
@@ -18561,6 +18542,25 @@
                 "coordinates": [
                     121.471725,
                     25.00851
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21201210120002",
+                "name": "私立北大遊戲間圍棋短期補習班",
+                "county": "新北市",
+                "town": "樹林區",
+                "village": "柑園里",
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "(不限年齡)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.378412,
+                    24.949987
                 ]
             }
         },
@@ -24134,6 +24134,25 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "21201007260001",
+                "name": "私立翔昇文理短期補習班",
+                "county": "新北市",
+                "town": "三重區",
+                "village": "幸福里",
+                "class": "文理類,",
+                "students": "6歲以上"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.489251,
+                    25.067156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "21201007260002",
                 "name": "私立群贊語文短期補習班",
                 "county": "新北市",
@@ -24147,25 +24166,6 @@
                 "coordinates": [
                     121.49912,
                     25.071916
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "21201007260001",
-                "name": "私立志和文理短期補習班",
-                "county": "新北市",
-                "town": "三重區",
-                "village": "幸福里",
-                "class": "文理類,",
-                "students": "國中以上"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.489251,
-                    25.067156
                 ]
             }
         },
@@ -27650,12 +27650,12 @@
             "type": "Feature",
             "properties": {
                 "code": "21200903090003",
-                "name": "私立芊鴻美術音樂短期補習班",
+                "name": "私立小藝術家事物行技藝文理短期補習班",
                 "county": "新北市",
                 "town": "板橋區",
                 "village": "忠翠里",
-                "class": "音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "不限年齡"
+                "class": "文理類,音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "不限年齡,國小以上"
             },
             "geometry": {
                 "type": "Point",
@@ -39909,8 +39909,8 @@
                 "county": "新北市",
                 "town": "新莊區",
                 "village": "龍鳳里",
-                "class": "文理類,外語類,",
-                "students": "其他"
+                "class": "文理類,",
+                "students": "不限年齡"
             },
             "geometry": {
                 "type": "Point",
@@ -41625,8 +41625,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.471093,
-                    25.000342
+                    121.471242,
+                    25.000343
                 ]
             }
         },
@@ -44298,8 +44298,8 @@
                 "county": "新北市",
                 "town": "三重區",
                 "village": "文化里",
-                "class": "外語類,",
-                "students": "國中"
+                "class": "文理類,",
+                "students": "國中,不限年齡"
             },
             "geometry": {
                 "type": "Point",
@@ -45623,25 +45623,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "21201001150001",
-                "name": "私立呈慈文理短期補習班",
-                "county": "新北市",
-                "town": "永和區",
-                "village": "保安里",
-                "class": "文理類,",
-                "students": "國小、國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.506024,
-                    25.008762
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "21200508250001",
                 "name": "私立華一語文文理短期補習班",
                 "county": "新北市",
@@ -45655,6 +45636,25 @@
                 "coordinates": [
                     121.628049,
                     25.069714
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21201001150001",
+                "name": "私立呈慈文理短期補習班",
+                "county": "新北市",
+                "town": "永和區",
+                "village": "保安里",
+                "class": "文理類,",
+                "students": "國小、國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.506024,
+                    25.008762
                 ]
             }
         },
@@ -46022,6 +46022,25 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "21200208022833",
+                "name": "私立長峰文理珠心算短期補習班",
+                "county": "新北市",
+                "town": "新莊區",
+                "village": "全泰里",
+                "class": "文理類,商類：珠算、心算、會計,",
+                "students": "國中,國中、國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.446595,
+                    25.038229
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "21200208022778",
                 "name": "私立無敵堡語文短期補習班",
                 "county": "新北市",
@@ -46060,19 +46079,19 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "21200208022833",
-                "name": "私立長峰文理珠心算短期補習班",
+                "code": "21200208022335",
+                "name": "私立陽光森林文教股份有限公司臺北縣分公司附設揚光森林語文短期補習班",
                 "county": "新北市",
-                "town": "新莊區",
-                "village": "全泰里",
-                "class": "文理類,商類：珠算、心算、會計,",
-                "students": "國中,國中、國小"
+                "town": "永和區",
+                "village": "民治里",
+                "class": "外語類,",
+                "students": "不限年齡"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.446595,
-                    25.038229
+                    121.516141,
+                    24.997793
                 ]
             }
         },
@@ -46092,25 +46111,6 @@
                 "coordinates": [
                     121.478088,
                     25.029716
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "21200208022335",
-                "name": "私立陽光森林文教股份有限公司臺北縣分公司附設揚光森林語文短期補習班",
-                "county": "新北市",
-                "town": "永和區",
-                "village": "民治里",
-                "class": "外語類,",
-                "students": "不限年齡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.516141,
-                    24.997793
                 ]
             }
         },
@@ -46269,25 +46269,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "21200210140002",
-                "name": "私立育晟語文短期補習班",
-                "county": "新北市",
-                "town": "三重區",
-                "village": "光陽里",
-                "class": "外語類,",
-                "students": "國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.486534,
-                    25.058489
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "21200208022336",
                 "name": "私立陽光森林文教股份有限公司臺北縣分公司附設陽光小子語文短期補習班",
                 "county": "新北市",
@@ -46307,19 +46288,19 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "21200208022155",
-                "name": "私立稼家舞蹈短期補習班",
+                "code": "21200210140002",
+                "name": "私立育晟語文短期補習班",
                 "county": "新北市",
-                "town": "土城區",
-                "village": "延和里",
-                "class": "音樂、舞蹈類,",
-                "students": "其他"
+                "town": "三重區",
+                "village": "光陽里",
+                "class": "外語類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.464597,
-                    24.988216
+                    121.486534,
+                    25.058489
                 ]
             }
         },
@@ -46345,19 +46326,19 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "21200208022608",
-                "name": "私立文德珠心算文理語文短期補習班",
+                "code": "21200208022155",
+                "name": "私立稼家舞蹈短期補習班",
                 "county": "新北市",
-                "town": "板橋區",
-                "village": "新翠里",
-                "class": "文理類,外語類,商類：珠算、心算、會計,",
-                "students": "不限年齡,國小、國中,兒童、國小、國中"
+                "town": "土城區",
+                "village": "延和里",
+                "class": "音樂、舞蹈類,",
+                "students": "其他"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.460294,
-                    25.024448
+                    121.464597,
+                    24.988216
                 ]
             }
         },
@@ -46383,6 +46364,25 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "21200408040001",
+                "name": "私立進益文理短期補習班",
+                "county": "新北市",
+                "town": "八里區",
+                "village": "訊塘里",
+                "class": "文理類,",
+                "students": "國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.400037,
+                    25.147687
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "21200208022108",
                 "name": "私立育麒文理語文短期補習班",
                 "county": "新北市",
@@ -46402,19 +46402,19 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "21200408040001",
-                "name": "私立進益文理短期補習班",
+                "code": "21200208022608",
+                "name": "私立文德珠心算文理語文短期補習班",
                 "county": "新北市",
-                "town": "八里區",
-                "village": "訊塘里",
-                "class": "文理類,",
-                "students": "國中"
+                "town": "板橋區",
+                "village": "新翠里",
+                "class": "文理類,外語類,商類：珠算、心算、會計,",
+                "students": "不限年齡,國小、國中,兒童、國小、國中"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.400037,
-                    25.147687
+                    121.460294,
+                    25.024448
                 ]
             }
         },
@@ -46459,19 +46459,19 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "21200208022150",
-                "name": "浩群菁英文理短期補習班",
+                "code": "21200208022920",
+                "name": "私立育藤文理語文珠心算短期補習班",
                 "county": "新北市",
-                "town": "土城區",
-                "village": "員林里",
-                "class": "文理類,",
-                "students": "國中,高中"
+                "town": "樹林區",
+                "village": "和平里",
+                "class": "文理類,商類：珠算、心算、會計,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.442965,
-                    24.975563
+                    121.421169,
+                    24.98207
                 ]
             }
         },
@@ -47945,15 +47945,15 @@
                 "name": "私立超越文理短期補習班",
                 "county": "新北市",
                 "town": "林口區",
-                "village": "林口里",
-                "class": "外語類,",
-                "students": "其他"
+                "village": "麗林里",
+                "class": "文理類,",
+                "students": "國小、國中、高中"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.392934,
-                    25.076222
+                    121.369305,
+                    25.070971
                 ]
             }
         },
@@ -48478,8 +48478,8 @@
                 "county": "新北市",
                 "town": "板橋區",
                 "village": "柏翠里",
-                "class": "商類：珠算、心算、會計,",
-                "students": "其他"
+                "class": "文理類,",
+                "students": "國小、國中"
             },
             "geometry": {
                 "type": "Point",
@@ -48516,7 +48516,7 @@
                 "county": "新北市",
                 "town": "板橋區",
                 "village": "華德里",
-                "class": "外語類,",
+                "class": "文理類,",
                 "students": "國中、國小(每科4小時)"
             },
             "geometry": {

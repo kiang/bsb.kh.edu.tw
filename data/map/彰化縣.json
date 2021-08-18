@@ -13722,25 +13722,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "47200411090001",
-                "name": "私立逸新文理短期補習班",
-                "county": "彰化縣",
-                "town": "溪湖鎮",
-                "village": "汴頭里",
-                "class": "文理類,",
-                "students": "國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.474354,
-                    23.95389
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "47200412080002",
                 "name": "智基科技開發股份有限公司彰化分公司附設私立志光法商短期補習班",
                 "county": "彰化縣",
