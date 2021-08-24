@@ -5406,7 +5406,7 @@
                 "town": "屏東市",
                 "village": "永安里",
                 "class": "文理類,",
-                "students": "國中"
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",

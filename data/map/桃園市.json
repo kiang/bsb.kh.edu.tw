@@ -10649,8 +10649,8 @@
                 "county": "桃園市",
                 "town": "桃園區",
                 "village": "大有里",
-                "class": "其他類,",
-                "students": "國小"
+                "class": "外語類,",
+                "students": "國小、國中"
             },
             "geometry": {
                 "type": "Point",
@@ -13214,8 +13214,8 @@
                 "county": "桃園市",
                 "town": "中壢區",
                 "village": "復興里",
-                "class": "外語類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
