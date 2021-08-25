@@ -314,7 +314,7 @@
                 "town": "彰化市",
                 "village": "阿夷里",
                 "class": "文理類,",
-                "students": "國小,國中,高中"
+                "students": "高中,國小,國中"
             },
             "geometry": {
                 "type": "Point",
