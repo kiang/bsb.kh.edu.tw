@@ -32253,7 +32253,7 @@
                 "town": "淡水區",
                 "village": "新義里",
                 "class": "文理類,外語類,",
-                "students": "小以上,國小以上,國中以上"
+                "students": "不限年齡"
             },
             "geometry": {
                 "type": "Point",
