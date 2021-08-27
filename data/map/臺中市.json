@@ -959,8 +959,8 @@
                 "county": "臺中市",
                 "town": "太平區",
                 "village": "中政里",
-                "class": "文理類,",
-                "students": "成人(18歲以上),國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -19922,7 +19922,7 @@
                 "town": "龍井區",
                 "village": "龍津里",
                 "class": "文理類,",
-                "students": "國中,國小,成人(18歲以上)"
+                "students": "國小,國中,學齡前,高中,成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
@@ -37459,7 +37459,7 @@
                 "town": "龍井區",
                 "village": "龍泉里",
                 "class": "文理類,",
-                "students": "學齡前"
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
