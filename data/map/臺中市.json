@@ -959,8 +959,8 @@
                 "county": "臺中市",
                 "town": "太平區",
                 "village": "中政里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "成人(18歲以上),國小"
             },
             "geometry": {
                 "type": "Point",
@@ -8693,7 +8693,7 @@
                 "town": "大里區",
                 "village": "長榮里",
                 "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國小"
+                "students": "學齡前、國小、國中,國小,國小、國中"
             },
             "geometry": {
                 "type": "Point",
