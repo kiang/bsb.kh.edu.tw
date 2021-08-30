@@ -5672,7 +5672,7 @@
                 "town": "小港區",
                 "village": "港明里",
                 "class": "文理類,美術、書法、攝影、美工設計、圍棋類,商類：珠算、心算、會計,",
-                "students": "國小,國中"
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -29631,7 +29631,7 @@
                 "town": "苓雅區",
                 "village": "正道里",
                 "class": "文理類,",
-                "students": "國中"
+                "students": "國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -31892,7 +31892,7 @@
                 "town": "三民區",
                 "village": "立德里",
                 "class": "瑜珈類,",
-                "students": "國小至成人,學齡前"
+                "students": "成人(18歲以上),國小,國中,學齡前"
             },
             "geometry": {
                 "type": "Point",
