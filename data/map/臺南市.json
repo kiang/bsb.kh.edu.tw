@@ -21555,8 +21555,8 @@
                 "county": "臺南市",
                 "town": "東區",
                 "village": "崇明里",
-                "class": "外語類,",
-                "students": "國中"
+                "class": "文理類,外語類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",

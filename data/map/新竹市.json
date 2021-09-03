@@ -5766,8 +5766,8 @@
                 "county": "新竹市",
                 "town": "北區",
                 "village": "武陵里",
-                "class": "外語類,",
-                "students": "國小國中"
+                "class": "文理類,外語類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
