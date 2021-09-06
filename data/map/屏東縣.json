@@ -7021,7 +7021,7 @@
                 "town": "枋寮鄉",
                 "village": "隆山村",
                 "class": "外語類,",
-                "students": "國小"
+                "students": "國小,高中,國中"
             },
             "geometry": {
                 "type": "Point",
