@@ -15286,7 +15286,7 @@
                 "town": "岡山區",
                 "village": "竹圍里",
                 "class": "文理類,",
-                "students": "國小,國中,高中,學齡前"
+                "students": "國小,學齡前,國中,高中,成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
