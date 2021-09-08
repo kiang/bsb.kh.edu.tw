@@ -10592,8 +10592,8 @@
                 "county": "臺南市",
                 "town": "北區",
                 "village": "大和里",
-                "class": "外語類,",
-                "students": "國小"
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
