@@ -7970,8 +7970,8 @@
                 "county": "臺中市",
                 "town": "西區",
                 "village": "中興里",
-                "class": "",
-                "students": ""
+                "class": "瑜珈類,",
+                "students": "成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
@@ -9813,8 +9813,8 @@
                 "county": "臺中市",
                 "town": "東區",
                 "village": "東英里",
-                "class": "美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
