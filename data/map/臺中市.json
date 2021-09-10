@@ -7780,8 +7780,8 @@
                 "county": "臺中市",
                 "town": "后里區",
                 "village": "墩東里",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -9813,8 +9813,8 @@
                 "county": "臺中市",
                 "town": "東區",
                 "village": "東英里",
-                "class": "",
-                "students": ""
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
