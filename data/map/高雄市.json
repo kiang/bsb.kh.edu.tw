@@ -5938,7 +5938,7 @@
                 "town": "三民區",
                 "village": "港西里",
                 "class": "文理類,",
-                "students": "國中,高中,高四"
+                "students": "高四,高中,國中"
             },
             "geometry": {
                 "type": "Point",
