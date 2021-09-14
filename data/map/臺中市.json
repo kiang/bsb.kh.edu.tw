@@ -6982,8 +6982,8 @@
                 "county": "臺中市",
                 "town": "南屯區",
                 "village": "同心里",
-                "class": "美術、書法、攝影、美工設計、圍棋類,",
-                "students": "學齡前,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -31512,7 +31512,7 @@
                 "town": "南區",
                 "village": "樹義里",
                 "class": "外語類,",
-                "students": "國小"
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",

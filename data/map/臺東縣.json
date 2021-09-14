@@ -238,7 +238,7 @@
                 "town": "臺東市",
                 "village": "康樂里",
                 "class": "文理類,",
-                "students": "其他"
+                "students": "其他,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1169,7 +1169,7 @@
                 "town": "臺東市",
                 "village": "自強里",
                 "class": "外語類,",
-                "students": "國小"
+                "students": "國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",

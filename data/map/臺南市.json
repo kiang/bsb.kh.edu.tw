@@ -7287,7 +7287,7 @@
                 "town": "北區",
                 "village": "成德里",
                 "class": "文理類,",
-                "students": "國小,國中"
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -8655,7 +8655,7 @@
                 "town": "北區",
                 "village": "元美里",
                 "class": "文理類,",
-                "students": "國小"
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
