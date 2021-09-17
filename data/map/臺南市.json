@@ -6356,7 +6356,7 @@
                 "town": "中西區",
                 "village": "赤嵌里",
                 "class": "外語類,",
-                "students": "成人(18歲以上)"
+                "students": "成人.高中.國中"
             },
             "geometry": {
                 "type": "Point",
@@ -15837,7 +15837,7 @@
                 "town": "中西區",
                 "village": "兌悅里",
                 "class": "文理類,商類：珠算、心算、會計,",
-                "students": "國小"
+                "students": "國小.國中.高中.成人"
             },
             "geometry": {
                 "type": "Point",
@@ -22240,7 +22240,7 @@
                 "town": "南區",
                 "village": "新興里",
                 "class": "文理類,",
-                "students": "國中"
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -24310,7 +24310,7 @@
                 "county": "臺南市",
                 "town": "東區",
                 "village": "中西里",
-                "class": "外語類,",
+                "class": "文理類,外語類,",
                 "students": "國小"
             },
             "geometry": {
