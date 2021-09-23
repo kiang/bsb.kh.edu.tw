@@ -8331,8 +8331,8 @@
                 "county": "臺中市",
                 "town": "梧棲區",
                 "village": "大村里",
-                "class": "文理類,",
-                "students": "國小,國中,高中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",

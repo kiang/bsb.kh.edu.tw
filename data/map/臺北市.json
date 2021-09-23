@@ -36622,8 +36622,8 @@
                 "county": "臺北市",
                 "town": "內湖區",
                 "village": "麗山里",
-                "class": "外語類,",
-                "students": ""
+                "class": "文理類,外語類,美術、書法、攝影、美工設計、圍棋類,商類：珠算、心算、會計,",
+                "students": "無限制"
             },
             "geometry": {
                 "type": "Point",

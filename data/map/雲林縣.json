@@ -2460,8 +2460,8 @@
                 "county": "雲林縣",
                 "town": "斗六市",
                 "village": "鎮東里",
-                "class": "文理類,",
-                "students": "國中,國小,高中"
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
