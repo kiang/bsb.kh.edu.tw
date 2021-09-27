@@ -33982,7 +33982,7 @@
                 "town": "新興區",
                 "village": "建華里",
                 "class": "文理類,",
-                "students": "高中"
+                "students": "高中,國中,國小"
             },
             "geometry": {
                 "type": "Point",
