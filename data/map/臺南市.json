@@ -6356,7 +6356,7 @@
                 "town": "中西區",
                 "village": "赤嵌里",
                 "class": "外語類,",
-                "students": "成人.高中.國中"
+                "students": "成人(18歲以上),高中,國中"
             },
             "geometry": {
                 "type": "Point",

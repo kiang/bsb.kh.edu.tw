@@ -105,7 +105,7 @@
                 "town": "東區",
                 "village": "王田里",
                 "class": "文理類,外語類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國小"
+                "students": "學齡前,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -295,7 +295,7 @@
                 "town": "東區",
                 "village": "仁義里",
                 "class": "外語類,",
-                "students": "國小,國中,學齡前"
+                "students": "學齡前,國小,國中"
             },
             "geometry": {
                 "type": "Point",
