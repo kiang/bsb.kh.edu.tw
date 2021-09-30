@@ -2252,7 +2252,7 @@
                 "town": "竹東鎮",
                 "village": "二重里",
                 "class": "文理類,外語類,",
-                "students": "國中,國小,學齡前,國小至成人"
+                "students": "國小至成人,國中,國小,學齡前"
             },
             "geometry": {
                 "type": "Point",
