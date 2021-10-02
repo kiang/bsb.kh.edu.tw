@@ -10041,8 +10041,8 @@
                 "county": "臺中市",
                 "town": "大雅區",
                 "village": "四德里",
-                "class": "文理類,",
-                "students": "學齡前,國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
