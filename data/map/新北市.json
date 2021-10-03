@@ -42646,7 +42646,7 @@
                 "town": "鶯歌區",
                 "village": "鳳鳴里",
                 "class": "文理類,",
-                "students": "國中,國小以上"
+                "students": "國小以上,不限年齡"
             },
             "geometry": {
                 "type": "Point",
@@ -51043,8 +51043,8 @@
                 "county": "新北市",
                 "town": "新莊區",
                 "village": "立言里",
-                "class": "外語類,",
-                "students": "其他"
+                "class": "文理類,",
+                "students": "不限年齡"
             },
             "geometry": {
                 "type": "Point",
