@@ -9453,7 +9453,7 @@
                 "town": "彰化市",
                 "village": "彰安里",
                 "class": "文理類,",
-                "students": "國小"
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",

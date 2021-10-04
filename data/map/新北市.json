@@ -2005,7 +2005,7 @@
                 "town": "蘆洲區",
                 "village": "正義里",
                 "class": "文理類,",
-                "students": "5-18歲,不限年齡"
+                "students": "不限年齡,5-18歲"
             },
             "geometry": {
                 "type": "Point",

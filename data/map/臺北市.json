@@ -656,7 +656,7 @@
                 "town": "中正區",
                 "village": "新營里",
                 "class": "文理類,",
-                "students": "其他"
+                "students": "無限制"
             },
             "geometry": {
                 "type": "Point",
@@ -1549,7 +1549,7 @@
                 "town": "中正區",
                 "village": "文盛里",
                 "class": "文理類,",
-                "students": "其他"
+                "students": "無限制"
             },
             "geometry": {
                 "type": "Point",
