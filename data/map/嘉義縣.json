@@ -3733,8 +3733,8 @@
                 "county": "嘉義縣",
                 "town": "朴子市",
                 "village": "順天里",
-                "class": "文理類,商類：珠算、心算、會計,",
-                "students": "國小"
+                "class": "文理類,外語類,商類：珠算、心算、會計,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
