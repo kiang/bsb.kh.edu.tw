@@ -30239,7 +30239,7 @@
                 "town": "樹林區",
                 "village": "樹德里",
                 "class": "文理類,",
-                "students": "國中"
+                "students": "國小、國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -44147,7 +44147,7 @@
                 "town": "五股區",
                 "village": "水碓里",
                 "class": "文理類,",
-                "students": "國中,國小"
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
