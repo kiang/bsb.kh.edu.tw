@@ -20377,8 +20377,8 @@
                 "county": "臺中市",
                 "town": "太平區",
                 "village": "新坪里",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
