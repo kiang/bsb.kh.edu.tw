@@ -8769,7 +8769,7 @@
                 "town": "中正區",
                 "village": "黎明里",
                 "class": "文理類,外語類,資訊類,",
-                "students": "國小"
+                "students": "無限制"
             },
             "geometry": {
                 "type": "Point",
@@ -12037,7 +12037,7 @@
                 "town": "中正區",
                 "village": "黎明里",
                 "class": "文理類,",
-                "students": "國中"
+                "students": "無限制"
             },
             "geometry": {
                 "type": "Point",
@@ -14089,7 +14089,7 @@
                 "town": "中正區",
                 "village": "光復里",
                 "class": "美容、美髮理髮類,",
-                "students": "其他"
+                "students": "無限制"
             },
             "geometry": {
                 "type": "Point",
@@ -17300,7 +17300,7 @@
                 "town": "中正區",
                 "village": "黎明里",
                 "class": "文理類,",
-                "students": "成人(18歲以上)"
+                "students": "無限制"
             },
             "geometry": {
                 "type": "Point",
@@ -19827,7 +19827,7 @@
                 "town": "中正區",
                 "village": "黎明里",
                 "class": "外語類,",
-                "students": "國小"
+                "students": "無限制"
             },
             "geometry": {
                 "type": "Point",
@@ -22430,7 +22430,7 @@
                 "town": "中正區",
                 "village": "黎明里",
                 "class": "外語類,",
-                "students": "成人(18歲以上)"
+                "students": "無限制"
             },
             "geometry": {
                 "type": "Point",
@@ -23513,7 +23513,7 @@
                 "town": "中正區",
                 "village": "南福里",
                 "class": "外語類,",
-                "students": "國小"
+                "students": "無限制"
             },
             "geometry": {
                 "type": "Point",
@@ -25432,7 +25432,7 @@
                 "town": "中正區",
                 "village": "南福里",
                 "class": "文理類,",
-                "students": "其他"
+                "students": "無限制"
             },
             "geometry": {
                 "type": "Point",
@@ -29042,7 +29042,7 @@
                 "town": "中正區",
                 "village": "龍興里",
                 "class": "文理類,",
-                "students": "其他"
+                "students": "無限制"
             },
             "geometry": {
                 "type": "Point",
@@ -33108,7 +33108,7 @@
                 "town": "中正區",
                 "village": "黎明里",
                 "class": "外語類,",
-                "students": "其他"
+                "students": "無限制"
             },
             "geometry": {
                 "type": "Point",
@@ -34552,7 +34552,7 @@
                 "town": "中正區",
                 "village": "龍福里",
                 "class": "文理類,",
-                "students": "國小"
+                "students": "無限制"
             },
             "geometry": {
                 "type": "Point",
@@ -35179,7 +35179,7 @@
                 "town": "中正區",
                 "village": "南福里",
                 "class": "文理類,",
-                "students": "其他"
+                "students": "無限制"
             },
             "geometry": {
                 "type": "Point",
@@ -39036,7 +39036,7 @@
                 "town": "中正區",
                 "village": "黎明里",
                 "class": "電機、汽車修護、建築、工藝、製圖類,",
-                "students": "成人(18歲以上)"
+                "students": "無限制"
             },
             "geometry": {
                 "type": "Point",
@@ -41639,7 +41639,7 @@
                 "town": "中正區",
                 "village": "文盛里",
                 "class": "資訊類,",
-                "students": "成人(18歲以上)"
+                "students": "無限制"
             },
             "geometry": {
                 "type": "Point",
@@ -45781,7 +45781,7 @@
                 "town": "內湖區",
                 "village": "港富里",
                 "class": "文理類,",
-                "students": ""
+                "students": "無限制"
             },
             "geometry": {
                 "type": "Point",
@@ -46997,7 +46997,7 @@
                 "town": "中正區",
                 "village": "黎明里",
                 "class": "外語類,",
-                "students": "其他"
+                "students": "無限制"
             },
             "geometry": {
                 "type": "Point",
@@ -48042,7 +48042,7 @@
                 "town": "中正區",
                 "village": "黎明里",
                 "class": "法政類,",
-                "students": "其他"
+                "students": "無限制"
             },
             "geometry": {
                 "type": "Point",
@@ -48213,7 +48213,7 @@
                 "town": "中正區",
                 "village": "南福里",
                 "class": "電機、汽車修護、建築、工藝、製圖類,",
-                "students": "其他"
+                "students": "無限制"
             },
             "geometry": {
                 "type": "Point",
