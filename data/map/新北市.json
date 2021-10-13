@@ -5576,8 +5576,8 @@
                 "county": "新北市",
                 "town": "板橋區",
                 "village": "新翠里",
-                "class": "文理類,",
-                "students": "不限"
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,其他類,",
+                "students": "不限年齡"
             },
             "geometry": {
                 "type": "Point",

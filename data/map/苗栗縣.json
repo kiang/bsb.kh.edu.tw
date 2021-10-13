@@ -4760,7 +4760,7 @@
                 "town": "頭份市",
                 "village": "文化里",
                 "class": "文理類,",
-                "students": "國中"
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
