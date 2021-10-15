@@ -50131,8 +50131,8 @@
                 "county": "新北市",
                 "town": "中和區",
                 "village": "自強里",
-                "class": "商類：珠算、心算、會計,",
-                "students": "未填寫"
+                "class": "文理類,商類：珠算、心算、會計,",
+                "students": "不限年齡"
             },
             "geometry": {
                 "type": "Point",
