@@ -371,7 +371,7 @@
                 "town": "西屯區",
                 "village": "何成里",
                 "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國小"
+                "students": "學齡前,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -29916,7 +29916,7 @@
                 "town": "大里區",
                 "village": "長榮里",
                 "class": "文理類,外語類,",
-                "students": "國小"
+                "students": "國小,國中,成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
