@@ -8636,7 +8636,7 @@
                 "town": "板橋區",
                 "village": "重慶里",
                 "class": "文理類,",
-                "students": "國中"
+                "students": "不限年齡"
             },
             "geometry": {
                 "type": "Point",
@@ -9852,7 +9852,7 @@
                 "town": "林口區",
                 "village": "麗林里",
                 "class": "文理類,",
-                "students": "國小、國中、高中"
+                "students": "不限年齡"
             },
             "geometry": {
                 "type": "Point",
@@ -17812,8 +17812,8 @@
                 "county": "新北市",
                 "town": "林口區",
                 "village": "湖南里",
-                "class": "文理類,外語類,",
-                "students": "國中,國小"
+                "class": "文理類,",
+                "students": "國小、國中、高中,不限年齡"
             },
             "geometry": {
                 "type": "Point",
