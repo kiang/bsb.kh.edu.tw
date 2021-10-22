@@ -8255,8 +8255,8 @@
                 "county": "臺中市",
                 "town": "沙鹿區",
                 "village": "洛泉里",
-                "class": "文理類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
