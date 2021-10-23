@@ -9015,8 +9015,8 @@
                 "county": "彰化縣",
                 "town": "和美鎮",
                 "village": "糖友里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
