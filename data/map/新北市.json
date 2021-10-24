@@ -25051,8 +25051,8 @@
                 "county": "新北市",
                 "town": "新莊區",
                 "village": "中原里",
-                "class": "美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國中,不限年齡"
+                "class": "文理類,",
+                "students": "國小至成人"
             },
             "geometry": {
                 "type": "Point",
