@@ -48289,7 +48289,7 @@
                 "town": "北投區",
                 "village": "中心里",
                 "class": "文理類,",
-                "students": "國中,高中"
+                "students": "國中,高中,國中、高中,其他"
             },
             "geometry": {
                 "type": "Point",

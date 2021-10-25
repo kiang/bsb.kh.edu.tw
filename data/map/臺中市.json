@@ -4379,8 +4379,8 @@
                 "county": "臺中市",
                 "town": "太平區",
                 "village": "新城里",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -7438,8 +7438,8 @@
                 "county": "臺中市",
                 "town": "北屯區",
                 "village": "仁美里",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -8179,8 +8179,8 @@
                 "county": "臺中市",
                 "town": "西區",
                 "village": "土庫里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",
