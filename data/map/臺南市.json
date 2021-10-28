@@ -2936,7 +2936,7 @@
                 "town": "安南區",
                 "village": "安慶里",
                 "class": "文理類,",
-                "students": "國中,高中"
+                "students": "國中、高中,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2974,7 +2974,7 @@
                 "town": "安南區",
                 "village": "安富里",
                 "class": "文理類,",
-                "students": "國中,國小"
+                "students": "國小、國中"
             },
             "geometry": {
                 "type": "Point",
