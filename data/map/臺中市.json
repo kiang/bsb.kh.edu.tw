@@ -7932,8 +7932,8 @@
                 "county": "臺中市",
                 "town": "豐原區",
                 "village": "西湳里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
