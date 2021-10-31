@@ -15894,7 +15894,7 @@
                 "town": "新店區",
                 "village": "明德里",
                 "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "不限,國中"
+                "students": "不限年齡"
             },
             "geometry": {
                 "type": "Point",
