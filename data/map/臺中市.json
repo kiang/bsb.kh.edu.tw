@@ -3429,8 +3429,8 @@
                 "county": "臺中市",
                 "town": "北屯區",
                 "village": "松和里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -6317,8 +6317,8 @@
                 "county": "臺中市",
                 "town": "西屯區",
                 "village": "永安里",
-                "class": "",
-                "students": ""
+                "class": "外語類,音樂、舞蹈類,",
+                "students": "國小,成人(18歲以上),大學"
             },
             "geometry": {
                 "type": "Point",

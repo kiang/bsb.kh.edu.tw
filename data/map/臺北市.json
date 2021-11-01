@@ -27085,7 +27085,7 @@
                 "town": "南港區",
                 "village": "聯成里",
                 "class": "文理類,",
-                "students": "國小"
+                "students": "無限制"
             },
             "geometry": {
                 "type": "Point",
@@ -39529,8 +39529,8 @@
                 "county": "臺北市",
                 "town": "松山區",
                 "village": "中華里",
-                "class": "外語類,",
-                "students": "其他"
+                "class": "文理類,外語類,",
+                "students": "國小,其他"
             },
             "geometry": {
                 "type": "Point",
