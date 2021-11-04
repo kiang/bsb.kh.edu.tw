@@ -28491,7 +28491,7 @@
                 "town": "南港區",
                 "village": "新富里",
                 "class": "文理類,",
-                "students": "其他"
+                "students": "無限制"
             },
             "geometry": {
                 "type": "Point",
@@ -46427,7 +46427,7 @@
                 "town": "南港區",
                 "village": "聯成里",
                 "class": "文理類,",
-                "students": "國中"
+                "students": "無限制"
             },
             "geometry": {
                 "type": "Point",
