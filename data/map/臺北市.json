@@ -26932,8 +26932,8 @@
                 "county": "臺北市",
                 "town": "北投區",
                 "village": "大同里",
-                "class": "外語類,",
-                "students": "無限制"
+                "class": "文理類,外語類,",
+                "students": "國小、國中"
             },
             "geometry": {
                 "type": "Point",
