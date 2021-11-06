@@ -10440,8 +10440,8 @@
                 "county": "臺中市",
                 "town": "南屯區",
                 "village": "大業里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -21935,8 +21935,8 @@
                 "county": "臺中市",
                 "town": "北屯區",
                 "village": "平心里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
