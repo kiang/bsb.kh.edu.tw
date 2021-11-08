@@ -12246,7 +12246,7 @@
                 "town": "南港區",
                 "village": "新富里",
                 "class": "文理類,",
-                "students": "無限制"
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -39663,7 +39663,7 @@
                 "town": "大安區",
                 "village": "仁愛里",
                 "class": "美術、書法、攝影、美工設計、圍棋類,",
-                "students": "學齡前"
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",

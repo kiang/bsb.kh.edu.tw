@@ -979,7 +979,7 @@
                 "town": "屏東市",
                 "village": "明正里",
                 "class": "音樂、舞蹈類,",
-                "students": "國小"
+                "students": "國小以上學童"
             },
             "geometry": {
                 "type": "Point",
@@ -1321,7 +1321,7 @@
                 "town": "屏東市",
                 "village": "長春里",
                 "class": "外語類,",
-                "students": "國小國中高中"
+                "students": "國小.國中高中"
             },
             "geometry": {
                 "type": "Point",
@@ -1701,7 +1701,7 @@
                 "town": "內埔鄉",
                 "village": "內埔村",
                 "class": "文理類,",
-                "students": "國中,高中"
+                "students": "國中,國中、高中"
             },
             "geometry": {
                 "type": "Point",
@@ -4057,7 +4057,7 @@
                 "town": "內埔鄉",
                 "village": "東寧村",
                 "class": "文理類,",
-                "students": "國小"
+                "students": "小.國中"
             },
             "geometry": {
                 "type": "Point",
@@ -4513,7 +4513,7 @@
                 "town": "屏東市",
                 "village": "潭墘里",
                 "class": "外語類,",
-                "students": "國小"
+                "students": "國小.國中"
             },
             "geometry": {
                 "type": "Point",
@@ -4532,7 +4532,7 @@
                 "town": "屏東市",
                 "village": "文明里",
                 "class": "音樂、舞蹈類,",
-                "students": "國小"
+                "students": "國小.國中"
             },
             "geometry": {
                 "type": "Point",
@@ -5026,7 +5026,7 @@
                 "town": "屏東市",
                 "village": "瑞光里",
                 "class": "外語類,",
-                "students": "國小"
+                "students": "國小.國中"
             },
             "geometry": {
                 "type": "Point",
@@ -5710,7 +5710,7 @@
                 "town": "新園鄉",
                 "village": "瓦磘村",
                 "class": "外語類,",
-                "students": "國小"
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
