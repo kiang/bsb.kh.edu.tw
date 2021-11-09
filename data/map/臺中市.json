@@ -3790,8 +3790,8 @@
                 "county": "臺中市",
                 "town": "南區",
                 "village": "樹義里",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -3828,8 +3828,8 @@
                 "county": "臺中市",
                 "town": "西區",
                 "village": "利民里",
-                "class": "文理類,",
-                "students": "國小,國中,學齡前,高中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
