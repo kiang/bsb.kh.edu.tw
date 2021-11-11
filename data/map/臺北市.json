@@ -21537,7 +21537,7 @@
                 "town": "中正區",
                 "village": "黎明里",
                 "class": "資訊類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "成人(18歲以上)"
+                "students": "無限制"
             },
             "geometry": {
                 "type": "Point",
@@ -44261,7 +44261,7 @@
                 "town": "南港區",
                 "village": "中研里",
                 "class": "音樂、舞蹈類,",
-                "students": "學齡前"
+                "students": "無限制"
             },
             "geometry": {
                 "type": "Point",

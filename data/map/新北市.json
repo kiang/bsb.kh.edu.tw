@@ -14411,8 +14411,8 @@
                 "county": "新北市",
                 "town": "蘆洲區",
                 "village": "成功里",
-                "class": "文理類,外語類,",
-                "students": "國中~成人(A班28人、B班20人),國小~成人(A班18人、B班17人)"
+                "class": "文理類,",
+                "students": "不限年齡"
             },
             "geometry": {
                 "type": "Point",
@@ -18458,8 +18458,8 @@
                 "county": "新北市",
                 "town": "蘆洲區",
                 "village": "永康里",
-                "class": "文理類,外語類,",
-                "students": "國中"
+                "class": "文理類,",
+                "students": "國小、國中、高中"
             },
             "geometry": {
                 "type": "Point",
@@ -23361,7 +23361,7 @@
                 "town": "新莊區",
                 "village": "昌信里",
                 "class": "文理類,",
-                "students": "國小、國中、高中,不限年齡"
+                "students": "不限年齡"
             },
             "geometry": {
                 "type": "Point",
