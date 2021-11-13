@@ -9699,8 +9699,8 @@
                 "county": "臺中市",
                 "town": "西屯區",
                 "village": "上安里",
-                "class": "外語類,",
-                "students": "成人(18歲以上),國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
