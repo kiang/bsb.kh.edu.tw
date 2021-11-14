@@ -26116,7 +26116,7 @@
                 "town": "三重區",
                 "village": "福田里",
                 "class": "外語類,商類：珠算、心算、會計,",
-                "students": "其他"
+                "students": "國小,國小、國中"
             },
             "geometry": {
                 "type": "Point",
@@ -37857,8 +37857,8 @@
                 "county": "新北市",
                 "town": "三重區",
                 "village": "二重里",
-                "class": "商類：珠算、心算、會計,",
-                "students": "其他"
+                "class": "文理類,商類：珠算、心算、會計,",
+                "students": "不現年齡,不現年齡(國文、英文、數學各2小時、社會、自然各1小時)"
             },
             "geometry": {
                 "type": "Point",
@@ -38389,8 +38389,8 @@
                 "county": "新北市",
                 "town": "三重區",
                 "village": "慈祐里",
-                "class": "外語類,資訊類,",
-                "students": "(國中、國小),國中、小,國中、國小,國小、國中"
+                "class": "文理類,",
+                "students": "國中、小"
             },
             "geometry": {
                 "type": "Point",
