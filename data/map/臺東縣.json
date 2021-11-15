@@ -9,7 +9,7 @@
                 "county": "臺東縣",
                 "town": "臺東市",
                 "village": "東海里",
-                "class": "文理類,音樂、舞蹈類,",
+                "class": "文理類,外語類,音樂、舞蹈類,",
                 "students": "國中"
             },
             "geometry": {
@@ -237,7 +237,7 @@
                 "county": "臺東縣",
                 "town": "臺東市",
                 "village": "康樂里",
-                "class": "文理類,",
+                "class": "文理類,外語類,",
                 "students": "其他,國小"
             },
             "geometry": {

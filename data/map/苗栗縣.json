@@ -3411,7 +3411,7 @@
                 "town": "苑裡鎮",
                 "village": "客庄里",
                 "class": "文理類,",
-                "students": "國中"
+                "students": "國中,高中"
             },
             "geometry": {
                 "type": "Point",
