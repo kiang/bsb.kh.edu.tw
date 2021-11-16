@@ -2689,7 +2689,7 @@
                 "town": "壽豐鄉",
                 "village": "壽豐村",
                 "class": "文理類,外語類,商類：珠算、心算、會計,",
-                "students": "國小"
+                "students": "國小,國小、國中"
             },
             "geometry": {
                 "type": "Point",

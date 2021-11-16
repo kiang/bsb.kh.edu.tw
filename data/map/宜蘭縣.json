@@ -1055,7 +1055,7 @@
                 "town": "羅東鎮",
                 "village": "國華里",
                 "class": "文理類,",
-                "students": "高中"
+                "students": "高中,國中"
             },
             "geometry": {
                 "type": "Point",
