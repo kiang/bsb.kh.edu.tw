@@ -4266,7 +4266,7 @@
                 "town": "屏東市",
                 "village": "大同里",
                 "class": "文理類,",
-                "students": "不限"
+                "students": "高中、成人"
             },
             "geometry": {
                 "type": "Point",
@@ -7154,7 +7154,7 @@
                 "town": "屏東市",
                 "village": "端正里",
                 "class": "外語類,",
-                "students": "未填寫"
+                "students": "國小、國中"
             },
             "geometry": {
                 "type": "Point",

@@ -4151,8 +4151,8 @@
                 "county": "臺中市",
                 "town": "西屯區",
                 "village": "上安里",
-                "class": "美術、書法、攝影、美工設計、圍棋類,",
-                "students": "成人(18歲以上)"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -6811,8 +6811,8 @@
                 "county": "臺中市",
                 "town": "中區",
                 "village": "大誠里",
-                "class": "音樂、舞蹈類,",
-                "students": "國小,國中,成人(18歲以上)"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
