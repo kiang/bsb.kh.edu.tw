@@ -3392,7 +3392,7 @@
                 "town": "小港區",
                 "village": "二苓里",
                 "class": "文理類,",
-                "students": "國小,國中"
+                "students": "學齡前,國小,國中"
             },
             "geometry": {
                 "type": "Point",
