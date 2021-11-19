@@ -409,7 +409,7 @@
                 "town": "大寮區",
                 "village": "山頂里",
                 "class": "文理類,",
-                "students": "國中,國小,高中,學齡前"
+                "students": "高中,國中,國小,學齡前"
             },
             "geometry": {
                 "type": "Point",
@@ -15988,8 +15988,8 @@
                 "county": "高雄市",
                 "town": "三民區",
                 "village": "灣勝里",
-                "class": "文理類,",
-                "students": "國中"
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,商類：珠算、心算、會計,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",

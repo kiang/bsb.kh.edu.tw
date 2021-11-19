@@ -7780,8 +7780,8 @@
                 "county": "臺中市",
                 "town": "后里區",
                 "village": "墩東里",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
