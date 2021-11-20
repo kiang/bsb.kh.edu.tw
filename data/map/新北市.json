@@ -14203,7 +14203,7 @@
                 "town": "板橋區",
                 "village": "民族里",
                 "class": "文理類,",
-                "students": "國中,國小"
+                "students": "國小以上"
             },
             "geometry": {
                 "type": "Point",
@@ -18041,7 +18041,7 @@
                 "town": "鶯歌區",
                 "village": "鳳鳴里",
                 "class": "音樂、舞蹈類,",
-                "students": "(大眾)"
+                "students": "不限年齡"
             },
             "geometry": {
                 "type": "Point",
