@@ -19104,8 +19104,8 @@
                 "county": "臺中市",
                 "town": "太平區",
                 "village": "新城里",
-                "class": "外語類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",

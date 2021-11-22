@@ -1226,7 +1226,7 @@
                 "town": "臺東市",
                 "village": "知本里",
                 "class": "文理類,",
-                "students": "國小,國中,學齡前"
+                "students": "國小,國中,國小、國中"
             },
             "geometry": {
                 "type": "Point",

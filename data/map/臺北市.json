@@ -15058,7 +15058,7 @@
                 "town": "中正區",
                 "village": "廈安里",
                 "class": "外語類,",
-                "students": "國小"
+                "students": "無限制"
             },
             "geometry": {
                 "type": "Point",
@@ -34229,7 +34229,7 @@
                 "town": "中正區",
                 "village": "新營里",
                 "class": "文理類,",
-                "students": "其他"
+                "students": "無限制"
             },
             "geometry": {
                 "type": "Point",
