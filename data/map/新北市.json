@@ -26857,7 +26857,7 @@
                 "town": "樹林區",
                 "village": "南園里",
                 "class": "外語類,",
-                "students": "國小、國中"
+                "students": "高中、成人,國小、國中"
             },
             "geometry": {
                 "type": "Point",
@@ -31283,8 +31283,8 @@
                 "county": "新北市",
                 "town": "土城區",
                 "village": "頂福里",
-                "class": "外語類,商類：珠算、心算、會計,",
-                "students": "國中"
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,商類：珠算、心算、會計,",
+                "students": "不限年齡"
             },
             "geometry": {
                 "type": "Point",

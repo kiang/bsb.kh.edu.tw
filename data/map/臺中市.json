@@ -10783,7 +10783,7 @@
                 "town": "西屯區",
                 "village": "何仁里",
                 "class": "文理類,",
-                "students": "國中"
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -19104,8 +19104,8 @@
                 "county": "臺中市",
                 "town": "太平區",
                 "village": "新城里",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
