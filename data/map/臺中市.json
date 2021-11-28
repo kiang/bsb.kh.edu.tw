@@ -29440,8 +29440,8 @@
                 "county": "臺中市",
                 "town": "中區",
                 "village": "綠川里",
-                "class": "資訊類,",
-                "students": "成人(18歲以上)"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
