@@ -2,7 +2,7 @@
     "補習班代碼": "33202001300001",
     "主管機關文件單位代碼": "",
     "補習班名稱": "私立育人數學語文文理短期補習班",
-    "補習班英文名稱": "Private Yu-ren Matj&amp;Foreign Language &amp; Literature and science Short-Term Busiban",
+    "補習班英文名稱": "Private Yu-ren Matj&amp;amp;Foreign Language &amp;amp; Literature and science Short-Term Busiban",
     "補習班類別\/科目": "文理類,外語類,",
     "地址": "中壢區中央西路二段96號1-樓",
     "英文地址": "1-2F.,No.96,Sec.2,Zhongyang W.Rd.,Zhongli Dist., Taoyuan City",
@@ -11,9 +11,9 @@
     "電話網類別": "",
     "電話網層別": "X-X-X",
     "立案文號": "府教終字第1080327827號",
-    "廢止、註銷文號": "",
+    "廢止、註銷文號": "府教終字第1100291416號",
     "立案日期": "2020-01-21",
-    "廢止、註銷日期": "",
+    "廢止、註銷日期": "2021-11-11",
     "傳真號碼": "(03)",
     "電子郵件": "rice-pan@hotmail.com",
     "教室數": "5間",
@@ -66,8 +66,5 @@
             "招生對象": "國中"
         }
     ],
-    "職員工": [
-        "許育寧",
-        "黃育錡"
-    ]
+    "職員工": []
 }

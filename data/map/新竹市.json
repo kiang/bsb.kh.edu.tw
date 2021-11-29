@@ -6831,7 +6831,7 @@
                 "town": "東區",
                 "village": "仙水里",
                 "class": "文理類,",
-                "students": "國中"
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
