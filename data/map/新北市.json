@@ -30448,7 +30448,7 @@
                 "town": "淡水區",
                 "village": "新興里",
                 "class": "外語類,",
-                "students": "國小"
+                "students": "不限年齡"
             },
             "geometry": {
                 "type": "Point",
@@ -46313,7 +46313,7 @@
                 "town": "淡水區",
                 "village": "民權里",
                 "class": "文理類,",
-                "students": "其他"
+                "students": "不限年齡"
             },
             "geometry": {
                 "type": "Point",
@@ -49314,8 +49314,8 @@
                 "county": "新北市",
                 "town": "中和區",
                 "village": "秀福里",
-                "class": "外語類,",
-                "students": "國中"
+                "class": "文理類,",
+                "students": "國小、國中、高中"
             },
             "geometry": {
                 "type": "Point",
