@@ -7324,8 +7324,8 @@
                 "county": "臺中市",
                 "town": "西屯區",
                 "village": "福林里",
-                "class": "文理類,",
-                "students": "國中,國小,高中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",

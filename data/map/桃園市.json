@@ -750,7 +750,7 @@
                 "county": "桃園市",
                 "town": "中壢區",
                 "village": "過嶺里",
-                "class": "其他類,",
+                "class": "文理類,外語類,",
                 "students": "國小,國中"
             },
             "geometry": {
@@ -15286,7 +15286,7 @@
                 "town": "大園區",
                 "village": "橫峰里",
                 "class": "文理類,外語類,其他類,",
-                "students": "國中,國小"
+                "students": "國中,國小,學齡前"
             },
             "geometry": {
                 "type": "Point",
