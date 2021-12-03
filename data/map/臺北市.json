@@ -21385,7 +21385,7 @@
                 "town": "中正區",
                 "village": "黎明里",
                 "class": "文理類,外語類,",
-                "students": "國中,學齡前"
+                "students": "無限制"
             },
             "geometry": {
                 "type": "Point",
@@ -38162,7 +38162,7 @@
                 "town": "萬華區",
                 "village": "福星里",
                 "class": "外語類,",
-                "students": "其他"
+                "students": "無限制"
             },
             "geometry": {
                 "type": "Point",
