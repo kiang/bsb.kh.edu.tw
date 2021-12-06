@@ -15286,7 +15286,7 @@
                 "town": "大園區",
                 "village": "橫峰里",
                 "class": "文理類,外語類,其他類,",
-                "students": "國中,國小,學齡前"
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -22411,7 +22411,7 @@
                 "town": "觀音區",
                 "village": "新坡里",
                 "class": "文理類,商類：珠算、心算、會計,",
-                "students": "國小,未填寫"
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
