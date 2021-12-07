@@ -18819,8 +18819,8 @@
                 "county": "新北市",
                 "town": "樹林區",
                 "village": "樹福里",
-                "class": "文理類,外語類,",
-                "students": "年齡不限,國中"
+                "class": "文理類,",
+                "students": "國小以上,年齡不限"
             },
             "geometry": {
                 "type": "Point",
@@ -44013,7 +44013,7 @@
                 "county": "新北市",
                 "town": "中和區",
                 "village": "新南里",
-                "class": "外語類,美術、書法、攝影、美工設計、圍棋類,商類：珠算、心算、會計,",
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,商類：珠算、心算、會計,",
                 "students": "不限年齡"
             },
             "geometry": {
@@ -51784,8 +51784,8 @@
                 "county": "新北市",
                 "town": "板橋區",
                 "village": "社後里",
-                "class": "文理類,外語類,",
-                "students": "國中、國小,國中"
+                "class": "文理類,",
+                "students": "國中、國小"
             },
             "geometry": {
                 "type": "Point",
