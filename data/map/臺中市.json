@@ -4569,8 +4569,8 @@
                 "county": "臺中市",
                 "town": "北區",
                 "village": "頂厝里",
-                "class": "",
-                "students": ""
+                "class": "電機、汽車修護、建築、工藝、製圖類,",
+                "students": "成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
@@ -20111,8 +20111,8 @@
                 "county": "臺中市",
                 "town": "清水區",
                 "village": "武鹿里",
-                "class": "文理類,",
-                "students": "國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
