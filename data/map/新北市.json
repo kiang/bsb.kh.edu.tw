@@ -15019,7 +15019,7 @@
                 "county": "新北市",
                 "town": "中和區",
                 "village": "建和里",
-                "class": "文理類,外語類,",
+                "class": "文理類,",
                 "students": "不限年齡"
             },
             "geometry": {
@@ -26153,7 +26153,7 @@
                 "county": "新北市",
                 "town": "土城區",
                 "village": "延祿里",
-                "class": "文理類,外語類,",
+                "class": "文理類,音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類,商類：珠算、心算、會計,",
                 "students": "不限年齡"
             },
             "geometry": {
@@ -34551,8 +34551,8 @@
                 "county": "新北市",
                 "town": "新莊區",
                 "village": "中平里",
-                "class": "外語類,",
-                "students": "其他"
+                "class": "文理類,",
+                "students": "不限年齡"
             },
             "geometry": {
                 "type": "Point",
@@ -36261,7 +36261,7 @@
                 "county": "新北市",
                 "town": "永和區",
                 "village": "保安里",
-                "class": "文理類,外語類,",
+                "class": "文理類,",
                 "students": "國小,國中"
             },
             "geometry": {
@@ -44526,7 +44526,7 @@
                 "county": "新北市",
                 "town": "新莊區",
                 "village": "仁義里",
-                "class": "文理類,外語類,",
+                "class": "文理類,",
                 "students": "國小,國中"
             },
             "geometry": {

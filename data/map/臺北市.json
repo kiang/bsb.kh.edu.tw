@@ -31264,8 +31264,8 @@
                 "county": "臺北市",
                 "town": "大安區",
                 "village": "龍雲里",
-                "class": "文理類,",
-                "students": "學齡前"
+                "class": "文理類,音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "其他,學齡前"
             },
             "geometry": {
                 "type": "Point",
@@ -31949,7 +31949,7 @@
                 "town": "中正區",
                 "village": "文祥里",
                 "class": "外語類,",
-                "students": "其他"
+                "students": "無限制"
             },
             "geometry": {
                 "type": "Point",
@@ -45154,7 +45154,7 @@
                 "town": "中正區",
                 "village": "新營里",
                 "class": "文理類,",
-                "students": "其他"
+                "students": "無限制"
             },
             "geometry": {
                 "type": "Point",

@@ -2061,8 +2061,8 @@
                 "county": "嘉義縣",
                 "town": "民雄鄉",
                 "village": "福樂村",
-                "class": "文理類,",
-                "students": "國中"
+                "class": "文理類,外語類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",

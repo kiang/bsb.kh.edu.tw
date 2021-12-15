@@ -7647,8 +7647,8 @@
                 "county": "臺中市",
                 "town": "南區",
                 "village": "城隍里",
-                "class": "文理類,",
-                "students": "國小,國中,高中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -21479,8 +21479,8 @@
                 "county": "臺中市",
                 "town": "大甲區",
                 "village": "文武里",
-                "class": "",
-                "students": ""
+                "class": "音樂、舞蹈類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -36718,7 +36718,7 @@
                 "town": "太平區",
                 "village": "新城里",
                 "class": "外語類,",
-                "students": "國中"
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",

@@ -15381,7 +15381,7 @@
                 "town": "中壢區",
                 "village": "中正里",
                 "class": "外語類,",
-                "students": "國小"
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
