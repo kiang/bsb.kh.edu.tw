@@ -19389,8 +19389,8 @@
                 "county": "臺中市",
                 "town": "大雅區",
                 "village": "二和里",
-                "class": "文理類,法政類,",
-                "students": "成人(18歲以上),高中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
