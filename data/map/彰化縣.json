@@ -8939,8 +8939,8 @@
                 "county": "彰化縣",
                 "town": "鹿港鎮",
                 "village": "頂厝里",
-                "class": "外語類,",
-                "students": "國中"
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
