@@ -19617,8 +19617,8 @@
                 "county": "臺中市",
                 "town": "北區",
                 "village": "頂厝里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",

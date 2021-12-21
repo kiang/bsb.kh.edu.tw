@@ -3391,7 +3391,7 @@
                 "county": "桃園市",
                 "town": "龍潭區",
                 "village": "中山里",
-                "class": "外語類,",
+                "class": "文理類,外語類,",
                 "students": "國小"
             },
             "geometry": {
@@ -4664,7 +4664,7 @@
                 "county": "桃園市",
                 "town": "龍潭區",
                 "village": "東興里",
-                "class": "外語類,",
+                "class": "文理類,外語類,",
                 "students": "國小"
             },
             "geometry": {

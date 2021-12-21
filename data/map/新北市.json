@@ -16178,7 +16178,7 @@
                 "county": "新北市",
                 "town": "新莊區",
                 "village": "興漢里",
-                "class": "文理類,外語類,",
+                "class": "文理類,",
                 "students": "不限年齡,國小~高中(A28人、B班18人)"
             },
             "geometry": {
@@ -40594,7 +40594,7 @@
                 "town": "汐止區",
                 "village": "秀峰里",
                 "class": "文理類,",
-                "students": "國小"
+                "students": "不限年齡"
             },
             "geometry": {
                 "type": "Point",
