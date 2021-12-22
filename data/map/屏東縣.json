@@ -713,7 +713,7 @@
                 "town": "東港鎮",
                 "village": "興東里",
                 "class": "文理類,",
-                "students": "國中"
+                "students": "國小,高中,國中"
             },
             "geometry": {
                 "type": "Point",
