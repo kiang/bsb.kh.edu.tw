@@ -19636,8 +19636,8 @@
                 "county": "臺中市",
                 "town": "潭子區",
                 "village": "頭家里",
-                "class": "文理類,",
-                "students": "國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
