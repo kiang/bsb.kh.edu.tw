@@ -8122,8 +8122,8 @@
                 "county": "臺中市",
                 "town": "大里區",
                 "village": "瑞城里",
-                "class": "文理類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -19636,8 +19636,8 @@
                 "county": "臺中市",
                 "town": "潭子區",
                 "village": "頭家里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
