@@ -7742,8 +7742,8 @@
                 "county": "臺中市",
                 "town": "沙鹿區",
                 "village": "竹林里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -19712,8 +19712,8 @@
                 "county": "臺中市",
                 "town": "潭子區",
                 "village": "家興里",
-                "class": "文理類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -29193,8 +29193,8 @@
                 "county": "臺中市",
                 "town": "大肚區",
                 "village": "大肚里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
