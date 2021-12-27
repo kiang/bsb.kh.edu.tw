@@ -979,7 +979,7 @@
                 "town": "東區",
                 "village": "太平里",
                 "class": "文理類,",
-                "students": "國中"
+                "students": "國中,高中,高職"
             },
             "geometry": {
                 "type": "Point",
