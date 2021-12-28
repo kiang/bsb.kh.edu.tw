@@ -31036,8 +31036,8 @@
                 "county": "新北市",
                 "town": "五股區",
                 "village": "五股里",
-                "class": "文理類,外語類,",
-                "students": "國中"
+                "class": "文理類,",
+                "students": "不限年齡"
             },
             "geometry": {
                 "type": "Point",
