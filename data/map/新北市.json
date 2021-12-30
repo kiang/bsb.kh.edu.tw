@@ -17566,7 +17566,7 @@
                 "town": "永和區",
                 "village": "潭墘里",
                 "class": "外語類,",
-                "students": "其他"
+                "students": "不限年齡"
             },
             "geometry": {
                 "type": "Point",
@@ -32480,7 +32480,7 @@
                 "county": "新北市",
                 "town": "永和區",
                 "village": "秀和里",
-                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
                 "students": "(不現年齡),高中"
             },
             "geometry": {
@@ -41543,8 +41543,8 @@
                 "county": "新北市",
                 "town": "鶯歌區",
                 "village": "二橋里",
-                "class": "文理類,外語類,",
-                "students": "國小,國中"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
