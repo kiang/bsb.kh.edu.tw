@@ -6887,8 +6887,8 @@
                 "county": "臺中市",
                 "town": "南區",
                 "village": "南和里",
-                "class": "瑜珈類,",
-                "students": "成人(18歲以上)"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -38085,8 +38085,8 @@
                 "county": "臺中市",
                 "town": "大里區",
                 "village": "金城里",
-                "class": "外語類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
