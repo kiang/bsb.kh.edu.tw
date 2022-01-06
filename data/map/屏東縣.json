@@ -1302,7 +1302,7 @@
                 "town": "潮州鎮",
                 "village": "光華里",
                 "class": "文理類,",
-                "students": "國小國中"
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
