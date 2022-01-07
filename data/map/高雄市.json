@@ -6223,7 +6223,7 @@
                 "town": "新興區",
                 "village": "德望里",
                 "class": "文理類,",
-                "students": "國小,國中,高中"
+                "students": "國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -26020,8 +26020,8 @@
                 "county": "高雄市",
                 "town": "鼓山區",
                 "village": "明誠里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -26039,8 +26039,8 @@
                 "county": "高雄市",
                 "town": "岡山區",
                 "village": "前峰里",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -26058,8 +26058,8 @@
                 "county": "高雄市",
                 "town": "大樹區",
                 "village": "久堂里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -26077,8 +26077,8 @@
                 "county": "高雄市",
                 "town": "三民區",
                 "village": "寶德里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -26096,8 +26096,8 @@
                 "county": "高雄市",
                 "town": "橋頭區",
                 "village": "仕隆里",
-                "class": "",
-                "students": ""
+                "class": "商類：珠算、心算、會計,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -26115,8 +26115,8 @@
                 "county": "高雄市",
                 "town": "小港區",
                 "village": "鳳源里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -26134,8 +26134,8 @@
                 "county": "高雄市",
                 "town": "大寮區",
                 "village": "中庄里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
