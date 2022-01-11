@@ -4360,8 +4360,8 @@
                 "county": "臺中市",
                 "town": "中區",
                 "village": "大墩里",
-                "class": "文理類,",
-                "students": "國小,國中,高中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",

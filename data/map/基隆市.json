@@ -731,8 +731,8 @@
                 "county": "基隆市",
                 "town": "暖暖區",
                 "village": "暖西里",
-                "class": "文理類,",
-                "students": "國小"
+                "class": "文理類,外語類,",
+                "students": "國小,學齡前"
             },
             "geometry": {
                 "type": "Point",
