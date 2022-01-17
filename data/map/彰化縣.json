@@ -14810,8 +14810,8 @@
                 "county": "彰化縣",
                 "town": "北斗鎮",
                 "village": "文昌里",
-                "class": "外語類,",
-                "students": "國中"
+                "class": "文理類,外語類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
