@@ -19769,8 +19769,8 @@
                 "county": "高雄市",
                 "town": "大寮區",
                 "village": "後庄里",
-                "class": "文理類,",
-                "students": "國小,國中,高中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
