@@ -7514,8 +7514,8 @@
                 "county": "臺中市",
                 "town": "南區",
                 "village": "樹義里",
-                "class": "外語類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
