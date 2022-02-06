@@ -7514,8 +7514,8 @@
                 "county": "臺中市",
                 "town": "南區",
                 "village": "樹義里",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -19370,8 +19370,8 @@
                 "county": "臺中市",
                 "town": "北屯區",
                 "village": "北京里",
-                "class": "文理類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
