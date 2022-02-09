@@ -4056,8 +4056,8 @@
                 "county": "臺中市",
                 "town": "神岡區",
                 "village": "圳堵里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
