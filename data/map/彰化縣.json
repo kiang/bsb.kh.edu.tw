@@ -4608,7 +4608,7 @@
                 "town": "芬園鄉",
                 "village": "竹林村",
                 "class": "文理類,",
-                "students": "國小+國中,國小"
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
