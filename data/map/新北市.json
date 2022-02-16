@@ -46749,8 +46749,8 @@
                 "county": "新北市",
                 "town": "中和區",
                 "village": "壽德里",
-                "class": "文理類,資訊類,",
-                "students": "國中,不限年齡"
+                "class": "文理類,",
+                "students": "不限年齡"
             },
             "geometry": {
                 "type": "Point",
