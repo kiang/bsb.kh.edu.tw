@@ -19731,8 +19731,8 @@
                 "county": "臺中市",
                 "town": "東區",
                 "village": "東勢里",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -30219,7 +30219,7 @@
                 "county": "臺中市",
                 "town": "北屯區",
                 "village": "忠平里",
-                "class": "資訊類,",
+                "class": "外語類,資訊類,",
                 "students": "國小"
             },
             "geometry": {
@@ -36984,7 +36984,7 @@
                 "town": "北屯區",
                 "village": "大德里",
                 "class": "外語類,",
-                "students": "國小"
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",

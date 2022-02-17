@@ -39738,8 +39738,8 @@
                 "county": "新北市",
                 "town": "淡水區",
                 "village": "民生里",
-                "class": "美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國中"
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "不限年齡"
             },
             "geometry": {
                 "type": "Point",
