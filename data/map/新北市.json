@@ -11333,8 +11333,8 @@
                 "county": "新北市",
                 "town": "泰山區",
                 "village": "全興里",
-                "class": "外語類,",
-                "students": "不限年齡"
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
