@@ -1187,8 +1187,8 @@
                 "county": "桃園市",
                 "town": "蘆竹區",
                 "village": "長壽里",
-                "class": "外語類,其他類,",
-                "students": "國小,國小、國中、高中"
+                "class": "文理類,外語類,其他類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
