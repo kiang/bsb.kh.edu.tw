@@ -19123,8 +19123,8 @@
                 "county": "新北市",
                 "town": "土城區",
                 "village": "清溪里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "不限年齡"
             },
             "geometry": {
                 "type": "Point",
