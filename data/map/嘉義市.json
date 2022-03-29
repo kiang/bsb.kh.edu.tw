@@ -181,7 +181,7 @@
                 "town": "東區",
                 "village": "林森里",
                 "class": "文理類,",
-                "students": "國小,國中,高中"
+                "students": "國中,國小,高中"
             },
             "geometry": {
                 "type": "Point",
