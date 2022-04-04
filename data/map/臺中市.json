@@ -9395,8 +9395,8 @@
                 "county": "臺中市",
                 "town": "南屯區",
                 "village": "向心里",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -36546,8 +36546,8 @@
                 "county": "臺中市",
                 "town": "大雅區",
                 "village": "大雅里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
