@@ -9224,8 +9224,8 @@
                 "county": "臺中市",
                 "town": "北區",
                 "village": "錦平里",
-                "class": "音樂、舞蹈類,",
-                "students": "高中,成人(18歲以上)"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
