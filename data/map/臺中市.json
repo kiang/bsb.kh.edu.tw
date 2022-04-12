@@ -8388,8 +8388,8 @@
                 "county": "臺中市",
                 "town": "西區",
                 "village": "民龍里",
-                "class": "",
-                "students": ""
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "學齡前,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -20225,8 +20225,8 @@
                 "county": "臺中市",
                 "town": "豐原區",
                 "village": "三村里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -40708,7 +40708,7 @@
                 "town": "大里區",
                 "village": "西榮里",
                 "class": "文理類,外語類,其他類,",
-                "students": "國小,國中,高中"
+                "students": "國中,高中,國小"
             },
             "geometry": {
                 "type": "Point",
