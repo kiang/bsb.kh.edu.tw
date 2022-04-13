@@ -40708,7 +40708,7 @@
                 "town": "大里區",
                 "village": "西榮里",
                 "class": "文理類,外語類,其他類,",
-                "students": "國中,高中,國小"
+                "students": "國中,國小,高中"
             },
             "geometry": {
                 "type": "Point",
