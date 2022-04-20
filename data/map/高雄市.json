@@ -26553,7 +26553,7 @@
                 "town": "岡山區",
                 "village": "後紅里",
                 "class": "文理類,",
-                "students": "國中,國小,高中"
+                "students": "國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -32595,7 +32595,7 @@
                 "town": "新興區",
                 "village": "南港里",
                 "class": "外語類,",
-                "students": "國小,學齡前,國中,高中"
+                "students": "國小,國中,高中,學齡前"
             },
             "geometry": {
                 "type": "Point",

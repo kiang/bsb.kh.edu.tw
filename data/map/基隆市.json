@@ -2821,8 +2821,8 @@
                 "county": "基隆市",
                 "town": "仁愛區",
                 "village": "新店里",
-                "class": "文理類,法政類,",
-                "students": "升四技二專大專,公職人員考試"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -3676,8 +3676,8 @@
                 "county": "基隆市",
                 "town": "七堵區",
                 "village": "永平里",
-                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,商類：珠算、心算、會計,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -3771,8 +3771,8 @@
                 "county": "基隆市",
                 "town": "中山區",
                 "village": "安民里",
-                "class": "文理類,",
-                "students": "國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",

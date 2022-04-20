@@ -16235,8 +16235,8 @@
                 "county": "桃園市",
                 "town": "龍潭區",
                 "village": "武漢里",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
