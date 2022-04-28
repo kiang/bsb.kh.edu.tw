@@ -6451,7 +6451,7 @@
                 "town": "竹北市",
                 "village": "新崙里",
                 "class": "外語類,",
-                "students": "國小"
+                "students": "國小,成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
