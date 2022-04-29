@@ -4095,7 +4095,7 @@
                 "town": "竹北市",
                 "village": "中崙里",
                 "class": "文理類,外語類,",
-                "students": "學齡前,國小-國中,成人(18歲以上)"
+                "students": "學齡前,成人(18歲以上),國小-國中"
             },
             "geometry": {
                 "type": "Point",
