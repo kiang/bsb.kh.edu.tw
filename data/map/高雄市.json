@@ -5501,7 +5501,7 @@
                 "town": "鳳山區",
                 "village": "富榮里",
                 "class": "文理類,",
-                "students": "高中,國小,國中"
+                "students": "國中,國小,高中"
             },
             "geometry": {
                 "type": "Point",
