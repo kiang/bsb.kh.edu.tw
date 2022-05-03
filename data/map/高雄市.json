@@ -13709,7 +13709,7 @@
                 "town": "苓雅區",
                 "village": "福隆里",
                 "class": "文理類,外語類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "學齡前,國中,國小"
+                "students": "國中,學齡前,國小"
             },
             "geometry": {
                 "type": "Point",
