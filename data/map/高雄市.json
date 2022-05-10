@@ -3866,8 +3866,8 @@
                 "county": "高雄市",
                 "town": "鼓山區",
                 "village": "龍水里",
-                "class": "文理類,",
-                "students": "國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -14373,8 +14373,8 @@
                 "county": "高雄市",
                 "town": "三民區",
                 "village": "寶德里",
-                "class": "文理類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -23949,8 +23949,8 @@
                 "county": "高雄市",
                 "town": "苓雅區",
                 "village": "五權里",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -30770,8 +30770,8 @@
                 "county": "高雄市",
                 "town": "路竹區",
                 "village": "甲南里",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
