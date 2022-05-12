@@ -12189,7 +12189,7 @@
                 "town": "安平區",
                 "village": "怡平里",
                 "class": "文理類,",
-                "students": "國中"
+                "students": "國中、高中,國小、國中、高中,國小,國中"
             },
             "geometry": {
                 "type": "Point",
