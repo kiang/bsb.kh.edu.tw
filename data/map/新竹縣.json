@@ -4588,8 +4588,8 @@
                 "county": "新竹縣",
                 "town": "竹北市",
                 "village": "鹿場里",
-                "class": "文理類,",
-                "students": "國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -4607,8 +4607,8 @@
                 "county": "新竹縣",
                 "town": "新埔鎮",
                 "village": "四座里",
-                "class": "文理類,外語類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -4892,8 +4892,8 @@
                 "county": "新竹縣",
                 "town": "竹東鎮",
                 "village": "忠孝里",
-                "class": "音樂、舞蹈類,",
-                "students": "其他"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -4930,8 +4930,8 @@
                 "county": "新竹縣",
                 "town": "新豐鄉",
                 "village": "松林村",
-                "class": "文理類,",
-                "students": "學齡前,國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -5025,8 +5025,8 @@
                 "county": "新竹縣",
                 "town": "竹北市",
                 "village": "中崙里",
-                "class": "外語類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -5044,8 +5044,8 @@
                 "county": "新竹縣",
                 "town": "竹北市",
                 "village": "中崙里",
-                "class": "外語類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -5120,8 +5120,8 @@
                 "county": "新竹縣",
                 "town": "竹北市",
                 "village": "十興里",
-                "class": "美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",

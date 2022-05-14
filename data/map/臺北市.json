@@ -47,8 +47,8 @@
                 "county": "臺北市",
                 "town": "內湖區",
                 "village": "葫洲里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "其他"
             },
             "geometry": {
                 "type": "Point",
@@ -7191,8 +7191,8 @@
                 "county": "臺北市",
                 "town": "中山區",
                 "village": "永安里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -8350,8 +8350,8 @@
                 "county": "臺北市",
                 "town": "大安區",
                 "village": "敦煌里",
-                "class": "文理類,外語類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -9224,8 +9224,8 @@
                 "county": "臺北市",
                 "town": "文山區",
                 "village": "萬興里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "高中,升四技二專大專"
             },
             "geometry": {
                 "type": "Point",
@@ -12150,8 +12150,8 @@
                 "county": "臺北市",
                 "town": "內湖區",
                 "village": "瑞陽里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "其他"
             },
             "geometry": {
                 "type": "Point",
@@ -16102,8 +16102,8 @@
                 "county": "臺北市",
                 "town": "信義區",
                 "village": "廣居里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -18743,8 +18743,8 @@
                 "county": "臺北市",
                 "town": "中山區",
                 "village": "力行里",
-                "class": "文理類,",
-                "students": "國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -20016,8 +20016,8 @@
                 "county": "臺北市",
                 "town": "內湖區",
                 "village": "金湖里",
-                "class": "外語類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -20035,8 +20035,8 @@
                 "county": "臺北市",
                 "town": "大安區",
                 "village": "車層里",
-                "class": "電機、汽車修護、建築、工藝、製圖類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "成人(18歲以上)"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -22847,8 +22847,8 @@
                 "county": "臺北市",
                 "town": "大安區",
                 "village": "虎嘯里",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -24063,8 +24063,8 @@
                 "county": "臺北市",
                 "town": "內湖區",
                 "village": "南湖里",
-                "class": "外語類,",
-                "students": "其他"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -24177,8 +24177,8 @@
                 "county": "臺北市",
                 "town": "內湖區",
                 "village": "紫星里",
-                "class": "文理類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -37572,8 +37572,8 @@
                 "county": "臺北市",
                 "town": "松山區",
                 "village": "東光里",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "其他"
             },
             "geometry": {
                 "type": "Point",
@@ -39491,8 +39491,8 @@
                 "county": "臺北市",
                 "town": "中山區",
                 "village": "下埤里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "學齡前"
             },
             "geometry": {
                 "type": "Point",
@@ -42854,8 +42854,8 @@
                 "county": "臺北市",
                 "town": "松山區",
                 "village": "慈祐里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小至國中"
             },
             "geometry": {
                 "type": "Point",
@@ -47870,8 +47870,8 @@
                 "county": "臺北市",
                 "town": "北投區",
                 "village": "吉慶里",
-                "class": "",
-                "students": ""
+                "class": "音樂、舞蹈類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -48801,8 +48801,8 @@
                 "county": "臺北市",
                 "town": "中山區",
                 "village": "興亞里",
-                "class": "",
-                "students": ""
+                "class": "音樂、舞蹈類,",
+                "students": "無限制"
             },
             "geometry": {
                 "type": "Point",

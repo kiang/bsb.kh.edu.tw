@@ -2194,8 +2194,8 @@
                 "county": "南投縣",
                 "town": "水里鄉",
                 "village": "城中村",
-                "class": "外語類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
