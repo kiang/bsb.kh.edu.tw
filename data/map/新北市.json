@@ -34912,8 +34912,8 @@
                 "county": "新北市",
                 "town": "中和區",
                 "village": "平河里",
-                "class": "外語類,",
-                "students": "不限"
+                "class": "文理類,",
+                "students": "6歲以上"
             },
             "geometry": {
                 "type": "Point",
