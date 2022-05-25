@@ -23057,7 +23057,7 @@
                 "town": "沙鹿區",
                 "village": "鹿寮里",
                 "class": "外語類,",
-                "students": "國小,成人(18歲以上),國中"
+                "students": "國小,國中,成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
