@@ -8996,8 +8996,8 @@
                 "county": "臺中市",
                 "town": "烏日區",
                 "village": "九德里",
-                "class": "",
-                "students": ""
+                "class": "音樂、舞蹈類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -10991,8 +10991,8 @@
                 "county": "臺中市",
                 "town": "大里區",
                 "village": "仁德里",
-                "class": "文理類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -16635,7 +16635,7 @@
                 "town": "北區",
                 "village": "立人里",
                 "class": "文理類,",
-                "students": "國中,國小"
+                "students": "國中,國小,學齡前"
             },
             "geometry": {
                 "type": "Point",
