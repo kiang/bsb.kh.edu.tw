@@ -180,8 +180,8 @@
                 "county": "南投縣",
                 "town": "集集鎮",
                 "village": "永昌里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -313,8 +313,8 @@
                 "county": "南投縣",
                 "town": "竹山鎮",
                 "village": "延和里",
-                "class": "文理類,",
-                "students": "國小(12歲以上),國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -370,8 +370,8 @@
                 "county": "南投縣",
                 "town": "竹山鎮",
                 "village": "延和里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -541,8 +541,8 @@
                 "county": "南投縣",
                 "town": "埔里鎮",
                 "village": "北安里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -560,8 +560,8 @@
                 "county": "南投縣",
                 "town": "草屯鎮",
                 "village": "山腳里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -731,8 +731,8 @@
                 "county": "南投縣",
                 "town": "南投市",
                 "village": "龍泉里",
-                "class": "文理類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -769,8 +769,8 @@
                 "county": "南投縣",
                 "town": "埔里鎮",
                 "village": "南門里",
-                "class": "文理類,",
-                "students": "國中,高中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -788,8 +788,8 @@
                 "county": "南投縣",
                 "town": "南投市",
                 "village": "內興里",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -807,8 +807,8 @@
                 "county": "南投縣",
                 "town": "埔里鎮",
                 "village": "同聲里",
-                "class": "文理類,外語類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -959,8 +959,8 @@
                 "county": "南投縣",
                 "town": "草屯鎮",
                 "village": "炎峰里",
-                "class": "文理類,",
-                "students": "國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -978,8 +978,8 @@
                 "county": "南投縣",
                 "town": "草屯鎮",
                 "village": "雙冬里",
-                "class": "文理類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -997,8 +997,8 @@
                 "county": "南投縣",
                 "town": "草屯鎮",
                 "village": "山腳里",
-                "class": "文理類,",
-                "students": "國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1016,8 +1016,8 @@
                 "county": "南投縣",
                 "town": "埔里鎮",
                 "village": "大城里",
-                "class": "文理類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1149,8 +1149,8 @@
                 "county": "南投縣",
                 "town": "埔里鎮",
                 "village": "西門里",
-                "class": "音樂、舞蹈類,",
-                "students": "國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1168,8 +1168,8 @@
                 "county": "南投縣",
                 "town": "南投市",
                 "village": "內興里",
-                "class": "文理類,",
-                "students": "國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1187,8 +1187,8 @@
                 "county": "南投縣",
                 "town": "竹山鎮",
                 "village": "延和里",
-                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1206,8 +1206,8 @@
                 "county": "南投縣",
                 "town": "中寮鄉",
                 "village": "永平村",
-                "class": "文理類,",
-                "students": "國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1377,8 +1377,8 @@
                 "county": "南投縣",
                 "town": "南投市",
                 "village": "崇文里",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1396,8 +1396,8 @@
                 "county": "南投縣",
                 "town": "草屯鎮",
                 "village": "北勢里",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1415,8 +1415,8 @@
                 "county": "南投縣",
                 "town": "竹山鎮",
                 "village": "雲林里",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1681,8 +1681,8 @@
                 "county": "南投縣",
                 "town": "草屯鎮",
                 "village": "中原里",
-                "class": "文理類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1700,8 +1700,8 @@
                 "county": "南投縣",
                 "town": "草屯鎮",
                 "village": "敦和里",
-                "class": "文理類,",
-                "students": "國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1719,8 +1719,8 @@
                 "county": "南投縣",
                 "town": "草屯鎮",
                 "village": "炎峰里",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1738,8 +1738,8 @@
                 "county": "南投縣",
                 "town": "草屯鎮",
                 "village": "新厝里",
-                "class": "文理類,",
-                "students": "國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1871,8 +1871,8 @@
                 "county": "南投縣",
                 "town": "草屯鎮",
                 "village": "新厝里",
-                "class": "外語類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1890,8 +1890,8 @@
                 "county": "南投縣",
                 "town": "南投市",
                 "village": "漳和里",
-                "class": "文理類,",
-                "students": "國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1909,8 +1909,8 @@
                 "county": "南投縣",
                 "town": "南投市",
                 "village": "漳和里",
-                "class": "瑜珈類,",
-                "students": "7歲以上之男女性"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1928,8 +1928,8 @@
                 "county": "南投縣",
                 "town": "竹山鎮",
                 "village": "雲林里",
-                "class": "商類：珠算、心算、會計,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2175,8 +2175,8 @@
                 "county": "南投縣",
                 "town": "埔里鎮",
                 "village": "枇杷里",
-                "class": "文理類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2327,8 +2327,8 @@
                 "county": "南投縣",
                 "town": "南投市",
                 "village": "內興里",
-                "class": "文理類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2973,8 +2973,8 @@
                 "county": "南投縣",
                 "town": "埔里鎮",
                 "village": "北梅里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2992,8 +2992,8 @@
                 "county": "南投縣",
                 "town": "南投市",
                 "village": "內興里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -3011,8 +3011,8 @@
                 "county": "南投縣",
                 "town": "埔里鎮",
                 "village": "杷城里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3030,8 +3030,8 @@
                 "county": "南投縣",
                 "town": "草屯鎮",
                 "village": "炎峰里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3182,8 +3182,8 @@
                 "county": "南投縣",
                 "town": "埔里鎮",
                 "village": "北門里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3201,8 +3201,8 @@
                 "county": "南投縣",
                 "town": "竹山鎮",
                 "village": "竹山里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3220,8 +3220,8 @@
                 "county": "南投縣",
                 "town": "竹山鎮",
                 "village": "硘磘里",
-                "class": "",
-                "students": ""
+                "class": "音樂、舞蹈類,",
+                "students": "成人(18歲以上),國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3410,8 +3410,8 @@
                 "county": "南投縣",
                 "town": "埔里鎮",
                 "village": "枇杷里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -3980,8 +3980,8 @@
                 "county": "南投縣",
                 "town": "埔里鎮",
                 "village": "北梅里",
-                "class": "文理類,",
-                "students": "國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -3999,8 +3999,8 @@
                 "county": "南投縣",
                 "town": "南投市",
                 "village": "龍泉里",
-                "class": "音樂、舞蹈類,",
-                "students": "國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -4018,8 +4018,8 @@
                 "county": "南投縣",
                 "town": "南投市",
                 "village": "三和里",
-                "class": "文理類,",
-                "students": "成人(18歲以上),幼兒至成人"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -4037,8 +4037,8 @@
                 "county": "南投縣",
                 "town": "埔里鎮",
                 "village": "清新里",
-                "class": "外語類,",
-                "students": "國小、國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -4189,8 +4189,8 @@
                 "county": "南投縣",
                 "town": "埔里鎮",
                 "village": "西門里",
-                "class": "文理類,",
-                "students": "國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -4208,8 +4208,8 @@
                 "county": "南投縣",
                 "town": "南投市",
                 "village": "三興里",
-                "class": "文理類,",
-                "students": "國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -4227,8 +4227,8 @@
                 "county": "南投縣",
                 "town": "草屯鎮",
                 "village": "炎峰里",
-                "class": "美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -4246,8 +4246,8 @@
                 "county": "南投縣",
                 "town": "埔里鎮",
                 "village": "北安里",
-                "class": "文理類,",
-                "students": "國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",

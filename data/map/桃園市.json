@@ -6697,8 +6697,8 @@
                 "county": "桃園市",
                 "town": "大溪區",
                 "village": "仁和里",
-                "class": "外語類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -6716,8 +6716,8 @@
                 "county": "桃園市",
                 "town": "八德區",
                 "village": "大慶里",
-                "class": "文理類,外語類,",
-                "students": "國中,高中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -9794,8 +9794,8 @@
                 "county": "桃園市",
                 "town": "桃園區",
                 "village": "中信里",
-                "class": "文理類,",
-                "students": "高中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -9813,8 +9813,8 @@
                 "county": "桃園市",
                 "town": "桃園區",
                 "village": "中泰里",
-                "class": "外語類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -11542,8 +11542,8 @@
                 "county": "桃園市",
                 "town": "中壢區",
                 "village": "興仁里",
-                "class": "美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -14050,8 +14050,8 @@
                 "county": "桃園市",
                 "town": "桃園區",
                 "village": "成功里",
-                "class": "外語類,其他類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -18553,8 +18553,8 @@
                 "county": "桃園市",
                 "town": "中壢區",
                 "village": "興仁里",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -19712,8 +19712,8 @@
                 "county": "桃園市",
                 "town": "平鎮區",
                 "village": "新安里",
-                "class": "文理類,",
-                "students": "國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -19731,8 +19731,8 @@
                 "county": "桃園市",
                 "town": "桃園區",
                 "village": "光興里",
-                "class": "文理類,",
-                "students": "國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -19807,8 +19807,8 @@
                 "county": "桃園市",
                 "town": "中壢區",
                 "village": "中央里",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
@@ -19826,8 +19826,8 @@
                 "county": "桃園市",
                 "town": "桃園區",
                 "village": "莊敬里",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,資訊類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -19845,8 +19845,8 @@
                 "county": "桃園市",
                 "town": "桃園區",
                 "village": "龍祥里",
-                "class": "",
-                "students": ""
+                "class": "商類：珠算、心算、會計,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -20092,8 +20092,8 @@
                 "county": "桃園市",
                 "town": "蘆竹區",
                 "village": "大竹里",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -20206,8 +20206,8 @@
                 "county": "桃園市",
                 "town": "桃園區",
                 "village": "三元里",
-                "class": "音樂、舞蹈類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -20700,8 +20700,8 @@
                 "county": "桃園市",
                 "town": "蘆竹區",
                 "village": "大竹里",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
@@ -20719,8 +20719,8 @@
                 "county": "桃園市",
                 "town": "八德區",
                 "village": "大勇里",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -22315,8 +22315,8 @@
                 "county": "桃園市",
                 "town": "中壢區",
                 "village": "新明里",
-                "class": "",
-                "students": ""
+                "class": "音樂、舞蹈類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -23588,8 +23588,8 @@
                 "county": "桃園市",
                 "town": "桃園區",
                 "village": "東山里",
-                "class": "外語類,商類：珠算、心算、會計,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -23607,8 +23607,8 @@
                 "county": "桃園市",
                 "town": "桃園區",
                 "village": "光興里",
-                "class": "文理類,",
-                "students": "國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",

@@ -446,8 +446,8 @@
                 "county": "苗栗縣",
                 "town": "苗栗市",
                 "village": "福麗里",
-                "class": "文理類,",
-                "students": "國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -465,8 +465,8 @@
                 "county": "苗栗縣",
                 "town": "苗栗市",
                 "village": "上苗里",
-                "class": "美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國小以上"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -484,8 +484,8 @@
                 "county": "苗栗縣",
                 "town": "頭份市",
                 "village": "忠孝里",
-                "class": "文理類,",
-                "students": "國小,國中,高中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2650,8 +2650,8 @@
                 "county": "苗栗縣",
                 "town": "頭份市",
                 "village": "建國里",
-                "class": "文理類,",
-                "students": "國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2669,8 +2669,8 @@
                 "county": "苗栗縣",
                 "town": "苗栗市",
                 "village": "上苗里",
-                "class": "文理類,",
-                "students": "高中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -5025,8 +5025,8 @@
                 "county": "苗栗縣",
                 "town": "三義鄉",
                 "village": "廣盛村",
-                "class": "文理類,",
-                "students": "國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -5044,8 +5044,8 @@
                 "county": "苗栗縣",
                 "town": "苑裡鎮",
                 "village": "客庄里",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -5272,8 +5272,8 @@
                 "county": "苗栗縣",
                 "town": "苑裡鎮",
                 "village": "苑北里",
-                "class": "文理類,",
-                "students": "國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -5291,8 +5291,8 @@
                 "county": "苗栗縣",
                 "town": "苗栗市",
                 "village": "青苗里",
-                "class": "外語類,",
-                "students": "國小,高中,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",

@@ -1738,8 +1738,8 @@
                 "county": "雲林縣",
                 "town": "斗六市",
                 "village": "公誠里",
-                "class": "文理類,",
-                "students": "國中,高中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2099,8 +2099,8 @@
                 "county": "雲林縣",
                 "town": "斗六市",
                 "village": "崙峯里",
-                "class": "文理類,",
-                "students": "國小,學齡前"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2118,8 +2118,8 @@
                 "county": "雲林縣",
                 "town": "麥寮鄉",
                 "village": "麥豐村",
-                "class": "文理類,",
-                "students": "國中小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -4094,8 +4094,8 @@
                 "county": "雲林縣",
                 "town": "斗六市",
                 "village": "公誠里",
-                "class": "文理類,",
-                "students": "高中,國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -4113,8 +4113,8 @@
                 "county": "雲林縣",
                 "town": "虎尾鎮",
                 "village": "穎川里",
-                "class": "外語類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -5215,8 +5215,8 @@
                 "county": "雲林縣",
                 "town": "古坑鄉",
                 "village": "東和村",
-                "class": "文理類,",
-                "students": "國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -5234,8 +5234,8 @@
                 "county": "雲林縣",
                 "town": "斗南鎮",
                 "village": "大同里",
-                "class": "外語類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -5671,8 +5671,8 @@
                 "county": "雲林縣",
                 "town": "斗南鎮",
                 "village": "明昌里",
-                "class": "外語類,",
-                "students": "國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -5690,8 +5690,8 @@
                 "county": "雲林縣",
                 "town": "斗六市",
                 "village": "鎮東里",
-                "class": "外語類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -6127,8 +6127,8 @@
                 "county": "雲林縣",
                 "town": "北港鎮",
                 "village": "華勝里",
-                "class": "文理類,",
-                "students": "國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -6146,8 +6146,8 @@
                 "county": "雲林縣",
                 "town": "斗六市",
                 "village": "公誠里",
-                "class": "法政類,",
-                "students": "成人(18歲以上)"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",

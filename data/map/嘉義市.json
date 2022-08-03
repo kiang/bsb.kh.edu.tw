@@ -218,8 +218,8 @@
                 "county": "嘉義市",
                 "town": "東區",
                 "village": "興安里",
-                "class": "文理類,外語類,",
-                "students": "國小,國中,高中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -275,8 +275,8 @@
                 "county": "嘉義市",
                 "town": "東區",
                 "village": "安寮里",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -313,8 +313,8 @@
                 "county": "嘉義市",
                 "town": "西區",
                 "village": "車店里",
-                "class": "文理類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -389,8 +389,8 @@
                 "county": "嘉義市",
                 "town": "西區",
                 "village": "美源里",
-                "class": "音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -427,8 +427,8 @@
                 "county": "嘉義市",
                 "town": "西區",
                 "village": "文化里",
-                "class": "外語類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -446,8 +446,8 @@
                 "county": "嘉義市",
                 "town": "東區",
                 "village": "王田里",
-                "class": "文理類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -465,8 +465,8 @@
                 "county": "嘉義市",
                 "town": "西區",
                 "village": "福民里",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -655,8 +655,8 @@
                 "county": "嘉義市",
                 "town": "西區",
                 "village": "劉厝里",
-                "class": "外語類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -674,8 +674,8 @@
                 "county": "嘉義市",
                 "town": "東區",
                 "village": "太平里",
-                "class": "文理類,",
-                "students": "國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1225,8 +1225,8 @@
                 "county": "嘉義市",
                 "town": "西區",
                 "village": "西榮里",
-                "class": "",
-                "students": ""
+                "class": "音樂、舞蹈類,",
+                "students": "成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
@@ -1263,8 +1263,8 @@
                 "county": "嘉義市",
                 "town": "西區",
                 "village": "福全里",
-                "class": "文理類,",
-                "students": "國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
