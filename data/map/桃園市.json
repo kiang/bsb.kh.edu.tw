@@ -2137,8 +2137,8 @@
                 "county": "桃園市",
                 "town": "中壢區",
                 "village": "青埔里",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2156,8 +2156,8 @@
                 "county": "桃園市",
                 "town": "平鎮區",
                 "village": "南勢里",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,其他類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2612,8 +2612,8 @@
                 "county": "桃園市",
                 "town": "中壢區",
                 "village": "洽溪里",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2631,8 +2631,8 @@
                 "county": "桃園市",
                 "town": "楊梅區",
                 "village": "四維里",
-                "class": "",
-                "students": ""
+                "class": "文理類,其他類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -9129,8 +9129,8 @@
                 "county": "桃園市",
                 "town": "中壢區",
                 "village": "中原里",
-                "class": "",
-                "students": ""
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -13803,8 +13803,8 @@
                 "county": "桃園市",
                 "town": "蘆竹區",
                 "village": "吉祥里",
-                "class": "外語類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -15152,8 +15152,8 @@
                 "county": "桃園市",
                 "town": "新屋區",
                 "village": "新屋里",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -17907,8 +17907,8 @@
                 "county": "桃園市",
                 "town": "桃園區",
                 "village": "中聖里",
-                "class": "",
-                "students": ""
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -21137,8 +21137,8 @@
                 "county": "桃園市",
                 "town": "桃園區",
                 "village": "永安里",
-                "class": "外語類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -21289,8 +21289,8 @@
                 "county": "桃園市",
                 "town": "中壢區",
                 "village": "中堅里",
-                "class": "外語類,商類：珠算、心算、會計,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -23417,8 +23417,8 @@
                 "county": "桃園市",
                 "town": "新屋區",
                 "village": "新屋里",
-                "class": "文理類,外語類,",
-                "students": "國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",

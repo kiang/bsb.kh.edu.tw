@@ -731,8 +731,8 @@
                 "county": "彰化縣",
                 "town": "彰化市",
                 "village": "中山里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1700,8 +1700,8 @@
                 "county": "彰化縣",
                 "town": "彰化市",
                 "village": "崙平里",
-                "class": "音樂、舞蹈類,",
-                "students": "國小,國中,成人(18歲以上)"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -4930,8 +4930,8 @@
                 "county": "彰化縣",
                 "town": "員林市",
                 "village": "三和里",
-                "class": "文理類,",
-                "students": "國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -5158,8 +5158,8 @@
                 "county": "彰化縣",
                 "town": "彰化市",
                 "village": "復興里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -5177,8 +5177,8 @@
                 "county": "彰化縣",
                 "town": "北斗鎮",
                 "village": "西德里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -6754,8 +6754,8 @@
                 "county": "彰化縣",
                 "town": "埔心鄉",
                 "village": "東門村",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -7457,8 +7457,8 @@
                 "county": "彰化縣",
                 "town": "埔鹽鄉",
                 "village": "好修村",
-                "class": "文理類,",
-                "students": "國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -8141,8 +8141,8 @@
                 "county": "彰化縣",
                 "town": "秀水鄉",
                 "village": "鶴鳴村",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -8160,8 +8160,8 @@
                 "county": "彰化縣",
                 "town": "彰化市",
                 "village": "長樂里",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國中,高中,成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
@@ -8274,8 +8274,8 @@
                 "county": "彰化縣",
                 "town": "和美鎮",
                 "village": "竹營里",
-                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -9756,8 +9756,8 @@
                 "county": "彰化縣",
                 "town": "彰化市",
                 "village": "萬安里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -9775,8 +9775,8 @@
                 "county": "彰化縣",
                 "town": "彰化市",
                 "village": "南瑶里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -9794,8 +9794,8 @@
                 "county": "彰化縣",
                 "town": "溪湖鎮",
                 "village": "湖東里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -10725,8 +10725,8 @@
                 "county": "彰化縣",
                 "town": "員林市",
                 "village": "三和里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -12188,8 +12188,8 @@
                 "county": "彰化縣",
                 "town": "花壇鄉",
                 "village": "長沙村",
-                "class": "商類：珠算、心算、會計,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -12207,8 +12207,8 @@
                 "county": "彰化縣",
                 "town": "田中鎮",
                 "village": "新民里",
-                "class": "商類：珠算、心算、會計,",
-                "students": "未填寫"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -12226,8 +12226,8 @@
                 "county": "彰化縣",
                 "town": "和美鎮",
                 "village": "仁愛里",
-                "class": "外語類,",
-                "students": "國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -12492,8 +12492,8 @@
                 "county": "彰化縣",
                 "town": "彰化市",
                 "village": "民生里",
-                "class": "",
-                "students": ""
+                "class": "商類：珠算、心算、會計,",
+                "students": "未填寫"
             },
             "geometry": {
                 "type": "Point",
@@ -12511,8 +12511,8 @@
                 "county": "彰化縣",
                 "town": "彰化市",
                 "village": "中正里",
-                "class": "",
-                "students": ""
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "成人(18歲以上),國中"
             },
             "geometry": {
                 "type": "Point",
@@ -13423,8 +13423,8 @@
                 "county": "彰化縣",
                 "town": "和美鎮",
                 "village": "四張里",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "未填寫"
             },
             "geometry": {
                 "type": "Point",
@@ -13556,8 +13556,8 @@
                 "county": "彰化縣",
                 "town": "彰化市",
                 "village": "東芳里",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "未填寫"
             },
             "geometry": {
                 "type": "Point",
@@ -14126,8 +14126,8 @@
                 "county": "彰化縣",
                 "town": "員林市",
                 "village": "三和里",
-                "class": "外語類,音樂、舞蹈類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -15437,8 +15437,8 @@
                 "county": "彰化縣",
                 "town": "溪湖鎮",
                 "village": "大突里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -15456,8 +15456,8 @@
                 "county": "彰化縣",
                 "town": "和美鎮",
                 "village": "和東里",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -15532,8 +15532,8 @@
                 "county": "彰化縣",
                 "town": "員林市",
                 "village": "惠來里",
-                "class": "文理類,",
-                "students": "國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -15988,8 +15988,8 @@
                 "county": "彰化縣",
                 "town": "鹿港鎮",
                 "village": "龍山里",
-                "class": "文理類,",
-                "students": "國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -16387,8 +16387,8 @@
                 "county": "彰化縣",
                 "town": "彰化市",
                 "village": "永福里",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -16406,8 +16406,8 @@
                 "county": "彰化縣",
                 "town": "彰化市",
                 "village": "光復里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中,高中,成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
@@ -16729,8 +16729,8 @@
                 "county": "彰化縣",
                 "town": "彰化市",
                 "village": "信義里",
-                "class": "外語類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -16748,8 +16748,8 @@
                 "county": "彰化縣",
                 "town": "和美鎮",
                 "village": "糖友里",
-                "class": "商類：珠算、心算、會計,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -16900,8 +16900,8 @@
                 "county": "彰化縣",
                 "town": "員林市",
                 "village": "南平里",
-                "class": "資訊類,",
-                "students": "國中小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -17185,7 +17185,7 @@
                 "county": "彰化縣",
                 "town": "北斗鎮",
                 "village": "新政里",
-                "class": "",
+                "class": "外語類,",
                 "students": ""
             },
             "geometry": {
@@ -17204,8 +17204,8 @@
                 "county": "彰化縣",
                 "town": "秀水鄉",
                 "village": "福安村",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -17926,8 +17926,8 @@
                 "county": "彰化縣",
                 "town": "芬園鄉",
                 "village": "社口村",
-                "class": "文理類,商類：珠算、心算、會計,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -17945,8 +17945,8 @@
                 "county": "彰化縣",
                 "town": "員林市",
                 "village": "仁美里",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -18420,8 +18420,8 @@
                 "county": "彰化縣",
                 "town": "員林市",
                 "village": "惠來里",
-                "class": "商類：珠算、心算、會計,",
-                "students": "國小,成人(18歲以上)"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -18439,8 +18439,8 @@
                 "county": "彰化縣",
                 "town": "員林市",
                 "village": "新興里",
-                "class": "家政、插花、烹飪類,",
-                "students": "成人(18歲以上)"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -18458,8 +18458,8 @@
                 "county": "彰化縣",
                 "town": "北斗鎮",
                 "village": "新政里",
-                "class": "商類：珠算、心算、會計,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",

@@ -2137,8 +2137,8 @@
                 "county": "基隆市",
                 "town": "中正區",
                 "village": "真砂里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2631,8 +2631,8 @@
                 "county": "基隆市",
                 "town": "七堵區",
                 "village": "實踐里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",

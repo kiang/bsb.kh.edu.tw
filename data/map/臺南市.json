@@ -256,8 +256,8 @@
                 "county": "臺南市",
                 "town": "北區",
                 "village": "華德里",
-                "class": "文理類,",
-                "students": "學齡前,國小,國中,高中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -997,8 +997,8 @@
                 "county": "臺南市",
                 "town": "東區",
                 "village": "東光里",
-                "class": "文理類,商類：珠算、心算、會計,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2650,8 +2650,8 @@
                 "county": "臺南市",
                 "town": "新營區",
                 "village": "大宏里",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2840,8 +2840,8 @@
                 "county": "臺南市",
                 "town": "北區",
                 "village": "文元里",
-                "class": "文理類,",
-                "students": "國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2859,8 +2859,8 @@
                 "county": "臺南市",
                 "town": "永康區",
                 "village": "東橋里",
-                "class": "文理類,音樂、舞蹈類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2878,8 +2878,8 @@
                 "county": "臺南市",
                 "town": "中西區",
                 "village": "南美里",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -3220,8 +3220,8 @@
                 "county": "臺南市",
                 "town": "柳營區",
                 "village": "果毅里",
-                "class": "文理類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -3581,8 +3581,8 @@
                 "county": "臺南市",
                 "town": "官田區",
                 "village": "隆本里",
-                "class": "文理類,",
-                "students": "國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -4569,8 +4569,8 @@
                 "county": "臺南市",
                 "town": "佳里區",
                 "village": "文新里",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -4987,8 +4987,8 @@
                 "county": "臺南市",
                 "town": "新營區",
                 "village": "三仙里",
-                "class": "文理類,",
-                "students": "高中,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -5006,8 +5006,8 @@
                 "county": "臺南市",
                 "town": "東區",
                 "village": "崇成里",
-                "class": "文理類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -5443,8 +5443,8 @@
                 "county": "臺南市",
                 "town": "安平區",
                 "village": "建平里",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -5462,8 +5462,8 @@
                 "county": "臺南市",
                 "town": "安平區",
                 "village": "億載里",
-                "class": "文理類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -5481,8 +5481,8 @@
                 "county": "臺南市",
                 "town": "麻豆區",
                 "village": "東角里",
-                "class": "文理類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -5500,8 +5500,8 @@
                 "county": "臺南市",
                 "town": "北區",
                 "village": "元寶里",
-                "class": "文理類,",
-                "students": "國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -6279,8 +6279,8 @@
                 "county": "臺南市",
                 "town": "東區",
                 "village": "崇信里",
-                "class": "音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -6298,8 +6298,8 @@
                 "county": "臺南市",
                 "town": "安南區",
                 "village": "長安里",
-                "class": "文理類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -7514,8 +7514,8 @@
                 "county": "臺南市",
                 "town": "永康區",
                 "village": "大灣里",
-                "class": "文理類,",
-                "students": "國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -7533,8 +7533,8 @@
                 "county": "臺南市",
                 "town": "東區",
                 "village": "德光里",
-                "class": "文理類,",
-                "students": "國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -8008,8 +8008,8 @@
                 "county": "臺南市",
                 "town": "東區",
                 "village": "南聖里",
-                "class": "外語類,",
-                "students": "成人(18歲以上)"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -8027,8 +8027,8 @@
                 "county": "臺南市",
                 "town": "善化區",
                 "village": "坐駕里",
-                "class": "文理類,",
-                "students": "國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -8597,8 +8597,8 @@
                 "county": "臺南市",
                 "town": "玉井區",
                 "village": "玉田里",
-                "class": "文理類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -8616,8 +8616,8 @@
                 "county": "臺南市",
                 "town": "永康區",
                 "village": "永康里",
-                "class": "文理類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -9243,8 +9243,8 @@
                 "county": "臺南市",
                 "town": "安定區",
                 "village": "嘉同里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -16254,8 +16254,8 @@
                 "county": "臺南市",
                 "town": "後壁區",
                 "village": "侯伯里",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -17261,8 +17261,8 @@
                 "county": "臺南市",
                 "town": "新化區",
                 "village": "太平里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -21764,8 +21764,8 @@
                 "county": "臺南市",
                 "town": "東區",
                 "village": "崇明里",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
