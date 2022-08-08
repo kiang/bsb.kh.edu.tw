@@ -9,8 +9,8 @@
                 "county": "雲林縣",
                 "town": "斗南鎮",
                 "village": "僑真里",
-                "class": "文理類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -28,8 +28,8 @@
                 "county": "雲林縣",
                 "town": "斗六市",
                 "village": "鎮東里",
-                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1073,8 +1073,8 @@
                 "county": "雲林縣",
                 "town": "斗南鎮",
                 "village": "明昌里",
-                "class": "文理類,",
-                "students": "國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1225,8 +1225,8 @@
                 "county": "雲林縣",
                 "town": "西螺鎮",
                 "village": "正興里",
-                "class": "文理類,",
-                "students": "國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1567,8 +1567,8 @@
                 "county": "雲林縣",
                 "town": "北港鎮",
                 "village": "光復里",
-                "class": "文理類,",
-                "students": "國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1586,8 +1586,8 @@
                 "county": "雲林縣",
                 "town": "褒忠鄉",
                 "village": "中民村",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2270,8 +2270,8 @@
                 "county": "雲林縣",
                 "town": "斗六市",
                 "village": "三平里",
-                "class": "文理類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2289,8 +2289,8 @@
                 "county": "雲林縣",
                 "town": "北港鎮",
                 "village": "新街里",
-                "class": "文理類,",
-                "students": "國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2536,8 +2536,8 @@
                 "county": "雲林縣",
                 "town": "虎尾鎮",
                 "village": "立仁里",
-                "class": "文理類,",
-                "students": "國小,國中,高中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2555,8 +2555,8 @@
                 "county": "雲林縣",
                 "town": "西螺鎮",
                 "village": "廣福里",
-                "class": "文理類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2783,8 +2783,8 @@
                 "county": "雲林縣",
                 "town": "斗六市",
                 "village": "文化里",
-                "class": "文理類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2802,8 +2802,8 @@
                 "county": "雲林縣",
                 "town": "崙背鄉",
                 "village": "南陽村",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -3144,8 +3144,8 @@
                 "county": "雲林縣",
                 "town": "北港鎮",
                 "village": "華勝里",
-                "class": "文理類,",
-                "students": "國中,國小,高中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -3410,8 +3410,8 @@
                 "county": "雲林縣",
                 "town": "斗六市",
                 "village": "成功里",
-                "class": "文理類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -3429,8 +3429,8 @@
                 "county": "雲林縣",
                 "town": "麥寮鄉",
                 "village": "橋頭村",
-                "class": "文理類,",
-                "students": "國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -3752,8 +3752,8 @@
                 "county": "雲林縣",
                 "town": "虎尾鎮",
                 "village": "東仁里",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -4113,8 +4113,8 @@
                 "county": "雲林縣",
                 "town": "虎尾鎮",
                 "village": "穎川里",
-                "class": "外語類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -4132,8 +4132,8 @@
                 "county": "雲林縣",
                 "town": "北港鎮",
                 "village": "華勝里",
-                "class": "商類：珠算、心算、會計,",
-                "students": "其他"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -4322,8 +4322,8 @@
                 "county": "雲林縣",
                 "town": "斗六市",
                 "village": "公誠里",
-                "class": "文理類,",
-                "students": "國小,成人(18歲以上)"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -4341,8 +4341,8 @@
                 "county": "雲林縣",
                 "town": "褒忠鄉",
                 "village": "埔姜村",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -4683,8 +4683,8 @@
                 "county": "雲林縣",
                 "town": "土庫鎮",
                 "village": "越港里",
-                "class": "文理類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -4702,8 +4702,8 @@
                 "county": "雲林縣",
                 "town": "斗六市",
                 "village": "公誠里",
-                "class": "文理類,",
-                "students": "國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -5291,8 +5291,8 @@
                 "county": "雲林縣",
                 "town": "北港鎮",
                 "village": "新街里",
-                "class": "商類：珠算、心算、會計,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -5310,8 +5310,8 @@
                 "county": "雲林縣",
                 "town": "林內鄉",
                 "village": "林中村",
-                "class": "文理類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -5842,8 +5842,8 @@
                 "county": "雲林縣",
                 "town": "虎尾鎮",
                 "village": "立仁里",
-                "class": "商類：珠算、心算、會計,",
-                "students": "其他"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -5861,8 +5861,8 @@
                 "county": "雲林縣",
                 "town": "斗六市",
                 "village": "公正里",
-                "class": "文理類,",
-                "students": "國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -6393,8 +6393,8 @@
                 "county": "雲林縣",
                 "town": "斗南鎮",
                 "village": "西岐里",
-                "class": "文理類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -6412,8 +6412,8 @@
                 "county": "雲林縣",
                 "town": "斗六市",
                 "village": "信義里",
-                "class": "外語類,",
-                "students": "其他"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -6431,8 +6431,8 @@
                 "county": "雲林縣",
                 "town": "斗南鎮",
                 "village": "西岐里",
-                "class": "外語類,",
-                "students": "未填寫"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -6735,8 +6735,8 @@
                 "county": "雲林縣",
                 "town": "斗六市",
                 "village": "公誠里",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -6754,8 +6754,8 @@
                 "county": "雲林縣",
                 "town": "北港鎮",
                 "village": "光復里",
-                "class": "文理類,",
-                "students": "國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",

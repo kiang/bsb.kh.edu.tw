@@ -579,8 +579,8 @@
                 "county": "新竹市",
                 "town": "北區",
                 "village": "西雅里",
-                "class": "文理類,外語類,",
-                "students": "國小,國中,高中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1682,7 +1682,7 @@
                 "town": "東區",
                 "village": "龍山里",
                 "class": "外語類,",
-                "students": "國中,國小"
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1700,8 +1700,8 @@
                 "county": "新竹市",
                 "town": "東區",
                 "village": "復興里",
-                "class": "文理類,外語類,",
-                "students": "國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1719,8 +1719,8 @@
                 "county": "新竹市",
                 "town": "東區",
                 "village": "關東里",
-                "class": "文理類,外語類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1890,8 +1890,8 @@
                 "county": "新竹市",
                 "town": "香山區",
                 "village": "虎林里",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1909,8 +1909,8 @@
                 "county": "新竹市",
                 "town": "香山區",
                 "village": "牛埔里",
-                "class": "文理類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2213,8 +2213,8 @@
                 "county": "新竹市",
                 "town": "東區",
                 "village": "豐功里",
-                "class": "文理類,",
-                "students": "國小,國中,高中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -3296,8 +3296,8 @@
                 "county": "新竹市",
                 "town": "東區",
                 "village": "復興里",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3315,8 +3315,8 @@
                 "county": "新竹市",
                 "town": "東區",
                 "village": "科園里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -4645,8 +4645,8 @@
                 "county": "新竹市",
                 "town": "東區",
                 "village": "高峰里",
-                "class": "文理類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -4664,8 +4664,8 @@
                 "county": "新竹市",
                 "town": "東區",
                 "village": "育賢里",
-                "class": "文理類,",
-                "students": "高中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -4911,8 +4911,8 @@
                 "county": "新竹市",
                 "town": "香山區",
                 "village": "內湖里",
-                "class": "文理類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -4930,8 +4930,8 @@
                 "county": "新竹市",
                 "town": "東區",
                 "village": "公園里",
-                "class": "文理類,",
-                "students": "國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -5291,8 +5291,8 @@
                 "county": "新竹市",
                 "town": "東區",
                 "village": "科園里",
-                "class": "外語類,",
-                "students": "國小,國中,高中,成人(18歲以上)"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -5785,8 +5785,8 @@
                 "county": "新竹市",
                 "town": "東區",
                 "village": "科園里",
-                "class": "文理類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -6089,8 +6089,8 @@
                 "county": "新竹市",
                 "town": "東區",
                 "village": "復興里",
-                "class": "外語類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -6108,8 +6108,8 @@
                 "county": "新竹市",
                 "town": "東區",
                 "village": "仙水里",
-                "class": "外語類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -7837,8 +7837,8 @@
                 "county": "新竹市",
                 "town": "北區",
                 "village": "中興里",
-                "class": "音樂、舞蹈類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",

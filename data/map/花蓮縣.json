@@ -389,8 +389,8 @@
                 "county": "花蓮縣",
                 "town": "花蓮市",
                 "village": "國光里",
-                "class": "文理類,",
-                "students": "國小.國中.高中,國小.國中.高中.成人,國中.高中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -408,8 +408,8 @@
                 "county": "花蓮縣",
                 "town": "壽豐鄉",
                 "village": "志學村",
-                "class": "文理類,",
-                "students": "研究所"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -750,8 +750,8 @@
                 "county": "花蓮縣",
                 "town": "花蓮市",
                 "village": "國華里",
-                "class": "文理類,外語類,音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "學齡前、國小、國中、高中、成人"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -769,8 +769,8 @@
                 "county": "花蓮縣",
                 "town": "花蓮市",
                 "village": "民勤里",
-                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國小.國中,國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1073,8 +1073,8 @@
                 "county": "花蓮縣",
                 "town": "玉里鎮",
                 "village": "中城里",
-                "class": "外語類,其他類,",
-                "students": "國小、國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1092,8 +1092,8 @@
                 "county": "花蓮縣",
                 "town": "花蓮市",
                 "village": "主工里",
-                "class": "文理類,",
-                "students": "高中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1776,8 +1776,8 @@
                 "county": "花蓮縣",
                 "town": "花蓮市",
                 "village": "民勤里",
-                "class": "外語類,音樂、舞蹈類,",
-                "students": "學齡前、國小,學齡前、國小、國中、高中,學齡前、國小、國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1795,8 +1795,8 @@
                 "county": "花蓮縣",
                 "town": "鳳林鎮",
                 "village": "鳳智里",
-                "class": "文理類,外語類,",
-                "students": "國小、國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2688,8 +2688,8 @@
                 "county": "花蓮縣",
                 "town": "壽豐鄉",
                 "village": "壽豐村",
-                "class": "文理類,外語類,商類：珠算、心算、會計,",
-                "students": "國小,國小、國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",

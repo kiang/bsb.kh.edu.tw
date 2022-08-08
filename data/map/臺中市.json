@@ -9,8 +9,8 @@
                 "county": "臺中市",
                 "town": "大里區",
                 "village": "永隆里",
-                "class": "",
-                "students": ""
+                "class": "美容、美髮理髮類,",
+                "students": "成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
@@ -28,8 +28,8 @@
                 "county": "臺中市",
                 "town": "南屯區",
                 "village": "三義里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -47,8 +47,8 @@
                 "county": "臺中市",
                 "town": "豐原區",
                 "village": "中陽里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -180,8 +180,8 @@
                 "county": "臺中市",
                 "town": "東區",
                 "village": "東信里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "學齡前,國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -199,8 +199,8 @@
                 "county": "臺中市",
                 "town": "中區",
                 "village": "綠川里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "大學生"
             },
             "geometry": {
                 "type": "Point",
@@ -218,8 +218,8 @@
                 "county": "臺中市",
                 "town": "北屯區",
                 "village": "和平里",
-                "class": "",
-                "students": ""
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國中,高中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -370,8 +370,8 @@
                 "county": "臺中市",
                 "town": "西屯區",
                 "village": "何成里",
-                "class": "",
-                "students": ""
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "學齡前,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -389,8 +389,8 @@
                 "county": "臺中市",
                 "town": "大里區",
                 "village": "瑞城里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "學齡前,國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -408,8 +408,8 @@
                 "county": "臺中市",
                 "town": "后里區",
                 "village": "義德里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小1班、國中2班、高中2班,均為國中,國小、國中各1班,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -598,8 +598,8 @@
                 "county": "臺中市",
                 "town": "北屯區",
                 "village": "仁美里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -617,8 +617,8 @@
                 "county": "臺中市",
                 "town": "北屯區",
                 "village": "和平里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "高中"
             },
             "geometry": {
                 "type": "Point",
@@ -636,8 +636,8 @@
                 "county": "臺中市",
                 "town": "西區",
                 "village": "三民里",
-                "class": "",
-                "students": ""
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "學齡前,國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -655,8 +655,8 @@
                 "county": "臺中市",
                 "town": "太平區",
                 "village": "新吉里",
-                "class": "",
-                "students": ""
+                "class": "文理類,音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "高中,國小,國中,學齡前,成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
@@ -807,8 +807,8 @@
                 "county": "臺中市",
                 "town": "大雅區",
                 "village": "員林里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -826,8 +826,8 @@
                 "county": "臺中市",
                 "town": "北屯區",
                 "village": "仁和里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "學齡前,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -845,8 +845,8 @@
                 "county": "臺中市",
                 "town": "南屯區",
                 "village": "三義里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -864,8 +864,8 @@
                 "county": "臺中市",
                 "town": "潭子區",
                 "village": "家福里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "學齡前,國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -997,8 +997,8 @@
                 "county": "臺中市",
                 "town": "北屯區",
                 "village": "和平里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1016,8 +1016,8 @@
                 "county": "臺中市",
                 "town": "西區",
                 "village": "大忠里",
-                "class": "",
-                "students": ""
+                "class": "文理類,音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "學齡前,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1035,8 +1035,8 @@
                 "county": "臺中市",
                 "town": "大里區",
                 "village": "永隆里",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -1054,8 +1054,8 @@
                 "county": "臺中市",
                 "town": "豐原區",
                 "village": "北陽里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中,高中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1187,8 +1187,8 @@
                 "county": "臺中市",
                 "town": "西屯區",
                 "village": "大鵬里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "高中"
             },
             "geometry": {
                 "type": "Point",
@@ -1206,8 +1206,8 @@
                 "county": "臺中市",
                 "town": "西區",
                 "village": "吉龍里",
-                "class": "",
-                "students": ""
+                "class": "音樂、舞蹈類,",
+                "students": "高中,成人(18歲以上),學齡前,國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1225,8 +1225,8 @@
                 "county": "臺中市",
                 "town": "大雅區",
                 "village": "四德里",
-                "class": "",
-                "students": ""
+                "class": "文理類,音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "學齡前"
             },
             "geometry": {
                 "type": "Point",
@@ -1377,8 +1377,8 @@
                 "county": "臺中市",
                 "town": "沙鹿區",
                 "village": "竹林里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中,國小,學齡前"
             },
             "geometry": {
                 "type": "Point",
@@ -1396,8 +1396,8 @@
                 "county": "臺中市",
                 "town": "沙鹿區",
                 "village": "洛泉里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -1415,8 +1415,8 @@
                 "county": "臺中市",
                 "town": "豐原區",
                 "village": "南陽里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中,國小,高中,學齡前"
             },
             "geometry": {
                 "type": "Point",
@@ -1434,8 +1434,8 @@
                 "county": "臺中市",
                 "town": "大里區",
                 "village": "長榮里",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,資訊類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1567,8 +1567,8 @@
                 "county": "臺中市",
                 "town": "東區",
                 "village": "合作里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中,國小,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -1586,8 +1586,8 @@
                 "county": "臺中市",
                 "town": "大里區",
                 "village": "長榮里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -1776,8 +1776,8 @@
                 "county": "臺中市",
                 "town": "龍井區",
                 "village": "新東里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1795,8 +1795,8 @@
                 "county": "臺中市",
                 "town": "西區",
                 "village": "民龍里",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "成人(18歲以上),高中,國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1814,8 +1814,8 @@
                 "county": "臺中市",
                 "town": "豐原區",
                 "village": "南村里",
-                "class": "",
-                "students": ""
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -1833,8 +1833,8 @@
                 "county": "臺中市",
                 "town": "大肚區",
                 "village": "大東里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -2137,8 +2137,8 @@
                 "county": "臺中市",
                 "town": "豐原區",
                 "village": "中陽里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3429,8 +3429,8 @@
                 "county": "臺中市",
                 "town": "北屯區",
                 "village": "松和里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3448,8 +3448,8 @@
                 "county": "臺中市",
                 "town": "后里區",
                 "village": "墩北里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3467,8 +3467,8 @@
                 "county": "臺中市",
                 "town": "太平區",
                 "village": "新興里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,學齡前"
             },
             "geometry": {
                 "type": "Point",
@@ -3486,8 +3486,8 @@
                 "county": "臺中市",
                 "town": "太平區",
                 "village": "新興里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3657,8 +3657,8 @@
                 "county": "臺中市",
                 "town": "南屯區",
                 "village": "新生里",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3676,8 +3676,8 @@
                 "county": "臺中市",
                 "town": "南區",
                 "village": "和平里",
-                "class": "",
-                "students": ""
+                "class": "音樂、舞蹈類,",
+                "students": "高中,國中,成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
@@ -3695,8 +3695,8 @@
                 "county": "臺中市",
                 "town": "大雅區",
                 "village": "大雅里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "學齡前,國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3714,8 +3714,8 @@
                 "county": "臺中市",
                 "town": "西區",
                 "village": "廣民里",
-                "class": "",
-                "students": ""
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小,國中,成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
@@ -3999,8 +3999,8 @@
                 "county": "臺中市",
                 "town": "南區",
                 "village": "南門里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,學齡前"
             },
             "geometry": {
                 "type": "Point",
@@ -4284,8 +4284,8 @@
                 "county": "臺中市",
                 "town": "西區",
                 "village": "民龍里",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "成人(18歲以上),國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -4398,8 +4398,8 @@
                 "county": "臺中市",
                 "town": "南屯區",
                 "village": "三和里",
-                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國小,國中,高中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -5272,8 +5272,8 @@
                 "county": "臺中市",
                 "town": "西屯區",
                 "village": "惠來里",
-                "class": "",
-                "students": ""
+                "class": "音樂、舞蹈類,",
+                "students": "學齡前,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -5291,8 +5291,8 @@
                 "county": "臺中市",
                 "town": "北區",
                 "village": "長青里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -5310,8 +5310,8 @@
                 "county": "臺中市",
                 "town": "大里區",
                 "village": "仁德里",
-                "class": "",
-                "students": ""
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -5329,8 +5329,8 @@
                 "county": "臺中市",
                 "town": "太平區",
                 "village": "新高里",
-                "class": "",
-                "students": ""
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "學齡前,國小,國中,成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
@@ -5614,8 +5614,8 @@
                 "county": "臺中市",
                 "town": "后里區",
                 "village": "墩北里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "學齡前,國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -5633,8 +5633,8 @@
                 "county": "臺中市",
                 "town": "烏日區",
                 "village": "仁德里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -5652,8 +5652,8 @@
                 "county": "臺中市",
                 "town": "北區",
                 "village": "邱厝里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -5671,8 +5671,8 @@
                 "county": "臺中市",
                 "town": "西屯區",
                 "village": "何源里",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -5918,8 +5918,8 @@
                 "county": "臺中市",
                 "town": "豐原區",
                 "village": "陽明里",
-                "class": "",
-                "students": ""
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -5937,8 +5937,8 @@
                 "county": "臺中市",
                 "town": "西區",
                 "village": "公平里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -6089,8 +6089,8 @@
                 "county": "臺中市",
                 "town": "太平區",
                 "village": "中政里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -6108,8 +6108,8 @@
                 "county": "臺中市",
                 "town": "北區",
                 "village": "立人里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -6127,8 +6127,8 @@
                 "county": "臺中市",
                 "town": "大雅區",
                 "village": "二和里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -6146,8 +6146,8 @@
                 "county": "臺中市",
                 "town": "北屯區",
                 "village": "廍子里",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國小,成人(18歲以上),國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -6298,8 +6298,8 @@
                 "county": "臺中市",
                 "town": "北區",
                 "village": "光大里",
-                "class": "",
-                "students": ""
+                "class": "外語類,美容、美髮理髮類,音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類,瑜珈類,",
+                "students": "國小,國中,成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
@@ -6317,8 +6317,8 @@
                 "county": "臺中市",
                 "town": "西屯區",
                 "village": "永安里",
-                "class": "",
-                "students": ""
+                "class": "外語類,音樂、舞蹈類,",
+                "students": "成人(18歲以上),國小,大學"
             },
             "geometry": {
                 "type": "Point",
@@ -6336,8 +6336,8 @@
                 "county": "臺中市",
                 "town": "清水區",
                 "village": "清水里",
-                "class": "",
-                "students": ""
+                "class": "文理類,家政、插花、烹飪類,縫紉類,音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
@@ -6355,8 +6355,8 @@
                 "county": "臺中市",
                 "town": "北區",
                 "village": "明德里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "高中,國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -6602,8 +6602,8 @@
                 "county": "臺中市",
                 "town": "南屯區",
                 "village": "惠中里",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
@@ -6621,8 +6621,8 @@
                 "county": "臺中市",
                 "town": "梧棲區",
                 "village": "安仁里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -6640,8 +6640,8 @@
                 "county": "臺中市",
                 "town": "太平區",
                 "village": "新城里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -6659,8 +6659,8 @@
                 "county": "臺中市",
                 "town": "南屯區",
                 "village": "三厝里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -6906,8 +6906,8 @@
                 "county": "臺中市",
                 "town": "烏日區",
                 "village": "榮泉里",
-                "class": "",
-                "students": ""
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -6925,8 +6925,8 @@
                 "county": "臺中市",
                 "town": "西區",
                 "village": "公正里",
-                "class": "",
-                "students": ""
+                "class": "音樂、舞蹈類,",
+                "students": "高中,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -7134,8 +7134,8 @@
                 "county": "臺中市",
                 "town": "北屯區",
                 "village": "平和里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -7153,8 +7153,8 @@
                 "county": "臺中市",
                 "town": "南屯區",
                 "village": "新生里",
-                "class": "",
-                "students": ""
+                "class": "文理類,音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -7324,8 +7324,8 @@
                 "county": "臺中市",
                 "town": "西屯區",
                 "village": "福林里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,高中,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -8578,8 +8578,8 @@
                 "county": "臺中市",
                 "town": "東區",
                 "village": "新庄里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "高中"
             },
             "geometry": {
                 "type": "Point",
@@ -8597,8 +8597,8 @@
                 "county": "臺中市",
                 "town": "大雅區",
                 "village": "上雅里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "成人(18歲以上),國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -8616,8 +8616,8 @@
                 "county": "臺中市",
                 "town": "清水區",
                 "village": "橋頭里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -8768,8 +8768,8 @@
                 "county": "臺中市",
                 "town": "北區",
                 "village": "賴厝里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -9053,8 +9053,8 @@
                 "county": "臺中市",
                 "town": "潭子區",
                 "village": "家興里",
-                "class": "",
-                "students": ""
+                "class": "音樂、舞蹈類,",
+                "students": "國小,高中,大學,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -9072,8 +9072,8 @@
                 "county": "臺中市",
                 "town": "北屯區",
                 "village": "舊社里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -9091,8 +9091,8 @@
                 "county": "臺中市",
                 "town": "北區",
                 "village": "頂厝里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -9110,8 +9110,8 @@
                 "county": "臺中市",
                 "town": "北屯區",
                 "village": "東光里",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -9376,8 +9376,8 @@
                 "county": "臺中市",
                 "town": "北屯區",
                 "village": "和平里",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -9395,8 +9395,8 @@
                 "county": "臺中市",
                 "town": "南屯區",
                 "village": "向心里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -9414,8 +9414,8 @@
                 "county": "臺中市",
                 "town": "豐原區",
                 "village": "西湳里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -9433,8 +9433,8 @@
                 "county": "臺中市",
                 "town": "中區",
                 "village": "綠川里",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "高中,成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
@@ -9623,8 +9623,8 @@
                 "county": "臺中市",
                 "town": "南屯區",
                 "village": "三義里",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -11162,8 +11162,8 @@
                 "county": "臺中市",
                 "town": "大甲區",
                 "village": "文武里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -11314,8 +11314,8 @@
                 "county": "臺中市",
                 "town": "太平區",
                 "village": "成功里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -11333,8 +11333,8 @@
                 "county": "臺中市",
                 "town": "西屯區",
                 "village": "至善里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -11371,8 +11371,8 @@
                 "county": "臺中市",
                 "town": "大里區",
                 "village": "永隆里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -11390,8 +11390,8 @@
                 "county": "臺中市",
                 "town": "北屯區",
                 "village": "松和里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -11732,8 +11732,8 @@
                 "county": "臺中市",
                 "town": "西區",
                 "village": "民龍里",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小,國中,高中,成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
@@ -11751,7 +11751,7 @@
                 "county": "臺中市",
                 "town": "北屯區",
                 "village": "忠平里",
-                "class": "",
+                "class": "外語類,",
                 "students": ""
             },
             "geometry": {
@@ -11998,8 +11998,8 @@
                 "county": "臺中市",
                 "town": "潭子區",
                 "village": "潭北里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -12910,8 +12910,8 @@
                 "county": "臺中市",
                 "town": "大里區",
                 "village": "長榮里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -12929,8 +12929,8 @@
                 "county": "臺中市",
                 "town": "大里區",
                 "village": "瑞城里",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -12948,8 +12948,8 @@
                 "county": "臺中市",
                 "town": "清水區",
                 "village": "西社里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -13214,8 +13214,8 @@
                 "county": "臺中市",
                 "town": "北屯區",
                 "village": "平和里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -13233,8 +13233,8 @@
                 "county": "臺中市",
                 "town": "西屯區",
                 "village": "逢福里",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小,成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
@@ -13252,8 +13252,8 @@
                 "county": "臺中市",
                 "town": "南屯區",
                 "village": "三義里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -13271,8 +13271,8 @@
                 "county": "臺中市",
                 "town": "豐原區",
                 "village": "西安里",
-                "class": "",
-                "students": ""
+                "class": "外語類,音樂、舞蹈類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -13480,8 +13480,8 @@
                 "county": "臺中市",
                 "town": "西區",
                 "village": "安龍里",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "升二技插大,成人(18歲以上),升四技二專大專,研究所"
             },
             "geometry": {
                 "type": "Point",
@@ -13499,8 +13499,8 @@
                 "county": "臺中市",
                 "town": "大里區",
                 "village": "西榮里",
-                "class": "",
-                "students": ""
+                "class": "音樂、舞蹈類,",
+                "students": "國小,國中,高中,成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
@@ -15076,8 +15076,8 @@
                 "county": "臺中市",
                 "town": "西屯區",
                 "village": "福安里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -15095,8 +15095,8 @@
                 "county": "臺中市",
                 "town": "西區",
                 "village": "昇平里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -15114,8 +15114,8 @@
                 "county": "臺中市",
                 "town": "北屯區",
                 "village": "三光里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -15570,8 +15570,8 @@
                 "county": "臺中市",
                 "town": "南屯區",
                 "village": "惠中里",
-                "class": "",
-                "students": ""
+                "class": "音樂、舞蹈類,",
+                "students": "學齡前,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -15817,8 +15817,8 @@
                 "county": "臺中市",
                 "town": "北屯區",
                 "village": "平和里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -15950,8 +15950,8 @@
                 "county": "臺中市",
                 "town": "北屯區",
                 "village": "平和里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -15969,8 +15969,8 @@
                 "county": "臺中市",
                 "town": "東區",
                 "village": "合作里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "高中,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -15988,8 +15988,8 @@
                 "county": "臺中市",
                 "town": "西區",
                 "village": "吉龍里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -17090,8 +17090,8 @@
                 "county": "臺中市",
                 "town": "南屯區",
                 "village": "三義里",
-                "class": "",
-                "students": ""
+                "class": "文理類,音樂、舞蹈類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -17109,8 +17109,8 @@
                 "county": "臺中市",
                 "town": "沙鹿區",
                 "village": "洛泉里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -17128,8 +17128,8 @@
                 "county": "臺中市",
                 "town": "西區",
                 "village": "利民里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -17641,8 +17641,8 @@
                 "county": "臺中市",
                 "town": "北屯區",
                 "village": "平和里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -17774,8 +17774,8 @@
                 "county": "臺中市",
                 "town": "外埔區",
                 "village": "大同里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -17793,8 +17793,8 @@
                 "county": "臺中市",
                 "town": "豐原區",
                 "village": "北陽里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -17907,8 +17907,8 @@
                 "county": "臺中市",
                 "town": "梧棲區",
                 "village": "文化里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -18059,8 +18059,8 @@
                 "county": "臺中市",
                 "town": "大里區",
                 "village": "大明里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -18477,8 +18477,8 @@
                 "county": "臺中市",
                 "town": "大雅區",
                 "village": "二和里",
-                "class": "美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -18762,8 +18762,8 @@
                 "county": "臺中市",
                 "town": "大甲區",
                 "village": "文武里",
-                "class": "美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -19028,8 +19028,8 @@
                 "county": "臺中市",
                 "town": "北屯區",
                 "village": "松茂里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -19237,8 +19237,8 @@
                 "county": "臺中市",
                 "town": "豐原區",
                 "village": "陽明里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -19256,8 +19256,8 @@
                 "county": "臺中市",
                 "town": "豐原區",
                 "village": "西湳里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -19275,8 +19275,8 @@
                 "county": "臺中市",
                 "town": "太平區",
                 "village": "永平里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -19294,8 +19294,8 @@
                 "county": "臺中市",
                 "town": "豐原區",
                 "village": "中陽里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -19503,8 +19503,8 @@
                 "county": "臺中市",
                 "town": "太平區",
                 "village": "新高里",
-                "class": "",
-                "students": ""
+                "class": "音樂、舞蹈類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -19522,8 +19522,8 @@
                 "county": "臺中市",
                 "town": "大肚區",
                 "village": "頂街里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -19541,8 +19541,8 @@
                 "county": "臺中市",
                 "town": "大里區",
                 "village": "瑞城里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -21327,8 +21327,8 @@
                 "county": "臺中市",
                 "town": "南屯區",
                 "village": "大業里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -21422,8 +21422,8 @@
                 "county": "臺中市",
                 "town": "豐原區",
                 "village": "田心里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -21441,8 +21441,8 @@
                 "county": "臺中市",
                 "town": "大雅區",
                 "village": "員林里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -24025,8 +24025,8 @@
                 "county": "臺中市",
                 "town": "大里區",
                 "village": "瑞城里",
-                "class": "",
-                "students": ""
+                "class": "文理類,音樂、舞蹈類,",
+                "students": "學齡前,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -24044,8 +24044,8 @@
                 "county": "臺中市",
                 "town": "太平區",
                 "village": "新吉里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -25659,8 +25659,8 @@
                 "county": "臺中市",
                 "town": "太平區",
                 "village": "坪林里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -25887,8 +25887,8 @@
                 "county": "臺中市",
                 "town": "新社區",
                 "village": "新社里",
-                "class": "",
-                "students": ""
+                "class": "文理類,音樂、舞蹈類,",
+                "students": "國小,學齡前"
             },
             "geometry": {
                 "type": "Point",
@@ -25906,8 +25906,8 @@
                 "county": "臺中市",
                 "town": "大雅區",
                 "village": "文雅里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -26058,8 +26058,8 @@
                 "county": "臺中市",
                 "town": "大雅區",
                 "village": "二和里",
-                "class": "",
-                "students": ""
+                "class": "商類：珠算、心算、會計,",
+                "students": "國小,學齡前,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -26077,8 +26077,8 @@
                 "county": "臺中市",
                 "town": "大里區",
                 "village": "長榮里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -26096,8 +26096,8 @@
                 "county": "臺中市",
                 "town": "梧棲區",
                 "village": "大庄里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -26115,8 +26115,8 @@
                 "county": "臺中市",
                 "town": "豐原區",
                 "village": "田心里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -26229,8 +26229,8 @@
                 "county": "臺中市",
                 "town": "南區",
                 "village": "樹義里",
-                "class": "",
-                "students": ""
+                "class": "外語類,資訊類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -26248,8 +26248,8 @@
                 "county": "臺中市",
                 "town": "后里區",
                 "village": "墩東里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -26267,8 +26267,8 @@
                 "county": "臺中市",
                 "town": "西區",
                 "village": "三民里",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小,成人(18歲以上),國中"
             },
             "geometry": {
                 "type": "Point",
@@ -26457,8 +26457,8 @@
                 "county": "臺中市",
                 "town": "北屯區",
                 "village": "松和里",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -26476,8 +26476,8 @@
                 "county": "臺中市",
                 "town": "東區",
                 "village": "東勢里",
-                "class": "",
-                "students": ""
+                "class": "文理類,商類：珠算、心算、會計,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -27464,8 +27464,8 @@
                 "county": "臺中市",
                 "town": "西屯區",
                 "village": "福雅里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -27578,8 +27578,8 @@
                 "county": "臺中市",
                 "town": "北區",
                 "village": "錦平里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "高中"
             },
             "geometry": {
                 "type": "Point",
@@ -27730,8 +27730,8 @@
                 "county": "臺中市",
                 "town": "豐原區",
                 "village": "豐田里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -27958,8 +27958,8 @@
                 "county": "臺中市",
                 "town": "清水區",
                 "village": "南寧里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -27977,8 +27977,8 @@
                 "county": "臺中市",
                 "town": "沙鹿區",
                 "village": "鹿寮里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -27996,8 +27996,8 @@
                 "county": "臺中市",
                 "town": "烏日區",
                 "village": "烏日里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -28015,8 +28015,8 @@
                 "county": "臺中市",
                 "town": "大里區",
                 "village": "西榮里",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -28186,8 +28186,8 @@
                 "county": "臺中市",
                 "town": "清水區",
                 "village": "南寧里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -28205,8 +28205,8 @@
                 "county": "臺中市",
                 "town": "太平區",
                 "village": "新坪里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -28338,8 +28338,8 @@
                 "county": "臺中市",
                 "town": "豐原區",
                 "village": "田心里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -28737,8 +28737,8 @@
                 "county": "臺中市",
                 "town": "大里區",
                 "village": "立仁里",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -29706,8 +29706,8 @@
                 "county": "臺中市",
                 "town": "南屯區",
                 "village": "溝墘里",
-                "class": "外語類,",
-                "students": "成人(18歲以上),國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -29782,8 +29782,8 @@
                 "county": "臺中市",
                 "town": "太平區",
                 "village": "長億里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -29801,8 +29801,8 @@
                 "county": "臺中市",
                 "town": "大雅區",
                 "village": "文雅里",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -29820,8 +29820,8 @@
                 "county": "臺中市",
                 "town": "大肚區",
                 "village": "福山里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -30276,8 +30276,8 @@
                 "county": "臺中市",
                 "town": "太平區",
                 "village": "中政里",
-                "class": "",
-                "students": ""
+                "class": "音樂、舞蹈類,",
+                "students": "成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
@@ -30352,8 +30352,8 @@
                 "county": "臺中市",
                 "town": "后里區",
                 "village": "墩東里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -30466,8 +30466,8 @@
                 "county": "臺中市",
                 "town": "北屯區",
                 "village": "仁和里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -31207,8 +31207,8 @@
                 "county": "臺中市",
                 "town": "太平區",
                 "village": "新吉里",
-                "class": "",
-                "students": ""
+                "class": "音樂、舞蹈類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -31587,8 +31587,8 @@
                 "county": "臺中市",
                 "town": "龍井區",
                 "village": "龍東里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -31606,8 +31606,8 @@
                 "county": "臺中市",
                 "town": "豐原區",
                 "village": "豐西里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -31625,8 +31625,8 @@
                 "county": "臺中市",
                 "town": "南區",
                 "village": "工學里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -31929,8 +31929,8 @@
                 "county": "臺中市",
                 "town": "豐原區",
                 "village": "西安里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -31948,8 +31948,8 @@
                 "county": "臺中市",
                 "town": "太平區",
                 "village": "新坪里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -31967,8 +31967,8 @@
                 "county": "臺中市",
                 "town": "太平區",
                 "village": "新光里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -32119,8 +32119,8 @@
                 "county": "臺中市",
                 "town": "大雅區",
                 "village": "文雅里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -32214,8 +32214,8 @@
                 "county": "臺中市",
                 "town": "龍井區",
                 "village": "龍崗里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -32233,8 +32233,8 @@
                 "county": "臺中市",
                 "town": "大里區",
                 "village": "塗城里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -32366,8 +32366,8 @@
                 "county": "臺中市",
                 "town": "北屯區",
                 "village": "松竹里",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -32385,8 +32385,8 @@
                 "county": "臺中市",
                 "town": "潭子區",
                 "village": "甘蔗里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -32404,8 +32404,8 @@
                 "county": "臺中市",
                 "town": "北屯區",
                 "village": "松和里",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -32613,8 +32613,8 @@
                 "county": "臺中市",
                 "town": "潭子區",
                 "village": "潭陽里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -32632,8 +32632,8 @@
                 "county": "臺中市",
                 "town": "潭子區",
                 "village": "家福里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -32651,8 +32651,8 @@
                 "county": "臺中市",
                 "town": "潭子區",
                 "village": "潭陽里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -32879,8 +32879,8 @@
                 "county": "臺中市",
                 "town": "太平區",
                 "village": "中政里",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -33487,8 +33487,8 @@
                 "county": "臺中市",
                 "town": "大里區",
                 "village": "中新里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -34076,8 +34076,8 @@
                 "county": "臺中市",
                 "town": "西區",
                 "village": "公正里",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -34741,8 +34741,8 @@
                 "county": "臺中市",
                 "town": "大甲區",
                 "village": "薰風里",
-                "class": "外語類,",
-                "students": "國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -34912,8 +34912,8 @@
                 "county": "臺中市",
                 "town": "大雅區",
                 "village": "三和里",
-                "class": "外語類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -35026,8 +35026,8 @@
                 "county": "臺中市",
                 "town": "東勢區",
                 "village": "中寧里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -35216,8 +35216,8 @@
                 "county": "臺中市",
                 "town": "龍井區",
                 "village": "龍東里",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -35235,8 +35235,8 @@
                 "county": "臺中市",
                 "town": "梧棲區",
                 "village": "大庄里",
-                "class": "",
-                "students": ""
+                "class": "資訊類,",
+                "students": "其他"
             },
             "geometry": {
                 "type": "Point",
@@ -36014,8 +36014,8 @@
                 "county": "臺中市",
                 "town": "北屯區",
                 "village": "平心里",
-                "class": "外語類,",
-                "students": "國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -37078,8 +37078,8 @@
                 "county": "臺中市",
                 "town": "大雅區",
                 "village": "文雅里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -37097,8 +37097,8 @@
                 "county": "臺中市",
                 "town": "豐原區",
                 "village": "西湳里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -37116,8 +37116,8 @@
                 "county": "臺中市",
                 "town": "豐原區",
                 "village": "西安里",
-                "class": "",
-                "students": ""
+                "class": "商類：珠算、心算、會計,",
+                "students": "國小及學齡前"
             },
             "geometry": {
                 "type": "Point",
@@ -37135,8 +37135,8 @@
                 "county": "臺中市",
                 "town": "清水區",
                 "village": "文昌里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -38161,8 +38161,8 @@
                 "county": "臺中市",
                 "town": "沙鹿區",
                 "village": "洛泉里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -38674,8 +38674,8 @@
                 "county": "臺中市",
                 "town": "太平區",
                 "village": "永成里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -38693,8 +38693,8 @@
                 "county": "臺中市",
                 "town": "大里區",
                 "village": "內新里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -38712,8 +38712,8 @@
                 "county": "臺中市",
                 "town": "大里區",
                 "village": "長榮里",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -38902,8 +38902,8 @@
                 "county": "臺中市",
                 "town": "后里區",
                 "village": "墩北里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -39130,8 +39130,8 @@
                 "county": "臺中市",
                 "town": "豐原區",
                 "village": "豐田里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -39149,8 +39149,8 @@
                 "county": "臺中市",
                 "town": "北屯區",
                 "village": "平田里",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -39510,8 +39510,8 @@
                 "county": "臺中市",
                 "town": "豐原區",
                 "village": "北湳里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -39681,8 +39681,8 @@
                 "county": "臺中市",
                 "town": "豐原區",
                 "village": "北陽里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -39700,8 +39700,8 @@
                 "county": "臺中市",
                 "town": "豐原區",
                 "village": "頂街里",
-                "class": "",
-                "students": ""
+                "class": "資訊類,",
+                "students": "成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
@@ -41011,8 +41011,8 @@
                 "county": "臺中市",
                 "town": "西區",
                 "village": "民生里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -41030,8 +41030,8 @@
                 "county": "臺中市",
                 "town": "西屯區",
                 "village": "何源里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -41258,8 +41258,8 @@
                 "county": "臺中市",
                 "town": "霧峰區",
                 "village": "本堂里",
-                "class": "",
-                "students": ""
+                "class": "商類：珠算、心算、會計,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -41543,8 +41543,8 @@
                 "county": "臺中市",
                 "town": "大里區",
                 "village": "長榮里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -41562,8 +41562,8 @@
                 "county": "臺中市",
                 "town": "新社區",
                 "village": "大南里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -41581,8 +41581,8 @@
                 "county": "臺中市",
                 "town": "豐原區",
                 "village": "豐田里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",

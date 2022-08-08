@@ -47,8 +47,8 @@
                 "county": "高雄市",
                 "town": "三民區",
                 "village": "鼎泰里",
-                "class": "文理類,",
-                "students": "學齡前,國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -66,8 +66,8 @@
                 "county": "高雄市",
                 "town": "鳳山區",
                 "village": "老爺里",
-                "class": "文理類,",
-                "students": "學齡前,國小,國中,高中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -427,8 +427,8 @@
                 "county": "高雄市",
                 "town": "仁武區",
                 "village": "灣內里",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -446,8 +446,8 @@
                 "county": "高雄市",
                 "town": "苓雅區",
                 "village": "林南里",
-                "class": "外語類,",
-                "students": "學齡前,國小,國中,高中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -465,8 +465,8 @@
                 "county": "高雄市",
                 "town": "楠梓區",
                 "village": "藍田里",
-                "class": "文理類,",
-                "students": "學齡前,國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1111,8 +1111,8 @@
                 "county": "高雄市",
                 "town": "鳳山區",
                 "village": "保安里",
-                "class": "文理類,",
-                "students": "學齡前,國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1130,8 +1130,8 @@
                 "county": "高雄市",
                 "town": "鼓山區",
                 "village": "龍水里",
-                "class": "文理類,",
-                "students": "國中,學齡前,國小,高中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1434,8 +1434,8 @@
                 "county": "高雄市",
                 "town": "三民區",
                 "village": "寶國里",
-                "class": "文理類,",
-                "students": "國小,高中,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1453,8 +1453,8 @@
                 "county": "高雄市",
                 "town": "新興區",
                 "village": "文昌里",
-                "class": "文理類,",
-                "students": "學齡前,國小,高中,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1719,8 +1719,8 @@
                 "county": "高雄市",
                 "town": "鼓山區",
                 "village": "明誠里",
-                "class": "文理類,",
-                "students": "高中,國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1738,8 +1738,8 @@
                 "county": "高雄市",
                 "town": "鳳山區",
                 "village": "中正里",
-                "class": "文理類,",
-                "students": "國小,學齡前,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1890,8 +1890,8 @@
                 "county": "高雄市",
                 "town": "岡山區",
                 "village": "程香里",
-                "class": "文理類,",
-                "students": "國中,國小,高中,成人(18歲以上)"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1909,8 +1909,8 @@
                 "county": "高雄市",
                 "town": "前鎮區",
                 "village": "民權里",
-                "class": "文理類,",
-                "students": "學齡前,國小,國中,高中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2270,8 +2270,8 @@
                 "county": "高雄市",
                 "town": "苓雅區",
                 "village": "林圍里",
-                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國小,學齡前,國中,成人(18歲以上)"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2289,8 +2289,8 @@
                 "county": "高雄市",
                 "town": "楠梓區",
                 "village": "加昌里",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2954,8 +2954,8 @@
                 "county": "高雄市",
                 "town": "左營區",
                 "village": "福山里",
-                "class": "文理類,",
-                "students": "國小,國中,高中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2973,8 +2973,8 @@
                 "county": "高雄市",
                 "town": "苓雅區",
                 "village": "福南里",
-                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "學齡前,國小,國中,高中,成人(18歲以上)"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -3543,8 +3543,8 @@
                 "county": "高雄市",
                 "town": "鳳山區",
                 "village": "新強里",
-                "class": "文理類,",
-                "students": "國中,學齡前,國小,高中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -3562,8 +3562,8 @@
                 "county": "高雄市",
                 "town": "左營區",
                 "village": "新上里",
-                "class": "文理類,資訊類,美術、書法、攝影、美工設計、圍棋類,商類：珠算、心算、會計,",
-                "students": "國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -4379,8 +4379,8 @@
                 "county": "高雄市",
                 "town": "鳳山區",
                 "village": "文華里",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -4398,8 +4398,8 @@
                 "county": "高雄市",
                 "town": "旗津區",
                 "village": "上竹里",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -5405,8 +5405,8 @@
                 "county": "高雄市",
                 "town": "前鎮區",
                 "village": "民權里",
-                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國中,國小,成人(18歲以上)"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -5424,8 +5424,8 @@
                 "county": "高雄市",
                 "town": "左營區",
                 "village": "新上里",
-                "class": "瑜珈類,",
-                "students": "成人(18歲以上),國中學生至成人"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -5994,8 +5994,8 @@
                 "county": "高雄市",
                 "town": "左營區",
                 "village": "新上里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -6203,8 +6203,8 @@
                 "county": "高雄市",
                 "town": "大樹區",
                 "village": "檨腳里",
-                "class": "文理類,",
-                "students": "國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -6222,8 +6222,8 @@
                 "county": "高雄市",
                 "town": "新興區",
                 "village": "德望里",
-                "class": "文理類,",
-                "students": "國中,高中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -6887,8 +6887,8 @@
                 "county": "高雄市",
                 "town": "岡山區",
                 "village": "忠孝里",
-                "class": "文理類,",
-                "students": "高中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -6906,8 +6906,8 @@
                 "county": "高雄市",
                 "town": "前鎮區",
                 "village": "瑞祥里",
-                "class": "外語類,",
-                "students": "國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -7476,8 +7476,8 @@
                 "county": "高雄市",
                 "town": "大寮區",
                 "village": "大寮里",
-                "class": "文理類,",
-                "students": "國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -7495,8 +7495,8 @@
                 "county": "高雄市",
                 "town": "左營區",
                 "village": "新光里",
-                "class": "文理類,外語類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -7647,8 +7647,8 @@
                 "county": "高雄市",
                 "town": "林園區",
                 "village": "王公里",
-                "class": "文理類,",
-                "students": "國小,國中,高中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -7666,8 +7666,8 @@
                 "county": "高雄市",
                 "town": "三民區",
                 "village": "港西里",
-                "class": "文理類,",
-                "students": "國中,高中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -8008,8 +8008,8 @@
                 "county": "高雄市",
                 "town": "岡山區",
                 "village": "仁壽里",
-                "class": "文理類,",
-                "students": "國小,國中,成人(18歲以上),高中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -8027,8 +8027,8 @@
                 "county": "高雄市",
                 "town": "鳳山區",
                 "village": "忠孝里",
-                "class": "文理類,",
-                "students": "高中,國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -8293,8 +8293,8 @@
                 "county": "高雄市",
                 "town": "旗山區",
                 "village": "竹峰里",
-                "class": "文理類,",
-                "students": "國小,國中,高中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -8312,8 +8312,8 @@
                 "county": "高雄市",
                 "town": "楠梓區",
                 "village": "加昌里",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -8787,8 +8787,8 @@
                 "county": "高雄市",
                 "town": "新興區",
                 "village": "新江里",
-                "class": "文理類,",
-                "students": "升二技插大,研究所"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -8806,8 +8806,8 @@
                 "county": "高雄市",
                 "town": "鳳山區",
                 "village": "新強里",
-                "class": "文理類,音樂、舞蹈類,",
-                "students": "學齡前,國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -9034,8 +9034,8 @@
                 "county": "高雄市",
                 "town": "鼓山區",
                 "village": "龍子里",
-                "class": "",
-                "students": ""
+                "class": "音樂、舞蹈類,其他類,",
+                "students": "學齡前"
             },
             "geometry": {
                 "type": "Point",
@@ -9167,8 +9167,8 @@
                 "county": "高雄市",
                 "town": "永安區",
                 "village": "永華里",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -9452,8 +9452,8 @@
                 "county": "高雄市",
                 "town": "苓雅區",
                 "village": "尚義里",
-                "class": "文理類,",
-                "students": "國小,國中,高中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -9471,8 +9471,8 @@
                 "county": "高雄市",
                 "town": "左營區",
                 "village": "新上里",
-                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,其他類,",
-                "students": "學齡前,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -9623,8 +9623,8 @@
                 "county": "高雄市",
                 "town": "三民區",
                 "village": "寶國里",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -9642,8 +9642,8 @@
                 "county": "高雄市",
                 "town": "左營區",
                 "village": "福山里",
-                "class": "文理類,",
-                "students": "國小,國中,學齡前"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -9756,8 +9756,8 @@
                 "county": "高雄市",
                 "town": "三民區",
                 "village": "鼎泰里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -9794,8 +9794,8 @@
                 "county": "高雄市",
                 "town": "苓雅區",
                 "village": "凱旋里",
-                "class": "文理類,",
-                "students": "國中,成人(18歲以上),國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -10155,8 +10155,8 @@
                 "county": "高雄市",
                 "town": "新興區",
                 "village": "文昌里",
-                "class": "文理類,",
-                "students": "國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -10174,8 +10174,8 @@
                 "county": "高雄市",
                 "town": "新興區",
                 "village": "文昌里",
-                "class": "文理類,",
-                "students": "國中,高中,高四"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -11010,8 +11010,8 @@
                 "county": "高雄市",
                 "town": "旗山區",
                 "village": "竹峰里",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -11580,8 +11580,8 @@
                 "county": "高雄市",
                 "town": "鳳山區",
                 "village": "和興里",
-                "class": "文理類,",
-                "students": "國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -11599,8 +11599,8 @@
                 "county": "高雄市",
                 "town": "鳳山區",
                 "village": "文華里",
-                "class": "音樂、舞蹈類,",
-                "students": "成人(18歲以上)"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -11789,8 +11789,8 @@
                 "county": "高雄市",
                 "town": "楠梓區",
                 "village": "瑞屏里",
-                "class": "文理類,",
-                "students": "國小,國中,高中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -11808,8 +11808,8 @@
                 "county": "高雄市",
                 "town": "三民區",
                 "village": "安發里",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -12150,8 +12150,8 @@
                 "county": "高雄市",
                 "town": "鳳山區",
                 "village": "過埤里",
-                "class": "",
-                "students": ""
+                "class": "文理類,商類：珠算、心算、會計,",
+                "students": "學齡前,國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -12264,8 +12264,8 @@
                 "county": "高雄市",
                 "town": "路竹區",
                 "village": "社西里",
-                "class": "文理類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -12283,8 +12283,8 @@
                 "county": "高雄市",
                 "town": "新興區",
                 "village": "文昌里",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -12435,8 +12435,8 @@
                 "county": "高雄市",
                 "town": "鳳山區",
                 "village": "中和里",
-                "class": "文理類,",
-                "students": "高中,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -12587,8 +12587,8 @@
                 "county": "高雄市",
                 "town": "鳳山區",
                 "village": "縣衙里",
-                "class": "文理類,法政類,",
-                "students": "成人(18歲以上),高中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -12606,8 +12606,8 @@
                 "county": "高雄市",
                 "town": "三民區",
                 "village": "寶國里",
-                "class": "文理類,",
-                "students": "學齡前"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -12777,8 +12777,8 @@
                 "county": "高雄市",
                 "town": "旗山區",
                 "village": "大德里",
-                "class": "文理類,",
-                "students": "國小,國中,成人(18歲以上),高中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -14468,8 +14468,8 @@
                 "county": "高雄市",
                 "town": "三民區",
                 "village": "十美里",
-                "class": "文理類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -14487,8 +14487,8 @@
                 "county": "高雄市",
                 "town": "鳳山區",
                 "village": "新強里",
-                "class": "文理類,",
-                "students": "國小,國中,高中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -14506,8 +14506,8 @@
                 "county": "高雄市",
                 "town": "苓雅區",
                 "village": "普天里",
-                "class": "文理類,",
-                "students": "國小,學齡前,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -14525,8 +14525,8 @@
                 "county": "高雄市",
                 "town": "楠梓區",
                 "village": "東寧里",
-                "class": "文理類,",
-                "students": "國中,國小,學齡前"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -14544,8 +14544,8 @@
                 "county": "高雄市",
                 "town": "苓雅區",
                 "village": "尚義里",
-                "class": "文理類,",
-                "students": "國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -14563,8 +14563,8 @@
                 "county": "高雄市",
                 "town": "苓雅區",
                 "village": "正道里",
-                "class": "文理類,",
-                "students": "國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -14582,8 +14582,8 @@
                 "county": "高雄市",
                 "town": "鳳山區",
                 "village": "瑞興里",
-                "class": "文理類,",
-                "students": "高中,國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -14601,8 +14601,8 @@
                 "county": "高雄市",
                 "town": "小港區",
                 "village": "六苓里",
-                "class": "文理類,外語類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -14620,8 +14620,8 @@
                 "county": "高雄市",
                 "town": "左營區",
                 "village": "菜公里",
-                "class": "文理類,",
-                "students": "國小,國中,高中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -14639,8 +14639,8 @@
                 "county": "高雄市",
                 "town": "鳳山區",
                 "village": "瑞興里",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -14658,8 +14658,8 @@
                 "county": "高雄市",
                 "town": "鳳山區",
                 "village": "新樂里",
-                "class": "文理類,法政類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "學齡前,國小,國中,成人(18歲以上),高中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -14677,8 +14677,8 @@
                 "county": "高雄市",
                 "town": "三民區",
                 "village": "鼎西里",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -14696,8 +14696,8 @@
                 "county": "高雄市",
                 "town": "三民區",
                 "village": "寶國里",
-                "class": "文理類,",
-                "students": "國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -14715,8 +14715,8 @@
                 "county": "高雄市",
                 "town": "大樹區",
                 "village": "水安里",
-                "class": "文理類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -14734,8 +14734,8 @@
                 "county": "高雄市",
                 "town": "林園區",
                 "village": "仁愛里",
-                "class": "文理類,",
-                "students": "國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -14753,8 +14753,8 @@
                 "county": "高雄市",
                 "town": "路竹區",
                 "village": "文北里",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -14772,8 +14772,8 @@
                 "county": "高雄市",
                 "town": "苓雅區",
                 "village": "民主里",
-                "class": "文理類,",
-                "students": "國小,國中,高中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -14791,8 +14791,8 @@
                 "county": "高雄市",
                 "town": "苓雅區",
                 "village": "民主里",
-                "class": "文理類,",
-                "students": "國中,國小,高中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -14810,8 +14810,8 @@
                 "county": "高雄市",
                 "town": "鳳山區",
                 "village": "南成里",
-                "class": "文理類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -14829,8 +14829,8 @@
                 "county": "高雄市",
                 "town": "燕巢區",
                 "village": "橫山里",
-                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -14848,8 +14848,8 @@
                 "county": "高雄市",
                 "town": "鳳山區",
                 "village": "瑞竹里",
-                "class": "文理類,音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類,商類：珠算、心算、會計,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -14867,8 +14867,8 @@
                 "county": "高雄市",
                 "town": "鳥松區",
                 "village": "大華里",
-                "class": "文理類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -14886,8 +14886,8 @@
                 "county": "高雄市",
                 "town": "楠梓區",
                 "village": "東寧里",
-                "class": "文理類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -14905,8 +14905,8 @@
                 "county": "高雄市",
                 "town": "岡山區",
                 "village": "仁壽里",
-                "class": "文理類,",
-                "students": "國小,國中,高中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -14924,8 +14924,8 @@
                 "county": "高雄市",
                 "town": "三民區",
                 "village": "正興里",
-                "class": "文理類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -14943,8 +14943,8 @@
                 "county": "高雄市",
                 "town": "三民區",
                 "village": "正興里",
-                "class": "文理類,",
-                "students": "國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -14962,8 +14962,8 @@
                 "county": "高雄市",
                 "town": "前鎮區",
                 "village": "瑞豐里",
-                "class": "瑜珈類,",
-                "students": "成人(18歲以上)"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -14981,8 +14981,8 @@
                 "county": "高雄市",
                 "town": "鳳山區",
                 "village": "文福里",
-                "class": "文理類,",
-                "students": "國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -15000,8 +15000,8 @@
                 "county": "高雄市",
                 "town": "美濃區",
                 "village": "泰安里",
-                "class": "文理類,",
-                "students": "國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -15019,8 +15019,8 @@
                 "county": "高雄市",
                 "town": "小港區",
                 "village": "順苓里",
-                "class": "文理類,",
-                "students": "國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -15038,8 +15038,8 @@
                 "county": "高雄市",
                 "town": "左營區",
                 "village": "新光里",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -15057,8 +15057,8 @@
                 "county": "高雄市",
                 "town": "左營區",
                 "village": "福山里",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -15076,8 +15076,8 @@
                 "county": "高雄市",
                 "town": "前鎮區",
                 "village": "草衙里",
-                "class": "文理類,",
-                "students": "國小,學齡前,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -15095,8 +15095,8 @@
                 "county": "高雄市",
                 "town": "鼓山區",
                 "village": "明誠里",
-                "class": "文理類,",
-                "students": "國小,國中,學齡前"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -15114,8 +15114,8 @@
                 "county": "高雄市",
                 "town": "橋頭區",
                 "village": "橋頭里",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -15133,8 +15133,8 @@
                 "county": "高雄市",
                 "town": "新興區",
                 "village": "興昌里",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -15152,8 +15152,8 @@
                 "county": "高雄市",
                 "town": "三民區",
                 "village": "本上里",
-                "class": "文理類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -15171,8 +15171,8 @@
                 "county": "高雄市",
                 "town": "旗津區",
                 "village": "中華里",
-                "class": "文理類,",
-                "students": "國小,國中,高中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -15190,8 +15190,8 @@
                 "county": "高雄市",
                 "town": "仁武區",
                 "village": "赤山里",
-                "class": "文理類,",
-                "students": "國中,高中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -15209,8 +15209,8 @@
                 "county": "高雄市",
                 "town": "岡山區",
                 "village": "碧紅里",
-                "class": "文理類,",
-                "students": "國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -15228,8 +15228,8 @@
                 "county": "高雄市",
                 "town": "楠梓區",
                 "village": "東寧里",
-                "class": "文理類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -15247,8 +15247,8 @@
                 "county": "高雄市",
                 "town": "楠梓區",
                 "village": "盛昌里",
-                "class": "文理類,",
-                "students": "國小,高中,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -15266,8 +15266,8 @@
                 "county": "高雄市",
                 "town": "楠梓區",
                 "village": "東寧里",
-                "class": "文理類,商類：珠算、心算、會計,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -15285,8 +15285,8 @@
                 "county": "高雄市",
                 "town": "岡山區",
                 "village": "竹圍里",
-                "class": "文理類,",
-                "students": "國小,學齡前,國中,高中,成人(18歲以上)"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -15304,8 +15304,8 @@
                 "county": "高雄市",
                 "town": "苓雅區",
                 "village": "五權里",
-                "class": "文理類,",
-                "students": "國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -15323,8 +15323,8 @@
                 "county": "高雄市",
                 "town": "岡山區",
                 "village": "壽天里",
-                "class": "文理類,",
-                "students": "國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -15342,8 +15342,8 @@
                 "county": "高雄市",
                 "town": "楠梓區",
                 "village": "東寧里",
-                "class": "文理類,",
-                "students": "國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -15361,8 +15361,8 @@
                 "county": "高雄市",
                 "town": "鳳山區",
                 "village": "協和里",
-                "class": "文理類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -15380,8 +15380,8 @@
                 "county": "高雄市",
                 "town": "路竹區",
                 "village": "竹西里",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -15399,8 +15399,8 @@
                 "county": "高雄市",
                 "town": "前鎮區",
                 "village": "興東里",
-                "class": "文理類,商類：珠算、心算、會計,",
-                "students": "國小,學齡前"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -15418,8 +15418,8 @@
                 "county": "高雄市",
                 "town": "楠梓區",
                 "village": "東寧里",
-                "class": "文理類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -15437,8 +15437,8 @@
                 "county": "高雄市",
                 "town": "仁武區",
                 "village": "文武里",
-                "class": "文理類,",
-                "students": "國中,國小,高中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -15456,8 +15456,8 @@
                 "county": "高雄市",
                 "town": "鳳山區",
                 "village": "國富里",
-                "class": "文理類,資訊類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -15475,8 +15475,8 @@
                 "county": "高雄市",
                 "town": "湖內區",
                 "village": "葉厝里",
-                "class": "文理類,",
-                "students": "國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -15494,8 +15494,8 @@
                 "county": "高雄市",
                 "town": "三民區",
                 "village": "灣成里",
-                "class": "文理類,",
-                "students": "高中,國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -15513,8 +15513,8 @@
                 "county": "高雄市",
                 "town": "左營區",
                 "village": "崇實里",
-                "class": "文理類,",
-                "students": "國小,國中,學齡前"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -15532,8 +15532,8 @@
                 "county": "高雄市",
                 "town": "鳥松區",
                 "village": "鳥松里",
-                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -15551,8 +15551,8 @@
                 "county": "高雄市",
                 "town": "鳳山區",
                 "village": "和德里",
-                "class": "文理類,",
-                "students": "國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -15570,8 +15570,8 @@
                 "county": "高雄市",
                 "town": "鳳山區",
                 "village": "鎮南里",
-                "class": "文理類,",
-                "students": "國小,高中,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -15589,8 +15589,8 @@
                 "county": "高雄市",
                 "town": "左營區",
                 "village": "新光里",
-                "class": "外語類,",
-                "students": "國中,高中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -15608,8 +15608,8 @@
                 "county": "高雄市",
                 "town": "楠梓區",
                 "village": "東寧里",
-                "class": "文理類,",
-                "students": "國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -15627,8 +15627,8 @@
                 "county": "高雄市",
                 "town": "楠梓區",
                 "village": "東寧里",
-                "class": "文理類,",
-                "students": "國小,國中,高中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -15646,8 +15646,8 @@
                 "county": "高雄市",
                 "town": "前鎮區",
                 "village": "民權里",
-                "class": "外語類,",
-                "students": "國中,學齡前,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -15665,8 +15665,8 @@
                 "county": "高雄市",
                 "town": "小港區",
                 "village": "順苓里",
-                "class": "文理類,",
-                "students": "國中,高中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -15684,8 +15684,8 @@
                 "county": "高雄市",
                 "town": "左營區",
                 "village": "新上里",
-                "class": "文理類,",
-                "students": "國小,成人(18歲以上),國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -15703,8 +15703,8 @@
                 "county": "高雄市",
                 "town": "美濃區",
                 "village": "祿興里",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -15722,8 +15722,8 @@
                 "county": "高雄市",
                 "town": "三民區",
                 "village": "鼎泰里",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -15741,8 +15741,8 @@
                 "county": "高雄市",
                 "town": "鳳山區",
                 "village": "忠誠里",
-                "class": "文理類,",
-                "students": "國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -15760,8 +15760,8 @@
                 "county": "高雄市",
                 "town": "林園區",
                 "village": "仁愛里",
-                "class": "外語類,",
-                "students": "國小,國中,高中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -15779,8 +15779,8 @@
                 "county": "高雄市",
                 "town": "旗山區",
                 "village": "太平里",
-                "class": "文理類,",
-                "students": "國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -15798,8 +15798,8 @@
                 "county": "高雄市",
                 "town": "楠梓區",
                 "village": "加昌里",
-                "class": "文理類,",
-                "students": "國中,高中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -15817,8 +15817,8 @@
                 "county": "高雄市",
                 "town": "新興區",
                 "village": "秋山里",
-                "class": "外語類,",
-                "students": "成人(18歲以上)"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -16083,8 +16083,8 @@
                 "county": "高雄市",
                 "town": "左營區",
                 "village": "新光里",
-                "class": "文理類,",
-                "students": "國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -16254,8 +16254,8 @@
                 "county": "高雄市",
                 "town": "苓雅區",
                 "village": "林泉里",
-                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -16406,8 +16406,8 @@
                 "county": "高雄市",
                 "town": "左營區",
                 "village": "崇實里",
-                "class": "文理類,",
-                "students": "國小,學齡前,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -16425,8 +16425,8 @@
                 "county": "高雄市",
                 "town": "新興區",
                 "village": "興昌里",
-                "class": "外語類,",
-                "students": "國小,國中,高中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -16577,8 +16577,8 @@
                 "county": "高雄市",
                 "town": "苓雅區",
                 "village": "林興里",
-                "class": "文理類,",
-                "students": "國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -16596,8 +16596,8 @@
                 "county": "高雄市",
                 "town": "左營區",
                 "village": "新光里",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -17128,8 +17128,8 @@
                 "county": "高雄市",
                 "town": "燕巢區",
                 "village": "南燕里",
-                "class": "文理類,",
-                "students": "國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -17147,8 +17147,8 @@
                 "county": "高雄市",
                 "town": "大社區",
                 "village": "神農里",
-                "class": "文理類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -17299,8 +17299,8 @@
                 "county": "高雄市",
                 "town": "仁武區",
                 "village": "仁武里",
-                "class": "文理類,",
-                "students": "國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -17318,8 +17318,8 @@
                 "county": "高雄市",
                 "town": "岡山區",
                 "village": "嘉興里",
-                "class": "文理類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -17603,8 +17603,8 @@
                 "county": "高雄市",
                 "town": "橋頭區",
                 "village": "橋頭里",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -17622,8 +17622,8 @@
                 "county": "高雄市",
                 "town": "左營區",
                 "village": "福山里",
-                "class": "文理類,",
-                "students": "國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -17774,8 +17774,8 @@
                 "county": "高雄市",
                 "town": "鳳山區",
                 "village": "文福里",
-                "class": "外語類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -17888,8 +17888,8 @@
                 "county": "高雄市",
                 "town": "小港區",
                 "village": "山明里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -18097,8 +18097,8 @@
                 "county": "高雄市",
                 "town": "苓雅區",
                 "village": "民主里",
-                "class": "文理類,",
-                "students": "國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -18116,8 +18116,8 @@
                 "county": "高雄市",
                 "town": "前鎮區",
                 "village": "興東里",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -18173,8 +18173,8 @@
                 "county": "高雄市",
                 "town": "楠梓區",
                 "village": "清豐里",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -18268,8 +18268,8 @@
                 "county": "高雄市",
                 "town": "路竹區",
                 "village": "文南里",
-                "class": "文理類,",
-                "students": "國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -18287,8 +18287,8 @@
                 "county": "高雄市",
                 "town": "楠梓區",
                 "village": "清豐里",
-                "class": "文理類,",
-                "students": "國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -18800,8 +18800,8 @@
                 "county": "高雄市",
                 "town": "六龜區",
                 "village": "中興里",
-                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,商類：珠算、心算、會計,速讀類,",
-                "students": "學齡前,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -19655,8 +19655,8 @@
                 "county": "高雄市",
                 "town": "鳳山區",
                 "village": "南成里",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -19674,8 +19674,8 @@
                 "county": "高雄市",
                 "town": "梓官區",
                 "village": "梓義里",
-                "class": "文理類,外語類,",
-                "students": "學齡前,國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -19997,8 +19997,8 @@
                 "county": "高雄市",
                 "town": "小港區",
                 "village": "六苓里",
-                "class": "文理類,",
-                "students": "國小,國中,高中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -20016,8 +20016,8 @@
                 "county": "高雄市",
                 "town": "小港區",
                 "village": "六苓里",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -20035,8 +20035,8 @@
                 "county": "高雄市",
                 "town": "岡山區",
                 "village": "碧紅里",
-                "class": "外語類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -20282,8 +20282,8 @@
                 "county": "高雄市",
                 "town": "仁武區",
                 "village": "八卦里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -20358,8 +20358,8 @@
                 "county": "高雄市",
                 "town": "湖內區",
                 "village": "公舘里",
-                "class": "文理類,資訊類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -20662,8 +20662,8 @@
                 "county": "高雄市",
                 "town": "旗津區",
                 "village": "中華里",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -20681,8 +20681,8 @@
                 "county": "高雄市",
                 "town": "梓官區",
                 "village": "梓平里",
-                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -20966,8 +20966,8 @@
                 "county": "高雄市",
                 "town": "左營區",
                 "village": "福山里",
-                "class": "文理類,",
-                "students": "國小,國中,高中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -20985,8 +20985,8 @@
                 "county": "高雄市",
                 "town": "三民區",
                 "village": "本文里",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -21023,8 +21023,8 @@
                 "county": "高雄市",
                 "town": "三民區",
                 "village": "本文里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "升四技二專大專,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -21175,8 +21175,8 @@
                 "county": "高雄市",
                 "town": "鳳山區",
                 "village": "生明里",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -21194,8 +21194,8 @@
                 "county": "高雄市",
                 "town": "楠梓區",
                 "village": "盛昌里",
-                "class": "文理類,",
-                "students": "國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -21213,8 +21213,8 @@
                 "county": "高雄市",
                 "town": "路竹區",
                 "village": "竹西里",
-                "class": "外語類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -21422,8 +21422,8 @@
                 "county": "高雄市",
                 "town": "三民區",
                 "village": "德智里",
-                "class": "文理類,外語類,",
-                "students": "國中,學齡前,高中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -21650,8 +21650,8 @@
                 "county": "高雄市",
                 "town": "左營區",
                 "village": "福山里",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -21840,8 +21840,8 @@
                 "county": "高雄市",
                 "town": "楠梓區",
                 "village": "建昌里",
-                "class": "文理類,商類：珠算、心算、會計,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -21973,8 +21973,8 @@
                 "county": "高雄市",
                 "town": "左營區",
                 "village": "福山里",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -21992,8 +21992,8 @@
                 "county": "高雄市",
                 "town": "楠梓區",
                 "village": "中陽里",
-                "class": "文理類,",
-                "students": "公職人員考試"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -22353,8 +22353,8 @@
                 "county": "高雄市",
                 "town": "鼓山區",
                 "village": "裕興里",
-                "class": "美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國小,成人(18歲以上)"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -22600,8 +22600,8 @@
                 "county": "高雄市",
                 "town": "鳳山區",
                 "village": "瑞竹里",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -22771,8 +22771,8 @@
                 "county": "高雄市",
                 "town": "新興區",
                 "village": "永寧里",
-                "class": "文理類,",
-                "students": "國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -22790,8 +22790,8 @@
                 "county": "高雄市",
                 "town": "左營區",
                 "village": "福山里",
-                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國小,國中,高中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -23094,8 +23094,8 @@
                 "county": "高雄市",
                 "town": "楠梓區",
                 "village": "加昌里",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -23113,8 +23113,8 @@
                 "county": "高雄市",
                 "town": "左營區",
                 "village": "福山里",
-                "class": "文理類,商類：珠算、心算、會計,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -23132,8 +23132,8 @@
                 "county": "高雄市",
                 "town": "三民區",
                 "village": "灣利里",
-                "class": "文理類,",
-                "students": "國小,國中,高中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -23588,8 +23588,8 @@
                 "county": "高雄市",
                 "town": "苓雅區",
                 "village": "正大里",
-                "class": "文理類,",
-                "students": "學齡前,國小,國中,高中,成人(18歲以上)"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -23607,8 +23607,8 @@
                 "county": "高雄市",
                 "town": "鳳山區",
                 "village": "文華里",
-                "class": "商類：珠算、心算、會計,",
-                "students": "學齡前,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -25431,8 +25431,8 @@
                 "county": "高雄市",
                 "town": "新興區",
                 "village": "明莊里",
-                "class": "文理類,",
-                "students": "成人(18歲以上)"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -25450,8 +25450,8 @@
                 "county": "高雄市",
                 "town": "前金區",
                 "village": "東金里",
-                "class": "外語類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -26400,8 +26400,8 @@
                 "county": "高雄市",
                 "town": "鳳山區",
                 "village": "南成里",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -26609,8 +26609,8 @@
                 "county": "高雄市",
                 "town": "湖內區",
                 "village": "湖內里",
-                "class": "文理類,",
-                "students": "國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -26628,8 +26628,8 @@
                 "county": "高雄市",
                 "town": "前鎮區",
                 "village": "鎮海里",
-                "class": "文理類,",
-                "students": "國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -26780,8 +26780,8 @@
                 "county": "高雄市",
                 "town": "彌陀區",
                 "village": "彌靖里",
-                "class": "文理類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -27008,8 +27008,8 @@
                 "county": "高雄市",
                 "town": "三民區",
                 "village": "鼎西里",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -27236,8 +27236,8 @@
                 "county": "高雄市",
                 "town": "三民區",
                 "village": "寶業里",
-                "class": "文理類,",
-                "students": "國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -27255,8 +27255,8 @@
                 "county": "高雄市",
                 "town": "三民區",
                 "village": "寶國里",
-                "class": "文理類,",
-                "students": "國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -27426,8 +27426,8 @@
                 "county": "高雄市",
                 "town": "鳳山區",
                 "village": "武松里",
-                "class": "商類：珠算、心算、會計,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -27445,8 +27445,8 @@
                 "county": "高雄市",
                 "town": "鳳山區",
                 "village": "富榮里",
-                "class": "外語類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -27749,8 +27749,8 @@
                 "county": "高雄市",
                 "town": "鳳山區",
                 "village": "和德里",
-                "class": "文理類,音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類,商類：珠算、心算、會計,",
-                "students": "國小,國中,成人(18歲以上)"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -27768,8 +27768,8 @@
                 "county": "高雄市",
                 "town": "三民區",
                 "village": "安宜里",
-                "class": "文理類,外語類,",
-                "students": "國中,高中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -28091,8 +28091,8 @@
                 "county": "高雄市",
                 "town": "三民區",
                 "village": "鼎力里",
-                "class": "文理類,",
-                "students": "國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -28110,8 +28110,8 @@
                 "county": "高雄市",
                 "town": "三民區",
                 "village": "寶國里",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -28129,8 +28129,8 @@
                 "county": "高雄市",
                 "town": "大寮區",
                 "village": "後庄里",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -28889,8 +28889,8 @@
                 "county": "高雄市",
                 "town": "楠梓區",
                 "village": "翠屏里",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -29497,8 +29497,8 @@
                 "county": "高雄市",
                 "town": "苓雅區",
                 "village": "城北里",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -29915,8 +29915,8 @@
                 "county": "高雄市",
                 "town": "鳳山區",
                 "village": "興仁里",
-                "class": "文理類,",
-                "students": "國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -29934,8 +29934,8 @@
                 "county": "高雄市",
                 "town": "三民區",
                 "village": "鼎力里",
-                "class": "文理類,",
-                "students": "國小,學齡前,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -30808,8 +30808,8 @@
                 "county": "高雄市",
                 "town": "大寮區",
                 "village": "永芳里",
-                "class": "文理類,",
-                "students": "國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -30827,8 +30827,8 @@
                 "county": "高雄市",
                 "town": "楠梓區",
                 "village": "加昌里",
-                "class": "文理類,外語類,",
-                "students": "學齡前,國小,國中,高中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -31245,8 +31245,8 @@
                 "county": "高雄市",
                 "town": "三民區",
                 "village": "安泰里",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -31264,8 +31264,8 @@
                 "county": "高雄市",
                 "town": "鳳山區",
                 "village": "鳳崗里",
-                "class": "音樂、舞蹈類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -31416,8 +31416,8 @@
                 "county": "高雄市",
                 "town": "三民區",
                 "village": "鼎泰里",
-                "class": "外語類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -31701,8 +31701,8 @@
                 "county": "高雄市",
                 "town": "左營區",
                 "village": "新上里",
-                "class": "文理類,商類：珠算、心算、會計,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -31720,8 +31720,8 @@
                 "county": "高雄市",
                 "town": "新興區",
                 "village": "浩然里",
-                "class": "文理類,",
-                "students": "國中,高中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -31891,8 +31891,8 @@
                 "county": "高雄市",
                 "town": "三民區",
                 "village": "立德里",
-                "class": "瑜珈類,",
-                "students": "成人(18歲以上),國小,國中,學齡前"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -32043,8 +32043,8 @@
                 "county": "高雄市",
                 "town": "三民區",
                 "village": "德智里",
-                "class": "文理類,",
-                "students": "國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -32176,8 +32176,8 @@
                 "county": "高雄市",
                 "town": "鹽埕區",
                 "village": "中山里",
-                "class": "文理類,",
-                "students": "國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -32195,8 +32195,8 @@
                 "county": "高雄市",
                 "town": "楠梓區",
                 "village": "享平里",
-                "class": "外語類,",
-                "students": "國小,高中,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -32423,8 +32423,8 @@
                 "county": "高雄市",
                 "town": "新興區",
                 "village": "建華里",
-                "class": "文理類,",
-                "students": "升四技二專大專"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -32442,8 +32442,8 @@
                 "county": "高雄市",
                 "town": "左營區",
                 "village": "新上里",
-                "class": "文理類,",
-                "students": "國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -32594,8 +32594,8 @@
                 "county": "高雄市",
                 "town": "新興區",
                 "village": "南港里",
-                "class": "外語類,",
-                "students": "國小,國中,高中,學齡前"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -32613,8 +32613,8 @@
                 "county": "高雄市",
                 "town": "鳳山區",
                 "village": "瑞興里",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -32841,8 +32841,8 @@
                 "county": "高雄市",
                 "town": "苓雅區",
                 "village": "林榮里",
-                "class": "文理類,外語類,商類：珠算、心算、會計,",
-                "students": "國小,國中,成人(18歲以上)"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -32860,8 +32860,8 @@
                 "county": "高雄市",
                 "town": "苓雅區",
                 "village": "正心里",
-                "class": "文理類,",
-                "students": "國小,國中,高中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -33202,8 +33202,8 @@
                 "county": "高雄市",
                 "town": "三民區",
                 "village": "安發里",
-                "class": "文理類,",
-                "students": "國小,國中,學齡前"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -33221,8 +33221,8 @@
                 "county": "高雄市",
                 "town": "鳳山區",
                 "village": "新強里",
-                "class": "外語類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -33506,8 +33506,8 @@
                 "county": "高雄市",
                 "town": "小港區",
                 "village": "順苓里",
-                "class": "文理類,",
-                "students": "學齡前,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -33715,8 +33715,8 @@
                 "county": "高雄市",
                 "town": "小港區",
                 "village": "店鎮里",
-                "class": "文理類,音樂、舞蹈類,",
-                "students": "學齡前,國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -33734,8 +33734,8 @@
                 "county": "高雄市",
                 "town": "前鎮區",
                 "village": "民權里",
-                "class": "外語類,",
-                "students": "學齡前"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -34893,8 +34893,8 @@
                 "county": "高雄市",
                 "town": "前鎮區",
                 "village": "盛興里",
-                "class": "音樂、舞蹈類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -34931,8 +34931,8 @@
                 "county": "高雄市",
                 "town": "新興區",
                 "village": "黎明里",
-                "class": "資訊類,",
-                "students": "成人(18歲以上),公職人員考試"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",

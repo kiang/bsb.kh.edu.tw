@@ -484,8 +484,8 @@
                 "county": "新北市",
                 "town": "新莊區",
                 "village": "文衡里",
-                "class": "",
-                "students": ""
+                "class": "音樂、舞蹈類,",
+                "students": "不限年齡"
             },
             "geometry": {
                 "type": "Point",
@@ -503,8 +503,8 @@
                 "county": "新北市",
                 "town": "新店區",
                 "village": "忠誠里",
-                "class": "",
-                "students": ""
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,其他類,",
+                "students": "不限年齡"
             },
             "geometry": {
                 "type": "Point",
@@ -864,8 +864,8 @@
                 "county": "新北市",
                 "town": "永和區",
                 "village": "民治里",
-                "class": "文理類,",
-                "students": "國小、國中、高中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -921,8 +921,8 @@
                 "county": "新北市",
                 "town": "板橋區",
                 "village": "海山里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小以上,3歲以上"
             },
             "geometry": {
                 "type": "Point",
@@ -1377,8 +1377,8 @@
                 "county": "新北市",
                 "town": "土城區",
                 "village": "日和里",
-                "class": "文理類,",
-                "students": "不限年齡"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1396,8 +1396,8 @@
                 "county": "新北市",
                 "town": "蘆洲區",
                 "village": "永樂里",
-                "class": "美術、書法、攝影、美工設計、圍棋類,",
-                "students": "不限年齡"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2042,8 +2042,8 @@
                 "county": "新北市",
                 "town": "板橋區",
                 "village": "長壽里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小、國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2840,8 +2840,8 @@
                 "county": "新北市",
                 "town": "淡水區",
                 "village": "民權里",
-                "class": "",
-                "students": ""
+                "class": "音樂、舞蹈類,",
+                "students": "不限年齡"
             },
             "geometry": {
                 "type": "Point",
@@ -2992,8 +2992,8 @@
                 "county": "新北市",
                 "town": "樹林區",
                 "village": "南園里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小以上"
             },
             "geometry": {
                 "type": "Point",
@@ -3011,8 +3011,8 @@
                 "county": "新北市",
                 "town": "三重區",
                 "village": "中央里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "不限年齡"
             },
             "geometry": {
                 "type": "Point",
@@ -3657,8 +3657,8 @@
                 "county": "新北市",
                 "town": "三重區",
                 "village": "富貴里",
-                "class": "文理類,",
-                "students": "國中~成人"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -5348,8 +5348,8 @@
                 "county": "新北市",
                 "town": "板橋區",
                 "village": "華翠里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "不限年齡"
             },
             "geometry": {
                 "type": "Point",
@@ -6051,8 +6051,8 @@
                 "county": "新北市",
                 "town": "板橋區",
                 "village": "福德里",
-                "class": "",
-                "students": ""
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,商類：珠算、心算、會計,",
+                "students": "國小、國中,不限年齡,1980-10-31"
             },
             "geometry": {
                 "type": "Point",
@@ -7362,8 +7362,8 @@
                 "county": "新北市",
                 "town": "泰山區",
                 "village": "義仁里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "不限年齡(國語2小時、英語7小時、數學2小時、自然2小時、社會2小時)"
             },
             "geometry": {
                 "type": "Point",
@@ -7381,8 +7381,8 @@
                 "county": "新北市",
                 "town": "新莊區",
                 "village": "八德里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中以上"
             },
             "geometry": {
                 "type": "Point",
@@ -7400,8 +7400,8 @@
                 "county": "新北市",
                 "town": "新莊區",
                 "village": "文衡里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "不限年齡(A班17人、B班25人、C班42人、D班23人、E班22人),不限年齡(F班18人、G班46人)"
             },
             "geometry": {
                 "type": "Point",
@@ -8312,8 +8312,8 @@
                 "county": "新北市",
                 "town": "新店區",
                 "village": "寶福里",
-                "class": "文理類,",
-                "students": "3歲以上"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -8331,8 +8331,8 @@
                 "county": "新北市",
                 "town": "三峽區",
                 "village": "鳶山里",
-                "class": "文理類,",
-                "students": "不限年齡"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -8654,8 +8654,8 @@
                 "county": "新北市",
                 "town": "汐止區",
                 "village": "復興里",
-                "class": "文理類,",
-                "students": "一般民眾"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -8673,8 +8673,8 @@
                 "county": "新北市",
                 "town": "永和區",
                 "village": "得和里",
-                "class": "音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "不限年齡,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -8920,8 +8920,8 @@
                 "county": "新北市",
                 "town": "中和區",
                 "village": "枋寮里",
-                "class": "文理類,",
-                "students": "不限年齡(A班14人、B班14人、C班17人、D班17人)"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -9908,8 +9908,8 @@
                 "county": "新北市",
                 "town": "永和區",
                 "village": "永元里",
-                "class": "",
-                "students": ""
+                "class": "音樂、舞蹈類,",
+                "students": "不限年齡"
             },
             "geometry": {
                 "type": "Point",
@@ -10497,8 +10497,8 @@
                 "county": "新北市",
                 "town": "蘆洲區",
                 "village": "永康里",
-                "class": "",
-                "students": ""
+                "class": "音樂、舞蹈類,",
+                "students": "不限年齡"
             },
             "geometry": {
                 "type": "Point",
@@ -10516,8 +10516,8 @@
                 "county": "新北市",
                 "town": "林口區",
                 "village": "湖南里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -11998,8 +11998,8 @@
                 "county": "新北市",
                 "town": "新莊區",
                 "village": "立廷里",
-                "class": "",
-                "students": ""
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "不限年齡"
             },
             "geometry": {
                 "type": "Point",
@@ -12264,8 +12264,8 @@
                 "county": "新北市",
                 "town": "中和區",
                 "village": "壽德里",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "不限年齡,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -12986,8 +12986,8 @@
                 "county": "新北市",
                 "town": "淡水區",
                 "village": "水碓里",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -13043,8 +13043,8 @@
                 "county": "新北市",
                 "town": "新店區",
                 "village": "德安里",
-                "class": "文理類,",
-                "students": "國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -13062,8 +13062,8 @@
                 "county": "新北市",
                 "town": "蘆洲區",
                 "village": "正義里",
-                "class": "文理類,",
-                "students": "國小、國中,不限年齡"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -13328,8 +13328,8 @@
                 "county": "新北市",
                 "town": "三重區",
                 "village": "光明里",
-                "class": "文理類,外語類,",
-                "students": "國中,不限年齡"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -13461,8 +13461,8 @@
                 "county": "新北市",
                 "town": "板橋區",
                 "village": "福祿里",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -14278,8 +14278,8 @@
                 "county": "新北市",
                 "town": "中和區",
                 "village": "錦中里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小、國中、高中(A班53人、B班26人),不限年齡(C班17人、D班17人)"
             },
             "geometry": {
                 "type": "Point",
@@ -14753,8 +14753,8 @@
                 "county": "新北市",
                 "town": "板橋區",
                 "village": "新興里",
-                "class": "",
-                "students": ""
+                "class": "外語類,美術、書法、攝影、美工設計、圍棋類,商類：珠算、心算、會計,",
+                "students": "不限年齡"
             },
             "geometry": {
                 "type": "Point",
@@ -14772,8 +14772,8 @@
                 "county": "新北市",
                 "town": "三峽區",
                 "village": "安溪里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -16026,8 +16026,8 @@
                 "county": "新北市",
                 "town": "中和區",
                 "village": "秀福里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -16558,8 +16558,8 @@
                 "county": "新北市",
                 "town": "土城區",
                 "village": "貨饒里",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國中,無限制"
             },
             "geometry": {
                 "type": "Point",
@@ -16881,8 +16881,8 @@
                 "county": "新北市",
                 "town": "三峽區",
                 "village": "龍恩里",
-                "class": "外語類,",
-                "students": "國小、成人"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -16900,8 +16900,8 @@
                 "county": "新北市",
                 "town": "板橋區",
                 "village": "成和里",
-                "class": "文理類,外語類,",
-                "students": "國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -17375,8 +17375,8 @@
                 "county": "新北市",
                 "town": "三重區",
                 "village": "信安里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "(國中、高中)"
             },
             "geometry": {
                 "type": "Point",
@@ -17394,8 +17394,8 @@
                 "county": "新北市",
                 "town": "樹林區",
                 "village": "南園里",
-                "class": "",
-                "students": ""
+                "class": "音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "不限"
             },
             "geometry": {
                 "type": "Point",
@@ -17603,8 +17603,8 @@
                 "county": "新北市",
                 "town": "八里區",
                 "village": "舊城里",
-                "class": "",
-                "students": ""
+                "class": "外語類,音樂、舞蹈類,",
+                "students": "(不限年齡)"
             },
             "geometry": {
                 "type": "Point",
@@ -17622,8 +17622,8 @@
                 "county": "新北市",
                 "town": "新莊區",
                 "village": "四維里",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國中,不限年齡"
             },
             "geometry": {
                 "type": "Point",
@@ -17774,8 +17774,8 @@
                 "county": "新北市",
                 "town": "板橋區",
                 "village": "溪福里",
-                "class": "",
-                "students": ""
+                "class": "音樂、舞蹈類,",
+                "students": "(一般大眾)"
             },
             "geometry": {
                 "type": "Point",
@@ -18420,8 +18420,8 @@
                 "county": "新北市",
                 "town": "新莊區",
                 "village": "昌隆里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -18439,8 +18439,8 @@
                 "county": "新北市",
                 "town": "新莊區",
                 "village": "昌隆里",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -18591,8 +18591,8 @@
                 "county": "新北市",
                 "town": "泰山區",
                 "village": "新明里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "不限年齡"
             },
             "geometry": {
                 "type": "Point",
@@ -19465,8 +19465,8 @@
                 "county": "新北市",
                 "town": "中和區",
                 "village": "連和里",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國中,(一般大眾)"
             },
             "geometry": {
                 "type": "Point",
@@ -19484,8 +19484,8 @@
                 "county": "新北市",
                 "town": "鶯歌區",
                 "village": "建國里",
-                "class": "",
-                "students": ""
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "(不限)"
             },
             "geometry": {
                 "type": "Point",
@@ -20586,8 +20586,8 @@
                 "county": "新北市",
                 "town": "中和區",
                 "village": "復興里",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "(國小、國中),國中"
             },
             "geometry": {
                 "type": "Point",
@@ -20738,8 +20738,8 @@
                 "county": "新北市",
                 "town": "汐止區",
                 "village": "湖光里",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "幼童至成人"
             },
             "geometry": {
                 "type": "Point",
@@ -20757,8 +20757,8 @@
                 "county": "新北市",
                 "town": "泰山區",
                 "village": "同榮里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -20928,8 +20928,8 @@
                 "county": "新北市",
                 "town": "泰山區",
                 "village": "全興里",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,美術、書法、攝影、美工設計、圍棋類,商類：珠算、心算、會計,",
+                "students": "不限年齡"
             },
             "geometry": {
                 "type": "Point",
@@ -20947,8 +20947,8 @@
                 "county": "新北市",
                 "town": "林口區",
                 "village": "西林里",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "(國小、國中)"
             },
             "geometry": {
                 "type": "Point",
@@ -20966,8 +20966,8 @@
                 "county": "新北市",
                 "town": "板橋區",
                 "village": "福德里",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國小、國中,不限年齡"
             },
             "geometry": {
                 "type": "Point",
@@ -21118,8 +21118,8 @@
                 "county": "新北市",
                 "town": "新莊區",
                 "village": "中原里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中、成人"
             },
             "geometry": {
                 "type": "Point",
@@ -21137,8 +21137,8 @@
                 "county": "新北市",
                 "town": "八里區",
                 "village": "訊塘里",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國中,不限年齡"
             },
             "geometry": {
                 "type": "Point",
@@ -21289,8 +21289,8 @@
                 "county": "新北市",
                 "town": "中和區",
                 "village": "民安里",
-                "class": "",
-                "students": ""
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "其他"
             },
             "geometry": {
                 "type": "Point",
@@ -21460,8 +21460,8 @@
                 "county": "新北市",
                 "town": "三峽區",
                 "village": "中正里",
-                "class": "",
-                "students": ""
+                "class": "文理類,音樂、舞蹈類,",
+                "students": "不限年齡"
             },
             "geometry": {
                 "type": "Point",
@@ -21612,8 +21612,8 @@
                 "county": "新北市",
                 "town": "板橋區",
                 "village": "溪福里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "不限年齡(各6小時),不限年齡(自然6小時、國文2小時)"
             },
             "geometry": {
                 "type": "Point",
@@ -21631,8 +21631,8 @@
                 "county": "新北市",
                 "town": "三重區",
                 "village": "永福里",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,美術、書法、攝影、美工設計、圍棋類,商類：珠算、心算、會計,",
+                "students": "國中,不限年齡"
             },
             "geometry": {
                 "type": "Point",
@@ -21650,8 +21650,8 @@
                 "county": "新北市",
                 "town": "新店區",
                 "village": "大豐里",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小、國中"
             },
             "geometry": {
                 "type": "Point",
@@ -21802,8 +21802,8 @@
                 "county": "新北市",
                 "town": "新店區",
                 "village": "中正里",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國小、國中,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -21954,8 +21954,8 @@
                 "county": "新北市",
                 "town": "土城區",
                 "village": "埤塘里",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國小、成人"
             },
             "geometry": {
                 "type": "Point",
@@ -22372,8 +22372,8 @@
                 "county": "新北市",
                 "town": "新莊區",
                 "village": "昌平里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -24253,8 +24253,8 @@
                 "county": "新北市",
                 "town": "樹林區",
                 "village": "南園里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -24272,8 +24272,8 @@
                 "county": "新北市",
                 "town": "樹林區",
                 "village": "文林里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小、國中、高中"
             },
             "geometry": {
                 "type": "Point",
@@ -24500,8 +24500,8 @@
                 "county": "新北市",
                 "town": "樹林區",
                 "village": "樹西里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中,國四"
             },
             "geometry": {
                 "type": "Point",
@@ -24519,8 +24519,8 @@
                 "county": "新北市",
                 "town": "樹林區",
                 "village": "南園里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "其他"
             },
             "geometry": {
                 "type": "Point",
@@ -24538,8 +24538,8 @@
                 "county": "新北市",
                 "town": "新店區",
                 "village": "安昌里",
-                "class": "",
-                "students": ""
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "其他"
             },
             "geometry": {
                 "type": "Point",
@@ -24690,8 +24690,8 @@
                 "county": "新北市",
                 "town": "淡水區",
                 "village": "幸福里",
-                "class": "",
-                "students": ""
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "其他"
             },
             "geometry": {
                 "type": "Point",
@@ -24709,8 +24709,8 @@
                 "county": "新北市",
                 "town": "三重區",
                 "village": "文化里",
-                "class": "",
-                "students": ""
+                "class": "外語類,資訊類,",
+                "students": "其他"
             },
             "geometry": {
                 "type": "Point",
@@ -26115,8 +26115,8 @@
                 "county": "新北市",
                 "town": "三重區",
                 "village": "福田里",
-                "class": "",
-                "students": ""
+                "class": "外語類,商類：珠算、心算、會計,",
+                "students": "國小,國小、國中"
             },
             "geometry": {
                 "type": "Point",
@@ -26134,8 +26134,8 @@
                 "county": "新北市",
                 "town": "板橋區",
                 "village": "華翠里",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "其他"
             },
             "geometry": {
                 "type": "Point",
@@ -26286,8 +26286,8 @@
                 "county": "新北市",
                 "town": "金山區",
                 "village": "美田里",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -26305,8 +26305,8 @@
                 "county": "新北市",
                 "town": "板橋區",
                 "village": "溪北里",
-                "class": "",
-                "students": ""
+                "class": "文理類,商類：珠算、心算、會計,",
+                "students": "國小以上"
             },
             "geometry": {
                 "type": "Point",
@@ -26590,8 +26590,8 @@
                 "county": "新北市",
                 "town": "新莊區",
                 "village": "立廷里",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "其他"
             },
             "geometry": {
                 "type": "Point",
@@ -26609,8 +26609,8 @@
                 "county": "新北市",
                 "town": "三重區",
                 "village": "錦田里",
-                "class": "",
-                "students": ""
+                "class": "外語類,美術、書法、攝影、美工設計、圍棋類,商類：珠算、心算、會計,",
+                "students": "不限年齡,國小、國中"
             },
             "geometry": {
                 "type": "Point",
@@ -26628,8 +26628,8 @@
                 "county": "新北市",
                 "town": "三重區",
                 "village": "福田里",
-                "class": "",
-                "students": ""
+                "class": "文理類,家政、插花、烹飪類,音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類,其他類,",
+                "students": "不限年齡"
             },
             "geometry": {
                 "type": "Point",
@@ -27217,8 +27217,8 @@
                 "county": "新北市",
                 "town": "樹林區",
                 "village": "南園里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "不限年齡(A班13人、B班12人),不限年齡(A班13人、B班13人、C班40人、D班21人)"
             },
             "geometry": {
                 "type": "Point",
@@ -27977,8 +27977,8 @@
                 "county": "新北市",
                 "town": "汐止區",
                 "village": "復興里",
-                "class": "外語類,資訊類,家政、插花、烹飪類,美容、美髮理髮類,音樂、舞蹈類,",
-                "students": "不限"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -27996,8 +27996,8 @@
                 "county": "新北市",
                 "town": "永和區",
                 "village": "信義里",
-                "class": "文理類,",
-                "students": "成人、高中職"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -29060,8 +29060,8 @@
                 "county": "新北市",
                 "town": "板橋區",
                 "village": "忠翠里",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -29535,8 +29535,8 @@
                 "county": "新北市",
                 "town": "蘆洲區",
                 "village": "正義里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "其他"
             },
             "geometry": {
                 "type": "Point",
@@ -29554,8 +29554,8 @@
                 "county": "新北市",
                 "town": "蘆洲區",
                 "village": "保和里",
-                "class": "",
-                "students": ""
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,商類：珠算、心算、會計,",
+                "students": "不限年齡"
             },
             "geometry": {
                 "type": "Point",
@@ -29801,8 +29801,8 @@
                 "county": "新北市",
                 "town": "新莊區",
                 "village": "民有里",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國小、國中"
             },
             "geometry": {
                 "type": "Point",
@@ -31454,8 +31454,8 @@
                 "county": "新北市",
                 "town": "鶯歌區",
                 "village": "建國里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -31473,8 +31473,8 @@
                 "county": "新北市",
                 "town": "八里區",
                 "village": "舊城里",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,商類：珠算、心算、會計,",
+                "students": "國中,國中、國小"
             },
             "geometry": {
                 "type": "Point",
@@ -35425,8 +35425,8 @@
                 "county": "新北市",
                 "town": "五股區",
                 "village": "貿商里",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -35444,8 +35444,8 @@
                 "county": "新北市",
                 "town": "板橋區",
                 "village": "華翠里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小以上"
             },
             "geometry": {
                 "type": "Point",
@@ -36565,8 +36565,8 @@
                 "county": "新北市",
                 "town": "三峽區",
                 "village": "中埔里",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "其他,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -37040,8 +37040,8 @@
                 "county": "新北市",
                 "town": "淡水區",
                 "village": "水碓里",
-                "class": "",
-                "students": ""
+                "class": "商類：珠算、心算、會計,",
+                "students": "其他"
             },
             "geometry": {
                 "type": "Point",
@@ -37059,8 +37059,8 @@
                 "county": "新北市",
                 "town": "新莊區",
                 "village": "中信里",
-                "class": "",
-                "students": ""
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "其他"
             },
             "geometry": {
                 "type": "Point",
@@ -40669,8 +40669,8 @@
                 "county": "新北市",
                 "town": "板橋區",
                 "village": "陽明里",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國中,不限年齡"
             },
             "geometry": {
                 "type": "Point",
@@ -40688,8 +40688,8 @@
                 "county": "新北市",
                 "town": "三重區",
                 "village": "長泰里",
-                "class": "",
-                "students": ""
+                "class": "文理類,商類：珠算、心算、會計,",
+                "students": "其他"
             },
             "geometry": {
                 "type": "Point",
@@ -41163,8 +41163,8 @@
                 "county": "新北市",
                 "town": "三重區",
                 "village": "富貴里",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -41182,8 +41182,8 @@
                 "county": "新北市",
                 "town": "新莊區",
                 "village": "中港里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "不限年齡"
             },
             "geometry": {
                 "type": "Point",
@@ -42037,8 +42037,8 @@
                 "county": "新北市",
                 "town": "蘆洲區",
                 "village": "永樂里",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "其他"
             },
             "geometry": {
                 "type": "Point",
@@ -43823,8 +43823,8 @@
                 "county": "新北市",
                 "town": "永和區",
                 "village": "得和里",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -43842,8 +43842,8 @@
                 "county": "新北市",
                 "town": "板橋區",
                 "village": "重慶里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "6歲以上"
             },
             "geometry": {
                 "type": "Point",
@@ -44413,7 +44413,7 @@
                 "town": "板橋區",
                 "village": "長壽里",
                 "class": "文理類,外語類,",
-                "students": "國中"
+                "students": "國小以上"
             },
             "geometry": {
                 "type": "Point",
@@ -44697,8 +44697,8 @@
                 "county": "新北市",
                 "town": "蘆洲區",
                 "village": "恆德里",
-                "class": "外語類,商類：珠算、心算、會計,",
-                "students": "其他"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -45742,8 +45742,8 @@
                 "county": "新北市",
                 "town": "新莊區",
                 "village": "龍鳳里",
-                "class": "文理類,",
-                "students": "國中,不限年齡"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -45761,8 +45761,8 @@
                 "county": "新北市",
                 "town": "板橋區",
                 "village": "港尾里",
-                "class": "文理類,外語類,資訊類,",
-                "students": "其他"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -46958,8 +46958,8 @@
                 "county": "新北市",
                 "town": "永和區",
                 "village": "保安里",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "不限年齡,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -47623,8 +47623,8 @@
                 "county": "新北市",
                 "town": "永和區",
                 "village": "上林里",
-                "class": "外語類,",
-                "students": "其他"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -48193,8 +48193,8 @@
                 "county": "新北市",
                 "town": "板橋區",
                 "village": "新翠里",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -48212,8 +48212,8 @@
                 "county": "新北市",
                 "town": "板橋區",
                 "village": "西安里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中以上,不限"
             },
             "geometry": {
                 "type": "Point",
@@ -48250,8 +48250,8 @@
                 "county": "新北市",
                 "town": "新店區",
                 "village": "中正里",
-                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "6歲以上"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -48269,8 +48269,8 @@
                 "county": "新北市",
                 "town": "永和區",
                 "village": "民權里",
-                "class": "文理類,",
-                "students": "不限年齡"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -49390,8 +49390,8 @@
                 "county": "新北市",
                 "town": "新莊區",
                 "village": "榮和里",
-                "class": "文理類,資訊類,",
-                "students": "6歲以上"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -49409,8 +49409,8 @@
                 "county": "新北市",
                 "town": "板橋區",
                 "village": "華德里",
-                "class": "外語類,商類：珠算、心算、會計,",
-                "students": "其他"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -49561,8 +49561,8 @@
                 "county": "新北市",
                 "town": "新莊區",
                 "village": "中平里",
-                "class": "外語類,",
-                "students": "其他"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -49580,8 +49580,8 @@
                 "county": "新北市",
                 "town": "板橋區",
                 "village": "自強里",
-                "class": "外語類,",
-                "students": "其他"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -49770,8 +49770,8 @@
                 "county": "新北市",
                 "town": "中和區",
                 "village": "民生里",
-                "class": "文理類,",
-                "students": "國小、國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -49789,8 +49789,8 @@
                 "county": "新北市",
                 "town": "樹林區",
                 "village": "三福里",
-                "class": "文理類,資訊類,",
-                "students": "其他"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -50074,8 +50074,8 @@
                 "county": "新北市",
                 "town": "永和區",
                 "village": "上林里",
-                "class": "",
-                "students": ""
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "其他"
             },
             "geometry": {
                 "type": "Point",
@@ -50340,8 +50340,8 @@
                 "county": "新北市",
                 "town": "三重區",
                 "village": "培德里",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "其他"
             },
             "geometry": {
                 "type": "Point",
@@ -50473,8 +50473,8 @@
                 "county": "新北市",
                 "town": "淡水區",
                 "village": "協元里",
-                "class": "音樂、舞蹈類,",
-                "students": "國中以上,不限年齡"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -50492,8 +50492,8 @@
                 "county": "新北市",
                 "town": "板橋區",
                 "village": "東丘里",
-                "class": "文理類,外語類,",
-                "students": "國小~高中,不限年齡"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -50758,8 +50758,8 @@
                 "county": "新北市",
                 "town": "板橋區",
                 "village": "松翠里",
-                "class": "外語類,",
-                "students": "其他"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -51670,8 +51670,8 @@
                 "county": "新北市",
                 "town": "永和區",
                 "village": "潭安里",
-                "class": "音樂、舞蹈類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -51689,8 +51689,8 @@
                 "county": "新北市",
                 "town": "三峽區",
                 "village": "介壽里",
-                "class": "文理類,",
-                "students": "其他"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -52297,8 +52297,8 @@
                 "county": "新北市",
                 "town": "中和區",
                 "village": "興南里",
-                "class": "",
-                "students": ""
+                "class": "文理類,商類：珠算、心算、會計,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -52316,8 +52316,8 @@
                 "county": "新北市",
                 "town": "板橋區",
                 "village": "民族里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "其他,國中"
             },
             "geometry": {
                 "type": "Point",

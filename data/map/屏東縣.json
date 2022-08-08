@@ -180,8 +180,8 @@
                 "county": "屏東縣",
                 "town": "東港鎮",
                 "village": "興東里",
-                "class": "文理類,外語類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -313,8 +313,8 @@
                 "county": "屏東縣",
                 "town": "東港鎮",
                 "village": "船頭里",
-                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國小,國中,國小、國中、成人"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1073,8 +1073,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "崇武里",
-                "class": "外語類,",
-                "students": "國中,高中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1985,8 +1985,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "溝美里",
-                "class": "文理類,",
-                "students": "國中,高中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -3011,8 +3011,8 @@
                 "county": "屏東縣",
                 "town": "長治鄉",
                 "village": "崙上村",
-                "class": "文理類,外語類,",
-                "students": "國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -3030,8 +3030,8 @@
                 "county": "屏東縣",
                 "town": "屏東市",
                 "village": "溝美里",
-                "class": "文理類,外語類,",
-                "students": "國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -5462,8 +5462,8 @@
                 "county": "屏東縣",
                 "town": "東港鎮",
                 "village": "興東里",
-                "class": "外語類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
