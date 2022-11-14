@@ -161,8 +161,8 @@
                 "county": "澎湖縣",
                 "town": "湖西鄉",
                 "village": "湖西村",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
