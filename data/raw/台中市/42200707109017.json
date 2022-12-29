@@ -4,8 +4,8 @@
     "補習班名稱": "優迪文教科技股份有限公司附設台中市私立優迪文理短期補習班",
     "補習班英文名稱": "Private you  de         Liberal  Arts\/Science  Program  Short-Term Busiban",
     "補習班類別\/科目": "文理類,",
-    "地址": "豐原區文昌西街66號，66號2樓",
-    "英文地址": "No.66.2F.， No.66， Wenchang W. St.， Fengyuan City， Taichung County 420， Taiwan (R.O.C.)",
+    "地址": "臺中市豐原區文昌西街66號,66號2樓",
+    "英文地址": "No.66.2F., No.66, Wenchang W. St., Fengyuan City, Taichung County 420, Taiwan (R.O.C.)",
     "電話": "(04)25156477",
     "立案情形": "已立案",
     "電話網類別": "",
@@ -58,5 +58,9 @@
             "招生對象": "國小"
         }
     ],
-    "職員工": []
+    "職員工": [
+        "洪芃",
+        "黃湘嫆",
+        "游淳方"
+    ]
 }
