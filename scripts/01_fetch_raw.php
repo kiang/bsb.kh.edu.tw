@@ -1,9 +1,10 @@
 <?php
 require __DIR__ . '/vendor/autoload.php';
 
-use Goutte\Client;
+use Symfony\Component\BrowserKit\HttpBrowser;
+use Symfony\Component\HttpClient\HttpClient;
 
-$client = new Client();
+$browser = new HttpBrowser(HttpClient::create());
 
 $cities = [
     '24' => '基隆市', '20' => '台北市', '21' => '新北市', '33' => '桃園市', '35' => '新竹市', '36' => '新竹縣',
@@ -18,12 +19,12 @@ if (!file_exists($rawPath)) {
 foreach ($cities as $code => $city) {
     $fh = fopen($rawPath . '/' . $city . '.csv', 'w');
     fputcsv($fh, ['代號', '補習班', '班址', '電話', '立案文號', '立案日期']);
-    $client->request('GET', "https://bsb.kh.edu.tw/afterschool/?usercity={$code}");
+    $browser->request('GET', "https://bsb.kh.edu.tw/afterschool/?usercity={$code}");
     $pageTotal = 1;
     $pageTotalDone = false;
     for ($i = 1; $i <= $pageTotal; $i++) {
-        $client->request('GET', "https://bsb.kh.edu.tw/afterschool/register/showpage.jsp?pageno={$i}&p_road=&p_name=&e_name=&p_area=&p_type=&di=&estab=&start_year=&start_month=&start_day=&end_year=&end_month=&end_day=&p_range=on&citylink={$code}");
-        $rawHtml = $client->getResponse()->getContent();
+        $browser->request('GET', "https://bsb.kh.edu.tw/afterschool/register/showpage.jsp?pageno={$i}&p_road=&p_name=&e_name=&p_area=&p_type=&di=&estab=&start_year=&start_month=&start_day=&end_year=&end_month=&end_day=&p_range=on&citylink={$code}");
+        $rawHtml = $browser->getResponse()->getContent();
         if (false === $pageTotalDone) {
             $pageTotalDone = true;
             $pos = strpos($rawHtml, '共 <font color="#D00000">');

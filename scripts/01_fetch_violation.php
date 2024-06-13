@@ -1,9 +1,10 @@
 <?php
 require __DIR__ . '/vendor/autoload.php';
 
-use Goutte\Client;
+use Symfony\Component\BrowserKit\HttpBrowser;
+use Symfony\Component\Httpbrowser\Httpbrowser;
 
-$client = new Client();
+$browser = new HttpBrowser(Httpbrowser::create());
 
 $cities = [
     '24' => '基隆市', '20' => '台北市', '21' => '新北市', '33' => '桃園市', '35' => '新竹市', '36' => '新竹縣',
@@ -30,9 +31,9 @@ foreach ($cities as $code => $city) {
         fputcsv($fh, ['序號', '補習班名稱', '稽查日期', '班址', '違規情形', '處理情形', '發文日期', '發文字號']);
     }
 
-    $client->request('GET', "https://bsb.kh.edu.tw/afterschool/?usercity={$code}&violation=true");
-    $client->request('GET', "https://bsb.kh.edu.tw/afterschool/violate/print_check_board.jsp?pageno=1&unit=&area=&road=&start_date=1980-01-01&end_date={$today}&pnt=2");
-    $rawHtml = $client->getResponse()->getContent();
+    $browser->request('GET', "https://bsb.kh.edu.tw/afterschool/?usercity={$code}&violation=true");
+    $browser->request('GET', "https://bsb.kh.edu.tw/afterschool/violate/print_check_board.jsp?pageno=1&unit=&area=&road=&start_date=1980-01-01&end_date={$today}&pnt=2");
+    $rawHtml = $browser->getResponse()->getContent();
     $lines = explode('</tr>', $rawHtml);
     foreach ($lines as $line) {
         $cols = explode('</td>', $line);
