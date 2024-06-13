@@ -1,6 +1,5 @@
 <?php
-$basePath = __DIR__;
-$config = require $basePath . '/config.php';
+$basePath = dirname(__DIR__);
 $rawPath = $basePath . '/data/geocoding';
 if (!file_exists($rawPath)) {
     mkdir($rawPath, 0777, true);
@@ -21,6 +20,7 @@ $tr = [
 $missingFh = fopen($basePath . '/data/missing.csv', 'w');
 foreach (glob($basePath . '/data/raw/*.csv') as $csvFile) {
     $p = pathinfo($csvFile);
+    $city = $p['filename'];
     $detailPath = $basePath . '/data/raw/' . $p['filename'];
     $fh = fopen($csvFile, 'r');
     $head = fgetcsv($fh, 2048);
@@ -99,8 +99,8 @@ EOD;
             $json = json_decode(file_get_contents($jsonFile), true);
         }
         if (!empty($json['AddressList'][0]['X'])) {
-            if (!isset($cityFc[$json['AddressList'][0]['COUNTY']])) {
-                $cityFc[$json['AddressList'][0]['COUNTY']] = $fc;
+            if (!isset($cityFc[$city])) {
+                $cityFc[$city] = $fc;
             }
             $targets = [];
             $detailFile = $detailPath . '/' . $data['代號'] . '.json';
@@ -110,14 +110,12 @@ EOD;
                     $targets[$item['招生對象']] = true;
                 }
             }
-            $cityFc[$json['AddressList'][0]['COUNTY']]['features'][] = [
+            $cityFc[$city]['features'][] = [
                 'type' => 'Feature',
                 'properties' => [
                     'code' => $data['代號'],
                     'name' => $data['補習班'],
-                    'county' => $json['AddressList'][0]['COUNTY'],
-                    'town' => $json['AddressList'][0]['TOWN'],
-                    'village' => $json['AddressList'][0]['VILLAGE'],
+                    'county' => $city,
                     'class' => isset($detail['補習班類別/科目']) ? $detail['補習班類別/科目'] : '',
                     'students' => implode(',', array_keys($targets)),
                 ],
