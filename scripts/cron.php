@@ -6,6 +6,7 @@ $now = date('Y-m-d H:i:s');
 exec("cd {$rootPath} && /usr/bin/git pull");
 
 exec("php -q {$rootPath}/scripts/01_fetch_raw.php");
+exec("php -q {$rootPath}/scripts/01_fetch_violation.php");
 exec("php -q {$rootPath}/scripts/01_fetch_detail.php");
 exec("php -q {$rootPath}/scripts/03_geocoding.php");
 
