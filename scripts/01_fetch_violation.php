@@ -2,9 +2,9 @@
 require __DIR__ . '/vendor/autoload.php';
 
 use Symfony\Component\BrowserKit\HttpBrowser;
-use Symfony\Component\Httpbrowser\Httpbrowser;
+use Symfony\Component\HttpClient\HttpClient;
 
-$browser = new HttpBrowser(Httpbrowser::create());
+$browser = new HttpBrowser(HttpClient::create(['verify_peer' => false, 'verify_host' => false]));
 
 $cities = [
     '24' => '基隆市', '20' => '台北市', '21' => '新北市', '33' => '桃園市', '35' => '新竹市', '36' => '新竹縣',
@@ -17,6 +17,7 @@ $rawPath = dirname(__DIR__) . '/data/violation';
 if (!file_exists($rawPath)) {
     mkdir($rawPath, 0777, true);
 }
+$sleepCount = 0;
 foreach ($cities as $code => $city) {
     $targetFile = $rawPath . '/' . $city . '.csv';
     $codePool = [];
@@ -33,6 +34,10 @@ foreach ($cities as $code => $city) {
 
     $browser->request('GET', "https://bsb.kh.edu.tw/afterschool/?usercity={$code}&violation=true");
     $browser->request('GET', "https://bsb.kh.edu.tw/afterschool/violate/print_check_board.jsp?pageno=1&unit=&area=&road=&start_date=1980-01-01&end_date={$today}&pnt=2");
+    if (++$sleepCount > 5) {
+        $sleepCount = 0;
+        sleep(1);
+    }
     $rawHtml = $browser->getResponse()->getContent();
     $lines = explode('</tr>', $rawHtml);
     foreach ($lines as $line) {
@@ -42,7 +47,7 @@ foreach ($cities as $code => $city) {
             foreach ($cols as $k => $v) {
                 $cols[$k] = trim(strip_tags($v));
             }
-            if(!isset($codePool[$cols[7]])) {
+            if (!isset($codePool[$cols[7]])) {
                 fputcsv($fh, $cols);
             }
         }
