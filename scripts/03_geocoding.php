@@ -1,5 +1,5 @@
 <?php
-$basePath = dirname(__DIR__);
+$basePath = __DIR__;
 $config = require $basePath . '/config.php';
 $rawPath = $basePath . '/data/geocoding';
 if (!file_exists($rawPath)) {
