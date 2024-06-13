@@ -7,8 +7,8 @@
                 "code": "69202403190001",
                 "name": "私立三之三才藝短期補習班",
                 "county": "澎湖縣",
-                "class": "音樂、舞蹈類,",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -24,8 +24,8 @@
                 "code": "69202401090001",
                 "name": "私立鹿鳴美術短期補習班",
                 "county": "澎湖縣",
-                "class": "音樂、舞蹈類,",
-                "students": ""
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "未填寫"
             },
             "geometry": {
                 "type": "Point",
@@ -41,7 +41,7 @@
                 "code": "69202302130001",
                 "name": "私立萌芽短期補習班",
                 "county": "澎湖縣",
-                "class": "音樂、舞蹈類,",
+                "class": "",
                 "students": ""
             },
             "geometry": {
@@ -58,8 +58,8 @@
                 "code": "69202212090001",
                 "name": "私立美語習塾短期補習班",
                 "county": "澎湖縣",
-                "class": "音樂、舞蹈類,",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小、國中、高中"
             },
             "geometry": {
                 "type": "Point",
@@ -75,8 +75,8 @@
                 "code": "69202206110001",
                 "name": "私立企鵝家族文理短期補習班",
                 "county": "澎湖縣",
-                "class": "音樂、舞蹈類,",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -92,8 +92,8 @@
                 "code": "69202201060001",
                 "name": "私立典典文理短期補習班",
                 "county": "澎湖縣",
-                "class": "音樂、舞蹈類,",
-                "students": ""
+                "class": "文理類,",
+                "students": "學齡前、國小、國中、高中"
             },
             "geometry": {
                 "type": "Point",
@@ -109,8 +109,8 @@
                 "code": "69202107290001",
                 "name": "私立愛彌兒短期補習班",
                 "county": "澎湖縣",
-                "class": "文理類,外語類,",
-                "students": "國小、國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -126,8 +126,8 @@
                 "code": "69202102170001",
                 "name": "私立艾妮塔英文短期補習班",
                 "county": "澎湖縣",
-                "class": "外語類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -143,8 +143,8 @@
                 "code": "69201505290001",
                 "name": "私立舒飛美語文理短期補習班",
                 "county": "澎湖縣",
-                "class": "外語類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -262,8 +262,8 @@
                 "code": "69200806200001",
                 "name": "私立立德文理短期補習班",
                 "county": "澎湖縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小、國中"
             },
             "geometry": {
                 "type": "Point",
@@ -313,8 +313,8 @@
                 "code": "69200608180002",
                 "name": "私立皓學文理短期補習班",
                 "county": "澎湖縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -330,8 +330,8 @@
                 "code": "69200608180001",
                 "name": "私立宥朝短期補習班",
                 "county": "澎湖縣",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -364,8 +364,8 @@
                 "code": "69200604040001",
                 "name": "私立小米菓短期補習班",
                 "county": "澎湖縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -381,8 +381,8 @@
                 "code": "69200406170001",
                 "name": "私立惠安文理短期補習班",
                 "county": "澎湖縣",
-                "class": "文理類,",
-                "students": "其他"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -415,8 +415,8 @@
                 "code": "69200207180001",
                 "name": "私立龍之堡英語短期補習班",
                 "county": "澎湖縣",
-                "class": "外語類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -432,8 +432,8 @@
                 "code": "69200206110003",
                 "name": "私立以馬內利美語短期補習班",
                 "county": "澎湖縣",
-                "class": "外語類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -449,8 +449,8 @@
                 "code": "69200206270002",
                 "name": "智基科技開發股份有限公司附設私立志光法商文理短期補習班",
                 "county": "澎湖縣",
-                "class": "法政類,",
-                "students": "成人(18歲以上)"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",

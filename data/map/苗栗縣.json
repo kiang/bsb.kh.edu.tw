@@ -7,8 +7,8 @@
                 "code": "37202404090001",
                 "name": "苗栗縣私立竹軒技藝短期補習班",
                 "county": "苗栗縣",
-                "class": "美容、美髮理髮類,",
-                "students": ""
+                "class": "音樂、舞蹈類,",
+                "students": "國小,國中,成人(18歲以上),學齡前"
             },
             "geometry": {
                 "type": "Point",
@@ -24,8 +24,8 @@
                 "code": "37202403250001",
                 "name": "苗栗縣私立小荳荳文理技藝短期補習班后庄分班",
                 "county": "苗栗縣",
-                "class": "美容、美髮理髮類,",
-                "students": ""
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -41,8 +41,8 @@
                 "code": "37202403050001",
                 "name": "苗栗縣私立金星教育文理短期補習班",
                 "county": "苗栗縣",
-                "class": "美容、美髮理髮類,",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -58,8 +58,8 @@
                 "code": "37202402270001",
                 "name": "苗栗縣私立紅人奕禾才藝文理短期補習班",
                 "county": "苗栗縣",
-                "class": "美容、美髮理髮類,",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -75,8 +75,8 @@
                 "code": "37202402260001",
                 "name": "苗栗縣私立格林文理短期補習班",
                 "county": "苗栗縣",
-                "class": "美容、美髮理髮類,",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,學齡前"
             },
             "geometry": {
                 "type": "Point",
@@ -92,8 +92,8 @@
                 "code": "37202402170001",
                 "name": "苗栗縣私立博丞文理短期補習班",
                 "county": "苗栗縣",
-                "class": "美容、美髮理髮類,",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -109,8 +109,8 @@
                 "code": "37202402150001",
                 "name": "苗栗縣私立迪仕尼文理短期補習班",
                 "county": "苗栗縣",
-                "class": "美容、美髮理髮類,",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -126,8 +126,8 @@
                 "code": "37202401250001",
                 "name": "苗栗縣私立大樹文理短期補習班",
                 "county": "苗栗縣",
-                "class": "美容、美髮理髮類,",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -143,8 +143,8 @@
                 "code": "37202401030001",
                 "name": "苗栗縣私立誠曜文理技藝短期補習班",
                 "county": "苗栗縣",
-                "class": "美容、美髮理髮類,",
-                "students": ""
+                "class": "文理類,商類：珠算、心算、會計,",
+                "students": "國中,國小,學齡前"
             },
             "geometry": {
                 "type": "Point",
@@ -160,8 +160,8 @@
                 "code": "37202311280001",
                 "name": "苗栗縣私立雨豆文理技藝短期補習班",
                 "county": "苗栗縣",
-                "class": "美容、美髮理髮類,",
-                "students": ""
+                "class": "文理類,資訊類,",
+                "students": "學齡前,國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -177,8 +177,8 @@
                 "code": "37202311280002",
                 "name": "苗栗縣私立樂享文理技藝短期補習班",
                 "county": "苗栗縣",
-                "class": "美容、美髮理髮類,",
-                "students": ""
+                "class": "文理類,資訊類,",
+                "students": "學齡前,國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -194,8 +194,8 @@
                 "code": "37202308170001",
                 "name": "苗栗縣私立澳森堡文理短期補習班",
                 "county": "苗栗縣",
-                "class": "美容、美髮理髮類,",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -211,8 +211,8 @@
                 "code": "37202308150001",
                 "name": "苗栗縣私立伊頓文理技藝短期補習班平新分校",
                 "county": "苗栗縣",
-                "class": "美容、美髮理髮類,",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國中,國小,學齡前"
             },
             "geometry": {
                 "type": "Point",
@@ -228,8 +228,8 @@
                 "code": "37202302090001",
                 "name": "苗栗縣私立廣學文理技藝短期補習班",
                 "county": "苗栗縣",
-                "class": "美容、美髮理髮類,",
-                "students": ""
+                "class": "文理類,縫紉類,音樂、舞蹈類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -245,8 +245,8 @@
                 "code": "37202212230001",
                 "name": "苗栗縣私立欣欣文理短期補習班",
                 "county": "苗栗縣",
-                "class": "美容、美髮理髮類,",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -262,8 +262,8 @@
                 "code": "37202211180001",
                 "name": "苗栗縣私立拉曼文理短期補習班",
                 "county": "苗栗縣",
-                "class": "美容、美髮理髮類,",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -279,7 +279,7 @@
                 "code": "37202210240002",
                 "name": "苗栗縣私立樂童教育文理短期補習班",
                 "county": "苗栗縣",
-                "class": "美容、美髮理髮類,",
+                "class": "",
                 "students": ""
             },
             "geometry": {
@@ -296,7 +296,7 @@
                 "code": "37202210240001",
                 "name": "苗栗縣私立探索國際村文理短期補習班",
                 "county": "苗栗縣",
-                "class": "美容、美髮理髮類,",
+                "class": "",
                 "students": ""
             },
             "geometry": {
@@ -313,7 +313,7 @@
                 "code": "37202206210002",
                 "name": "苗栗縣私立特色文教文理短期補習班",
                 "county": "苗栗縣",
-                "class": "美容、美髮理髮類,",
+                "class": "",
                 "students": ""
             },
             "geometry": {
@@ -330,7 +330,7 @@
                 "code": "37202205260001",
                 "name": "苗栗縣私立薇風文理短期補習班",
                 "county": "苗栗縣",
-                "class": "美容、美髮理髮類,",
+                "class": "",
                 "students": ""
             },
             "geometry": {
@@ -347,8 +347,8 @@
                 "code": "37202205230001",
                 "name": "苗栗縣私立知新學苑文理短期補習班",
                 "county": "苗栗縣",
-                "class": "美容、美髮理髮類,",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -364,8 +364,8 @@
                 "code": "37202205020001",
                 "name": "萬德福國際有限公司附設苗栗縣私立奇毅文理短期補習班",
                 "county": "苗栗縣",
-                "class": "美容、美髮理髮類,",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中小"
             },
             "geometry": {
                 "type": "Point",
@@ -381,8 +381,8 @@
                 "code": "37202202070001",
                 "name": "苗栗縣私立冠群文理短期補習班",
                 "county": "苗栗縣",
-                "class": "美容、美髮理髮類,",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -398,8 +398,8 @@
                 "code": "37202201100001",
                 "name": "苗栗縣私立在勝文理短期補習班",
                 "county": "苗栗縣",
-                "class": "美容、美髮理髮類,",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -415,8 +415,8 @@
                 "code": "37202112220001",
                 "name": "苗栗縣私立鍾碩數理文理短期補習班自治分班",
                 "county": "苗栗縣",
-                "class": "美容、美髮理髮類,",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -432,8 +432,8 @@
                 "code": "37202112060001",
                 "name": "苗栗縣私立文昌思考教育文理短期補習班",
                 "county": "苗栗縣",
-                "class": "美容、美髮理髮類,",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -449,8 +449,8 @@
                 "code": "37202111090001",
                 "name": "苗栗縣私立科堤文理短期補習班",
                 "county": "苗栗縣",
-                "class": "美容、美髮理髮類,",
-                "students": ""
+                "class": "文理類,",
+                "students": "學齡前,國中,高中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -466,7 +466,7 @@
                 "code": "37202110270001",
                 "name": "苗栗縣私立楊明哲璦美語聯盟文理短期補習班",
                 "county": "苗栗縣",
-                "class": "美容、美髮理髮類,",
+                "class": "",
                 "students": ""
             },
             "geometry": {
@@ -483,7 +483,7 @@
                 "code": "37202109110001",
                 "name": "苗栗縣私立芝麻村文理短期補習班",
                 "county": "苗栗縣",
-                "class": "美容、美髮理髮類,",
+                "class": "",
                 "students": ""
             },
             "geometry": {
@@ -500,8 +500,8 @@
                 "code": "37202108060001",
                 "name": "苗栗縣私立葛萊芬多雙語科學實作教育文理短期補習班",
                 "county": "苗栗縣",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -517,8 +517,8 @@
                 "code": "37202107190001",
                 "name": "苗栗縣私立教詳文理技藝短期補習班",
                 "county": "苗栗縣",
-                "class": "文理類,家政、插花、烹飪類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國中小,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -534,8 +534,8 @@
                 "code": "37202107160001",
                 "name": "苗栗縣私立好好共學文理技藝短期補習班",
                 "county": "苗栗縣",
-                "class": "文理類,資訊類,",
-                "students": "國小,國中小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -619,8 +619,8 @@
                 "code": "37202105120003",
                 "name": "苗栗縣私立辰功教育機構文理短期補習班",
                 "county": "苗栗縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -636,8 +636,8 @@
                 "code": "37202104150001",
                 "name": "苗栗縣私立小荳荳文理技藝短期補習班新南分班",
                 "county": "苗栗縣",
-                "class": "文理類,瑜珈類,",
-                "students": "國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -653,8 +653,8 @@
                 "code": "37202103140001",
                 "name": "苗栗縣私立泰龍文理短期補習班",
                 "county": "苗栗縣",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -670,8 +670,8 @@
                 "code": "37202012070002",
                 "name": "苗栗縣私立WE文理短期補習班",
                 "county": "苗栗縣",
-                "class": "文理類,",
-                "students": "國小,國高中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -789,8 +789,8 @@
                 "code": "37202006030002",
                 "name": "苗栗縣私立大業文理短期補習班",
                 "county": "苗栗縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -806,8 +806,8 @@
                 "code": "37202005210001",
                 "name": "易群文教事業有限公司附設苗栗縣私立易群文理技藝短期補習班",
                 "county": "苗栗縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -823,8 +823,8 @@
                 "code": "37202003240001",
                 "name": "萬德福國際有限公司附設苗栗縣私立奇芯文理短期補習班",
                 "county": "苗栗縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -840,8 +840,8 @@
                 "code": "37202003240002",
                 "name": "苗栗縣私立奇葳文理短期補習班",
                 "county": "苗栗縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "高中,國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1010,8 +1010,8 @@
                 "code": "37201904260001",
                 "name": "苗栗縣私立ABC ZONE文理技藝短期補習班",
                 "county": "苗栗縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國中小"
             },
             "geometry": {
                 "type": "Point",
@@ -1197,8 +1197,8 @@
                 "code": "37201710110001",
                 "name": "社團法人中國青年救國團附設苗栗縣私立救國團文理技藝短期補習班(苗栗班)",
                 "county": "苗栗縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,音樂、舞蹈類,瑜珈類,",
+                "students": "成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
@@ -1214,8 +1214,8 @@
                 "code": "37201710020001",
                 "name": "苗栗縣私立三義名人文理短期補習班",
                 "county": "苗栗縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1231,8 +1231,8 @@
                 "code": "37201709250001",
                 "name": "苗栗縣私立光華文理短期補習班",
                 "county": "苗栗縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1299,8 +1299,8 @@
                 "code": "37201702080001",
                 "name": "苗栗縣私立明昌文理短期補習班",
                 "county": "苗栗縣",
-                "class": "文理類,",
-                "students": "國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1316,8 +1316,8 @@
                 "code": "37201612290001",
                 "name": "苗栗縣私立劉老師文理短期補習班",
                 "county": "苗栗縣",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1350,8 +1350,8 @@
                 "code": "37201607280001",
                 "name": "苗栗縣私立莊鎮文理短期補習班忠孝分班",
                 "county": "苗栗縣",
-                "class": "文理類,",
-                "students": "國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1418,8 +1418,8 @@
                 "code": "37201512220001",
                 "name": "苗栗縣私立佳音英語文理短期補習班",
                 "county": "苗栗縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "6-18歲"
             },
             "geometry": {
                 "type": "Point",
@@ -1503,8 +1503,8 @@
                 "code": "37201411200001",
                 "name": "苗栗縣私立美格林技藝文理短期補習班",
                 "county": "苗栗縣",
-                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1520,8 +1520,8 @@
                 "code": "37200206112186",
                 "name": "苗栗縣私立英美師德文理短期補習班",
                 "county": "苗栗縣",
-                "class": "文理類,外語類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1537,8 +1537,8 @@
                 "code": "37200206112150",
                 "name": "苗栗縣私立文昌文理短期補習班",
                 "county": "苗栗縣",
-                "class": "文理類,",
-                "students": "國中,高中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1554,8 +1554,8 @@
                 "code": "37201406230001",
                 "name": "苗栗縣私立Hugo語果共學中心文理短期補習班",
                 "county": "苗栗縣",
-                "class": "外語類,",
-                "students": "國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1571,8 +1571,8 @@
                 "code": "37201206140001",
                 "name": "苗栗縣私立123文理短期補習班",
                 "county": "苗栗縣",
-                "class": "文理類,外語類,",
-                "students": "國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1588,8 +1588,8 @@
                 "code": "37200309020016",
                 "name": "苗栗縣私立家偉文理短期補習班",
                 "county": "苗栗縣",
-                "class": "文理類,外語類,",
-                "students": "國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1656,8 +1656,8 @@
                 "code": "37200907210001",
                 "name": "苗栗縣私立俊揚文理短期補習班",
                 "county": "苗栗縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1673,8 +1673,8 @@
                 "code": "37200206110063",
                 "name": "苗栗縣私立青青文理短期補習班",
                 "county": "苗栗縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1690,8 +1690,8 @@
                 "code": "37201311120001",
                 "name": "苗栗縣私立至聖文理短期補習班",
                 "county": "苗栗縣",
-                "class": "文理類,",
-                "students": "國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1741,8 +1741,8 @@
                 "code": "37201308290001",
                 "name": "苗栗縣私立吳苗琪技藝文理短期補習班",
                 "county": "苗栗縣",
-                "class": "文理類,資訊類,美術、書法、攝影、美工設計、圍棋類,商類：珠算、心算、會計,",
-                "students": "3歲以上,國中小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1928,8 +1928,8 @@
                 "code": "37200206110093",
                 "name": "苗栗縣私立小太陽文理短期補習班",
                 "county": "苗栗縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1962,8 +1962,8 @@
                 "code": "37201201040002",
                 "name": "苗栗縣私立立佳文理短期補習班",
                 "county": "苗栗縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1979,8 +1979,8 @@
                 "code": "37200712070001",
                 "name": "苗栗縣私立愛尼爾文理短期補習班",
                 "county": "苗栗縣",
-                "class": "文理類,外語類,商類：珠算、心算、會計,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1996,8 +1996,8 @@
                 "code": "37201301210001",
                 "name": "苗栗縣私立慕夏美術技藝短期補習班",
                 "county": "苗栗縣",
-                "class": "美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2047,8 +2047,8 @@
                 "code": "37201209030001",
                 "name": "苗栗縣私立晨星文理短期補習班",
                 "county": "苗栗縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2064,8 +2064,8 @@
                 "code": "37201212100001",
                 "name": "苗栗縣私立宥成文理短期補習班",
                 "county": "苗栗縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中,高中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2098,8 +2098,8 @@
                 "code": "37201209070001",
                 "name": "苗栗縣私立波力美語文理短期補習班",
                 "county": "苗栗縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2115,8 +2115,8 @@
                 "code": "37201209030002",
                 "name": "苗栗縣私立博學美語技藝短期補習班",
                 "county": "苗栗縣",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2217,8 +2217,8 @@
                 "code": "37201204200003",
                 "name": "苗栗縣私立學立美語珠心算技藝短期補習班",
                 "county": "苗栗縣",
-                "class": "外語類,商類：珠算、心算、會計,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2234,8 +2234,8 @@
                 "code": "37201104130001",
                 "name": "苗栗縣私立多倫多文理短期補習班",
                 "county": "苗栗縣",
-                "class": "文理類,",
-                "students": "國小,國中,學齡前"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2268,8 +2268,8 @@
                 "code": "37201203130001",
                 "name": "苗栗縣私立名仁珠心算技藝短期補習班",
                 "county": "苗栗縣",
-                "class": "商類：珠算、心算、會計,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2285,8 +2285,8 @@
                 "code": "37201406120001",
                 "name": "苗栗縣私立立達文理短期補習班",
                 "county": "苗栗縣",
-                "class": "外語類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2319,8 +2319,8 @@
                 "code": "37200309020013",
                 "name": "苗栗縣私立翰林文理短期補習班",
                 "county": "苗栗縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2455,8 +2455,8 @@
                 "code": "37201111020001",
                 "name": "苗栗縣私立學立文理短期補習班",
                 "county": "苗栗縣",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2472,8 +2472,8 @@
                 "code": "37200605110001",
                 "name": "苗栗縣私立超強文理短期補習班",
                 "county": "苗栗縣",
-                "class": "文理類,",
-                "students": "高中,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2727,8 +2727,8 @@
                 "code": "37201102110002",
                 "name": "苗栗縣私立揚名文理短期補習班",
                 "county": "苗栗縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2999,8 +2999,8 @@
                 "code": "37200912250001",
                 "name": "苗栗縣私立博文文理短期補習班",
                 "county": "苗栗縣",
-                "class": "文理類,",
-                "students": "國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -3033,8 +3033,8 @@
                 "code": "37200309010003",
                 "name": "苗栗縣私立艾佳文理短期補習班",
                 "county": "苗栗縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3050,8 +3050,8 @@
                 "code": "37200908240001",
                 "name": "苗栗縣私立富瑞爾文理短期補習班君毅分班",
                 "county": "苗栗縣",
-                "class": "文理類,",
-                "students": "國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -3067,8 +3067,8 @@
                 "code": "37200908240003",
                 "name": "苗栗縣私立寶貝熊音樂技藝短期補習班",
                 "county": "苗栗縣",
-                "class": "",
-                "students": ""
+                "class": "音樂、舞蹈類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3084,8 +3084,8 @@
                 "code": "37200907170001",
                 "name": "苗栗縣私立博士文理短期補習班",
                 "county": "苗栗縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3101,8 +3101,8 @@
                 "code": "37200907060001",
                 "name": "台灣知識庫股份有限公司附設苗栗縣私立數位學堂文理短期補習班",
                 "county": "苗栗縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "研究所"
             },
             "geometry": {
                 "type": "Point",
@@ -3271,8 +3271,8 @@
                 "code": "37200206112147",
                 "name": "苗栗縣私立育昇珠心算技藝短期補習班",
                 "county": "苗栗縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,商類：珠算、心算、會計,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3288,8 +3288,8 @@
                 "code": "37200903050001",
                 "name": "苗栗縣私立大和美語技藝短期補習班",
                 "county": "苗栗縣",
-                "class": "外語類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -3305,8 +3305,8 @@
                 "code": "37200709170001",
                 "name": "苗栗縣私立錞樂技藝短期補習班",
                 "county": "苗栗縣",
-                "class": "音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -3322,8 +3322,8 @@
                 "code": "37200701090001",
                 "name": "苗栗縣私立鼓動音樂技藝短期補習班",
                 "county": "苗栗縣",
-                "class": "音樂、舞蹈類,",
-                "students": "國小,成人(18歲以上),學齡前"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -3526,8 +3526,8 @@
                 "code": "37200806020002",
                 "name": "苗栗縣私立喬昱文理短期補習班",
                 "county": "苗栗縣",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3543,8 +3543,8 @@
                 "code": "37200308280001",
                 "name": "苗栗縣私立丹尼爾美語技藝短期補習班",
                 "county": "苗栗縣",
-                "class": "外語類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -3560,8 +3560,8 @@
                 "code": "37200804070002",
                 "name": "苗栗縣私立金和絃音樂技藝短期補習班",
                 "county": "苗栗縣",
-                "class": "音樂、舞蹈類,",
-                "students": "國小,不限"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -3696,8 +3696,8 @@
                 "code": "37200312100001",
                 "name": "苗栗縣私立中正文理短期補習班",
                 "county": "苗栗縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3866,8 +3866,8 @@
                 "code": "37200403170002",
                 "name": "苗栗縣私立勁學文理短期補習班",
                 "county": "苗栗縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -3883,8 +3883,8 @@
                 "code": "37200703270001",
                 "name": "苗栗縣私立慧昌美語音樂技藝短期補習班",
                 "county": "苗栗縣",
-                "class": "",
-                "students": ""
+                "class": "外語類,音樂、舞蹈類,",
+                "students": "國中,高中,成人(18歲以上),學齡前,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -4002,8 +4002,8 @@
                 "code": "37200206112158",
                 "name": "苗栗縣私立育碩文理短期補習班",
                 "county": "苗栗縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,商類：珠算、心算、會計,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -4172,8 +4172,8 @@
                 "code": "37200605010001",
                 "name": "苗栗縣私立道爾敦文理短期補習班",
                 "county": "苗栗縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -4206,8 +4206,8 @@
                 "code": "37200601260001",
                 "name": "智基科技開發股份有限公司附設苗栗縣私立志光法商文理短期補習班（苗栗班）",
                 "county": "苗栗縣",
-                "class": "文理類,",
-                "students": "公職人員考試,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -4240,8 +4240,8 @@
                 "code": "37200511230001",
                 "name": "苗栗縣私立首席珠心算美語技藝短期補習班",
                 "county": "苗栗縣",
-                "class": "外語類,商類：珠算、心算、會計,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -4257,8 +4257,8 @@
                 "code": "37200510200001",
                 "name": "苗栗縣私立葉老師珠心算美語技藝短期補習班",
                 "county": "苗栗縣",
-                "class": "商類：珠算、心算、會計,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -4274,8 +4274,8 @@
                 "code": "37200510070001",
                 "name": "苗栗縣私立學淵文理短期補習班",
                 "county": "苗栗縣",
-                "class": "文理類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -4359,8 +4359,8 @@
                 "code": "37200504120001",
                 "name": "苗栗縣私立大樹美語技藝短期補習班",
                 "county": "苗栗縣",
-                "class": "外語類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -4376,8 +4376,8 @@
                 "code": "37200502140001",
                 "name": "苗栗縣私立米妮技藝文理短期補習班",
                 "county": "苗栗縣",
-                "class": "文理類,資訊類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -4529,8 +4529,8 @@
                 "code": "37200206110059",
                 "name": "苗栗縣私立青年文理短期補習班",
                 "county": "苗栗縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -4546,8 +4546,8 @@
                 "code": "37200206112121",
                 "name": "苗栗縣私立拓耕文理短期補習班",
                 "county": "苗栗縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -4648,8 +4648,8 @@
                 "code": "37200206112117",
                 "name": "苗栗縣私立維多利亞文理短期補習班",
                 "county": "苗栗縣",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -4665,8 +4665,8 @@
                 "code": "37200206112136",
                 "name": "苗栗縣私立育苗文理短期補習班",
                 "county": "苗栗縣",
-                "class": "",
-                "students": ""
+                "class": "商類：珠算、心算、會計,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -4682,8 +4682,8 @@
                 "code": "37200206112149",
                 "name": "苗栗縣私立正佳珠算技藝短期補習班",
                 "county": "苗栗縣",
-                "class": "",
-                "students": ""
+                "class": "商類：珠算、心算、會計,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -4716,8 +4716,8 @@
                 "code": "37200206112110",
                 "name": "苗栗縣私立華威文理短期補習班",
                 "county": "苗栗縣",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小,高中,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -4784,8 +4784,8 @@
                 "code": "37200206110032",
                 "name": "苗栗縣私立愛力兒文理短期補習班",
                 "county": "苗栗縣",
-                "class": "文理類,外語類,",
-                "students": "國小,國中小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -4801,8 +4801,8 @@
                 "code": "37200206110075",
                 "name": "苗栗縣私立吉的堡文理短期補習班",
                 "county": "苗栗縣",
-                "class": "文理類,外語類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -4818,8 +4818,8 @@
                 "code": "37200206110073",
                 "name": "苗栗縣私立文喬文理短期補習班",
                 "county": "苗栗縣",
-                "class": "文理類,外語類,",
-                "students": "國中,高中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -4835,8 +4835,8 @@
                 "code": "37200206112109",
                 "name": "苗栗縣私立僑美文理短期補習班",
                 "county": "苗栗縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -4852,8 +4852,8 @@
                 "code": "37200206112138",
                 "name": "苗栗縣私立蒲公英珠心算技藝短期補習班",
                 "county": "苗栗縣",
-                "class": "",
-                "students": ""
+                "class": "商類：珠算、心算、會計,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -4954,8 +4954,8 @@
                 "code": "37200206110077",
                 "name": "苗栗縣私立真正文理短期補習班",
                 "county": "苗栗縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -4971,8 +4971,8 @@
                 "code": "37200206112143",
                 "name": "苗栗縣私立巨東技藝文理短期補習班",
                 "county": "苗栗縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,商類：珠算、心算、會計,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -4988,8 +4988,8 @@
                 "code": "37200206112161",
                 "name": "苗栗縣私立姍姍舞蹈技藝短期補習班",
                 "county": "苗栗縣",
-                "class": "",
-                "students": ""
+                "class": "音樂、舞蹈類,",
+                "students": "國小,成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",

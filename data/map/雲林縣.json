@@ -7,7 +7,7 @@
                 "code": "55202401050001",
                 "name": "私立格律音樂技藝短期補習班",
                 "county": "雲林縣",
-                "class": "音樂、舞蹈類,",
+                "class": "",
                 "students": ""
             },
             "geometry": {
@@ -24,7 +24,7 @@
                 "code": "55202310110001",
                 "name": "私立兆鈞文理短期補習班",
                 "county": "雲林縣",
-                "class": "音樂、舞蹈類,",
+                "class": "",
                 "students": ""
             },
             "geometry": {
@@ -41,8 +41,8 @@
                 "code": "55202307110001",
                 "name": "私立永恩文理短期補習班",
                 "county": "雲林縣",
-                "class": "音樂、舞蹈類,",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -58,8 +58,8 @@
                 "code": "55202303250002",
                 "name": "私立菲格奧文理短期補習班",
                 "county": "雲林縣",
-                "class": "音樂、舞蹈類,",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -75,8 +75,8 @@
                 "code": "55202303250001",
                 "name": "私立喜德文理短期補習班",
                 "county": "雲林縣",
-                "class": "音樂、舞蹈類,",
-                "students": ""
+                "class": "文理類,",
+                "students": "高中,國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -92,8 +92,8 @@
                 "code": "55202302080001",
                 "name": "私立林宏文理短期補習班",
                 "county": "雲林縣",
-                "class": "音樂、舞蹈類,",
-                "students": ""
+                "class": "文理類,",
+                "students": "高中"
             },
             "geometry": {
                 "type": "Point",
@@ -109,8 +109,8 @@
                 "code": "55202302030001",
                 "name": "私立奔放技藝短期補習班",
                 "county": "雲林縣",
-                "class": "音樂、舞蹈類,",
-                "students": ""
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -126,8 +126,8 @@
                 "code": "55202301070001",
                 "name": "私立威利文理短期補習班",
                 "county": "雲林縣",
-                "class": "音樂、舞蹈類,",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -143,8 +143,8 @@
                 "code": "55202212090001",
                 "name": "私立森美術教室技藝短期補習班",
                 "county": "雲林縣",
-                "class": "音樂、舞蹈類,",
-                "students": ""
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "學齡前,國小,國小國中高中"
             },
             "geometry": {
                 "type": "Point",
@@ -160,8 +160,8 @@
                 "code": "55202201240001",
                 "name": "私立朵拉森林文理短期補習班",
                 "county": "雲林縣",
-                "class": "音樂、舞蹈類,",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -177,8 +177,8 @@
                 "code": "55202201120001",
                 "name": "美學苑有限公司附設雲林縣私立美學苑技藝短期補習班",
                 "county": "雲林縣",
-                "class": "音樂、舞蹈類,",
-                "students": ""
+                "class": "美容、美髮理髮類,",
+                "students": "成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
@@ -194,8 +194,8 @@
                 "code": "55202111040001",
                 "name": "私立愛學館文理短期補習班",
                 "county": "雲林縣",
-                "class": "音樂、舞蹈類,",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -211,8 +211,8 @@
                 "code": "55202108250001",
                 "name": "私立育群英語文理短期補習班虎尾分班",
                 "county": "雲林縣",
-                "class": "音樂、舞蹈類,",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -228,8 +228,8 @@
                 "code": "55202108060001",
                 "name": "私立育丞文理短期補習班",
                 "county": "雲林縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -330,8 +330,8 @@
                 "code": "55202010280001",
                 "name": "私立學人文理短期補習班",
                 "county": "雲林縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -500,8 +500,8 @@
                 "code": "55201910250001",
                 "name": "私立祥蓁文理短期補習班",
                 "county": "雲林縣",
-                "class": "文理類,",
-                "students": "學齡前,國小,國中,高中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -517,8 +517,8 @@
                 "code": "55201910230001",
                 "name": "私立荳荳屋音樂創作工作坊音樂技藝短期補習班",
                 "county": "雲林縣",
-                "class": "音樂、舞蹈類,",
-                "students": "幼兒至成人,國小至成人"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -551,8 +551,8 @@
                 "code": "55201907160001",
                 "name": "私立陸瑀山文理短期補習班",
                 "county": "雲林縣",
-                "class": "文理類,",
-                "students": "學齡前,國小,國中,高中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -585,8 +585,8 @@
                 "code": "55201809260003",
                 "name": "私立孩子國文理短期補習班",
                 "county": "雲林縣",
-                "class": "文理類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -602,8 +602,8 @@
                 "code": "55201906130001",
                 "name": "私立高盛文理短期補習班",
                 "county": "雲林縣",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -687,8 +687,8 @@
                 "code": "55201809180001",
                 "name": "私立艾向英語文理短期補習班",
                 "county": "雲林縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -738,8 +738,8 @@
                 "code": "55201802050001",
                 "name": "私立育文文理短期補習班",
                 "county": "雲林縣",
-                "class": "文理類,",
-                "students": "國中小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -755,8 +755,8 @@
                 "code": "55201801120002",
                 "name": "私立威美文理短期補習班",
                 "county": "雲林縣",
-                "class": "文理類,",
-                "students": "國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -772,8 +772,8 @@
                 "code": "55201801120001",
                 "name": "私立人領文理短期補習班",
                 "county": "雲林縣",
-                "class": "文理類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -789,8 +789,8 @@
                 "code": "55201801120003",
                 "name": "私立茱莉亞技藝文理短期補習班",
                 "county": "雲林縣",
-                "class": "文理類,音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -806,8 +806,8 @@
                 "code": "55201712040001",
                 "name": "私立精通文理短期補習班",
                 "county": "雲林縣",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1146,8 +1146,8 @@
                 "code": "55201509020001",
                 "name": "私立成均文理短期補習班",
                 "county": "雲林縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1163,8 +1163,8 @@
                 "code": "55201508310001",
                 "name": "私立九章文理短期補習班",
                 "county": "雲林縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "高中,國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1231,8 +1231,8 @@
                 "code": "55201503170001",
                 "name": "私立裕元文理短期補習班",
                 "county": "雲林縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1316,8 +1316,8 @@
                 "code": "55201406260001",
                 "name": "私立聖林文理短期補習班",
                 "county": "雲林縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,其他類,",
+                "students": "高中"
             },
             "geometry": {
                 "type": "Point",
@@ -1452,8 +1452,8 @@
                 "code": "55201308230001",
                 "name": "私立晨曦文理短期補習班虎尾分班",
                 "county": "雲林縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1469,8 +1469,8 @@
                 "code": "55201308120001",
                 "name": "私立勵學苑文理短期補習班",
                 "county": "雲林縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "高中,國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1486,8 +1486,8 @@
                 "code": "55201307180001",
                 "name": "私立張鈞文理短期補習班鎮東分班",
                 "county": "雲林縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1503,8 +1503,8 @@
                 "code": "55201307220001",
                 "name": "十全贏股份有限公司附設雲林縣私立十全贏英語文理短期補習班",
                 "county": "雲林縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1537,8 +1537,8 @@
                 "code": "55201305310001",
                 "name": "高點教育科技股份有限公司附設雲林縣私立高點文理短期補習班",
                 "county": "雲林縣",
-                "class": "文理類,",
-                "students": "公職人員考試"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1588,8 +1588,8 @@
                 "code": "55201211130001",
                 "name": "私立貝思特文理短期補習班",
                 "county": "雲林縣",
-                "class": "文理類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1605,8 +1605,8 @@
                 "code": "55201211070002",
                 "name": "私立全方位文理短期補習班",
                 "county": "雲林縣",
-                "class": "文理類,",
-                "students": "國中、國小,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1656,8 +1656,8 @@
                 "code": "55201210220001",
                 "name": "私立斗六三元文理短期補習班",
                 "county": "雲林縣",
-                "class": "文理類,",
-                "students": "成人(18歲以上)"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1690,8 +1690,8 @@
                 "code": "55201209150002",
                 "name": "私立文聖文理短期補習班",
                 "county": "雲林縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -1707,8 +1707,8 @@
                 "code": "55201209050001",
                 "name": "私立花園美語短期補習班",
                 "county": "雲林縣",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1724,8 +1724,8 @@
                 "code": "55201207020001",
                 "name": "私立小玉美術技藝短期補習班",
                 "county": "雲林縣",
-                "class": "",
-                "students": ""
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1741,8 +1741,8 @@
                 "code": "55201206210001",
                 "name": "私立晨曦文理短期補習班",
                 "county": "雲林縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -1826,8 +1826,8 @@
                 "code": "55201111010001",
                 "name": "私立新勵學文理短期補習班",
                 "county": "雲林縣",
-                "class": "文理類,",
-                "students": "國小,國中,高中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1843,8 +1843,8 @@
                 "code": "55201110180001",
                 "name": "私立宜梧文理短期補習班",
                 "county": "雲林縣",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1877,8 +1877,8 @@
                 "code": "55201205300001",
                 "name": "私立偉傑文理短期補習班",
                 "county": "雲林縣",
-                "class": "文理類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1894,8 +1894,8 @@
                 "code": "55201111220001",
                 "name": "雲林縣私立鴻勝文理短期補習班",
                 "county": "雲林縣",
-                "class": "文理類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1911,8 +1911,8 @@
                 "code": "55201108230001",
                 "name": "私立學霖文理短期補習班",
                 "county": "雲林縣",
-                "class": "文理類,",
-                "students": "國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1928,8 +1928,8 @@
                 "code": "55201107200001",
                 "name": "私立聯峸電腦有限公司附設雲林縣私立聯成電腦短期補習班",
                 "county": "雲林縣",
-                "class": "資訊類,",
-                "students": "國小、國中或具同等學歷者)"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1945,8 +1945,8 @@
                 "code": "55201112190001",
                 "name": "私立格林文理短期補習班",
                 "county": "雲林縣",
-                "class": "文理類,",
-                "students": "國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2149,8 +2149,8 @@
                 "code": "55201008130001",
                 "name": "私立耘成文理短期補習班",
                 "county": "雲林縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "高中"
             },
             "geometry": {
                 "type": "Point",
@@ -2166,8 +2166,8 @@
                 "code": "55201008050001",
                 "name": "私立優多龍文理短期補習班",
                 "county": "雲林縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2183,8 +2183,8 @@
                 "code": "55201005200001",
                 "name": "私立龍成文理短期補習班",
                 "county": "雲林縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -2200,8 +2200,8 @@
                 "code": "55201004260001",
                 "name": "私立瑪利亞英文短期補習班",
                 "county": "雲林縣",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2302,8 +2302,8 @@
                 "code": "55200912030002",
                 "name": "私立成峯文理短期補習班",
                 "county": "雲林縣",
-                "class": "文理類,",
-                "students": "國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2319,8 +2319,8 @@
                 "code": "55200911270001",
                 "name": "格蘭事業股份有限公司附設雲林縣私立格蘭林森文理短期補習班",
                 "county": "雲林縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2336,8 +2336,8 @@
                 "code": "55200910270001",
                 "name": "私立三立文理短期補習班",
                 "county": "雲林縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,商類：珠算、心算、會計,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2455,8 +2455,8 @@
                 "code": "55200812190001",
                 "name": "私立河馬文理短期補習班",
                 "county": "雲林縣",
-                "class": "文理類,",
-                "students": "國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2506,8 +2506,8 @@
                 "code": "55200811060001",
                 "name": "私立必勝文理短期補習班",
                 "county": "雲林縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2540,8 +2540,8 @@
                 "code": "55200809170002",
                 "name": "私立正鑫文理短期補習班",
                 "county": "雲林縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2693,8 +2693,8 @@
                 "code": "55200710250001",
                 "name": "私立智詮珠心算才藝短期補習班",
                 "county": "雲林縣",
-                "class": "商類：珠算、心算、會計,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2744,8 +2744,8 @@
                 "code": "55200709070001",
                 "name": "私立貝斯特美語短期補習班",
                 "county": "雲林縣",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2829,8 +2829,8 @@
                 "code": "55200705030001",
                 "name": "私立吳老師文理短期補習班",
                 "county": "雲林縣",
-                "class": "文理類,",
-                "students": "國中,國小,高中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2846,8 +2846,8 @@
                 "code": "55200705030002",
                 "name": "私立優暘文理短期補習班",
                 "county": "雲林縣",
-                "class": "文理類,",
-                "students": "國小,國中,高中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2863,8 +2863,8 @@
                 "code": "55200704180001",
                 "name": "私立力達文理短期補習班",
                 "county": "雲林縣",
-                "class": "文理類,",
-                "students": "國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2880,8 +2880,8 @@
                 "code": "55200704160001",
                 "name": "私立智揚文理短期補習班",
                 "county": "雲林縣",
-                "class": "文理類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2897,8 +2897,8 @@
                 "code": "55200703090001",
                 "name": "財團法人雲林縣私立維多利亞國民小學附設維多利亞外語短期補習班",
                 "county": "雲林縣",
-                "class": "外語類,",
-                "students": "成人及中學生,中學生"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2931,8 +2931,8 @@
                 "code": "55200904210001",
                 "name": "私立宏豪文理短期補習班",
                 "county": "雲林縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中,國小,學齡前"
             },
             "geometry": {
                 "type": "Point",
@@ -2948,8 +2948,8 @@
                 "code": "55200702020001",
                 "name": "私立米樂斯文理短期補習班",
                 "county": "雲林縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2965,8 +2965,8 @@
                 "code": "55200610190001",
                 "name": "私立玉衡書院文理短期補習班",
                 "county": "雲林縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中,國小,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -2982,8 +2982,8 @@
                 "code": "55200609080001",
                 "name": "私立葳肯文理短期補習班",
                 "county": "雲林縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3033,8 +3033,8 @@
                 "code": "55200609010001",
                 "name": "私立先優文理短期補習班",
                 "county": "雲林縣",
-                "class": "文理類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -3067,8 +3067,8 @@
                 "code": "55200608170002",
                 "name": "私立丹尼爾文理短期補習班",
                 "county": "雲林縣",
-                "class": "文理類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -3084,8 +3084,8 @@
                 "code": "55200608150001",
                 "name": "私立凱薩琳英語短期補習班",
                 "county": "雲林縣",
-                "class": "外語類,",
-                "students": "國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -3132,6 +3132,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "55200607170001",
+                "name": "私立資優生文理短期補習班",
+                "county": "雲林縣",
+                "class": "文理類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.255436,
+                    23.747993
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "55200607180001",
                 "name": "私立明哲文理短期補習班",
                 "county": "雲林縣",
@@ -3143,23 +3160,6 @@
                 "coordinates": [
                     120.455972,
                     23.798178
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "55200607170001",
-                "name": "私立資優生文理短期補習班",
-                "county": "雲林縣",
-                "class": "",
-                "students": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.255436,
-                    23.747993
                 ]
             }
         },
@@ -3356,8 +3356,8 @@
                 "code": "55200511070001",
                 "name": "私立建科文理短期補習班",
                 "county": "雲林縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3373,8 +3373,8 @@
                 "code": "55200509200001",
                 "name": "私立學而文理短期補習班",
                 "county": "雲林縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3390,8 +3390,8 @@
                 "code": "55200507120001",
                 "name": "私立華恩文理短期補習班",
                 "county": "雲林縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3560,8 +3560,8 @@
                 "code": "55200503250001",
                 "name": "私立啟思文理短期補習班",
                 "county": "雲林縣",
-                "class": "文理類,",
-                "students": "高中,國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -3577,8 +3577,8 @@
                 "code": "55200503250003",
                 "name": "私立亞瑟美語短期補習班",
                 "county": "雲林縣",
-                "class": "外語類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -3594,8 +3594,8 @@
                 "code": "55200503160002",
                 "name": "私立小南瓜文理短期補習班",
                 "county": "雲林縣",
-                "class": "文理類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -3764,8 +3764,8 @@
                 "code": "55200411090002",
                 "name": "私立瀚文文理短期補習班",
                 "county": "雲林縣",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -3849,8 +3849,8 @@
                 "code": "55200503100001",
                 "name": "智基科技開發股份有限公司雲林分公司附設私立志光法商短期補習班虎尾分班",
                 "county": "雲林縣",
-                "class": "",
-                "students": ""
+                "class": "法政類,",
+                "students": "高中,成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
@@ -3866,8 +3866,8 @@
                 "code": "55200410070003",
                 "name": "私立宥佑文理短期補習班",
                 "county": "雲林縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3883,8 +3883,8 @@
                 "code": "55200408230001",
                 "name": "私立資優文理短期補習班育華分班",
                 "county": "雲林縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -3900,8 +3900,8 @@
                 "code": "55200408160001",
                 "name": "私立威尼爾文理短期補習班",
                 "county": "雲林縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中小"
             },
             "geometry": {
                 "type": "Point",
@@ -4070,8 +4070,8 @@
                 "code": "55200403160001",
                 "name": "私立崧塿文理短期補習班",
                 "county": "雲林縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -4087,8 +4087,8 @@
                 "code": "55200403090003",
                 "name": "私立安齊兒文理短期補習班",
                 "county": "雲林縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -4121,8 +4121,8 @@
                 "code": "55200401060001",
                 "name": "私立小丸子文理短期補習班",
                 "county": "雲林縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -4138,8 +4138,8 @@
                 "code": "55200312160001",
                 "name": "私立大埔美語短期補習班",
                 "county": "雲林縣",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -4155,8 +4155,8 @@
                 "code": "55200312050001",
                 "name": "私立晉士文理短期補習班",
                 "county": "雲林縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -4172,8 +4172,8 @@
                 "code": "55200312010001",
                 "name": "私立陽光文理短期補習班",
                 "county": "雲林縣",
-                "class": "文理類,",
-                "students": "國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -4291,8 +4291,8 @@
                 "code": "55200307070003",
                 "name": "私立龍興文理短期補習班",
                 "county": "雲林縣",
-                "class": "文理類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -4308,8 +4308,8 @@
                 "code": "55200307070001",
                 "name": "私立培根文理短期補習班",
                 "county": "雲林縣",
-                "class": "文理類,",
-                "students": "國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -4495,8 +4495,8 @@
                 "code": "55200211050001",
                 "name": "智基科技開發(股)公司雲林分公司附設私立志光法商短期補習班斗六分班",
                 "county": "雲林縣",
-                "class": "",
-                "students": ""
+                "class": "法政類,",
+                "students": "成人(18歲以上),高中"
             },
             "geometry": {
                 "type": "Point",
@@ -4512,8 +4512,8 @@
                 "code": "55200210180001",
                 "name": "私立大將文理短期補習班",
                 "county": "雲林縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -4529,8 +4529,8 @@
                 "code": "55200210110001",
                 "name": "私立名人榜美語短期補習班",
                 "county": "雲林縣",
-                "class": "外語類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -4546,8 +4546,8 @@
                 "code": "55200209230001",
                 "name": "私立陳瓊淇文理短期補習班",
                 "county": "雲林縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -4597,8 +4597,8 @@
                 "code": "55200207080004",
                 "name": "私立佳興文理短期補習班",
                 "county": "雲林縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "高中"
             },
             "geometry": {
                 "type": "Point",
@@ -4614,8 +4614,8 @@
                 "code": "55200207082205",
                 "name": "私立李老師珠心算短期補習班",
                 "county": "雲林縣",
-                "class": "商類：珠算、心算、會計,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -4631,8 +4631,8 @@
                 "code": "55200207080062",
                 "name": "私立博士林文理短期補習班",
                 "county": "雲林縣",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -4733,8 +4733,8 @@
                 "code": "55200207082189",
                 "name": "私立羅傑美語短期補習班",
                 "county": "雲林縣",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國中小"
             },
             "geometry": {
                 "type": "Point",
@@ -4750,8 +4750,8 @@
                 "code": "55200207080038",
                 "name": "私立大大文理短期補習班",
                 "county": "雲林縣",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -4767,8 +4767,8 @@
                 "code": "55200207082185",
                 "name": "私立文群文理短期補習班",
                 "county": "雲林縣",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -4801,8 +4801,8 @@
                 "code": "55200207082122",
                 "name": "私立文林學園文理短期補習班",
                 "county": "雲林縣",
-                "class": "文理類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -4954,8 +4954,8 @@
                 "code": "55200207082154",
                 "name": "私立資優文理短期補習班",
                 "county": "雲林縣",
-                "class": "文理類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -5090,8 +5090,8 @@
                 "code": "55200207082152",
                 "name": "私立安安文理短期補習班",
                 "county": "雲林縣",
-                "class": "文理類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -5192,8 +5192,8 @@
                 "code": "55200207090004",
                 "name": "私立小狀元珠心算文理短期補習班",
                 "county": "雲林縣",
-                "class": "文理類,商類：珠算、心算、會計,",
-                "students": "其他,國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -5209,8 +5209,8 @@
                 "code": "55200207090002",
                 "name": "私立咚咚舞蹈短期補習班",
                 "county": "雲林縣",
-                "class": "音樂、舞蹈類,",
-                "students": "其他"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -5362,8 +5362,8 @@
                 "code": "55200207082151",
                 "name": "私立約翰文理短期補習班",
                 "county": "雲林縣",
-                "class": "文理類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -5379,8 +5379,8 @@
                 "code": "55200207080092",
                 "name": "私立奪標文理短期補習班",
                 "county": "雲林縣",
-                "class": "文理類,",
-                "students": "國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -5515,8 +5515,8 @@
                 "code": "55200207080043",
                 "name": "地球村語文資訊有限公司附設雲林縣私立國際地球村語文短期補習班",
                 "county": "雲林縣",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "其他"
             },
             "geometry": {
                 "type": "Point",
@@ -5668,8 +5668,8 @@
                 "code": "55200207082145",
                 "name": "私立長宏文理短期補習班",
                 "county": "雲林縣",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -5685,8 +5685,8 @@
                 "code": "55200207080085",
                 "name": "私立學優文理短期補習班",
                 "county": "雲林縣",
-                "class": "文理類,",
-                "students": "國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -5702,8 +5702,8 @@
                 "code": "55200207082102",
                 "name": "私立沐書園文理短期補習班",
                 "county": "雲林縣",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -5804,8 +5804,8 @@
                 "code": "55200207082196",
                 "name": "私立垠昶文理短期補習班",
                 "county": "雲林縣",
-                "class": "文理類,",
-                "students": "國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -5821,8 +5821,8 @@
                 "code": "55200207082162",
                 "name": "私立夏山語文短期補習班",
                 "county": "雲林縣",
-                "class": "外語類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -5838,8 +5838,8 @@
                 "code": "55200207082161",
                 "name": "私立佳音英語短期補習班",
                 "county": "雲林縣",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -5855,8 +5855,8 @@
                 "code": "55200207080084",
                 "name": "私立全能文理短期補習班",
                 "county": "雲林縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -5923,8 +5923,8 @@
                 "code": "55200207082113",
                 "name": "私立崇文文理短期補習班",
                 "county": "雲林縣",
-                "class": "文理類,",
-                "students": "國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",

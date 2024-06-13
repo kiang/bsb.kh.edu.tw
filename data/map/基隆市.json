@@ -7,8 +7,8 @@
                 "code": "24202405100002",
                 "name": "基隆市私立吉美技藝文理短期補習班",
                 "county": "基隆市",
-                "class": "",
-                "students": ""
+                "class": "外語類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "學齡前,幼兒、國民小學"
             },
             "geometry": {
                 "type": "Point",
@@ -24,8 +24,8 @@
                 "code": "24202405100001",
                 "name": "基隆市私立喬語語文技藝短期補習班",
                 "county": "基隆市",
-                "class": "",
-                "students": ""
+                "class": "外語類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -41,8 +41,8 @@
                 "code": "24202312130001",
                 "name": "基隆市私立逢士文理短期補習班",
                 "county": "基隆市",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -58,8 +58,8 @@
                 "code": "24202308170001",
                 "name": "基隆市私立城上城技藝文理短期補習班",
                 "county": "基隆市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小,學齡前"
             },
             "geometry": {
                 "type": "Point",
@@ -92,8 +92,8 @@
                 "code": "24202211040001",
                 "name": "基隆市私立飛思文理短期補習班",
                 "county": "基隆市",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -109,8 +109,8 @@
                 "code": "24202209280001",
                 "name": "基隆市私立哈博士文理短期補習班",
                 "county": "基隆市",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -126,8 +126,8 @@
                 "code": "24202208240001",
                 "name": "基隆市私立自立文理才藝短期補習班",
                 "county": "基隆市",
-                "class": "",
-                "students": ""
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小,學齡前"
             },
             "geometry": {
                 "type": "Point",
@@ -143,8 +143,8 @@
                 "code": "24202208020001",
                 "name": "基隆市私立尚格才藝文理短期補習班",
                 "county": "基隆市",
-                "class": "",
-                "students": ""
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -194,8 +194,8 @@
                 "code": "24202105190001",
                 "name": "基隆市私立宏觀圍棋才藝短期補習班",
                 "county": "基隆市",
-                "class": "美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國小、國中、高中、成人"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -228,8 +228,8 @@
                 "code": "24202103230001",
                 "name": "基隆市私立林老師文理短期補習班",
                 "county": "基隆市",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -262,8 +262,8 @@
                 "code": "24202011240002",
                 "name": "基隆市私立啟賢文理短期補習班",
                 "county": "基隆市",
-                "class": "",
-                "students": ""
+                "class": "文理類,商類：珠算、心算、會計,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -296,8 +296,8 @@
                 "code": "24202011100001",
                 "name": "基隆市私立寶拉文理短期補習班",
                 "county": "基隆市",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -313,8 +313,8 @@
                 "code": "24202008180002",
                 "name": "社團法人中國青年救國團附設基隆市私立銘傳語文技藝短期補習班",
                 "county": "基隆市",
-                "class": "",
-                "students": ""
+                "class": "外語類,資訊類,家政、插花、烹飪類,縫紉類,美容、美髮理髮類,音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類,瑜珈類,",
+                "students": "國小以上（依規招收）"
             },
             "geometry": {
                 "type": "Point",
@@ -330,8 +330,8 @@
                 "code": "24202008180001",
                 "name": "基隆市私立日傑文理短期補習班",
                 "county": "基隆市",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -347,8 +347,8 @@
                 "code": "24202004150001",
                 "name": "基隆市私立普利斯美語文理短期補習班",
                 "county": "基隆市",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -483,8 +483,8 @@
                 "code": "24201811060001",
                 "name": "基隆市私立英悅文理短期補習班",
                 "county": "基隆市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "學齡前,成人(18歲以上),國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -500,8 +500,8 @@
                 "code": "24201807020001",
                 "name": "基隆市私立全芳文教文理短期補習班",
                 "county": "基隆市",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -517,8 +517,8 @@
                 "code": "24201805280001",
                 "name": "基隆市私立詮優文理短期補習班",
                 "county": "基隆市",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -534,8 +534,8 @@
                 "code": "24201804250002",
                 "name": "基隆市私立學而思文理短期補習班",
                 "county": "基隆市",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -636,8 +636,8 @@
                 "code": "24201703170001",
                 "name": "基隆市私立黌理文理短期補習班",
                 "county": "基隆市",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "高中,國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -806,8 +806,8 @@
                 "code": "24201506170001",
                 "name": "基隆市私立品誠文理短期補習班",
                 "county": "基隆市",
-                "class": "文理類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -840,8 +840,8 @@
                 "code": "24201412170001",
                 "name": "基隆市私立孟凱麗文理短期補習班",
                 "county": "基隆市",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -925,8 +925,8 @@
                 "code": "24201405300001",
                 "name": "基隆市私立海吉文理短期補習班",
                 "county": "基隆市",
-                "class": "文理類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -976,8 +976,8 @@
                 "code": "24201311220001",
                 "name": "基隆市私立向日葵短期補習班",
                 "county": "基隆市",
-                "class": "文理類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1078,8 +1078,8 @@
                 "code": "24201212210001",
                 "name": "基隆市私立嘉人文理短期補習班",
                 "county": "基隆市",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1095,8 +1095,8 @@
                 "code": "24201212100003",
                 "name": "基隆市私立健德吳平文理短期補習班",
                 "county": "基隆市",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1112,8 +1112,8 @@
                 "code": "24201212100001",
                 "name": "基隆市私立德育文理短期補習班",
                 "county": "基隆市",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1129,8 +1129,8 @@
                 "code": "24201210250001",
                 "name": "基隆市私立名人文理才藝短期補習班",
                 "county": "基隆市",
-                "class": "",
-                "students": ""
+                "class": "文理類,商類：珠算、心算、會計,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1146,8 +1146,8 @@
                 "code": "24202004140001",
                 "name": "基隆市私立小象短期補習班",
                 "county": "基隆市",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1265,8 +1265,8 @@
                 "code": "24201103290002",
                 "name": "基隆市私立親親文理短期補習班",
                 "county": "基隆市",
-                "class": "文理類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1282,8 +1282,8 @@
                 "code": "24201103290002",
                 "name": "基隆市私立親親文理短期補習班",
                 "county": "基隆市",
-                "class": "文理類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1299,8 +1299,8 @@
                 "code": "24201101120001",
                 "name": "基隆市私立聯成電腦短期補習班",
                 "county": "基隆市",
-                "class": "資訊類,",
-                "students": "高中\/職以上"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1469,8 +1469,8 @@
                 "code": "24200908250001",
                 "name": "基隆市私立全方位文理短期補習班",
                 "county": "基隆市",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小、國中,國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1486,8 +1486,8 @@
                 "code": "24200206110002",
                 "name": "基隆市私立潘氏英日語短期補習班",
                 "county": "基隆市",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "其他"
             },
             "geometry": {
                 "type": "Point",
@@ -1503,8 +1503,8 @@
                 "code": "24200907170002",
                 "name": "基隆市私立劉鳳珠美術黏土才藝短期補習班",
                 "county": "基隆市",
-                "class": "",
-                "students": ""
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國中小成人"
             },
             "geometry": {
                 "type": "Point",
@@ -1537,8 +1537,8 @@
                 "code": "24200902200001",
                 "name": "基隆市私立萊萊文理短期補習班",
                 "county": "基隆市",
-                "class": "文理類,",
-                "students": "國小,國中,學齡前"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1656,8 +1656,8 @@
                 "code": "24200805290001",
                 "name": "基隆市私立名仁文理短期補習班",
                 "county": "基隆市",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1670,25 +1670,25 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "24200805090001",
-                "name": "基隆市私立天下文理短期補習班",
+                "code": "24200805090002",
+                "name": "基隆市私立啟育文理短期補習班",
                 "county": "基隆市",
                 "class": "文理類,",
-                "students": "國小"
+                "students": "國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.733056,
-                    25.132148
+                    121.695921,
+                    25.080266
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "code": "24200805090002",
-                "name": "基隆市私立啟育文理短期補習班",
+                "code": "24200805090001",
+                "name": "基隆市私立天下文理短期補習班",
                 "county": "基隆市",
                 "class": "",
                 "students": ""
@@ -1696,8 +1696,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.695921,
-                    25.080266
+                    121.733056,
+                    25.132148
                 ]
             }
         },
@@ -1724,8 +1724,8 @@
                 "code": "24200802040001",
                 "name": "基隆市私立亞學文理短期補習班",
                 "county": "基隆市",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1741,8 +1741,8 @@
                 "code": "24200711220002",
                 "name": "基隆市私立學緣屋文理短期補習班",
                 "county": "基隆市",
-                "class": "文理類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1758,8 +1758,8 @@
                 "code": "24200710120001",
                 "name": "基隆市私立昇揚珠心算文理短期補習班",
                 "county": "基隆市",
-                "class": "文理類,商類：珠算、心算、會計,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1894,8 +1894,8 @@
                 "code": "24200606070001",
                 "name": "基隆市私立大喆文理短期補習班",
                 "county": "基隆市",
-                "class": "文理類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1945,8 +1945,8 @@
                 "code": "24200601110002",
                 "name": "基隆市私立吉得宝文理短期補習班",
                 "county": "基隆市",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2047,8 +2047,8 @@
                 "code": "24200509210001",
                 "name": "基隆市私立五餅二魚文理短期補習班",
                 "county": "基隆市",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2081,8 +2081,8 @@
                 "code": "24200508240001",
                 "name": "基隆市私立大方文理短期補習班",
                 "county": "基隆市",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中,國小,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -2098,8 +2098,8 @@
                 "code": "24200503230001",
                 "name": "基隆市私立青林文理短期補習班",
                 "county": "基隆市",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2115,8 +2115,8 @@
                 "code": "24200502030001",
                 "name": "基隆市私立暖暖芝麻街美語文理短期補習班",
                 "county": "基隆市",
-                "class": "",
-                "students": ""
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小、國中,國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2557,8 +2557,8 @@
                 "code": "24200208250026",
                 "name": "基隆市私立文昱文理短期補習班",
                 "county": "基隆市",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2574,8 +2574,8 @@
                 "code": "24200208250019",
                 "name": "基隆市私立茱莉安文理短期補習班",
                 "county": "基隆市",
-                "class": "文理類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2591,8 +2591,8 @@
                 "code": "24200208250016",
                 "name": "岑英文教有限公司附設基隆市私立岑英文理短期補習班",
                 "county": "基隆市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2642,8 +2642,8 @@
                 "code": "24200208250012",
                 "name": "岑英文教有限公司附設基隆市私立証馨文理短期補習班",
                 "county": "基隆市",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2659,8 +2659,8 @@
                 "code": "24200208250011",
                 "name": "基隆市私立筌威英語短期補習班",
                 "county": "基隆市",
-                "class": "外語類,",
-                "students": "學齡前"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2676,8 +2676,8 @@
                 "code": "24200208250007",
                 "name": "基隆市私立穎聰語文短期補習班",
                 "county": "基隆市",
-                "class": "外語類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2727,8 +2727,8 @@
                 "code": "24200208240010",
                 "name": "基隆市私立復興文理短期補習班",
                 "county": "基隆市",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2744,8 +2744,8 @@
                 "code": "24200208240006",
                 "name": "基隆市私立佳英文理短期補習班",
                 "county": "基隆市",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2778,8 +2778,8 @@
                 "code": "24200208240001",
                 "name": "基隆市私立精湛文理短期補習班",
                 "county": "基隆市",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2795,8 +2795,8 @@
                 "code": "24200208230026",
                 "name": "基隆市私立蕾頓文理短期補習班",
                 "county": "基隆市",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2880,8 +2880,8 @@
                 "code": "24200208230018",
                 "name": "基隆市私立學優文理短期補習班",
                 "county": "基隆市",
-                "class": "文理類,",
-                "students": "國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2897,8 +2897,8 @@
                 "code": "24200208230012",
                 "name": "基隆市私立名家文理短期補習班",
                 "county": "基隆市",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2914,8 +2914,8 @@
                 "code": "24200208130013",
                 "name": "基隆市私立棒喬文理短期補習班",
                 "county": "基隆市",
-                "class": "文理類,",
-                "students": "國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -3169,8 +3169,8 @@
                 "code": "24200206110003",
                 "name": "基隆市私立冠林文理短期補習班",
                 "county": "基隆市",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3203,8 +3203,8 @@
                 "code": "24200208130005",
                 "name": "基隆市私立長樂文理短期補習班",
                 "county": "基隆市",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3220,8 +3220,8 @@
                 "code": "24200208060004",
                 "name": "社團法人中國青年救國團附設基隆市私立語文技藝短期補習班",
                 "county": "基隆市",
-                "class": "",
-                "students": ""
+                "class": "外語類,資訊類,音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類,瑜珈類,",
+                "students": "國小以上（依規招收）"
             },
             "geometry": {
                 "type": "Point",
@@ -3322,8 +3322,8 @@
                 "code": "24200205100009",
                 "name": "基隆市私立新上群文理短期補習班",
                 "county": "基隆市",
-                "class": "文理類,商類：珠算、心算、會計,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -3339,8 +3339,8 @@
                 "code": "24200205010003",
                 "name": "基隆市私立地球村語文短期補習班",
                 "county": "基隆市",
-                "class": "外語類,",
-                "students": "國小以上（依規招收）"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -3356,8 +3356,8 @@
                 "code": "24200204290001",
                 "name": "基隆市私立又福文理短期補習班",
                 "county": "基隆市",
-                "class": "文理類,",
-                "students": "國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -3373,8 +3373,8 @@
                 "code": "24200205080399",
                 "name": "基隆市私立小紅帽文理短期補習班",
                 "county": "基隆市",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -3390,8 +3390,8 @@
                 "code": "24200208170002",
                 "name": "基隆市私立時代文理短期補習班",
                 "county": "基隆市",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -3492,8 +3492,8 @@
                 "code": "24200205100010",
                 "name": "基隆市私立新民文理短期補習班",
                 "county": "基隆市",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -3509,8 +3509,8 @@
                 "code": "24200204300003",
                 "name": "基隆市私立芝蔴街美語文理短期補習班",
                 "county": "基隆市",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",

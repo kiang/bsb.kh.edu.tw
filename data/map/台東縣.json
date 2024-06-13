@@ -7,8 +7,8 @@
                 "code": "89202401290001",
                 "name": "臺東縣私立黃薇創意作文短期補習班",
                 "county": "台東縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -24,8 +24,8 @@
                 "code": "89202310030001",
                 "name": "臺東縣私立高瞻東海教室文理技藝短期補習班",
                 "county": "台東縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,資訊類,",
+                "students": "(學齡前、國小),其他,國小,學齡前"
             },
             "geometry": {
                 "type": "Point",
@@ -41,8 +41,8 @@
                 "code": "89202308230001",
                 "name": "臺東縣私立方舟Infinitas文理短期補習班",
                 "county": "台東縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "(高1、2、3)"
             },
             "geometry": {
                 "type": "Point",
@@ -58,8 +58,8 @@
                 "code": "89202308140001",
                 "name": "臺東縣私立林倩美學技藝短期補習班",
                 "county": "台東縣",
-                "class": "",
-                "students": ""
+                "class": "美容、美髮理髮類,",
+                "students": "15歲以上"
             },
             "geometry": {
                 "type": "Point",
@@ -75,8 +75,8 @@
                 "code": "89202108250001",
                 "name": "臺東縣私立大樹美語文理短期補習班",
                 "county": "台東縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,商類：珠算、心算、會計,",
+                "students": "國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -211,8 +211,8 @@
                 "code": "89201901300001",
                 "name": "臺東縣私立天使文理短期補習班",
                 "county": "台東縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -228,8 +228,8 @@
                 "code": "89201810050001",
                 "name": "臺東縣私立群青文理短期補習班",
                 "county": "台東縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -262,8 +262,8 @@
                 "code": "89201805240001",
                 "name": "臺東縣私立竑學文理短期補習班",
                 "county": "台東縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "學齡前、國小、國中、高中"
             },
             "geometry": {
                 "type": "Point",
@@ -313,8 +313,8 @@
                 "code": "89201705200004",
                 "name": "臺東縣私立韋勝音樂工作室短期補習班",
                 "county": "台東縣",
-                "class": "",
-                "students": ""
+                "class": "音樂、舞蹈類,",
+                "students": "國小、國中、高中"
             },
             "geometry": {
                 "type": "Point",
@@ -381,8 +381,8 @@
                 "code": "89201608160001",
                 "name": "臺東縣私立KHH物理文理短期補習班",
                 "county": "台東縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "高中"
             },
             "geometry": {
                 "type": "Point",
@@ -398,8 +398,8 @@
                 "code": "89201603170001",
                 "name": "臺東縣私立小湯姆文理短期補習班",
                 "county": "台東縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -415,8 +415,8 @@
                 "code": "89201603010001",
                 "name": "臺東縣私立德慧文理短期補習班",
                 "county": "台東縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,其他類,",
+                "students": "其他"
             },
             "geometry": {
                 "type": "Point",
@@ -432,8 +432,8 @@
                 "code": "89201601160001",
                 "name": "臺東縣私立梯梯塔音樂藝術學苑短期補習班",
                 "county": "台東縣",
-                "class": "",
-                "students": ""
+                "class": "外語類,音樂、舞蹈類,",
+                "students": "其他,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -449,8 +449,8 @@
                 "code": "89201603130001",
                 "name": "臺東縣私立KEEP舞蹈教室短期補習班",
                 "county": "台東縣",
-                "class": "",
-                "students": ""
+                "class": "音樂、舞蹈類,",
+                "students": "國高中小"
             },
             "geometry": {
                 "type": "Point",
@@ -670,8 +670,8 @@
                 "code": "89201402170002",
                 "name": "臺東縣私立吉尼爾美語短期補習班臨潼分班",
                 "county": "台東縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -687,8 +687,8 @@
                 "code": "89201401150001",
                 "name": "臺東縣私立倫比美語短期補習班開封分校",
                 "county": "台東縣",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "高中"
             },
             "geometry": {
                 "type": "Point",
@@ -721,8 +721,8 @@
                 "code": "89201312170001",
                 "name": "臺東縣私立多加文理短期補習班",
                 "county": "台東縣",
-                "class": "文理類,",
-                "students": "國小,國小、國中,國小、國中、高中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -857,8 +857,8 @@
                 "code": "89201302040001",
                 "name": "臺東縣私立小茉莉探索學園短期補習班",
                 "county": "台東縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,學齡前"
             },
             "geometry": {
                 "type": "Point",
@@ -1027,8 +1027,8 @@
                 "code": "89201206060001",
                 "name": "臺東縣私立黃詠盛專業數理家教班短期補習班",
                 "county": "台東縣",
-                "class": "文理類,",
-                "students": "國中,高中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1044,8 +1044,8 @@
                 "code": "89201012310001",
                 "name": "臺東縣私立安吉利美語短期補習班",
                 "county": "台東縣",
-                "class": "外語類,",
-                "students": "國高中小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1078,8 +1078,8 @@
                 "code": "89201005180001",
                 "name": "臺東縣私立亞卓文理短期補習班",
                 "county": "台東縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -1095,8 +1095,8 @@
                 "code": "89201011240002",
                 "name": "臺東縣私立費歐娜美語短期補習班",
                 "county": "台東縣",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -1112,8 +1112,8 @@
                 "code": "89201011240003",
                 "name": "臺東縣私立史丹佛文理短期補習班",
                 "county": "台東縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國小、國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1129,8 +1129,8 @@
                 "code": "89200808130006",
                 "name": "臺東縣私立佳德英語短期補習班",
                 "county": "台東縣",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "小兒童、大兒童"
             },
             "geometry": {
                 "type": "Point",
@@ -1146,8 +1146,8 @@
                 "code": "89200808130002",
                 "name": "臺東縣私立亞諾文理短期補習班",
                 "county": "台東縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1163,8 +1163,8 @@
                 "code": "89200806300001",
                 "name": "臺東縣私立昌恆數理短期補習班",
                 "county": "台東縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1180,8 +1180,8 @@
                 "code": "89200711290001",
                 "name": "臺東縣私立全能文理技藝短期補習班",
                 "county": "台東縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中,國小、國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1452,8 +1452,8 @@
                 "code": "89200206170007",
                 "name": "智基科技開發股份有限公司附設臺東縣私立志光文理補習班",
                 "county": "台東縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "公職人員考試,成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
@@ -1469,8 +1469,8 @@
                 "code": "89200206170009",
                 "name": "臺東縣私立向日葵ABC短期補習班",
                 "county": "台東縣",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1520,8 +1520,8 @@
                 "code": "89200206170003",
                 "name": "臺東縣私立長頸鹿美語短期補習班",
                 "county": "台東縣",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",

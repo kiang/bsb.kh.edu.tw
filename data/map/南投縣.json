@@ -58,8 +58,8 @@
                 "code": "49202211180001",
                 "name": "南投縣私立華爾登文理短期補習班",
                 "county": "南投縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -75,8 +75,8 @@
                 "code": "49202211160001",
                 "name": "南投縣私立山姆英文文理短期補習班",
                 "county": "南投縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -92,8 +92,8 @@
                 "code": "49202210170001",
                 "name": "南投縣私立博苑文理短期補習班",
                 "county": "南投縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -109,8 +109,8 @@
                 "code": "49202209050001",
                 "name": "南投縣私立何老師文理短期補習班",
                 "county": "南投縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -126,8 +126,8 @@
                 "code": "49202205300001",
                 "name": "南投縣私立碧山文理技藝短期補習班",
                 "county": "南投縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中,國小,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -143,8 +143,8 @@
                 "code": "49202204070001",
                 "name": "南投縣私立明欣文理短期補習班",
                 "county": "南投縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -160,8 +160,8 @@
                 "code": "49202202250001",
                 "name": "南投縣私立彼得美語東美校文理短期補習班",
                 "county": "南投縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中,國中生以上"
             },
             "geometry": {
                 "type": "Point",
@@ -177,8 +177,8 @@
                 "code": "49202201270001",
                 "name": "南投縣私立杰成文理短期補習班",
                 "county": "南投縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -194,8 +194,8 @@
                 "code": "49202201210001",
                 "name": "南投縣私立宇凡文理短期補習班",
                 "county": "南投縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -211,8 +211,8 @@
                 "code": "49202110120001",
                 "name": "南投縣私立大碩文理短期補習班",
                 "county": "南投縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -228,8 +228,8 @@
                 "code": "49202109130001",
                 "name": "南投縣私立大熊英文文理短期補習班",
                 "county": "南投縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -245,8 +245,8 @@
                 "code": "49202109060001",
                 "name": "南投縣私立林芳堯文理短期補習班",
                 "county": "南投縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -262,8 +262,8 @@
                 "code": "49202108200001",
                 "name": "南投縣私立弘勵文理短期補習班",
                 "county": "南投縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "高中"
             },
             "geometry": {
                 "type": "Point",
@@ -330,8 +330,8 @@
                 "code": "49202103150001",
                 "name": "南投縣私立永倫文理短期補習班",
                 "county": "南投縣",
-                "class": "文理類,",
-                "students": "國小,國中,學齡前,高中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -347,8 +347,8 @@
                 "code": "49202011300001",
                 "name": "南投縣私立特斯拉文理短期補習班",
                 "county": "南投縣",
-                "class": "文理類,",
-                "students": "國小,國中,學齡前"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -364,8 +364,8 @@
                 "code": "49202005180001",
                 "name": "南投縣私立佳培文理短期補習班",
                 "county": "南投縣",
-                "class": "文理類,",
-                "students": "國小,國中,學齡前,高中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -381,8 +381,8 @@
                 "code": "49202005150001",
                 "name": "南投縣私立富森文理短期補習班",
                 "county": "南投縣",
-                "class": "文理類,",
-                "students": "國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -398,8 +398,8 @@
                 "code": "49202004290001",
                 "name": "南投縣私立智瀠文理短期補習班",
                 "county": "南投縣",
-                "class": "文理類,",
-                "students": "學齡前,國小,國中,高中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -449,8 +449,8 @@
                 "code": "49201911080001",
                 "name": "南投縣私立勁綸文理短期補習班",
                 "county": "南投縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -466,8 +466,8 @@
                 "code": "49201909300001",
                 "name": "鎮大教育股份有限公司附設南投縣私立慕師文理外語短期補習班",
                 "county": "南投縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -483,8 +483,8 @@
                 "code": "49201907120001",
                 "name": "南投縣私立成真文理短期補習班",
                 "county": "南投縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -500,8 +500,8 @@
                 "code": "49201906260001",
                 "name": "南投縣私立明冠文理短期補習班",
                 "county": "南投縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小(12歲以上),國中"
             },
             "geometry": {
                 "type": "Point",
@@ -517,8 +517,8 @@
                 "code": "49201903280001",
                 "name": "南投縣私立霍爾文理技藝短期補習班",
                 "county": "南投縣",
-                "class": "",
-                "students": ""
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -585,8 +585,8 @@
                 "code": "49201708310002",
                 "name": "南投縣私立愛葳美語短期補習班",
                 "county": "南投縣",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -602,8 +602,8 @@
                 "code": "49201708310001",
                 "name": "南投縣私立翼躍英語文理短期補習班",
                 "county": "南投縣",
-                "class": "文理類,",
-                "students": "國小,國中,學齡前,高中,成人(18歲以上)"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -619,8 +619,8 @@
                 "code": "49201708220001",
                 "name": "南投縣私立耕讀園文理短期補習班",
                 "county": "南投縣",
-                "class": "文理類,",
-                "students": "國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -670,8 +670,8 @@
                 "code": "49201701090001",
                 "name": "南投縣私立洪榮隆音樂技藝文理短期補習班",
                 "county": "南投縣",
-                "class": "",
-                "students": ""
+                "class": "音樂、舞蹈類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -687,8 +687,8 @@
                 "code": "49201610060001",
                 "name": "南投縣私立博克萊文理短期補習班",
                 "county": "南投縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -704,8 +704,8 @@
                 "code": "49201705150001",
                 "name": "南投縣私立金牌文理短期補習班",
                 "county": "南投縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -738,8 +738,8 @@
                 "code": "49201608040001",
                 "name": "南投縣私立立呈文理短期補習班",
                 "county": "南投縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -789,8 +789,8 @@
                 "code": "49201605170001",
                 "name": "南投縣私立米娜美語文理短期補習班",
                 "county": "南投縣",
-                "class": "文理類,外語類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -806,8 +806,8 @@
                 "code": "49201604070001",
                 "name": "南投縣私立立喬文理短期補習班",
                 "county": "南投縣",
-                "class": "文理類,外語類,",
-                "students": "國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -840,8 +840,8 @@
                 "code": "49201606230001",
                 "name": "南投縣私立優加文理短期補習班",
                 "county": "南投縣",
-                "class": "文理類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -857,8 +857,8 @@
                 "code": "49201510300001",
                 "name": "南投縣私立快樂樹英語文理短期補習班",
                 "county": "南投縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -925,8 +925,8 @@
                 "code": "49201312020001",
                 "name": "南投縣私立達文西資優數學短期補習班",
                 "county": "南投縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中,小三至國三"
             },
             "geometry": {
                 "type": "Point",
@@ -1027,8 +1027,8 @@
                 "code": "49201204130001",
                 "name": "益兼教育科技股份有限公司附設南投縣私立益兼文理短期補習班",
                 "county": "南投縣",
-                "class": "文理類,",
-                "students": "國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1044,8 +1044,8 @@
                 "code": "49201111240001",
                 "name": "南投縣私立立智文理短期補習班",
                 "county": "南投縣",
-                "class": "文理類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1061,8 +1061,8 @@
                 "code": "49201110070002",
                 "name": "南投縣私立育林文理短期補習班",
                 "county": "南投縣",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1078,8 +1078,8 @@
                 "code": "49201110070001",
                 "name": "南投縣私立英達資優文理短期補習班",
                 "county": "南投縣",
-                "class": "文理類,",
-                "students": "高中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1095,8 +1095,8 @@
                 "code": "49201109290001",
                 "name": "南投縣私立勤學園文理短期補習班",
                 "county": "南投縣",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1146,8 +1146,8 @@
                 "code": "49201103140001",
                 "name": "南投縣私立博士門音樂短期補習班",
                 "county": "南投縣",
-                "class": "音樂、舞蹈類,",
-                "students": "國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1163,8 +1163,8 @@
                 "code": "49201103140004",
                 "name": "南投縣私立開莘文理短期補習班",
                 "county": "南投縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1180,8 +1180,8 @@
                 "code": "49201012140002",
                 "name": "南投縣私立鴨子學苑文理技藝短期補習班",
                 "county": "南投縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1197,8 +1197,8 @@
                 "code": "49201012140004",
                 "name": "南投縣私立樂音音樂短期補習班",
                 "county": "南投縣",
-                "class": "",
-                "students": ""
+                "class": "音樂、舞蹈類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1214,8 +1214,8 @@
                 "code": "49201011150001",
                 "name": "南投縣私立?立文理短期補習班",
                 "county": "南投縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1248,8 +1248,8 @@
                 "code": "49201009260004",
                 "name": "南投縣私立優德文理短期補習班",
                 "county": "南投縣",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1265,8 +1265,8 @@
                 "code": "49201009260006",
                 "name": "南投縣私立向上文理短期補習班",
                 "county": "南投縣",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1282,8 +1282,8 @@
                 "code": "49201009260001",
                 "name": "南投縣私立頂尖美語文理短期補習班",
                 "county": "南投縣",
-                "class": "外語類,",
-                "students": "國小,國中,成人(18歲以上)"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1299,8 +1299,8 @@
                 "code": "49201004010004",
                 "name": "南投縣私立沛妮文理短期補習班",
                 "county": "南投縣",
-                "class": "外語類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1401,8 +1401,8 @@
                 "code": "49200910220005",
                 "name": "南投縣私立守嶍文理短期補習班",
                 "county": "南投縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1418,8 +1418,8 @@
                 "code": "49200905110013",
                 "name": "南投縣私立盈加文理短期補習班",
                 "county": "南投縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "高中"
             },
             "geometry": {
                 "type": "Point",
@@ -1435,8 +1435,8 @@
                 "code": "49200905110009",
                 "name": "南投縣私立高老師文理短期補習班",
                 "county": "南投縣",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1537,8 +1537,8 @@
                 "code": "49200905110004",
                 "name": "南投縣私立李德文理短期補習班",
                 "county": "南投縣",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1639,8 +1639,8 @@
                 "code": "49200811130001",
                 "name": "南投縣私立寰宇文理短期補習班",
                 "county": "南投縣",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1741,8 +1741,8 @@
                 "code": "49200708070001",
                 "name": "南投縣私立格翊文理短期補習班",
                 "county": "南投縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1775,8 +1775,8 @@
                 "code": "49200707120002",
                 "name": "南投縣私立向日葵文理短期補習班",
                 "county": "南投縣",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1809,8 +1809,8 @@
                 "code": "49200706210001",
                 "name": "南投縣私立夏天童畫技藝短期補習班",
                 "county": "南投縣",
-                "class": "",
-                "students": ""
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1843,8 +1843,8 @@
                 "code": "49200706130001",
                 "name": "南投縣私立集賢文理短期補習班",
                 "county": "南投縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1860,8 +1860,8 @@
                 "code": "49200706130003",
                 "name": "南投縣私立詹姆士的家文理短期補習班",
                 "county": "南投縣",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1962,8 +1962,8 @@
                 "code": "49200702160001",
                 "name": "南投縣私立百分百文理短期補習班",
                 "county": "南投縣",
-                "class": "外語類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1979,8 +1979,8 @@
                 "code": "49200701080002",
                 "name": "南投縣私立奕升外語短期補習班",
                 "county": "南投縣",
-                "class": "外語類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2064,8 +2064,8 @@
                 "code": "49200612140002",
                 "name": "南投縣私立新興威文理短期補習班",
                 "county": "南投縣",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2149,8 +2149,8 @@
                 "code": "49200608020003",
                 "name": "南投縣私立大學仕文理短期補習班",
                 "county": "南投縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2166,8 +2166,8 @@
                 "code": "49200608020002",
                 "name": "南投縣私立希望種子文理短期補習班",
                 "county": "南投縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2268,8 +2268,8 @@
                 "code": "49200510270001",
                 "name": "南投縣私立優仕文理短期補習班",
                 "county": "南投縣",
-                "class": "文理類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2285,8 +2285,8 @@
                 "code": "49200509280004",
                 "name": "南投縣私立活力文理短期補習班",
                 "county": "南投縣",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2302,8 +2302,8 @@
                 "code": "49200509280005",
                 "name": "南投縣私立柯林頓文理短期補習班",
                 "county": "南投縣",
-                "class": "文理類,",
-                "students": "國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2319,8 +2319,8 @@
                 "code": "49200509270001",
                 "name": "南投縣私立吉佑文理短期補習班",
                 "county": "南投縣",
-                "class": "文理類,",
-                "students": "國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2336,8 +2336,8 @@
                 "code": "49200509280006",
                 "name": "南投縣私立龍郡文理短期補習班",
                 "county": "南投縣",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2387,8 +2387,8 @@
                 "code": "49200509280001",
                 "name": "南投縣私立領導者文理短期補習班",
                 "county": "南投縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2404,8 +2404,8 @@
                 "code": "49200507010001",
                 "name": "南投縣私立獅子王美語短期補習班",
                 "county": "南投縣",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2421,8 +2421,8 @@
                 "code": "49200506280001",
                 "name": "南投縣私立蒲公英文理短期補習班",
                 "county": "南投縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2438,8 +2438,8 @@
                 "code": "49200506270001",
                 "name": "南投縣私立趙老師文理技藝短期補習班",
                 "county": "南投縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2455,8 +2455,8 @@
                 "code": "49200506270002",
                 "name": "南投縣私立蘇老師文理短期補習班",
                 "county": "南投縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2523,8 +2523,8 @@
                 "code": "49200503230001",
                 "name": "南投縣私立鴻儒文理短期補習班",
                 "county": "南投縣",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2540,8 +2540,8 @@
                 "code": "49200207190049",
                 "name": "南投縣私立遠見文理短期補習班",
                 "county": "南投縣",
-                "class": "文理類,",
-                "students": "國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2557,8 +2557,8 @@
                 "code": "49200207190038",
                 "name": "南投縣私立陳老師文理短期補習班",
                 "county": "南投縣",
-                "class": "文理類,",
-                "students": "國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2574,8 +2574,8 @@
                 "code": "49200501040005",
                 "name": "南投縣私立鄒老師文理短期補習班",
                 "county": "南投縣",
-                "class": "文理類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2591,8 +2591,8 @@
                 "code": "49200501040001",
                 "name": "南投縣私立檸檬樹文理短期補習班",
                 "county": "南投縣",
-                "class": "文理類,",
-                "students": "國中,高中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2625,8 +2625,8 @@
                 "code": "49200410190001",
                 "name": "南投縣私立文林文理短期補習班",
                 "county": "南投縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2642,8 +2642,8 @@
                 "code": "49200408190003",
                 "name": "南投縣私立喬帝美語短期補習班",
                 "county": "南投縣",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2676,8 +2676,8 @@
                 "code": "49200404220002",
                 "name": "南投縣私立余老師美語短期補習班",
                 "county": "南投縣",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "其他"
             },
             "geometry": {
                 "type": "Point",
@@ -2693,8 +2693,8 @@
                 "code": "49200402260002",
                 "name": "南投縣私立周琳文理短期補習班",
                 "county": "南投縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "高中"
             },
             "geometry": {
                 "type": "Point",
@@ -2727,8 +2727,8 @@
                 "code": "49200401270005",
                 "name": "南投縣私立蘋果屋技藝短期補習班",
                 "county": "南投縣",
-                "class": "",
-                "students": ""
+                "class": "音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2744,8 +2744,8 @@
                 "code": "49200401270001",
                 "name": "南投縣私立理想文理技藝短期補習班",
                 "county": "南投縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2829,8 +2829,8 @@
                 "code": "49200303040003",
                 "name": "南投縣私立孟坊美術短期補習班",
                 "county": "南投縣",
-                "class": "美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國小,國中,高中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2863,8 +2863,8 @@
                 "code": "49200303040004",
                 "name": "南投縣私立安鑫文理技藝短期補習班",
                 "county": "南投縣",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2880,8 +2880,8 @@
                 "code": "49200209020001",
                 "name": "南投縣私立摩根美語文理短期補習班",
                 "county": "南投縣",
-                "class": "外語類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2897,8 +2897,8 @@
                 "code": "49200210020002",
                 "name": "南投縣私立惠美文理短期補習班",
                 "county": "南投縣",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2914,8 +2914,8 @@
                 "code": "49200207192101",
                 "name": "南投縣私立未來式美語文理短期補習班",
                 "county": "南投縣",
-                "class": "文理類,",
-                "students": "國小,學齡前,國中,高中,成人(18歲以上)"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2982,8 +2982,8 @@
                 "code": "49200207270012",
                 "name": "南投縣私立學風文理短期補習班",
                 "county": "南投縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中,高中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2999,8 +2999,8 @@
                 "code": "49200207190007",
                 "name": "南投縣私立史古比文理短期補習班",
                 "county": "南投縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中,國小,幼童"
             },
             "geometry": {
                 "type": "Point",
@@ -3016,8 +3016,8 @@
                 "code": "49200207190059",
                 "name": "南投縣私立保進文理短期補習班",
                 "county": "南投縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -3033,8 +3033,8 @@
                 "code": "49200207270011",
                 "name": "南投縣私立劍橋文理技藝短期補習班",
                 "county": "南投縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "學齡前,國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3067,8 +3067,8 @@
                 "code": "49200207190047",
                 "name": "南投縣私立勵宇文理短期補習班",
                 "county": "南投縣",
-                "class": "文理類,",
-                "students": "國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -3084,8 +3084,8 @@
                 "code": "49200207270036",
                 "name": "南投縣私立美奇文理短期補習班",
                 "county": "南投縣",
-                "class": "外語類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -3118,8 +3118,8 @@
                 "code": "49200207270026",
                 "name": "南投縣私立兒福文理短期補習班",
                 "county": "南投縣",
-                "class": "文理類,",
-                "students": "國小、國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -3152,8 +3152,8 @@
                 "code": "49200207190042",
                 "name": "南投縣私立華盛頓美語短期補習班",
                 "county": "南投縣",
-                "class": "外語類,",
-                "students": "國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -3169,8 +3169,8 @@
                 "code": "49200207190019",
                 "name": "南投縣私立學廬文理短期補習班",
                 "county": "南投縣",
-                "class": "文理類,",
-                "students": "國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -3203,8 +3203,8 @@
                 "code": "49200207190096",
                 "name": "南投縣私立偉達文理短期補習班",
                 "county": "南投縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,電機、汽車修護、建築、工藝、製圖類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3220,8 +3220,8 @@
                 "code": "49200207190095",
                 "name": "南投縣私立博克萊圓環校文理短期補習班",
                 "county": "南投縣",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3237,8 +3237,8 @@
                 "code": "49200207190077",
                 "name": "南投縣私立世雯舞蹈短期補習班",
                 "county": "南投縣",
-                "class": "",
-                "students": ""
+                "class": "音樂、舞蹈類,",
+                "students": "國小、國中、成人（18歲以上）"
             },
             "geometry": {
                 "type": "Point",
@@ -3254,8 +3254,8 @@
                 "code": "49200207190094",
                 "name": "南投縣私立真善美文理短期補習班",
                 "county": "南投縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -3271,8 +3271,8 @@
                 "code": "49200207190037",
                 "name": "南投縣私立正北文理短期補習班",
                 "county": "南投縣",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "其他"
             },
             "geometry": {
                 "type": "Point",
@@ -3305,8 +3305,8 @@
                 "code": "49200207190012",
                 "name": "南投縣私立愛心心算美語短期補習班",
                 "county": "南投縣",
-                "class": "外語類,商類：珠算、心算、會計,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -3322,8 +3322,8 @@
                 "code": "49200207270032",
                 "name": "南投縣私立學霖文理短期補習班",
                 "county": "南投縣",
-                "class": "文理類,",
-                "students": "其他"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -3339,8 +3339,8 @@
                 "code": "49200207190034",
                 "name": "南投縣私立政文文理短期補習班",
                 "county": "南投縣",
-                "class": "文理類,",
-                "students": "國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -3356,8 +3356,8 @@
                 "code": "49200207190091",
                 "name": "南投縣私立旺旺珠心算美語短期補習班",
                 "county": "南投縣",
-                "class": "商類：珠算、心算、會計,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -3373,8 +3373,8 @@
                 "code": "49200207190060",
                 "name": "南投縣私立模範生文理短期補習班",
                 "county": "南投縣",
-                "class": "文理類,",
-                "students": "國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -3390,8 +3390,8 @@
                 "code": "49200207270029",
                 "name": "南投縣私立好朋友美語短期補習班",
                 "county": "南投縣",
-                "class": "外語類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -3441,8 +3441,8 @@
                 "code": "49200207270025",
                 "name": "南投縣私立E-Z語文短期補習班",
                 "county": "南投縣",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小、國中,成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
@@ -3458,8 +3458,8 @@
                 "code": "49200207190089",
                 "name": "南投縣私立樹人文理短期補習班",
                 "county": "南投縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3475,8 +3475,8 @@
                 "code": "49200207190087",
                 "name": "南投縣私立優蓓仕英語會話短期補習班",
                 "county": "南投縣",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小、國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3492,8 +3492,8 @@
                 "code": "49200207190029",
                 "name": "南投縣私立博智文理短期補習班",
                 "county": "南投縣",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3509,8 +3509,8 @@
                 "code": "49200207270003",
                 "name": "南投縣私立卓能文理短期補習班",
                 "county": "南投縣",
-                "class": "",
-                "students": ""
+                "class": "商類：珠算、心算、會計,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3543,8 +3543,8 @@
                 "code": "49200207270016",
                 "name": "南投縣私立明明舞蹈短期補習班",
                 "county": "南投縣",
-                "class": "音樂、舞蹈類,",
-                "students": "國中、成人(18歲以上)"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -3560,8 +3560,8 @@
                 "code": "49200207270018",
                 "name": "南投縣私立立人文理短期補習班",
                 "county": "南投縣",
-                "class": "文理類,",
-                "students": "國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -3577,8 +3577,8 @@
                 "code": "49200207190017",
                 "name": "南投縣私立中興文理短期補習班",
                 "county": "南投縣",
-                "class": "文理類,",
-                "students": "國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -3594,8 +3594,8 @@
                 "code": "49200207190081",
                 "name": "南投縣私立文心作文繪畫短期補習班",
                 "county": "南投縣",
-                "class": "美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -3611,8 +3611,8 @@
                 "code": "49200207270014",
                 "name": "南投縣私立成功文理短期補習班",
                 "county": "南投縣",
-                "class": "文理類,",
-                "students": "國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
