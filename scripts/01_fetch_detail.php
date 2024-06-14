@@ -82,8 +82,12 @@ foreach (glob(dirname(__DIR__) . '/data/raw/*.csv') as $csvFile) {
                 $data['職員工'][] = trim(strip_tags($cols[1]));
             }
         }
-        file_put_contents($dataPath . '/' . $line[0] . '.json', json_encode($data, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
-        echo "{$line[0]}\n";
+        if (!empty($data['補習班代碼'])) {
+            file_put_contents($dataPath . '/' . $line[0] . '.json', json_encode($data, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
+            echo "{$line[0]}\n";
+        }
+
+
         if (++$sleepCount > 3) {
             sleep(1);
             $sleepCount = 0;
