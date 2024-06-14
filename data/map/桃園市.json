@@ -24,8 +24,8 @@
                 "code": "33202406130001",
                 "name": "成鋼國際股份有限公司附設私立樂青英語文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -41,8 +41,8 @@
                 "code": "33202404250001",
                 "name": "私立樂捷文理技藝短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -58,8 +58,8 @@
                 "code": "33202404190001",
                 "name": "私立方華文理短期補習班中壢分班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -75,8 +75,8 @@
                 "code": "33202404170001",
                 "name": "私立愛樂藝術坊技藝短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "小一至成人"
             },
             "geometry": {
                 "type": "Point",
@@ -177,8 +177,8 @@
                 "code": "33202403180001",
                 "name": "私立武欣文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -194,8 +194,8 @@
                 "code": "33202403130001",
                 "name": "私立上群文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -211,8 +211,8 @@
                 "code": "33202402260001",
                 "name": "私立嘉成文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "外語類,其他類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -364,8 +364,8 @@
                 "code": "33202401030001",
                 "name": "得邑投資股份有限公司私立好學習文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -381,8 +381,8 @@
                 "code": "33202401080001",
                 "name": "私立弘揚文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國小,高中,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -432,8 +432,8 @@
                 "code": "33202312070001",
                 "name": "私立才鼎文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,高中,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -534,8 +534,8 @@
                 "code": "33202310310001",
                 "name": "私立樂智英語文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -551,8 +551,8 @@
                 "code": "33202310250001",
                 "name": "私立學育文理短期補習班育才分班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國中,高中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -568,8 +568,8 @@
                 "code": "33202310160001",
                 "name": "私立專進文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -602,8 +602,8 @@
                 "code": "33202310050001",
                 "name": "私立得餘文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中,高中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -619,8 +619,8 @@
                 "code": "33202310060001",
                 "name": "私立西門甲子文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -653,8 +653,8 @@
                 "code": "33202310040001",
                 "name": "私立津煜文理短期補習班普仁分班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -857,8 +857,8 @@
                 "code": "33202306200002",
                 "name": "私立奇異鳥平安短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -891,8 +891,8 @@
                 "code": "33202306200001",
                 "name": "高明一對一學習有限公司附設私立高銘一對一文理短期補習班慈文分班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "高中,國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -942,8 +942,8 @@
                 "code": "33202306010001",
                 "name": "私立學文文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -959,8 +959,8 @@
                 "code": "33202305220001",
                 "name": "私立穩上文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -976,8 +976,8 @@
                 "code": "33202305040001",
                 "name": "私立傑聖升文文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,其他類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1010,8 +1010,8 @@
                 "code": "33202304280002",
                 "name": "私立祥耀文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1316,8 +1316,8 @@
                 "code": "33202301170001",
                 "name": "私立福克斯文理短期補習班旗艦分班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1333,8 +1333,8 @@
                 "code": "33202212280001",
                 "name": "私立棧棧美語文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1452,8 +1452,8 @@
                 "code": "33202211240001",
                 "name": "私立愛玩藝翻轉教室技藝文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1469,8 +1469,8 @@
                 "code": "33202211140001",
                 "name": "私立等等插畫技藝文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小,高中,成人(18歲以上),國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1486,8 +1486,8 @@
                 "code": "33202211110001",
                 "name": "私立有形有色文理技藝短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "小一至成人,國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1503,8 +1503,8 @@
                 "code": "33202210210001",
                 "name": "私立遊牧文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -1520,8 +1520,8 @@
                 "code": "33202210210002",
                 "name": "私立貝兒語文文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1537,8 +1537,8 @@
                 "code": "33202209270001",
                 "name": "私立興儒文理短期補習班藝文分班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,其他類,",
+                "students": "國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -1979,8 +1979,8 @@
                 "code": "33202205190001",
                 "name": "何嘉仁文教事業股份有限公司附設私立華亞文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1996,8 +1996,8 @@
                 "code": "33202205100001",
                 "name": "極合教育科技股份有限公司附設私立極上一對一南平文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -2336,8 +2336,8 @@
                 "code": "33202112060001",
                 "name": "私立群益烹飪調酒技藝短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "家政、插花、烹飪類,",
+                "students": "15歲以上"
             },
             "geometry": {
                 "type": "Point",
@@ -2353,8 +2353,8 @@
                 "code": "33202111290001",
                 "name": "威學文教有限公司附設私立雋立文理語文數學短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國中,高中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2540,8 +2540,8 @@
                 "code": "33202109170001",
                 "name": "私立李紹陽揚眉文理語文數學短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,其他類,",
+                "students": "國中,高中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2557,8 +2557,8 @@
                 "code": "33202109130001",
                 "name": "財團法人人本教育文教基金會附設桃園市私立數學想想國數學文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,其他類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2574,8 +2574,8 @@
                 "code": "33202109140001",
                 "name": "私立藝典美術短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -2591,8 +2591,8 @@
                 "code": "33202109110001",
                 "name": "私立永學語文數學短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "外語類,其他類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2608,8 +2608,8 @@
                 "code": "33202109080001",
                 "name": "私立陳明文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2846,8 +2846,8 @@
                 "code": "33202106160001",
                 "name": "私立自強文理技藝短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,資訊類,美術、書法、攝影、美工設計、圍棋類,其他類,",
+                "students": "國小,成人(18歲以上),國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -2880,8 +2880,8 @@
                 "code": "33202105050002",
                 "name": "私立第一志願文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2897,8 +2897,8 @@
                 "code": "33202105030001",
                 "name": "私立博聖數學語文短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "外語類,其他類,",
+                "students": "國小,國小、國中、高中"
             },
             "geometry": {
                 "type": "Point",
@@ -2914,8 +2914,8 @@
                 "code": "33202104260001",
                 "name": "私立赫成文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "高中"
             },
             "geometry": {
                 "type": "Point",
@@ -2931,8 +2931,8 @@
                 "code": "33202104260002",
                 "name": "私立小立偉語文數學自然短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "外語類,其他類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3152,8 +3152,8 @@
                 "code": "33202012300002",
                 "name": "私立莫大衛英語短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3169,8 +3169,8 @@
                 "code": "33202012300001",
                 "name": "極合教育科技股份有限公司附設私立極上一對一站前文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -3339,8 +3339,8 @@
                 "code": "33202011110001",
                 "name": "私立睿緯文理語文短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3356,8 +3356,8 @@
                 "code": "33202010290001",
                 "name": "私立創思學習文理數學語文短期補習班市府分班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國中,國小,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -3373,8 +3373,8 @@
                 "code": "33202010230001",
                 "name": "私立淇奧數學語文短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "外語類,其他類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3509,8 +3509,8 @@
                 "code": "33202009300001",
                 "name": "私立辰學語文文理數學短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國中,國小,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -3526,8 +3526,8 @@
                 "code": "33202009170001",
                 "name": "私立冠荏語文數學文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,其他類,",
+                "students": "國中,國小,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -3543,8 +3543,8 @@
                 "code": "33202009010001",
                 "name": "私立藝文藝術城堡音樂美術短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3764,8 +3764,8 @@
                 "code": "33202005280003",
                 "name": "私立好好學堂文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,其他類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3781,8 +3781,8 @@
                 "code": "33202005280001",
                 "name": "私立新興數學語文短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "外語類,其他類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3917,8 +3917,8 @@
                 "code": "33202004210001",
                 "name": "私立拓德數學文理語文短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -3934,8 +3934,8 @@
                 "code": "33202003240001",
                 "name": "私立葛萊文理美語短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3951,8 +3951,8 @@
                 "code": "33202003300001",
                 "name": "私立龍祥語文數學自然短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "外語類,其他類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -4342,8 +4342,8 @@
                 "code": "33201910160002",
                 "name": "私立理捷英文短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國中、高中"
             },
             "geometry": {
                 "type": "Point",
@@ -4359,8 +4359,8 @@
                 "code": "33201910150001",
                 "name": "私立佳安語文文理數學短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,其他類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -4376,8 +4376,8 @@
                 "code": "33201910230001",
                 "name": "私立志意美術短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -4393,8 +4393,8 @@
                 "code": "33201908230001",
                 "name": "萌客股份有限公司附設私立萌客外語短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
@@ -4614,8 +4614,8 @@
                 "code": "33201906190001",
                 "name": "私立常春藤美語數學文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,其他類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -4631,8 +4631,8 @@
                 "code": "33201906100001",
                 "name": "私立學育文理短期補習班高中分班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "高中"
             },
             "geometry": {
                 "type": "Point",
@@ -4767,8 +4767,8 @@
                 "code": "33201904090001",
                 "name": "私立凱育音樂舞蹈短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "音樂、舞蹈類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -4784,8 +4784,8 @@
                 "code": "33201904010001",
                 "name": "私立福僑數學語文短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國小,高中,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -4920,8 +4920,8 @@
                 "code": "33201902250001",
                 "name": "私立傑生語文數學文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -4937,8 +4937,8 @@
                 "code": "33201902220001",
                 "name": "私立哲宥文理短期補習班龍岡分班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -4954,8 +4954,8 @@
                 "code": "33201903290002",
                 "name": "私立復旦智城文理數學語文短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,其他類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -4971,8 +4971,8 @@
                 "code": "33201902110001",
                 "name": "私立華蓮語文數學技藝文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,商類：珠算、心算、會計,其他類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -4988,8 +4988,8 @@
                 "code": "33201901100001",
                 "name": "明光文化有限公司附設私立明光語文文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -5005,8 +5005,8 @@
                 "code": "33201812240001",
                 "name": "斐然文教有限公司附設私立頂級文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "外語類,商類：珠算、心算、會計,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -5022,8 +5022,8 @@
                 "code": "33201901180001",
                 "name": "私立逗點教室文理語文短期補習班青埔分班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -5328,8 +5328,8 @@
                 "code": "33201807120001",
                 "name": "私立躍騰文理短期補習班平興分班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -5345,8 +5345,8 @@
                 "code": "33201807020001",
                 "name": "私立樂揚音樂短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "音樂、舞蹈類,",
+                "students": "國小至成人,小至成人"
             },
             "geometry": {
                 "type": "Point",
@@ -5362,8 +5362,8 @@
                 "code": "33201806270001",
                 "name": "私立亘成文理語文珠心算短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,商類：珠算、心算、會計,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -5379,8 +5379,8 @@
                 "code": "33201806250001",
                 "name": "私立馬克思文理技藝短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國中,國小,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -5600,8 +5600,8 @@
                 "code": "33201804260001",
                 "name": "私立三希堂文理美語數學短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -5617,8 +5617,8 @@
                 "code": "33201803270001",
                 "name": "私立玥荷文理數學短期補習班睿思分班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,其他類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -5634,8 +5634,8 @@
                 "code": "33201803220001",
                 "name": "私立飛騰文理語文短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -5753,8 +5753,8 @@
                 "code": "33201803230002",
                 "name": "私立優可學堂文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -5770,8 +5770,8 @@
                 "code": "33201801160001",
                 "name": "私立欣育全語文文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -5787,8 +5787,8 @@
                 "code": "33201801020001",
                 "name": "私立悅善美語文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -5804,8 +5804,8 @@
                 "code": "33201712270001",
                 "name": "私立幸福日光美語短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -5821,8 +5821,8 @@
                 "code": "33201712190001",
                 "name": "私立偉成文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -5838,8 +5838,8 @@
                 "code": "33201712180001",
                 "name": "私立禾耀數學語文文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -6008,8 +6008,8 @@
                 "code": "33201709200001",
                 "name": "私立蔣化文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -6025,8 +6025,8 @@
                 "code": "33201709150001",
                 "name": "私立學鴻美語文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國中,高中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -6042,8 +6042,8 @@
                 "code": "33201709150002",
                 "name": "私立掄元語文文理短期補習班中平分班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -6059,8 +6059,8 @@
                 "code": "33201709120002",
                 "name": "私立偉文文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "大學"
             },
             "geometry": {
                 "type": "Point",
@@ -6076,8 +6076,8 @@
                 "code": "33201708310001",
                 "name": "私立維妮兒語文數學文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -6093,8 +6093,8 @@
                 "code": "33201708250001",
                 "name": "私立葳誼寵物美容短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "美容、美髮理髮類,",
+                "students": "成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
@@ -6484,8 +6484,8 @@
                 "code": "33201612120001",
                 "name": "私立班笛斯文理語文短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國中,國小,成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
@@ -6688,8 +6688,8 @@
                 "code": "33201611080001",
                 "name": "私立智聖多元圍棋短期補習班文化分班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -6705,8 +6705,8 @@
                 "code": "33201608170001",
                 "name": "私立愛德華文理短期補習班頂興分班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -6722,8 +6722,8 @@
                 "code": "33201608110001",
                 "name": "私立溫德爾文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -6739,8 +6739,8 @@
                 "code": "33201608100001",
                 "name": "私立夏山美語短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -6892,8 +6892,8 @@
                 "code": "33201604130002",
                 "name": "私立維多利亞語文短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -6926,8 +6926,8 @@
                 "code": "33201604130001",
                 "name": "私立必揚英語短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -6943,8 +6943,8 @@
                 "code": "33201602250003",
                 "name": "私立勤學美語數學短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "外語類,其他類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -7130,8 +7130,8 @@
                 "code": "33201601050002",
                 "name": "私立百勝文理語文技藝短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -7164,8 +7164,8 @@
                 "code": "33201601040003",
                 "name": "私立宇凡文理語文短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -7317,8 +7317,8 @@
                 "code": "33201511260001",
                 "name": "私立秝沄舞蹈短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "音樂、舞蹈類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -7334,8 +7334,8 @@
                 "code": "33201511260002",
                 "name": "私立日立文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -7351,8 +7351,8 @@
                 "code": "33201511260003",
                 "name": "私立哲宥文理短期補習班自強分班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中,國小,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -7368,8 +7368,8 @@
                 "code": "33201512100001",
                 "name": "私立美育新桃音樂舞蹈短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "音樂、舞蹈類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -7385,8 +7385,8 @@
                 "code": "33201509220002",
                 "name": "私立石虎音樂短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "音樂、舞蹈類,",
+                "students": "小一至成人"
             },
             "geometry": {
                 "type": "Point",
@@ -7810,8 +7810,8 @@
                 "code": "33201506170002",
                 "name": "私立興儒語文文理短期補習班東興分班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -7946,8 +7946,8 @@
                 "code": "33201503160002",
                 "name": "私立嘉晉文理語文短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -8048,8 +8048,8 @@
                 "code": "33201503230001",
                 "name": "台灣知識庫股份有限公司附設私立洋碩數位學堂文理語文短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "升二技插大,成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
@@ -8065,8 +8065,8 @@
                 "code": "33201501270003",
                 "name": "志光教育科技股份有限公司附設私立正志光文理法商短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,法政類,",
+                "students": "公職人員考試"
             },
             "geometry": {
                 "type": "Point",
@@ -8082,8 +8082,8 @@
                 "code": "33201501270002",
                 "name": "私立奈特爾美語文理數學作文美術短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -8116,8 +8116,8 @@
                 "code": "33201501270001",
                 "name": "私立凱思英語短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小及國中"
             },
             "geometry": {
                 "type": "Point",
@@ -8133,8 +8133,8 @@
                 "code": "33201502120001",
                 "name": "私立總部奧斯汀美語作文短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -8235,8 +8235,8 @@
                 "code": "33201505140001",
                 "name": "私立百威美語短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -8252,8 +8252,8 @@
                 "code": "33201412090001",
                 "name": "私立朵拉音樂短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "音樂、舞蹈類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -8286,8 +8286,8 @@
                 "code": "33201412100002",
                 "name": "私立晶華美語文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -8303,8 +8303,8 @@
                 "code": "33201411140003",
                 "name": "私立文騰文理語文數學短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,其他類,",
+                "students": "國中,高中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -8405,8 +8405,8 @@
                 "code": "33201409190003",
                 "name": "私立無闕美術短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -8779,8 +8779,8 @@
                 "code": "33201405230001",
                 "name": "私立青溪格蘭英語文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -8796,8 +8796,8 @@
                 "code": "33201404300002",
                 "name": "私立小王子音樂短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "音樂、舞蹈類,",
+                "students": "成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
@@ -8830,8 +8830,8 @@
                 "code": "33201404170001",
                 "name": "私立學聖文理語文數學短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -8847,8 +8847,8 @@
                 "code": "33201404300004",
                 "name": "私立昇達2號文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -8864,8 +8864,8 @@
                 "code": "33201404300005",
                 "name": "私立佳鴻文理數學短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -8881,8 +8881,8 @@
                 "code": "33201403240003",
                 "name": "私立耕心文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -9000,8 +9000,8 @@
                 "code": "33201403110003",
                 "name": "私立米席美術短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小至成人"
             },
             "geometry": {
                 "type": "Point",
@@ -9034,8 +9034,8 @@
                 "code": "33201401290003",
                 "name": "私立書藝美術語文短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "外語類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -9051,8 +9051,8 @@
                 "code": "33201401290002",
                 "name": "私立尚德語文文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -9068,8 +9068,8 @@
                 "code": "33201403070001",
                 "name": "私立勁捷法商短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "法政類,",
+                "students": "公職人員考試"
             },
             "geometry": {
                 "type": "Point",
@@ -9085,8 +9085,8 @@
                 "code": "33201401290005",
                 "name": "私立傑飛文理語文短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -9102,8 +9102,8 @@
                 "code": "33201403110005",
                 "name": "私立學堡美語文理音樂短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,音樂、舞蹈類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -9238,8 +9238,8 @@
                 "code": "33201311200002",
                 "name": "私立舞荳音樂舞蹈短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "音樂、舞蹈類,",
+                "students": "國小至成人,未填寫"
             },
             "geometry": {
                 "type": "Point",
@@ -9255,8 +9255,8 @@
                 "code": "33201309260001",
                 "name": "私立托瑪斯美語短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -9306,8 +9306,8 @@
                 "code": "33201309130001",
                 "name": "私立奧斯汀美語作文短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "外語類,其他類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -9323,8 +9323,8 @@
                 "code": "33201309170001",
                 "name": "私立瑞淇語文短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "其他"
             },
             "geometry": {
                 "type": "Point",
@@ -9340,8 +9340,8 @@
                 "code": "33201308280002",
                 "name": "私立陞恩美語文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -9425,8 +9425,8 @@
                 "code": "33201309250002",
                 "name": "私立星星語文文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -9442,8 +9442,8 @@
                 "code": "33201306140002",
                 "name": "私立艾美加美語短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -9714,8 +9714,8 @@
                 "code": "33201304090001",
                 "name": "私立美亞美語短期補習班僑愛分班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小、國中、高中"
             },
             "geometry": {
                 "type": "Point",
@@ -9748,8 +9748,8 @@
                 "code": "33201304120002",
                 "name": "菁英國際文教事業有限公司桃園分公司附設私立菁英國際英日語短期補習班中壢分班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
@@ -9765,8 +9765,8 @@
                 "code": "33201303290003",
                 "name": "私立繆思音樂短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "音樂、舞蹈類,",
+                "students": "國小-成人"
             },
             "geometry": {
                 "type": "Point",
@@ -9799,8 +9799,8 @@
                 "code": "33201304150003",
                 "name": "私立保羅優質美語短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -9816,8 +9816,8 @@
                 "code": "33201304240007",
                 "name": "私立禾程語文短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -9935,8 +9935,8 @@
                 "code": "33201304160003",
                 "name": "私立美門數學美語短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國小、國中"
             },
             "geometry": {
                 "type": "Point",
@@ -9952,8 +9952,8 @@
                 "code": "33201210090001",
                 "name": "私立承恩語文數學短期補習班瑞塘分班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "外語類,其他類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -10615,8 +10615,8 @@
                 "code": "33201111220004",
                 "name": "私立威齊語文短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -10887,8 +10887,8 @@
                 "code": "33201609010001",
                 "name": "私立美美育育音樂短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "音樂、舞蹈類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -10904,8 +10904,8 @@
                 "code": "33201106080001",
                 "name": "私立巴洛克音樂短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "音樂、舞蹈類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -10921,8 +10921,8 @@
                 "code": "33201105310001",
                 "name": "百世教育科技股份有限公司附設私立百世文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -10938,8 +10938,8 @@
                 "code": "33201107260002",
                 "name": "私立綠光語文文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -10972,8 +10972,8 @@
                 "code": "33201104270001",
                 "name": "私立克蘿伊語文短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -11142,8 +11142,8 @@
                 "code": "33201107200001",
                 "name": "私立國鉅語文數學文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -11159,8 +11159,8 @@
                 "code": "33201103170005",
                 "name": "私立佛利亞美語文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -11176,8 +11176,8 @@
                 "code": "33201103170003",
                 "name": "私立躍騰文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -11193,8 +11193,8 @@
                 "code": "33201101250002",
                 "name": "私立李紹陽文理語文短期補習班同德分班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -11499,8 +11499,8 @@
                 "code": "33201012010001",
                 "name": "私立玥荷音樂短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "音樂、舞蹈類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -11533,8 +11533,8 @@
                 "code": "33201010280001",
                 "name": "私立佳祥文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -11550,8 +11550,8 @@
                 "code": "33201010280002",
                 "name": "私立王老師文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -11567,8 +11567,8 @@
                 "code": "33201010210001",
                 "name": "私立三民文理數學美語短期補習班大業分班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,其他類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -11737,8 +11737,8 @@
                 "code": "33201007080002",
                 "name": "私立摩爾美語文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -11754,8 +11754,8 @@
                 "code": "33201007050001",
                 "name": "私立弘人文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -11771,8 +11771,8 @@
                 "code": "33201006250001",
                 "name": "私立鼓動音樂短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "音樂、舞蹈類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -11788,8 +11788,8 @@
                 "code": "33201008180004",
                 "name": "私立古老師文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -11805,8 +11805,8 @@
                 "code": "33201006210001",
                 "name": "私立桃園龍太美術短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -12026,8 +12026,8 @@
                 "code": "33201002050001",
                 "name": "私立麥克叔叔文理語文短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -12043,8 +12043,8 @@
                 "code": "33201002010002",
                 "name": "私立冠軒美語數學作文短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "外語類,商類：珠算、心算、會計,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -12060,7 +12060,7 @@
                 "code": "33201002010001",
                 "name": "私立思純國際珠心算美語文理短期補習班",
                 "county": "桃園市",
-                "class": "",
+                "class": "文理類,外語類,商類：珠算、心算、會計,",
                 "students": ""
             },
             "geometry": {
@@ -12077,8 +12077,8 @@
                 "code": "33201003090002",
                 "name": "私立掄元語文文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -12298,8 +12298,8 @@
                 "code": "33200911100001",
                 "name": "私立智聖多元圍棋短期補習班南崁分班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "其他類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -12315,8 +12315,8 @@
                 "code": "33200911050004",
                 "name": "私立智麟文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -12366,8 +12366,8 @@
                 "code": "33200911100007",
                 "name": "私立奕軒數學短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -12383,8 +12383,8 @@
                 "code": "33200911100003",
                 "name": "私立晴天美術短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -12485,8 +12485,8 @@
                 "code": "33201307240001",
                 "name": "私立馨勵德文理語文數學短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國中,國小,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -12502,8 +12502,8 @@
                 "code": "33200911040003",
                 "name": "私立喬安娜語文文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -12655,8 +12655,8 @@
                 "code": "33200908280002",
                 "name": "私立奧林匹亞文理數學短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,其他類,",
+                "students": "國中,高中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -12672,8 +12672,8 @@
                 "code": "33201303220001",
                 "name": "私立聲坊音樂短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "音樂、舞蹈類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -12689,8 +12689,8 @@
                 "code": "33200908030001",
                 "name": "私立高第文理語文短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -12706,8 +12706,8 @@
                 "code": "33200911160002",
                 "name": "私立武陵高手文理美語短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -12723,8 +12723,8 @@
                 "code": "33200908270003",
                 "name": "私立育明數學語文短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "外語類,其他類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -12893,8 +12893,8 @@
                 "code": "33200907240005",
                 "name": "私立禕姿舞蹈短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "音樂、舞蹈類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -12910,8 +12910,8 @@
                 "code": "33200906030001",
                 "name": "私立智聖多元圍棋短期補習班大有分班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "其他類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -13148,8 +13148,8 @@
                 "code": "33200904080006",
                 "name": "私立橘諾美語文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -13165,8 +13165,8 @@
                 "code": "33200903040002",
                 "name": "私立三民文理數學美語短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,其他類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -13182,8 +13182,8 @@
                 "code": "33200902250001",
                 "name": "私立楷麒文理語文短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -13199,8 +13199,8 @@
                 "code": "33200901190002",
                 "name": "私立立育文理語文短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -13216,8 +13216,8 @@
                 "code": "33200901100001",
                 "name": "私立冠雄數學語文短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "外語類,其他類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -13233,8 +13233,8 @@
                 "code": "33200904080002",
                 "name": "私立漢昇文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -13420,8 +13420,8 @@
                 "code": "33200810270001",
                 "name": "私立中正美術短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -13437,8 +13437,8 @@
                 "code": "33200810280004",
                 "name": "私立璇葳文理數學短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -13454,8 +13454,8 @@
                 "code": "33200812170005",
                 "name": "私立欣奕語文文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -13947,8 +13947,8 @@
                 "code": "33200806300003",
                 "name": "私立黃豪文理技藝短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,其他類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -14083,8 +14083,8 @@
                 "code": "33200806160001",
                 "name": "私立飛揚語文短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -14100,8 +14100,8 @@
                 "code": "33200806100003",
                 "name": "私立優尼可語文文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -14117,8 +14117,8 @@
                 "code": "33200806100001",
                 "name": "私立立笙文理語文短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -14134,8 +14134,8 @@
                 "code": "33200806050001",
                 "name": "私立釩宇語文短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -14151,8 +14151,8 @@
                 "code": "33200807220002",
                 "name": "私立喬立安美語短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -14287,8 +14287,8 @@
                 "code": "33200803190003",
                 "name": "私立華格語文短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -14304,8 +14304,8 @@
                 "code": "33200803190001",
                 "name": "私立李紹陽文理語文數學短期補習班自強分班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -14474,8 +14474,8 @@
                 "code": "33200802050003",
                 "name": "私立信華美語文理短期補習班光明分班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -14593,8 +14593,8 @@
                 "code": "33200712260001",
                 "name": "私立智聖多元圍棋短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -14610,8 +14610,8 @@
                 "code": "33200804290003",
                 "name": "私立瑞文技藝短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "其他類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -14627,8 +14627,8 @@
                 "code": "33200712030001",
                 "name": "私立海鷗音樂短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "音樂、舞蹈類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -14865,8 +14865,8 @@
                 "code": "33200804280010",
                 "name": "私立群揚語文短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -15086,8 +15086,8 @@
                 "code": "33200708080003",
                 "name": "私立喬豐文理數學語文短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -15103,8 +15103,8 @@
                 "code": "33200708130003",
                 "name": "私立里茲文理語文短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -15239,8 +15239,8 @@
                 "code": "33200707170007",
                 "name": "私立一信文理語文數學短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -15256,8 +15256,8 @@
                 "code": "33200706120006",
                 "name": "私立洛荋得美語短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -15273,8 +15273,8 @@
                 "code": "33200707170011",
                 "name": "私立千平美語短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -15290,8 +15290,8 @@
                 "code": "33200706120008",
                 "name": "私立亮晶晶趣學文理技藝短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -15307,8 +15307,8 @@
                 "code": "33200707170012",
                 "name": "私立艾立笙文理語文短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -15613,8 +15613,8 @@
                 "code": "33200702260002",
                 "name": "私立及第文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "高中"
             },
             "geometry": {
                 "type": "Point",
@@ -15647,8 +15647,8 @@
                 "code": "33200702260010",
                 "name": "私立宥翰文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -15664,8 +15664,8 @@
                 "code": "33200702260011",
                 "name": "私立大綠蒂語文數學短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,商類：珠算、心算、會計,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -15681,8 +15681,8 @@
                 "code": "33200702260006",
                 "name": "私立達達美語文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -15698,8 +15698,8 @@
                 "code": "33200703080001",
                 "name": "私立大文豪語文文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -15987,8 +15987,8 @@
                 "code": "33200612220004",
                 "name": "朝陽富元教育股份有限公司附設私立朝揚文理語文短期補習班莊二分班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -16004,8 +16004,8 @@
                 "code": "33200612190005",
                 "name": "私立阿奇斯美術短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -16038,8 +16038,8 @@
                 "code": "33200612280001",
                 "name": "私立滌凡特語文文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -16157,8 +16157,8 @@
                 "code": "33200909040002",
                 "name": "私立博士兒文理語文短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -16174,8 +16174,8 @@
                 "code": "33200612140001",
                 "name": "私立旋轉木馬美語短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -16191,8 +16191,8 @@
                 "code": "33200612140009",
                 "name": "私立福斯得語文文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -16208,8 +16208,8 @@
                 "code": "33200708140012",
                 "name": "私立華鐸美語文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -16225,8 +16225,8 @@
                 "code": "33200612140005",
                 "name": "私立成龍語文短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小,未填寫"
             },
             "geometry": {
                 "type": "Point",
@@ -16361,8 +16361,8 @@
                 "code": "33200611070004",
                 "name": "私立李紹陽文理語文短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -16378,8 +16378,8 @@
                 "code": "33200611060005",
                 "name": "私立宏昌美語短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -16480,8 +16480,8 @@
                 "code": "33200612210028",
                 "name": "私立科喬美語文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -16497,8 +16497,8 @@
                 "code": "33200612220009",
                 "name": "私立大灣美語短期補習班大竹分班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小,國中高中"
             },
             "geometry": {
                 "type": "Point",
@@ -16531,8 +16531,8 @@
                 "code": "33200611060007",
                 "name": "私立啟迪美語短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -16548,8 +16548,8 @@
                 "code": "33200612210011",
                 "name": "私立頂龍美語文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -16565,8 +16565,8 @@
                 "code": "33200612210030",
                 "name": "私立致廷美語短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -16650,8 +16650,8 @@
                 "code": "33200612220006",
                 "name": "私立聖儒美語短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -16701,8 +16701,8 @@
                 "code": "33200607180001",
                 "name": "私立泰文文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -16718,8 +16718,8 @@
                 "code": "33200607170008",
                 "name": "私立艾蜜絲美語短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小、國中,高中、成人"
             },
             "geometry": {
                 "type": "Point",
@@ -16735,8 +16735,8 @@
                 "code": "33200607180005",
                 "name": "私立元智美語技藝短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "外語類,其他類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -16752,8 +16752,8 @@
                 "code": "33200607170002",
                 "name": "私立大安美語短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小至成人"
             },
             "geometry": {
                 "type": "Point",
@@ -16888,8 +16888,8 @@
                 "code": "33200605270002",
                 "name": "私立信宏文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -16956,8 +16956,8 @@
                 "code": "33200604210002",
                 "name": "私立弘道文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -17211,8 +17211,8 @@
                 "code": "33200507110010",
                 "name": "私立圻宇文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -17228,8 +17228,8 @@
                 "code": "33200507080017",
                 "name": "私立亞莉安美語短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -17245,8 +17245,8 @@
                 "code": "33200507110002",
                 "name": "私立亞碩音樂美語美術短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "外語類,音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -17262,8 +17262,8 @@
                 "code": "33200507080020",
                 "name": "私立黃秋芳語文短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "其他類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -17279,8 +17279,8 @@
                 "code": "33200507110008",
                 "name": "私立瀚學文理美語短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -17551,8 +17551,8 @@
                 "code": "33200507040009",
                 "name": "私立方華文理短期補習班新屋分班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -17568,8 +17568,8 @@
                 "code": "33200507130009",
                 "name": "私立伯特利音樂藝術短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "音樂、舞蹈類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -17585,8 +17585,8 @@
                 "code": "33200507130011",
                 "name": "私立承恩語文數學短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -17925,8 +17925,8 @@
                 "code": "33200504220001",
                 "name": "私立科恩美語短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -17942,8 +17942,8 @@
                 "code": "33200507120001",
                 "name": "私立凱旋英語短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -18061,8 +18061,8 @@
                 "code": "33200406240003",
                 "name": "私立弘盛文理英語短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -18095,8 +18095,8 @@
                 "code": "33200406240001",
                 "name": "私立温老師文理數學美語短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -18316,8 +18316,8 @@
                 "code": "33200403100003",
                 "name": "私立愛因斯坦文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -18452,8 +18452,8 @@
                 "code": "33200312260001",
                 "name": "私立泓林文理數學語文短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -18571,8 +18571,8 @@
                 "code": "33200312150006",
                 "name": "私立聯成電腦短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "資訊類,",
+                "students": "成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
@@ -18605,8 +18605,8 @@
                 "code": "33200311120004",
                 "name": "私立華陞文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -18622,8 +18622,8 @@
                 "code": "33200311120011",
                 "name": "私立巨鯨文理語文短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -18792,8 +18792,8 @@
                 "code": "33200310280001",
                 "name": "私立文琳文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -18826,8 +18826,8 @@
                 "code": "33200306230002",
                 "name": "私立勵成文理短期補習班東興分班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -18911,8 +18911,8 @@
                 "code": "33200208050050",
                 "name": "私立中華電腦短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "資訊類,",
+                "students": "成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
@@ -19183,8 +19183,8 @@
                 "code": "33200212300002",
                 "name": "私立經綸文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -19251,8 +19251,8 @@
                 "code": "33200302100002",
                 "name": "私立九歌美語作文珠心算短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "外語類,商類：珠算、心算、會計,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -19285,8 +19285,8 @@
                 "code": "33200211190002",
                 "name": "私立三之三珠心算短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "商類：珠算、心算、會計,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -19302,8 +19302,8 @@
                 "code": "33200208200005",
                 "name": "私立小森林美語短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -19353,8 +19353,8 @@
                 "code": "33200211190007",
                 "name": "私立千千美語短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -19370,8 +19370,8 @@
                 "code": "33200301220007",
                 "name": "私立春華英語會話短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小至成人"
             },
             "geometry": {
                 "type": "Point",
@@ -19387,8 +19387,8 @@
                 "code": "33200209170009",
                 "name": "私立明治語文短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
@@ -19421,8 +19421,8 @@
                 "code": "33200209170004",
                 "name": "私立潔茜卡文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -19761,8 +19761,8 @@
                 "code": "33200209160012",
                 "name": "私立碩苑美語短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -19948,8 +19948,8 @@
                 "code": "33200209160001",
                 "name": "私立小熊文理語文珠心算數學短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "商類：珠算、心算、會計,其他類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -19999,8 +19999,8 @@
                 "code": "33200209130032",
                 "name": "私立愛德華文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -20016,8 +20016,8 @@
                 "code": "33200209130034",
                 "name": "私立奇瓦迪文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -20033,8 +20033,8 @@
                 "code": "33200209130033",
                 "name": "私立思維文理美語短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,商類：珠算、心算、會計,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -20050,8 +20050,8 @@
                 "code": "33200209130026",
                 "name": "私立明志文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -20067,8 +20067,8 @@
                 "code": "33200209130024",
                 "name": "私立學揚美語數學文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -20203,8 +20203,8 @@
                 "code": "33200410050001",
                 "name": "私立惠育音樂短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "音樂、舞蹈類,",
+                "students": "國小,國小至成人"
             },
             "geometry": {
                 "type": "Point",
@@ -20220,8 +20220,8 @@
                 "code": "33200209120024",
                 "name": "朝陽富元教育股份有限公司附設私立朝揚米其文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -20237,8 +20237,8 @@
                 "code": "33200209120023",
                 "name": "私立彭老師美語文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -20254,8 +20254,8 @@
                 "code": "33200209120017",
                 "name": "私立儒林文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "高中"
             },
             "geometry": {
                 "type": "Point",
@@ -20271,8 +20271,8 @@
                 "code": "33200209120011",
                 "name": "私立文傑語文珠算短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "外語類,商類：珠算、心算、會計,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -20390,8 +20390,8 @@
                 "code": "33200209110008",
                 "name": "私立少芃文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -20424,8 +20424,8 @@
                 "code": "33200209110003",
                 "name": "私立夏老師文理美語短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -20441,8 +20441,8 @@
                 "code": "33200208210016",
                 "name": "私立文佑語文文理數學短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國小,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -20458,8 +20458,8 @@
                 "code": "33200208210012",
                 "name": "私立勁草美語短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -21053,8 +21053,8 @@
                 "code": "33200209260005",
                 "name": "私立大立昇美語短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -21155,8 +21155,8 @@
                 "code": "33200208200006",
                 "name": "私立佳盈英語短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -21308,8 +21308,8 @@
                 "code": "33200210160001",
                 "name": "私立普利斯堡英語會話短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -21427,8 +21427,8 @@
                 "code": "33200207230024",
                 "name": "私立陽昇美語短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -21444,8 +21444,8 @@
                 "code": "33200208200035",
                 "name": "私立佑林文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -21461,8 +21461,8 @@
                 "code": "33200207230004",
                 "name": "私立聖堡登英語會話短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -21478,8 +21478,8 @@
                 "code": "33200207230003",
                 "name": "私立清大美語文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -21495,8 +21495,8 @@
                 "code": "33200312150001",
                 "name": "私立建智文理美語數學短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -21512,8 +21512,8 @@
                 "code": "33200207310024",
                 "name": "私立今華美容短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "美容、美髮理髮類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -21529,8 +21529,8 @@
                 "code": "33200207240053",
                 "name": "優質坮大教育股份有限公司附設私立優質坮大文理短期補習班中興分班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -21546,8 +21546,8 @@
                 "code": "33200207230016",
                 "name": "私立小太陽英語會話短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "高中階段至成人"
             },
             "geometry": {
                 "type": "Point",
@@ -22226,8 +22226,8 @@
                 "code": "33200208060001",
                 "name": "私立一二三速讀短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "速讀類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -22260,8 +22260,8 @@
                 "code": "33200207220023",
                 "name": "私立大格文理語文短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -22277,8 +22277,8 @@
                 "code": "33200207230125",
                 "name": "私立全勝文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -22294,8 +22294,8 @@
                 "code": "33200207230123",
                 "name": "私立翰林文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -22311,8 +22311,8 @@
                 "code": "33200207230116",
                 "name": "私立周佳教文理短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -22464,8 +22464,8 @@
                 "code": "33200207250027",
                 "name": "私立名人電機短期補習班",
                 "county": "桃園市",
-                "class": "",
-                "students": ""
+                "class": "電機、汽車修護、建築、工藝、製圖類,",
+                "students": "成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
