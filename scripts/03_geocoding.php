@@ -122,8 +122,8 @@ EOD;
                 'geometry' => [
                     'type' => 'Point',
                     'coordinates' => [
-                        $json['AddressList'][0]['X'],
-                        $json['AddressList'][0]['Y']
+                        floatval($json['AddressList'][0]['X']),
+                        floatval($json['AddressList'][0]['Y'])
                     ],
                 ],
             ];
