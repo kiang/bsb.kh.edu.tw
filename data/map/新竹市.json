@@ -4169,23 +4169,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "35201205160003",
-                "name": "新竹市私立山熊科學文理短期補習班",
-                "county": "新竹市",
-                "class": "文理類,",
-                "students": "國小,高中,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.011221,
-                    24.784499
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "35201205160002",
                 "name": "新竹市私立友友美語短期補習班",
                 "county": "新竹市",
@@ -4197,6 +4180,23 @@
                 "coordinates": [
                     121.014154,
                     24.784061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "35201205160003",
+                "name": "新竹市私立山熊科學文理短期補習班",
+                "county": "新竹市",
+                "class": "文理類,",
+                "students": "國小,高中,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.011221,
+                    24.784499
                 ]
             }
         },
@@ -5716,23 +5716,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "35200702080002",
-                "name": "新竹市私立英格美語短期補習班",
-                "county": "新竹市",
-                "class": "外語類,",
-                "students": "國小,國中,高中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.965751,
-                    24.81604
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "35200702080001",
                 "name": "新竹市私立文勝文理短期補習班",
                 "county": "新竹市",
@@ -5744,6 +5727,23 @@
                 "coordinates": [
                     120.963292,
                     24.821134
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "35200702080002",
+                "name": "新竹市私立英格美語短期補習班",
+                "county": "新竹市",
+                "class": "外語類,",
+                "students": "國小,國中,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.965751,
+                    24.81604
                 ]
             }
         },
