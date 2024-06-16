@@ -3778,23 +3778,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "39200408110001",
-                "name": "私立友聞文理短期補習班",
-                "county": "宜蘭縣",
-                "class": "文理類,",
-                "students": "國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.761062,
-                    24.677198
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "39200408030001",
                 "name": "私立向虹珠心算文理短期補習班",
                 "county": "宜蘭縣",
@@ -3806,6 +3789,23 @@
                 "coordinates": [
                     121.765559,
                     24.680204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200408110001",
+                "name": "私立友聞文理短期補習班",
+                "county": "宜蘭縣",
+                "class": "文理類,",
+                "students": "國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.761062,
+                    24.677198
                 ]
             }
         },
@@ -4628,23 +4628,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "39200208060033",
-                "name": "私立佳音語文短期補習班光復分班",
-                "county": "宜蘭縣",
-                "class": "文理類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.748035,
-                    24.75605
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "39200208090027",
                 "name": "私立格林文理短期補習班",
                 "county": "宜蘭縣",
@@ -4656,6 +4639,23 @@
                 "coordinates": [
                     121.765753,
                     24.679265
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200208060033",
+                "name": "私立佳音語文短期補習班光復分班",
+                "county": "宜蘭縣",
+                "class": "文理類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.748035,
+                    24.75605
                 ]
             }
         },
@@ -4730,23 +4730,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "39200208060030",
-                "name": "私立巨人文理短期補習班",
-                "county": "宜蘭縣",
-                "class": "文理類,",
-                "students": "國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.768379,
-                    24.682124
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "39200208090016",
                 "name": "私立大地美術短期補習班",
                 "county": "宜蘭縣",
@@ -4758,6 +4741,23 @@
                 "coordinates": [
                     121.768405,
                     24.682209
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200208060030",
+                "name": "私立巨人文理短期補習班",
+                "county": "宜蘭縣",
+                "class": "文理類,",
+                "students": "國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.768379,
+                    24.682124
                 ]
             }
         },

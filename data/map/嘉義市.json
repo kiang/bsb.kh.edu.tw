@@ -2214,23 +2214,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "52200609260001",
-                "name": "嘉義市私立仕程文理短期補習班",
-                "county": "嘉義市",
-                "class": "文理類,",
-                "students": "國中,高中,高職"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.457139,
-                    23.489902
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "52200609260002",
                 "name": "嘉義市私立果凍魚文理短期補習班",
                 "county": "嘉義市",
@@ -2242,6 +2225,23 @@
                 "coordinates": [
                     120.46011,
                     23.473769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "52200609260001",
+                "name": "嘉義市私立仕程文理短期補習班",
+                "county": "嘉義市",
+                "class": "文理類,",
+                "students": "國中,高中,高職"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.457139,
+                    23.489902
                 ]
             }
         },
@@ -2316,23 +2316,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "52200605080003",
-                "name": "嘉義市私立志達文理短期補習班",
-                "county": "嘉義市",
-                "class": "文理類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.43133,
-                    23.46416
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "52200605080005",
                 "name": "嘉義市私立維尼熊文理技藝短期補習班",
                 "county": "嘉義市",
@@ -2344,6 +2327,23 @@
                 "coordinates": [
                     120.444016,
                     23.468755
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "52200605080003",
+                "name": "嘉義市私立志達文理短期補習班",
+                "county": "嘉義市",
+                "class": "文理類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43133,
+                    23.46416
                 ]
             }
         },

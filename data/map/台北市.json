@@ -12567,23 +12567,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "20201611030001",
-                "name": "小樹苗家庭教育股份有限公司附設臺北市私立威斯特屋文理短期補習班",
-                "county": "台北市",
-                "class": "文理類,",
-                "students": "其他"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.5581,
-                    25.027017
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "20201611030002",
                 "name": "劉氏文教事業股份有限公司附設臺北市私立劉氏景美作文文理短期補習班",
                 "county": "台北市",
@@ -12595,6 +12578,23 @@
                 "coordinates": [
                     121.54022,
                     24.998345
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "20201611030001",
+                "name": "小樹苗家庭教育股份有限公司附設臺北市私立威斯特屋文理短期補習班",
+                "county": "台北市",
+                "class": "文理類,",
+                "students": "其他"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5581,
+                    25.027017
                 ]
             }
         },
@@ -12890,23 +12890,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "20201608250001",
-                "name": "臺北市私立頂點方程文理短期補習班",
-                "county": "台北市",
-                "class": "文理類,",
-                "students": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.542692,
-                    25.033197
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "20201608250002",
                 "name": "臺北市私立泰瑞沙文理短期補習班",
                 "county": "台北市",
@@ -12918,6 +12901,23 @@
                 "coordinates": [
                     121.497534,
                     25.137405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "20201608250001",
+                "name": "臺北市私立頂點方程文理短期補習班",
+                "county": "台北市",
+                "class": "文理類,",
+                "students": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.542692,
+                    25.033197
                 ]
             }
         },
