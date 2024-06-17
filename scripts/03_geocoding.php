@@ -110,7 +110,7 @@ EOD;
                     $targets[$item['招生對象']] = true;
                 }
             }
-            $cityFc[$city]['features'][] = [
+            $cityFc[$city]['features'][$data['代號']] = [
                 'type' => 'Feature',
                 'properties' => [
                     'code' => $data['代號'],
@@ -138,6 +138,8 @@ EOD;
 }
 
 foreach ($cityFc as $city => $fc) {
+    ksort($fc['features']);
+    $fc['features'] = array_values($fc['features']);
     file_put_contents($basePath . '/data/map/' . $city . '.json', json_encode($fc, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
     echo "{$city}: " . count($fc['features']) . " \n";
 }
