@@ -7790,23 +7790,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "42200306269001",
-                "name": "臺中市私立新百翰文理短期補習班",
-                "county": "台中市",
-                "class": "文理類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.570061,
-                    24.123614
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "42200306269002",
                 "name": "臺中市私立貝多芬音樂短期補習班",
                 "county": "台中市",

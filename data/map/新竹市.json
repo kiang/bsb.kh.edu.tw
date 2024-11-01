@@ -7947,7 +7947,7 @@
                 "name": "明陵文教有限公司附設新竹市私立明陵文理短期補習班",
                 "county": "新竹市",
                 "class": "文理類,",
-                "students": "國小,國中,高中"
+                "students": "國小,高中,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -8032,7 +8032,7 @@
                 "name": "新竹市私立高樺文理技藝短期補習班",
                 "county": "新竹市",
                 "class": "文理類,",
-                "students": "國小,國中"
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
