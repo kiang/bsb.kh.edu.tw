@@ -3744,23 +3744,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "21200208022736",
-                "name": "私立李氏姐妹英語短期補習班",
-                "county": "新北市",
-                "class": "外語類,",
-                "students": "不限"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.540651,
-                    24.96735
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "21200208022740",
                 "name": "私立文華文理短期補習班",
                 "county": "新北市",
@@ -5404,6 +5387,23 @@
                 "coordinates": [
                     121.497255,
                     25.064807
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21200210150002",
+                "name": "私立吉尼士美語短期補習班",
+                "county": "新北市",
+                "class": "文理類,外語類,",
+                "students": "國小、國中、高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.428813,
+                    24.987404
                 ]
             }
         },
