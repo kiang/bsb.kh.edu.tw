@@ -1432,6 +1432,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "42200207319284",
+                "name": "臺中市私立一二三文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.584734,
+                    24.182048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "42200207319286",
                 "name": "臺中市私立新東文理短期補習班",
                 "county": "台中市",
