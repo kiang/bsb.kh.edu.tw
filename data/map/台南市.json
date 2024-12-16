@@ -14726,23 +14726,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "62201208230001",
-                "name": "臺南市私立陽明資優中心文理短期補習班",
-                "county": "台南市",
-                "class": "文理類,",
-                "students": "國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.322616,
-                    23.310701
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "62201209040001",
                 "name": "臺南市私立安順文理短期補習班",
                 "county": "台南市",
@@ -15662,7 +15645,7 @@
             "type": "Feature",
             "properties": {
                 "code": "62201406200002",
-                "name": "臺南市私立弋哥美語短期補習班",
+                "name": "臺南市私立慧穎文理短期補習班",
                 "county": "台南市",
                 "class": "外語類,",
                 "students": "國小-高中"

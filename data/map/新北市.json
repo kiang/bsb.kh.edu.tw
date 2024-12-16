@@ -12364,7 +12364,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21200510240007",
-                "name": "私立景新美語短期補習班",
+                "name": "景新美語短期補習班",
                 "county": "新北市",
                 "class": "外語類,",
                 "students": "未填寫"
@@ -30995,23 +30995,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "21201505280002",
-                "name": "聖雅文理語文短期補習班",
-                "county": "新北市",
-                "class": "文理類,外語類,",
-                "students": "國中,不限年齡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.448674,
-                    25.096229
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "21201505280003",
                 "name": "私立赫全電腦有限公司附設赫全電腦短期補習班",
                 "county": "新北市",
@@ -39309,7 +39292,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21202005310002",
-                "name": "私立仁繪文理短期補習班",
+                "name": "仁繪文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
                 "students": "國小以上"
@@ -39326,7 +39309,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21202005310003",
-                "name": "私立仁瀚文理短期補習班",
+                "name": "仁瀚文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
                 "students": "國小以上"
@@ -39343,7 +39326,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21202005310004",
-                "name": "私立仁繹文理短期補習班",
+                "name": "仁繹文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
                 "students": "國小以上"
@@ -40312,7 +40295,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21202010060001",
-                "name": "私立傑儒文理技藝短期補習班",
+                "name": "傑儒文理技藝短期補習班",
                 "county": "新北市",
                 "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
                 "students": "國小、國中、高中,不限年齡"
