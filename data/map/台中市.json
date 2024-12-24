@@ -40443,6 +40443,23 @@
                     24.161435
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42202412240001",
+                "name": "臺中市私立雅學文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "學齡前,國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.654051,
+                    24.221299
+                ]
+            }
         }
     ]
 }
