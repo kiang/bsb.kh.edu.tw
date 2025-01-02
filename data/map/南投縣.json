@@ -3553,6 +3553,23 @@
                     23.897068
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "49202501020001",
+                "name": "南投縣私立成煖立德文理短期補習班",
+                "county": "南投縣",
+                "class": "",
+                "students": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.975301,
+                    23.961677
+                ]
+            }
         }
     ]
 }
