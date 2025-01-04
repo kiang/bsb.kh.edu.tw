@@ -17548,23 +17548,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "21200804210001",
-                "name": "私立新概念文理短期補習班",
-                "county": "新北市",
-                "class": "文理類,",
-                "students": "不限年齡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.442083,
-                    25.175733
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "21200804210002",
                 "name": "私立克羅采音樂短期補習班",
                 "county": "新北市",
