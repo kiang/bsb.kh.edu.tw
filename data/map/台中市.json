@@ -127,7 +127,7 @@
                 "name": "臺中市私立超越文理短期補習班",
                 "county": "台中市",
                 "class": "文理類,",
-                "students": "國中"
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -12414,23 +12414,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "42200607259001",
-                "name": "臺中市私立多分方程式文理短期補習班",
-                "county": "台中市",
-                "class": "文理類,",
-                "students": "國中,國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.575411,
-                    24.181082
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "42200607259002",
                 "name": "臺中市私立玉登文理珠心算短期補習班",
                 "county": "台中市",
@@ -22223,23 +22206,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "42201112260001",
-                "name": "臺中市私立文殊文理短期補習班",
-                "county": "台中市",
-                "class": "文理類,",
-                "students": "國中,國小,高中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.705405,
-                    24.141186
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "42201112280003",
                 "name": "臺中市私立展妍文心文理短期補習班",
                 "county": "台中市",
@@ -25702,23 +25668,6 @@
                 "coordinates": [
                     120.64764,
                     24.143239
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "42201409240001",
-                "name": "臺中市私立聖約克文理短期補習班",
-                "county": "台中市",
-                "class": "文理類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.696417,
-                    24.165762
                 ]
             }
         },

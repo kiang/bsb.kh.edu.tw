@@ -10238,23 +10238,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "62200707189002",
-                "name": "臺南市私立康老師文理短期補習班",
-                "county": "台南市",
-                "class": "文理類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.326829,
-                    22.960887
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "62200707239001",
                 "name": "臺南市私立愛博特文理短期補習班",
                 "county": "台南市",
@@ -10426,7 +10409,7 @@
             "type": "Feature",
             "properties": {
                 "code": "62200708300002",
-                "name": "臺南市私立橫氏珠心算短期補習班",
+                "name": "臺南市私立橫氏珠心算技藝短期補習班",
                 "county": "台南市",
                 "class": "商類：珠算、心算、會計,",
                 "students": "國小"
@@ -16889,7 +16872,7 @@
                 "name": "臺南市私立金善文理短期補習班",
                 "county": "台南市",
                 "class": "文理類,",
-                "students": "國小,國中"
+                "students": "國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",
