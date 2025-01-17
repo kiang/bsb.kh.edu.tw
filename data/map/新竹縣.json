@@ -8262,6 +8262,23 @@
                     24.812398
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "36202501170001",
+                "name": "新竹縣私立恒卓文理短期補習班",
+                "county": "新竹縣",
+                "class": "文理類,",
+                "students": "國小,國中,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.038799,
+                    24.90223
+                ]
+            }
         }
     ]
 }
