@@ -3268,23 +3268,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "70200204022611",
-                "name": "私立大英文理短期補習班南屏分班",
-                "county": "高雄市",
-                "class": "文理類,商類：珠算、心算、會計,",
-                "students": "國中,國小,高中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.300344,
-                    22.655306
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "70200204022615",
                 "name": "私立佳欣外語短期補習班",
                 "county": "高雄市",
@@ -6770,23 +6753,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "70200205089381",
-                "name": "私立英樂音樂短期補習班",
-                "county": "高雄市",
-                "class": "音樂、舞蹈類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.295494,
-                    22.795432
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "70200205089387",
                 "name": "私立育菁文理技藝短期補習班",
                 "county": "高雄市",
@@ -7410,23 +7376,6 @@
                 "coordinates": [
                     120.344675,
                     22.524501
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "70200207100080",
-                "name": "私立符氏文理短期補習班平和分班",
-                "county": "高雄市",
-                "class": "文理類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.27131,
-                    22.607113
                 ]
             }
         },
@@ -31900,7 +31849,7 @@
                 "name": "私立新國際技藝文理短期補習班",
                 "county": "高雄市",
                 "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國中,學齡前,國小"
+                "students": "學齡前,國中,國小"
             },
             "geometry": {
                 "type": "Point",
