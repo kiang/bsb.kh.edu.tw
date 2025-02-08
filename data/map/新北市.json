@@ -30826,7 +30826,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21201504300002",
-                "name": "私立集美唐吉君文理語文短期補習班",
+                "name": "集美唐吉君文理語文短期補習班",
                 "county": "新北市",
                 "class": "文理類,外語類,",
                 "students": "不限年齡,國中"
@@ -37251,23 +37251,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "21201907040001",
-                "name": "私立肯尼思文理短期補習班",
-                "county": "新北市",
-                "class": "文理類,",
-                "students": "不限年齡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.47241,
-                    25.024103
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "21201907060001",
                 "name": "私立君宥文理短期補習班",
                 "county": "新北市",
@@ -38051,7 +38034,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21201911180001",
-                "name": "私立柏淶特文理技藝短期補習班",
+                "name": "柏淶特文理技藝短期補習班",
                 "county": "新北市",
                 "class": "文理類,商類：珠算、心算、會計,",
                 "students": "不限年齡"
