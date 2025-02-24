@@ -8334,6 +8334,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "42200401120001",
+                "name": "私立士佳文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.672012,
+                    24.13775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "42200401150004",
                 "name": "臺中市私立尊賢文理短期補習班",
                 "county": "台中市",
@@ -8396,23 +8413,6 @@
                 "coordinates": [
                     120.712791,
                     24.251366
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "42200403029001",
-                "name": "私立永明文理短期補習班",
-                "county": "台中市",
-                "class": "文理類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.67728,
-                    24.112136
                 ]
             }
         },
@@ -40451,7 +40451,7 @@
                 "name": "臺中市私立學思創新文理短期補習班",
                 "county": "台中市",
                 "class": "文理類,",
-                "students": "國小,國中"
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
