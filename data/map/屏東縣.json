@@ -2272,24 +2272,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "87200710050001",
-                "name": "屏東縣私立曾老師美語文理短期補習班",
-                "county": "屏東縣",
-                "class": "文理類,外語類,",
-                "students": "國小,國中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.594736,
-                    22.387826
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "87200710300002",
                 "name": "屏東縣私立軒宇文理美語短期補習班",
                 "county": "屏東縣",
@@ -2834,7 +2816,7 @@
                 "name": "屏東縣私立奕晨美語文理短期補習班",
                 "county": "屏東縣",
                 "class": "文理類,外語類,",
-                "students": "國小,國中",
+                "students": "國中,國小",
                 "date_closed": ""
             },
             "geometry": {
@@ -7432,6 +7414,24 @@
                 "coordinates": [
                     120.489822,
                     22.774602
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "87202503140001",
+                "name": "屏東縣私立捷思美語文理短期補習班",
+                "county": "屏東縣",
+                "class": "文理類,外語類,",
+                "students": "國小,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.456926,
+                    22.468282
                 ]
             }
         }

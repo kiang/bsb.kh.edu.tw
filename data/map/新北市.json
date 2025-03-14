@@ -8195,9 +8195,9 @@
             "type": "Feature",
             "properties": {
                 "code": "21200312250002",
-                "name": "佳學事業股份有限公司中和分公司附設佳華英語短期補習班",
+                "name": "佳學事業股份有限公司中和分公司附設私立佳華文理短期補習班",
                 "county": "新北市",
-                "class": "外語類,",
+                "class": "文理類,",
                 "students": "國小,國中",
                 "date_closed": ""
             },
@@ -13595,7 +13595,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21200512230001",
-                "name": "私立鈞好文理短期補習班",
+                "name": "鈞好文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
                 "students": "國小、國中、高中",
@@ -17698,6 +17698,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "21200710040002",
+                "name": "私立靜宜文理短期補習班",
+                "county": "新北市",
+                "class": "文理類,外語類,",
+                "students": "不限年齡,學齡前",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.641586,
+                    25.066322
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "21200710110002",
                 "name": "私立汎璇音樂舞蹈短期補習班",
                 "county": "新北市",
@@ -20240,7 +20258,7 @@
                 "name": "熊振文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
-                "students": "國小,其他",
+                "students": "國小,國中",
                 "date_closed": ""
             },
             "geometry": {
@@ -20291,7 +20309,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21200902160003",
-                "name": "私立弘毅文理短期補習班",
+                "name": "弘毅文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
                 "students": "不限年齡",
@@ -47815,7 +47833,7 @@
                 "code": "21202304250001",
                 "name": "何嘉仁文教事業股份有限公司附設私立日光文理短期補習班",
                 "county": "新北市",
-                "class": "文理類,",
+                "class": "文理類,外語類,",
                 "students": "不限年齡,6歲以上",
                 "date_closed": ""
             },
