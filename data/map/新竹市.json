@@ -1636,6 +1636,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "35200509230001",
+                "name": "新竹市私立基音美語短期補習班",
+                "county": "新竹市",
+                "class": "外語類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.020128,
+                    24.777602
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "35200602070001",
                 "name": "新竹市私立傳薪短期補習班",
                 "county": "新竹市",
@@ -2724,6 +2741,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "35200903190002",
+                "name": "新竹市私立立文文理短期補習班",
+                "county": "新竹市",
+                "class": "文理類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.964899,
+                    24.817862
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "35200903190003",
                 "name": "新竹市私立畊讀文理短期補習班",
                 "county": "新竹市",
@@ -3279,6 +3313,23 @@
                 "coordinates": [
                     120.962312,
                     24.808554
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "35201105020007",
+                "name": "財團法人信誼基金會附設新竹市私立光明文理短期補習班",
+                "county": "新竹市",
+                "class": "文理類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.997819,
+                    24.794406
                 ]
             }
         },
@@ -5319,6 +5370,23 @@
                 "coordinates": [
                     120.971965,
                     24.818168
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "35201803130001",
+                "name": "新竹市私立吉尼文理短期補習班",
+                "county": "新竹市",
+                "class": "文理類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.011629,
+                    24.782126
                 ]
             }
         },

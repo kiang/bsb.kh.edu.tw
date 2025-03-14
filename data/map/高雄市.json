@@ -6141,6 +6141,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "70200205089270",
+                "name": "私立喬聖文理短期補習班",
+                "county": "高雄市",
+                "class": "文理類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.33955,
+                    22.65255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "70200205089271",
                 "name": "私立睿林文理短期補習班",
                 "county": "高雄市",
@@ -13037,6 +13054,23 @@
                 "coordinates": [
                     120.222919,
                     22.907135
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "70200505259004",
+                "name": "私立指揮家美語短期補習班",
+                "county": "高雄市",
+                "class": "外語類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.360561,
+                    22.662155
                 ]
             }
         },
@@ -27742,6 +27776,23 @@
                 "coordinates": [
                     120.323822,
                     22.632791
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "70201905210001",
+                "name": "私立群藝文理技藝短期補習班",
+                "county": "高雄市",
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "學齡前,國中,國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.345286,
+                    22.702693
                 ]
             }
         },

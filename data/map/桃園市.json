@@ -1704,6 +1704,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "33200209120004",
+                "name": "私立活用美語珠心算短期補習班",
+                "county": "桃園市",
+                "class": "外語類,商類：珠算、心算、會計,",
+                "students": "國小,未填寫"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.226075,
+                    24.947089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "33200209120011",
                 "name": "私立文傑語文珠算短期補習班",
                 "county": "桃園市",
@@ -2282,6 +2299,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "33200209180002",
+                "name": "私立明冠語文文理短期補習班",
+                "county": "桃園市",
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.318366,
+                    25.003342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "33200209180005",
                 "name": "私立蘇荷美術短期補習班",
                 "county": "桃園市",
@@ -2378,6 +2412,23 @@
                 "coordinates": [
                     121.251773,
                     24.917665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "33200209180026",
+                "name": "私立富竑音樂短期補習班",
+                "county": "桃園市",
+                "class": "音樂、舞蹈類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.225339,
+                    24.963516
                 ]
             }
         },
@@ -2565,6 +2616,23 @@
                 "coordinates": [
                     121.247175,
                     24.946477
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "33200210020001",
+                "name": "私立英普力美語短期補習班",
+                "county": "桃園市",
+                "class": "外語類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.260112,
+                    24.962248
                 ]
             }
         },
@@ -2888,6 +2956,23 @@
                 "coordinates": [
                     121.24977,
                     24.925129
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "33200211190004",
+                "name": "私立燈塔美語會話短期補習班",
+                "county": "桃園市",
+                "class": "外語類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.231405,
+                    24.95254
                 ]
             }
         },
@@ -3455,6 +3540,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "33200306100003",
+                "name": "私立紅寶山美語珠算短期補習班",
+                "county": "桃園市",
+                "class": "外語類,商類：珠算、心算、會計,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.366039,
+                    25.000274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "33200306100004",
                 "name": "私立宏大美語數學文理短期補習班",
                 "county": "桃園市",
@@ -3466,6 +3568,23 @@
                 "coordinates": [
                     121.297216,
                     25.0558
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "33200306180001",
+                "name": "私立育昇文理數學美語自然短期補習班",
+                "county": "桃園市",
+                "class": "文理類,外語類,",
+                "students": "國中,國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.307311,
+                    24.979799
                 ]
             }
         },
@@ -4469,6 +4588,23 @@
                 "coordinates": [
                     121.215597,
                     24.861536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "33200505230005",
+                "name": "私立上格美語短期補習班",
+                "county": "桃園市",
+                "class": "外語類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.263141,
+                    25.01887
                 ]
             }
         },
@@ -5948,6 +6084,23 @@
                 "coordinates": [
                     121.328211,
                     24.990485
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "33200612210021",
+                "name": "私立博士登文理美語短期補習班",
+                "county": "桃園市",
+                "class": "文理類,外語類,",
+                "students": "國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.141855,
+                    25.045101
                 ]
             }
         },
@@ -8759,6 +8912,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "33200811250001",
+                "name": "私立英傑美語短期補習班",
+                "county": "桃園市",
+                "class": "外語類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.275361,
+                    24.894454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "33200812120001",
                 "name": "私立蘇荷美術短期補習班青溪分班",
                 "county": "桃園市",
@@ -9422,6 +9592,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "33200910060002",
+                "name": "私立貝多芬語文珠心算短期補習班",
+                "county": "桃園市",
+                "class": "外語類,商類：珠算、心算、會計,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.293256,
+                    25.000087
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "33200910080001",
                 "name": "私立悅迪語文文理短期補習班",
                 "county": "桃園市",
@@ -9858,6 +10045,23 @@
                 "coordinates": [
                     121.305201,
                     24.957605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "33201001050001",
+                "name": "私立愛樂棻音樂語文短期補習班",
+                "county": "桃園市",
+                "class": "外語類,音樂、舞蹈類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.142272,
+                    25.042952
                 ]
             }
         },
@@ -11796,6 +12000,23 @@
                 "coordinates": [
                     121.289823,
                     24.987586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "33201204120001",
+                "name": "私立親親語文數學短期補習班",
+                "county": "桃園市",
+                "class": "外語類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.343088,
+                    25.0049
                 ]
             }
         },
@@ -14652,6 +14873,23 @@
                 "coordinates": [
                     121.304754,
                     24.959461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "33201601040002",
+                "name": "私立變形蟲美術短期補習班",
+                "county": "桃園市",
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "不限"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.334197,
+                    24.995406
                 ]
             }
         },
@@ -18749,6 +18987,23 @@
                 "coordinates": [
                     121.303281,
                     24.968668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "33202012210001",
+                "name": "朝陽富元教育股份有限公司附設私立朝揚文理短期補習班龜山分班",
+                "county": "桃園市",
+                "class": "文理類,",
+                "students": "國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.339709,
+                    24.997357
                 ]
             }
         },

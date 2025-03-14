@@ -2945,6 +2945,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "47200307010003",
+                "name": "私立瑪麗美語短期補習班",
+                "county": "彰化縣",
+                "class": "外語類,",
+                "students": "國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.532197,
+                    24.07059
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "47200307020001",
                 "name": "三人廣栽桃李文教事業有限公司附設彰化縣私立加英英語短期補習班",
                 "county": "彰化縣",
@@ -5172,6 +5189,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "47200612150001",
+                "name": "私立慧群美語短期補習班",
+                "county": "彰化縣",
+                "class": "外語類,",
+                "students": "國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.602749,
+                    23.955547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "47200612150003",
                 "name": "私立詮欣文理短期補習班",
                 "county": "彰化縣",
@@ -6407,6 +6441,23 @@
                 "coordinates": [
                     120.544045,
                     24.069946
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "47200808250002",
+                "name": "私立立倫美語短期補習班",
+                "county": "彰化縣",
+                "class": "外語類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.601372,
+                    23.966912
                 ]
             }
         },
@@ -8141,6 +8192,23 @@
                 "coordinates": [
                     120.460614,
                     24.106625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "47201108010001",
+                "name": "彰化縣私立幸福外語短期補習班",
+                "county": "彰化縣",
+                "class": "外語類,",
+                "students": "成人(18歲以上)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.508545,
+                    24.063825
                 ]
             }
         },
@@ -10198,6 +10266,23 @@
                 "coordinates": [
                     120.57847,
                     23.959561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "47201502020002",
+                "name": "彰化縣私立頂尖保進美語短期補習班",
+                "county": "彰化縣",
+                "class": "外語類,",
+                "students": "國小,國中,幼兒"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.540251,
+                    24.066571
                 ]
             }
         },

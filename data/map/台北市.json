@@ -6991,6 +6991,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "20200811181443",
+                "name": "臺北市私立惠群舞蹈短期補習班",
+                "county": "台北市",
+                "class": "音樂、舞蹈類,",
+                "students": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.57713,
+                    25.083081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "20200811181445",
                 "name": "臺北市私立開心文理短期補習班",
                 "county": "台北市",
@@ -8090,6 +8107,23 @@
                 "coordinates": [
                     121.558845,
                     25.033715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "20200811181658",
+                "name": "臺北市私立羅斯福文理短期補習班",
+                "county": "台北市",
+                "class": "文理類,",
+                "students": "其他"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.517387,
+                    25.025275
                 ]
             }
         },

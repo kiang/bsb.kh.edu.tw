@@ -310,6 +310,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "36200207160032",
+                "name": "私立高仕文理短期補習班",
+                "county": "新竹縣",
+                "class": "資訊類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.011578,
+                    24.822741
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "36200207160033",
                 "name": "新竹縣私立時代美語會話短期補習班",
                 "county": "新竹縣",
@@ -1024,6 +1041,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "36200510170004",
+                "name": "私立史努比文理短期補習班",
+                "county": "新竹縣",
+                "class": "文理類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.056848,
+                    24.722397
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "36200511230001",
                 "name": "私立文聖文理短期補習班",
                 "county": "新竹縣",
@@ -1449,6 +1483,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "36200801090001",
+                "name": "新竹縣私立寶源文理短期補習班",
+                "county": "新竹縣",
+                "class": "文理類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.986946,
+                    24.763391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "36200801090002",
                 "name": "新竹縣私立名師文理短期補習班",
                 "county": "新竹縣",
@@ -1511,6 +1562,23 @@
                 "coordinates": [
                     121.091354,
                     24.722218
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "36200801170002",
+                "name": "新竹縣私立學立壹號文理短期補習班",
+                "county": "新竹縣",
+                "class": "文理類,",
+                "students": "國中,國小,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.088526,
+                    24.733167
                 ]
             }
         },
@@ -1596,6 +1664,23 @@
                 "coordinates": [
                     121.088151,
                     24.726527
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "36200804180003",
+                "name": "私立沛騰美語短期補習班",
+                "county": "新竹縣",
+                "class": "外語類,",
+                "students": "國中小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.018432,
+                    24.829427
                 ]
             }
         },
@@ -2350,6 +2435,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "36201007200001",
+                "name": "新竹縣私立亞格文理短期補習班",
+                "county": "新竹縣",
+                "class": "文理類,",
+                "students": "國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.060719,
+                    24.877629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "36201007260001",
                 "name": "新竹縣私立康淇文理短期補習班",
                 "county": "新竹縣",
@@ -2616,6 +2718,40 @@
                 "coordinates": [
                     121.028666,
                     24.812828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "36201106210001",
+                "name": "新竹縣私立麻吉小學堂文理才藝短期補習班",
+                "county": "新竹縣",
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國中,國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.001071,
+                    24.835872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "36201107010001",
+                "name": "新竹縣私立你最棒韻律舞蹈短期補習班",
+                "county": "新竹縣",
+                "class": "音樂、舞蹈類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.004729,
+                    24.82846
                 ]
             }
         },
@@ -3364,6 +3500,23 @@
                 "coordinates": [
                     120.998337,
                     24.841369
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "36201311070001",
+                "name": "新竹縣私立翰銳藝術短期補習班",
+                "county": "新竹縣",
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "0~99歲"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.001288,
+                    24.842455
                 ]
             }
         },
@@ -6056,6 +6209,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "36202012080001",
+                "name": "新竹縣私立孩子王感統韻律舞蹈技藝短期補習班",
+                "county": "新竹縣",
+                "class": "文理類,音樂、舞蹈類,瑜珈類,",
+                "students": "國小,國中,學齡前"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.006218,
+                    24.839835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "36202101140001",
                 "name": "新竹縣私立葉子畫室才藝短期補習班",
                 "county": "新竹縣",
@@ -6288,6 +6458,23 @@
                 "coordinates": [
                     121.032463,
                     24.814381
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "36202107220001",
+                "name": "新竹縣私立森學院文理技藝短期補習班",
+                "county": "新竹縣",
+                "class": "文理類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.033126,
+                    24.822537
                 ]
             }
         },

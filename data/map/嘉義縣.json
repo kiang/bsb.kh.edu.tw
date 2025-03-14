@@ -2758,6 +2758,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "53201910040001",
+                "name": "嘉義縣私立河合音樂技藝短期補習班",
+                "county": "嘉義縣",
+                "class": "音樂、舞蹈類,",
+                "students": "學齡前,國小,國中,高中,成人(18歲以上)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.29618,
+                    23.454025
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "53201911120001",
                 "name": "嘉義縣私立孟修短期補習班",
                 "county": "嘉義縣",

@@ -72,6 +72,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "82200601160002",
+                "name": "金門縣私立呂易文理短期補習班",
+                "county": "金門縣",
+                "class": "文理類,",
+                "students": "國中,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.318001,
+                    24.436561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "82200606220001",
                 "name": "金門縣私立金學士文理短期補習班",
                 "county": "金門縣",
@@ -174,6 +191,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "82200805130001",
+                "name": "金門縣私立學人文理短期補習班",
+                "county": "金門縣",
+                "class": "文理類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.321305,
+                    24.438308
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "82200805130002",
                 "name": "金門縣私立無敵文理短期補習班",
                 "county": "金門縣",
@@ -259,6 +293,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "82201509140001",
+                "name": "金門縣私立雷米技藝文理短期補習班",
+                "county": "金門縣",
+                "class": "文理類,外語類,美術、書法、攝影、美工設計、圍棋類,其他類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.320477,
+                    24.436957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "82201608230001",
                 "name": "金門縣私立頂尖文理短期補習班",
                 "county": "金門縣",
@@ -304,6 +355,23 @@
                 "coordinates": [
                     118.317661,
                     24.433588
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "82201706200001",
+                "name": "金門縣私立常春藤文理短期補習班",
+                "county": "金門縣",
+                "class": "文理類,",
+                "students": "國中,國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.4143,
+                    24.442459
                 ]
             }
         },

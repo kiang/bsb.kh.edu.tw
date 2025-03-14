@@ -327,6 +327,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "89200701100001",
+                "name": "臺東縣私立謝老師英語教室短期補習班",
+                "county": "台東縣",
+                "class": "外語類,",
+                "students": "高中及國中、小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.150745,
+                    22.758499
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "89200701120002",
                 "name": "臺東縣私立銘仁文理短期補習班",
                 "county": "台東縣",
@@ -338,6 +355,40 @@
                 "coordinates": [
                     121.150151,
                     22.754524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "89200701120003",
+                "name": "臺東縣私立英才文理短期補習班",
+                "county": "台東縣",
+                "class": "文理類,",
+                "students": "國高中,國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.140172,
+                    22.768372
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "89200701120004",
+                "name": "臺東縣私立A+文理短期補習班",
+                "county": "台東縣",
+                "class": "文理類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.135347,
+                    22.764364
                 ]
             }
         },
@@ -1511,6 +1562,23 @@
                 "coordinates": [
                     120.904748,
                     22.364025
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "89201910250001",
+                "name": "臺東縣私立三合院樂學園文理短期補習班",
+                "county": "台東縣",
+                "class": "文理類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.140831,
+                    22.745123
                 ]
             }
         },
