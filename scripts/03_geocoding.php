@@ -118,6 +118,7 @@ EOD;
                     'county' => $city,
                     'class' => isset($detail['補習班類別/科目']) ? $detail['補習班類別/科目'] : '',
                     'students' => implode(',', array_keys($targets)),
+                    'date_closed' => isset($detail['廢止、註銷日期']) ? $detail['廢止、註銷日期'] : '',
                 ],
                 'geometry' => [
                     'type' => 'Point',
