@@ -16258,24 +16258,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "70200611179001",
-                "name": "私立勝馨文理短期補習班",
-                "county": "高雄市",
-                "class": "文理類,",
-                "students": "國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.222881,
-                    22.907143
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "70200611179002",
                 "name": "私立童心園文理短期補習班",
                 "county": "高雄市",
@@ -26954,7 +26936,7 @@
                 "name": "私立何嘉仁高美文理短期補習班",
                 "county": "高雄市",
                 "class": "文理類,",
-                "students": "國小",
+                "students": "學齡前,國小",
                 "date_closed": ""
             },
             "geometry": {
