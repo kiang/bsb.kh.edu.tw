@@ -8486,7 +8486,7 @@
                 "name": "私立育名文理短期補習班",
                 "county": "高雄市",
                 "class": "外語類,",
-                "students": "國中,國小,高中",
+                "students": "國小,高中,國中",
                 "date_closed": ""
             },
             "geometry": {
@@ -16252,6 +16252,24 @@
                 "coordinates": [
                     120.281499,
                     22.679584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "70200611179001",
+                "name": "私立勝馨文理短期補習班",
+                "county": "高雄市",
+                "class": "文理類,",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.222881,
+                    22.907143
                 ]
             }
         },
