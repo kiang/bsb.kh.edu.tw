@@ -28372,6 +28372,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "21201211070001",
+                "name": "私立未來領袖教育股份有限公司附設業鴻文理短期補習班",
+                "county": "新北市",
+                "class": "文理類,",
+                "students": "不限年齡",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.370735,
+                    25.069554
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "21201211070003",
                 "name": "私立野鴨美術短期補習班",
                 "county": "新北市",
