@@ -17266,6 +17266,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "21200708060001",
+                "name": "私立寶加尼文理美語短期補習班",
+                "county": "新北市",
+                "class": "外語類,",
+                "students": "國小.國中.成人,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.511129,
+                    24.959862
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "21200708060002",
                 "name": "私立文碩文理語文短期補習班",
                 "county": "新北市",
@@ -17296,24 +17314,6 @@
                 "coordinates": [
                     121.465059,
                     25.018502
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "21200708060004",
-                "name": "私立馨喬文理技藝短期補習班",
-                "county": "新北市",
-                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "不限年齡",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.429243,
-                    24.985603
                 ]
             }
         },
