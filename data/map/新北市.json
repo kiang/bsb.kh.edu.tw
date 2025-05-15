@@ -9149,7 +9149,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21200405170001",
-                "name": "私立上庭文理短期補習班",
+                "name": "上庭文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
                 "students": "國中",
@@ -12184,6 +12184,24 @@
                 "coordinates": [
                     121.55463,
                     24.953434
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21200507110003",
+                "name": "私立東煌美語短期補習班",
+                "county": "新北市",
+                "class": "外語類,",
+                "students": "未填寫",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.446761,
+                    25.038301
                 ]
             }
         },
@@ -20140,24 +20158,6 @@
                 "coordinates": [
                     121.425149,
                     25.020893
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "21200901190001",
-                "name": "熊振文理短期補習班",
-                "county": "新北市",
-                "class": "文理類,",
-                "students": "不限年齡",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.498335,
-                    25.05976
                 ]
             }
         },
@@ -29363,7 +29363,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21201306170001",
-                "name": "私立好好語文文理短期補習班",
+                "name": "好好語文文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,外語類,",
                 "students": "不限",

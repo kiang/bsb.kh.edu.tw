@@ -1660,24 +1660,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "70200204022224",
-                "name": "私立全碩文理短期補習班",
-                "county": "高雄市",
-                "class": "文理類,",
-                "students": "國小,學齡前,國中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.334939,
-                    22.645161
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "70200204022226",
                 "name": "私立高名文理短期補習班建國分班",
                 "county": "高雄市",
@@ -4696,24 +4678,6 @@
                 "coordinates": [
                     120.335068,
                     22.644691
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "70200204022921",
-                "name": "私立交大文理短期補習班",
-                "county": "高雄市",
-                "class": "文理類,",
-                "students": "國中,國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.348389,
-                    22.567879
                 ]
             }
         },
@@ -14398,6 +14362,24 @@
                 "coordinates": [
                     120.334594,
                     22.594382
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "70200509149006",
+                "name": "私立成功文理短期補習班",
+                "county": "高雄市",
+                "class": "文理類,",
+                "students": "國小,國中,高中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.390047,
+                    22.639209
                 ]
             }
         },
@@ -33784,6 +33766,24 @@
                 "coordinates": [
                     120.293541,
                     22.713515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "70202504180001",
+                "name": "吉的堡網路科技股份有限公司附設吉的堡文理短期補習班高鐵分班",
+                "county": "高雄市",
+                "class": "文理類,",
+                "students": "國小,學齡前",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.308742,
+                    22.6854
                 ]
             }
         },
