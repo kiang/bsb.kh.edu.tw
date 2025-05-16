@@ -1660,6 +1660,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "70200204022224",
+                "name": "私立全碩文理短期補習班",
+                "county": "高雄市",
+                "class": "文理類,",
+                "students": "國小,學齡前,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.334939,
+                    22.645161
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "70200204022226",
                 "name": "私立高名文理短期補習班建國分班",
                 "county": "高雄市",
@@ -4678,6 +4696,24 @@
                 "coordinates": [
                     120.335068,
                     22.644691
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "70200204022921",
+                "name": "私立交大文理短期補習班",
+                "county": "高雄市",
+                "class": "文理類,",
+                "students": "國中,國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.348389,
+                    22.567879
                 ]
             }
         },
@@ -27728,7 +27764,7 @@
                 "name": "私立柏林文理技藝短期補習班",
                 "county": "高雄市",
                 "class": "文理類,音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國小,學齡前",
+                "students": "學齡前,國小",
                 "date_closed": ""
             },
             "geometry": {
@@ -33776,7 +33812,7 @@
                 "name": "吉的堡網路科技股份有限公司附設吉的堡文理短期補習班高鐵分班",
                 "county": "高雄市",
                 "class": "文理類,",
-                "students": "國小,學齡前",
+                "students": "學齡前,國小",
                 "date_closed": ""
             },
             "geometry": {
