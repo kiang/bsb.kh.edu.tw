@@ -2362,6 +2362,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "52200809120003",
+                "name": "嘉義市東區私立保進中正文理短期補習班",
+                "county": "嘉義市",
+                "class": "外語類,",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.457359,
+                    23.48156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "52200809120004",
                 "name": "嘉義市私立聯成技藝短期補習班",
                 "county": "嘉義市",
