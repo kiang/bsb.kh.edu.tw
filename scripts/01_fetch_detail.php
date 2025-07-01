@@ -4,7 +4,8 @@ $sleepCount = 0;
 $cityTagCounts = []; // Track subject counts by city
 
 // Function to fetch URL with retry logic
-function fetchUrlWithRetry($url, $maxRetries = 3, $delay = 2) {
+function fetchUrlWithRetry($url, $maxRetries = 3, $delay = 2)
+{
     for ($i = 0; $i < $maxRetries; $i++) {
         $context = stream_context_create([
             'http' => [
@@ -16,18 +17,18 @@ function fetchUrlWithRetry($url, $maxRetries = 3, $delay = 2) {
                 'verify_peer_name' => false,
             ]
         ]);
-        
+
         $content = @file_get_contents($url, false, $context);
         if ($content !== false) {
             return $content;
         }
-        
+
         echo "Retry " . ($i + 1) . " for URL: $url\n";
         if ($i < $maxRetries - 1) {
             sleep($delay);
         }
     }
-    
+
     echo "Failed to fetch after $maxRetries attempts: $url\n";
     return false;
 }
@@ -40,94 +41,120 @@ foreach (glob(dirname(__DIR__) . '/data/raw/*.csv') as $csvFile) {
     $fh = fopen($csvFile, 'r');
     $header = fgetcsv($fh, 2048);
     while ($line = fgetcsv($fh, 2048)) {
-        $data = [];
-        $page1 = fetchUrlWithRetry('https://bsb.kh.edu.tw/afterschool/register/detail.jsp?unit=' . $line[0]);
-        if ($page1 === false) {
-            echo "Skipping {$line[0]} due to fetch failure\n";
-            continue;
-        }
-        $partPos = strpos($page1, '<table');
-        $partPosEnd = strpos($page1, '</table>', $partPos);
-        $part1 = substr($page1, $partPos, $partPosEnd - $partPos);
-        $part1 = str_replace('</tr>', '</td>', $part1);
-        $rows = explode('</td>', $part1);
-        foreach ($rows as $row) {
-            $rowParts = explode('</th>', $row);
-            if (count($rowParts) === 2) {
-                foreach ($rowParts as $k => $v) {
-                    $rowParts[$k] = trim(strip_tags($v));
-                }
-                $data[$rowParts[0]] = $rowParts[1];
-            }
-        }
-        $data['負責人'] = [];
-        $partPos = strpos($page1, '<table', $partPosEnd);
-        $partPosEnd = strpos($page1, '</table>', $partPos);
-        $partLines = explode('</tr>', substr($page1, $partPos, $partPosEnd - $partPos));
-        foreach ($partLines as $partLine) {
-            $partCols = explode('<td class="listBody">', $partLine);
-            if (count($partCols) === 2) {
-                $data['負責人'][] = trim(strip_tags($partCols[1]));
-            }
-        }
+        $jsonFile = $dataPath . '/' . $line[0] . '.json';
 
-        $data['設立人'] = [];
-        $partPos = strpos($page1, '<table', $partPosEnd);
-        $partPosEnd = strpos($page1, '</table>', $partPos);
-        $partLines = explode('</tr>', substr($page1, $partPos, $partPosEnd - $partPos));
-        foreach ($partLines as $partLine) {
-            $partCols = explode('<td class="listBody">', $partLine);
-            if (count($partCols) === 2) {
-                $data['設立人'][] = trim(strip_tags($partCols[1]));
-            }
-        }
+        // Check if file exists and was modified within 24 hours
+        $skipFetch = false;
+        if (file_exists($jsonFile)) {
+            $fileModTime = filemtime($jsonFile);
+            $currentTime = time();
+            $hoursSinceModified = ($currentTime - $fileModTime) / 3600;
 
-        $data['班主任'] = [];
-        $partPos = strpos($page1, '<table', $partPosEnd);
-        $partPosEnd = strpos($page1, '</table>', $partPos);
-        $partLines = explode('</tr>', substr($page1, $partPos, $partPosEnd - $partPos));
-        foreach ($partLines as $partLine) {
-            $partCols = explode('<td class="listBody">', $partLine);
-            if (count($partCols) === 2) {
-                $data['班主任'][] = trim(strip_tags($partCols[1]));
-            }
-        }
-
-        $data['核准科目'] = [];
-        $partPos = strpos($page1, '<table', $partPosEnd);
-        $partPosEnd = strpos($page1, '</table>', $partPos);
-        $partLines = explode('</tr>', substr($page1, $partPos, $partPosEnd - $partPos));
-        foreach ($partLines as $partLine) {
-            $partCols = explode('<td width="14%" class="listBody">', $partLine);
-            if (count($partCols) === 6) {
-                foreach ($partCols as $k => $v) {
-                    $partCols[$k] = trim(strip_tags($v));
-                }
-                $data['核准科目'][] = array_combine($header1, $partCols);
-            }
-        }
-
-        $page2 = fetchUrlWithRetry('https://bsb.kh.edu.tw/afterschool/teacher/new/staff_list.jsp?unit=' . $line[0]);
-        $data['職員工'] = [];
-        if ($page2 !== false) {
-            $staffLines = explode('</tr>', $page2);
-            foreach ($staffLines as $staffLine) {
-                $cols = explode('</td>', $staffLine);
-                if (count($cols) === 3) {
-                    $data['職員工'][] = trim(strip_tags($cols[1]));
+            if ($hoursSinceModified < 24) {
+                echo "Using cached data for {$line[0]} - fetched " . round($hoursSinceModified, 1) . " hours ago\n";
+                $skipFetch = true;
+                // Load existing data from JSON file
+                $data = json_decode(file_get_contents($jsonFile), true);
+                if (!$data) {
+                    echo "Error reading cached data for {$line[0]}, will fetch fresh data\n";
+                    $skipFetch = false;
                 }
             }
-        } else {
-            echo "Failed to fetch staff data for {$line[0]}\n";
         }
+
+        if (!$skipFetch) {
+            $data = [];
+            $page1 = fetchUrlWithRetry('https://bsb.kh.edu.tw/afterschool/register/detail.jsp?unit=' . $line[0]);
+            if ($page1 === false) {
+                echo "Skipping {$line[0]} due to fetch failure\n";
+                continue;
+            }
+            $partPos = strpos($page1, '<table');
+            $partPosEnd = strpos($page1, '</table>', $partPos);
+            $part1 = substr($page1, $partPos, $partPosEnd - $partPos);
+            $part1 = str_replace('</tr>', '</td>', $part1);
+            $rows = explode('</td>', $part1);
+            foreach ($rows as $row) {
+                $rowParts = explode('</th>', $row);
+                if (count($rowParts) === 2) {
+                    foreach ($rowParts as $k => $v) {
+                        $rowParts[$k] = trim(strip_tags($v));
+                    }
+                    $data[$rowParts[0]] = $rowParts[1];
+                }
+            }
+            $data['負責人'] = [];
+            $partPos = strpos($page1, '<table', $partPosEnd);
+            $partPosEnd = strpos($page1, '</table>', $partPos);
+            $partLines = explode('</tr>', substr($page1, $partPos, $partPosEnd - $partPos));
+            foreach ($partLines as $partLine) {
+                $partCols = explode('<td class="listBody">', $partLine);
+                if (count($partCols) === 2) {
+                    $data['負責人'][] = trim(strip_tags($partCols[1]));
+                }
+            }
+
+            $data['設立人'] = [];
+            $partPos = strpos($page1, '<table', $partPosEnd);
+            $partPosEnd = strpos($page1, '</table>', $partPos);
+            $partLines = explode('</tr>', substr($page1, $partPos, $partPosEnd - $partPos));
+            foreach ($partLines as $partLine) {
+                $partCols = explode('<td class="listBody">', $partLine);
+                if (count($partCols) === 2) {
+                    $data['設立人'][] = trim(strip_tags($partCols[1]));
+                }
+            }
+
+            $data['班主任'] = [];
+            $partPos = strpos($page1, '<table', $partPosEnd);
+            $partPosEnd = strpos($page1, '</table>', $partPos);
+            $partLines = explode('</tr>', substr($page1, $partPos, $partPosEnd - $partPos));
+            foreach ($partLines as $partLine) {
+                $partCols = explode('<td class="listBody">', $partLine);
+                if (count($partCols) === 2) {
+                    $data['班主任'][] = trim(strip_tags($partCols[1]));
+                }
+            }
+
+            $data['核准科目'] = [];
+            $partPos = strpos($page1, '<table', $partPosEnd);
+            $partPosEnd = strpos($page1, '</table>', $partPos);
+            $partLines = explode('</tr>', substr($page1, $partPos, $partPosEnd - $partPos));
+            foreach ($partLines as $partLine) {
+                $partCols = explode('<td width="14%" class="listBody">', $partLine);
+                if (count($partCols) === 6) {
+                    foreach ($partCols as $k => $v) {
+                        $partCols[$k] = trim(strip_tags($v));
+                    }
+                    $data['核准科目'][] = array_combine($header1, $partCols);
+                }
+            }
+
+            $page2 = fetchUrlWithRetry('https://bsb.kh.edu.tw/afterschool/teacher/new/staff_list.jsp?unit=' . $line[0]);
+            $data['職員工'] = [];
+            if ($page2 !== false) {
+                $staffLines = explode('</tr>', $page2);
+                foreach ($staffLines as $staffLine) {
+                    $cols = explode('</td>', $staffLine);
+                    if (count($cols) === 3) {
+                        $data['職員工'][] = trim(strip_tags($cols[1]));
+                    }
+                }
+            } else {
+                echo "Failed to fetch staff data for {$line[0]}\n";
+            }
+        }
+
         if (!empty($data['補習班代碼'])) {
-            file_put_contents($dataPath . '/' . $line[0] . '.json', json_encode($data, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
-            echo "{$line[0]}\n";
-            
+            if (!$skipFetch) {
+                file_put_contents($dataPath . '/' . $line[0] . '.json', json_encode($data, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
+                echo "{$line[0]}\n";
+            }
+
             // Generate tag JSON files for each subject
             $city = $p['filename']; // The city is the filename from CSV
             $code = $data['補習班代碼'];
-            
+
             if (!empty($data['核准科目']) && is_array($data['核准科目'])) {
                 $tagBasePath = dirname(__DIR__) . '/data/tag';
                 foreach ($data['核准科目'] as $subject) {
@@ -137,12 +164,12 @@ foreach (glob(dirname(__DIR__) . '/data/raw/*.csv') as $csvFile) {
                         $subjectName = preg_replace('/[a-zA-Z]+班/', '', $subjectName);
                         $cityTagPath = $tagBasePath . '/' . $city;
                         $tagFile = $cityTagPath . '/' . $subjectName . '.json';
-                        
+
                         // Create city directory if it doesn't exist
                         if (!file_exists($cityTagPath)) {
                             mkdir($cityTagPath, 0777, true);
                         }
-                        
+
                         // Load existing data or create new array
                         $tagData = [];
                         if (file_exists($tagFile)) {
@@ -151,14 +178,14 @@ foreach (glob(dirname(__DIR__) . '/data/raw/*.csv') as $csvFile) {
                                 $tagData = [];
                             }
                         }
-                        
+
                         // Check if code already exists
                         if (!in_array($code, $tagData)) {
                             $tagData[] = $code;
-                            
+
                             // Save updated data
                             file_put_contents($tagFile, json_encode($tagData, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
-                            
+
                             // Count subjects by city
                             if (!isset($cityTagCounts[$city])) {
                                 $cityTagCounts[$city] = [];
@@ -192,10 +219,10 @@ foreach ($cityTagCounts as $city => $subjects) {
         ];
     }
     // Sort by count descending
-    usort($cityJsonData, function($a, $b) {
+    usort($cityJsonData, function ($a, $b) {
         return $b['count'] - $a['count'];
     });
-    
+
     $cityJsonPath = $tagBasePath . '/' . $city . '.json';
     file_put_contents($cityJsonPath, json_encode($cityJsonData, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
 }
