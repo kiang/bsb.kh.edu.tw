@@ -15034,24 +15034,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "33201504280002",
-                "name": "志光教育科技股份有限公司附設私立志光文理法商短期補習班",
-                "county": "桃園市",
-                "class": "文理類,法政類,商類：珠算、心算、會計,",
-                "students": "成人(18歲以上)",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.311358,
-                    24.990182
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "33201505140001",
                 "name": "私立百威美語短期補習班",
                 "county": "桃園市",
