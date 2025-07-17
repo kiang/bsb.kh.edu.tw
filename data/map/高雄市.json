@@ -5639,10 +5639,10 @@
             "type": "Feature",
             "properties": {
                 "code": "70200205089117",
-                "name": "私立喬恩文理短期補習班",
+                "name": "向字輩國際教育有限公司附設向心教育文理短期補習班",
                 "county": "高雄市",
                 "class": "文理類,",
-                "students": "國中,國小",
+                "students": "國小,國中",
                 "date_closed": ""
             },
             "geometry": {
@@ -10426,24 +10426,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "70200307290003",
-                "name": "私立強納生美語文理短期補習班華夏分班",
-                "county": "高雄市",
-                "class": "文理類,",
-                "students": "國中,國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.2961,
-                    22.668887
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "70200308210001",
                 "name": "私立學達文理短期補習班",
                 "county": "高雄市",
@@ -12550,24 +12532,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "70200411049005",
-                "name": "私立普林斯文理短期補習班",
-                "county": "高雄市",
-                "class": "文理類,",
-                "students": "國小,國中,高中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.479986,
-                    22.890747
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "70200411059001",
                 "name": "私立汶舉文理短期補習班漣陞分班",
                 "county": "高雄市",
@@ -12608,7 +12572,7 @@
                 "name": "私立高名文理短期補習班明華分班",
                 "county": "高雄市",
                 "class": "文理類,",
-                "students": "國中",
+                "students": "國小,國中",
                 "date_closed": ""
             },
             "geometry": {
@@ -20906,7 +20870,7 @@
                 "name": "私立揚基文理短期補習班",
                 "county": "高雄市",
                 "class": "文理類,",
-                "students": "國中,國小",
+                "students": "國小,國中",
                 "date_closed": ""
             },
             "geometry": {
@@ -21580,24 +21544,6 @@
                 "coordinates": [
                     120.314126,
                     22.606905
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "70201008050001",
-                "name": "私立強納森外語文理短期補習班",
-                "county": "高雄市",
-                "class": "文理類,外語類,",
-                "students": "國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.300276,
-                    22.656632
                 ]
             }
         },
@@ -25438,24 +25384,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "70201406110001",
-                "name": "私立立騏文理短期補習班",
-                "county": "高雄市",
-                "class": "文理類,",
-                "students": "國中,國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.299893,
-                    22.655141
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "70201406130001",
                 "name": "私立英皇國際外語文理短期補習班",
                 "county": "高雄市",
@@ -28664,7 +28592,7 @@
                 "name": "私立威強文理短期補習班新鳳山分班",
                 "county": "高雄市",
                 "class": "文理類,",
-                "students": "國中,國小",
+                "students": "國小,國中",
                 "date_closed": ""
             },
             "geometry": {
@@ -29924,7 +29852,7 @@
                 "name": "私立綠野文理短期補習班",
                 "county": "高雄市",
                 "class": "文理類,",
-                "students": "學齡前,國小,國中,成人(18歲以上)",
+                "students": "國中,成人(18歲以上),國小,學齡前",
                 "date_closed": ""
             },
             "geometry": {
@@ -32804,7 +32732,7 @@
                 "name": "英鐸有限公司附設私立育勝文理技藝短期補習班",
                 "county": "高雄市",
                 "class": "文理類,音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "學齡前,國小,國中,高中",
+                "students": "國中,學齡前,國小,高中",
                 "date_closed": ""
             },
             "geometry": {
@@ -33754,6 +33682,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "70202503270001",
+                "name": "君朋科技教育股份有限公司附設高雄市私立君芃文理技藝短期補習班",
+                "county": "高雄市",
+                "class": "文理類,音樂、舞蹈類,",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.313907,
+                    22.690681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "70202504180001",
                 "name": "吉的堡網路科技股份有限公司附設吉的堡文理短期補習班高鐵分班",
                 "county": "高雄市",
@@ -33838,6 +33784,24 @@
                 "coordinates": [
                     120.308348,
                     22.656902
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "70202507150001",
+                "name": "私立普立茲外語文理短期補習班楠陽分班",
+                "county": "高雄市",
+                "class": "文理類,外語類,",
+                "students": "國中,高中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.331319,
+                    22.724469
                 ]
             }
         }

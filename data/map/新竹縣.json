@@ -530,7 +530,7 @@
                 "name": "新竹縣私立聖安朵文理技藝短期補習班",
                 "county": "新竹縣",
                 "class": "外語類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "學齡前,國小,學齡前至國小",
+                "students": "國小,學齡前,學齡前至國小",
                 "date_closed": ""
             },
             "geometry": {
@@ -836,7 +836,7 @@
                 "name": "新竹縣私立康寧中興文理才藝短期補習班",
                 "county": "新竹縣",
                 "class": "文理類,外語類,",
-                "students": "學齡前,國小,國中,高中,成人(18歲以上)",
+                "students": "國小,學齡前,成人(18歲以上),國中,高中",
                 "date_closed": ""
             },
             "geometry": {
@@ -3356,7 +3356,7 @@
                 "name": "新竹縣私立竹東佳音英語短期補習班",
                 "county": "新竹縣",
                 "class": "外語類,",
-                "students": "國中",
+                "students": "國小,國中",
                 "date_closed": ""
             },
             "geometry": {
@@ -4540,24 +4540,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "36201604270003",
-                "name": "新竹縣私立創智積木園地技藝短期補習班",
-                "county": "新竹縣",
-                "class": "其他類,",
-                "students": "學前至成人",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.037675,
-                    24.801659
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "36201606290001",
                 "name": "新竹縣私立劉澔數學文理短期補習班",
                 "county": "新竹縣",
@@ -5534,7 +5516,7 @@
                 "name": "敲敲國際文教有限公司附設新竹縣私立敲敲美語短期補習班",
                 "county": "新竹縣",
                 "class": "外語類,",
-                "students": "國小,成人(18歲以上),國中",
+                "students": "國小,國中,成人(18歲以上)",
                 "date_closed": ""
             },
             "geometry": {
@@ -6844,24 +6826,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "36202108090001",
-                "name": "新竹縣私立聚人畫室技藝短期補習班",
-                "county": "新竹縣",
-                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.029266,
-                    24.814318
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "36202109230001",
                 "name": "新竹縣私立臥虎藏熊文理短期補習班",
                 "county": "新竹縣",
@@ -7190,7 +7154,7 @@
                 "name": "新竹縣私立菁采文理技藝短期補習班嘉豐分班",
                 "county": "新竹縣",
                 "class": "文理類,",
-                "students": "國小,國中,國小-國中",
+                "students": "國小-國中,國中,國小",
                 "date_closed": ""
             },
             "geometry": {

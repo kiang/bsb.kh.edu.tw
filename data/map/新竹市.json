@@ -436,24 +436,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "35200207050025",
-                "name": "新竹市弋果美語短期補習班",
-                "county": "新竹市",
-                "class": "外語類,",
-                "students": "國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.020381,
-                    24.778479
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "35200207050029",
                 "name": "新竹市私立暘光文理短期補習班",
                 "county": "新竹市",
@@ -743,17 +725,17 @@
             "type": "Feature",
             "properties": {
                 "code": "35200207100140",
-                "name": "新竹市私立佳美英語短期補習班",
+                "name": "新竹市私立佳美文理技藝短期補習班",
                 "county": "新竹市",
-                "class": "外語類,",
-                "students": "國小",
+                "class": "文理類,外語類,音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小,國中,國小-國中,學齡前",
                 "date_closed": ""
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     120.960217,
-                    24.799486
+                    24.799487
                 ]
             }
         },
@@ -3230,7 +3212,7 @@
                 "name": "新竹市私立金欣文理短期補習班",
                 "county": "新竹市",
                 "class": "文理類,外語類,",
-                "students": "高中",
+                "students": "高中,國小,國中",
                 "date_closed": ""
             },
             "geometry": {
@@ -4577,7 +4559,7 @@
             "type": "Feature",
             "properties": {
                 "code": "35201410080005",
-                "name": "新竹市私立申羿文理短期補習班",
+                "name": "新竹市私立申羿文理技藝短期補習班",
                 "county": "新竹市",
                 "class": "文理類,",
                 "students": "國小",
@@ -8764,6 +8746,24 @@
                 "coordinates": [
                     121.020722,
                     24.786619
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "35202507040001",
+                "name": "柳吟文教事業股份有限公司附設新竹市私立柳吟文理短期補習班",
+                "county": "新竹市",
+                "class": "文理類,",
+                "students": "國中,高中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97226,
+                    24.804295
                 ]
             }
         }
