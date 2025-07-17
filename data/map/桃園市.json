@@ -24696,6 +24696,60 @@
                     25.01371
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "33202507170001",
+                "name": "私立高仲文理語文短期補習班",
+                "county": "桃園市",
+                "class": "文理類,外語類,",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.259367,
+                    25.023774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "33202507170002",
+                "name": "私立思塾文理短期補習班文化分班",
+                "county": "桃園市",
+                "class": "文理類,外語類,",
+                "students": "國小,國中,學齡前",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.205307,
+                    24.953277
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "33202507170003",
+                "name": "私立菁拾音樂技藝短期補習班",
+                "county": "桃園市",
+                "class": "音樂、舞蹈類,",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.29601,
+                    25.007501
+                ]
+            }
         }
     ]
 }
