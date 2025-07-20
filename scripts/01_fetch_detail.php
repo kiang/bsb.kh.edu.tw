@@ -1,7 +1,6 @@
 <?php
 $header1 = ['核准科目名稱', '核准班級數', '每班核准人數', '每週總節(時)數', '修業期限', '招生對象'];
 $sleepCount = 0;
-$cityTagCounts = []; // Track subject counts by city
 
 // Function to fetch URL with retry logic
 function fetchUrlWithRetry($url, $maxRetries = 3, $delay = 2)
@@ -145,84 +144,10 @@ foreach (glob(dirname(__DIR__) . '/data/raw/*.csv') as $csvFile) {
             }
         }
 
-        if (!empty($data['補習班代碼'])) {
-            if (!$skipFetch) {
-                file_put_contents($dataPath . '/' . $line[0] . '.json', json_encode($data, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
-                echo "{$line[0]}\n";
-            }
-
-            // Generate tag JSON files for each subject
-            $city = $p['filename']; // The city is the filename from CSV
-            $code = $data['補習班代碼'];
-
-            if (!empty($data['核准科目']) && is_array($data['核准科目'])) {
-                $tagBasePath = dirname(__DIR__) . '/data/tag';
-                foreach ($data['核准科目'] as $subject) {
-                    if (!empty($subject['核准科目名稱'])) {
-                        $subjectName = $subject['核准科目名稱'];
-                        // Remove patterns like '[a-zA-Z]班' from subject name
-                        $subjectName = preg_replace('/[a-zA-Z]+班/', '', $subjectName);
-                        $cityTagPath = $tagBasePath . '/' . $city;
-                        $tagFile = $cityTagPath . '/' . $subjectName . '.json';
-
-                        // Create city directory if it doesn't exist
-                        if (!file_exists($cityTagPath)) {
-                            mkdir($cityTagPath, 0777, true);
-                        }
-
-                        // Load existing data or create new array
-                        $tagData = [];
-                        if (file_exists($tagFile)) {
-                            $tagData = json_decode(file_get_contents($tagFile), true);
-                            if (!$tagData) {
-                                $tagData = [];
-                            }
-                        }
-
-                        // Check if code already exists
-                        if (!in_array($code, $tagData)) {
-                            $tagData[] = $code;
-
-                            // Save updated data
-                            file_put_contents($tagFile, json_encode($tagData, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
-
-                            // Count subjects by city
-                            if (!isset($cityTagCounts[$city])) {
-                                $cityTagCounts[$city] = [];
-                            }
-                            if (!isset($cityTagCounts[$city][$subjectName])) {
-                                $cityTagCounts[$city][$subjectName] = 0;
-                            }
-                            $cityTagCounts[$city][$subjectName]++;
-                        }
-                    }
-                }
-            }
-        }
-
 
         if (++$sleepCount > 3) {
             sleep(1);
             $sleepCount = 0;
         }
     }
-}
-
-// Generate tag/{city}.json files with subject counts by city
-$tagBasePath = dirname(__DIR__) . '/data/tag';
-foreach ($cityTagCounts as $city => $subjects) {
-    $cityJsonData = [];
-    foreach ($subjects as $subject => $count) {
-        $cityJsonData[] = [
-            'tag' => $subject,
-            'count' => $count
-        ];
-    }
-    // Sort by count descending
-    usort($cityJsonData, function ($a, $b) {
-        return $b['count'] - $a['count'];
-    });
-
-    $cityJsonPath = $tagBasePath . '/' . $city . '.json';
-    file_put_contents($cityJsonPath, json_encode($cityJsonData, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
 }
