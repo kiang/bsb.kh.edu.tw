@@ -7420,24 +7420,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "20200811181405",
-                "name": "臺北市私立凱斯文理短期補習班天母分班",
-                "county": "台北市",
-                "class": "外語類,",
-                "students": "無限制",
-                "date_closed": "null"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.525766,
-                    25.118658
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "20200811181407",
                 "name": "亞思國際股份有限公司附設臺北市私立生涯一○○商業短期補習班",
                 "county": "台北市",
@@ -7450,24 +7432,6 @@
                 "coordinates": [
                     121.564007,
                     25.051608
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "20200811181408",
-                "name": "臺北市私立勁寶兒語文技藝短期補習班",
-                "county": "台北市",
-                "class": "外語類,",
-                "students": "學齡前",
-                "date_closed": "null"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.543601,
-                    25.043894
                 ]
             }
         },
@@ -26656,6 +26620,24 @@
                 "coordinates": [
                     121.525833,
                     25.118601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "20201703140051",
+                "name": "台灣拓人教育事業股份有限公司附設拓人文理短期補習班大直分班",
+                "county": "台北市",
+                "class": "文理類,外語類,",
+                "students": "無限制",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.551216,
+                    25.080266
                 ]
             }
         },

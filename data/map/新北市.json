@@ -8015,7 +8015,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21200312170001",
-                "name": "私立學宸語文珠心算短期補習班",
+                "name": "學宸語文珠心算短期補習班",
                 "county": "新北市",
                 "class": "外語類,商類：珠算、心算、會計,",
                 "students": "不限年齡",
@@ -12677,7 +12677,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21200510030002",
-                "name": "私立品學美語短期補習班",
+                "name": "品學美語短期補習班",
                 "county": "新北市",
                 "class": "外語類,",
                 "students": "其他",
@@ -14711,7 +14711,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21200606230001",
-                "name": "私立新華爾街美語文理短期補習班",
+                "name": "新華爾街美語文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,外語類,",
                 "students": "國中,不限年齡",
@@ -16816,24 +16816,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "21200706220001",
-                "name": "私立金冠文理短期補習班",
-                "county": "新北市",
-                "class": "文理類,",
-                "students": "國中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.34527,
-                    24.954084
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "21200706230001",
                 "name": "私立貝吉兒文理短期補習班",
                 "county": "新北市",
@@ -18455,7 +18437,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21200805120002",
-                "name": "私立歐皇文理短期補習班",
+                "name": "歐皇文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
                 "students": "國小、國中、高中",
@@ -45833,7 +45815,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21202207180002",
-                "name": "私立翊華五華文理技藝短期補習班",
+                "name": "翊華五華文理技藝短期補習班",
                 "county": "新北市",
                 "class": "文理類,資訊類,",
                 "students": "6歲以上,學齡前",
