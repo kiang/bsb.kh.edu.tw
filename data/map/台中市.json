@@ -7978,24 +7978,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "42200208120599",
-                "name": "私立中華電工技術短期補習班",
-                "county": "台中市",
-                "class": "電機、汽車修護、建築、工藝、製圖類,",
-                "students": "國中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.697789,
-                    24.152488
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "42200208120601",
                 "name": "台中市私立九華土木消防短期補習班",
                 "county": "台中市",
@@ -8854,24 +8836,6 @@
                 "coordinates": [
                     120.684159,
                     24.139372
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "42200208120734",
-                "name": "私立蘇荷美術短期補習班",
-                "county": "台中市",
-                "class": "美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國小,成人(18歲以上)",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.654711,
-                    24.142521
                 ]
             }
         },
@@ -21292,24 +21256,6 @@
                 "coordinates": [
                     120.71986,
                     24.155322
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "42200707239006",
-                "name": "臺中市私立尚恩文理技藝短期補習班",
-                "county": "台中市",
-                "class": "外語類,",
-                "students": "國小,國中,學齡前",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.570066,
-                    24.230311
                 ]
             }
         },

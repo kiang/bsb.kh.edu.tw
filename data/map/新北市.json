@@ -7492,24 +7492,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "21200308080002",
-                "name": "鴻儀語文短期補習班",
-                "county": "新北市",
-                "class": "外語類,",
-                "students": "其他",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.45683,
-                    25.088698
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "21200308080003",
                 "name": "私立鴻陞文理短期補習班",
                 "county": "新北市",
@@ -17177,7 +17159,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21200708310003",
-                "name": "私立艾美樂文理語文短期補習班",
+                "name": "艾美樂文理語文短期補習班",
                 "county": "新北市",
                 "class": "文理類,外語類,",
                 "students": "國中",
@@ -22012,24 +21994,6 @@
                 "coordinates": [
                     121.367949,
                     25.071399
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "21201002120001",
-                "name": "",
-                "county": "新北市",
-                "class": "文理類,",
-                "students": "不限年齡",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.453553,
-                    24.986121
                 ]
             }
         },
@@ -52169,7 +52133,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21202509160001",
-                "name": "私立鹿多多文理技藝短期補習班",
+                "name": "私立璦琳文理技藝短期補習班",
                 "county": "新北市",
                 "class": "縫紉類,",
                 "students": "",
