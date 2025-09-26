@@ -24786,6 +24786,24 @@
                     24.89475
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "33202509260001",
+                "name": "學旅文創有限公司附設私立舞動世界站前技藝短期補習班",
+                "county": "桃園市",
+                "class": "文理類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.315926,
+                    24.990766
+                ]
+            }
         }
     ]
 }

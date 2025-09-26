@@ -2092,24 +2092,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "36200907020003",
-                "name": "網路地球村語文資訊有限公司竹北分公司附設新竹縣私立地球村語文短期補習班",
-                "county": "新竹縣",
-                "class": "外語類,",
-                "students": "國中至成人",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.009649,
-                    24.826559
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "36200907220001",
                 "name": "新竹縣私立韓老師文理短期補習班",
                 "county": "新竹縣",
@@ -3569,7 +3551,7 @@
             "type": "Feature",
             "properties": {
                 "code": "36201306110001",
-                "name": "新竹縣私立妮可文理短期補習班",
+                "name": "新竹縣私立楊真文理短期補習班興隆分班",
                 "county": "新竹縣",
                 "class": "文理類,",
                 "students": "國小",
@@ -6748,6 +6730,24 @@
                 "coordinates": [
                     121.033126,
                     24.822537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "36202109230002",
+                "name": "新竹縣私立文曜文理短期補習班",
+                "county": "新竹縣",
+                "class": "文理類,",
+                "students": "學齡前,國小,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.035032,
+                    24.825476
                 ]
             }
         },

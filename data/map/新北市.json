@@ -11596,24 +11596,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "21200505120003",
-                "name": "私立諾頓文理技藝短期補習班",
-                "county": "新北市",
-                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "不限年齡",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.66181,
-                    25.063203
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "21200505120006",
                 "name": "私立北峰文理短期補習班",
                 "county": "新北市",
@@ -19012,24 +18994,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "21200809010004",
-                "name": "陳樺英文文理短期補習班",
-                "county": "新北市",
-                "class": "文理類,外語類,",
-                "students": "國小至成人",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.418577,
-                    24.98805
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "21200809100001",
                 "name": "私立安康全球文理語文短期補習班",
                 "county": "新北市",
@@ -21994,6 +21958,24 @@
                 "coordinates": [
                     121.367949,
                     25.071399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21201002120001",
+                "name": "智慧森林語文短期補習班",
+                "county": "新北市",
+                "class": "文理類,",
+                "students": "不限年齡",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.453553,
+                    24.986121
                 ]
             }
         },
