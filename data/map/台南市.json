@@ -25641,7 +25641,7 @@
                 "county": "台南市",
                 "class": "文理類,",
                 "students": "",
-                "date_closed": "null"
+                "date_closed": ""
             },
             "geometry": {
                 "type": "Point",
@@ -25713,7 +25713,7 @@
                 "county": "台南市",
                 "class": "文理類,",
                 "students": "",
-                "date_closed": "null"
+                "date_closed": ""
             },
             "geometry": {
                 "type": "Point",
@@ -25731,7 +25731,7 @@
                 "county": "台南市",
                 "class": "文理類,",
                 "students": "",
-                "date_closed": "null"
+                "date_closed": ""
             },
             "geometry": {
                 "type": "Point",
@@ -25767,7 +25767,7 @@
                 "county": "台南市",
                 "class": "文理類,",
                 "students": "",
-                "date_closed": "null"
+                "date_closed": ""
             },
             "geometry": {
                 "type": "Point",
@@ -25785,7 +25785,7 @@
                 "county": "台南市",
                 "class": "文理類,",
                 "students": "",
-                "date_closed": "null"
+                "date_closed": ""
             },
             "geometry": {
                 "type": "Point",
@@ -25821,7 +25821,7 @@
                 "county": "台南市",
                 "class": "文理類,",
                 "students": "",
-                "date_closed": "null"
+                "date_closed": ""
             },
             "geometry": {
                 "type": "Point",
