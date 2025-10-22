@@ -2848,6 +2848,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "24201511160001",
+                "name": "基隆市私立左岸文理才藝短期補習班",
+                "county": "基隆市",
+                "class": "文理類,",
+                "students": "國小、國中,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.752742,
+                    25.127779
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "24201601040001",
                 "name": "基隆市私立家仁短期補習班",
                 "county": "基隆市",
@@ -2860,24 +2878,6 @@
                 "coordinates": [
                     121.7676,
                     25.151274
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "24201607040001",
-                "name": "基隆市私立多美文理短期補習班",
-                "county": "基隆市",
-                "class": "文理類,外語類,",
-                "students": "國小,學齡前",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.736861,
-                    25.093052
                 ]
             }
         },
