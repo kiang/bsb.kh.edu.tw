@@ -26788,24 +26788,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "21201205080003",
-                "name": "私立兔子屋美術短期補習班",
-                "county": "新北市",
-                "class": "美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.377264,
-                    24.94492
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "21201205080004",
                 "name": "謝明中英檢文理短期補習班",
                 "county": "新北市",
