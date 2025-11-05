@@ -8734,24 +8734,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "42200208120723",
-                "name": "私立楊久美瑜珈短期補習班",
-                "county": "台中市",
-                "class": "瑜珈類,",
-                "students": "未填寫",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.666006,
-                    24.136965
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "42200208120725",
                 "name": "私立嬅欣舞蹈短期補習班",
                 "county": "台中市",
@@ -52612,6 +52594,24 @@
                 "coordinates": [
                     120.684779,
                     24.190398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42202511050001",
+                "name": "菘洋科技股份有限公司附設臺中市私立文嵊文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.663072,
+                    24.157855
                 ]
             }
         }
