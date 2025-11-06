@@ -4072,6 +4072,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "33200312150005",
+                "name": "私立宇登文理短期補習班",
+                "county": "桃園市",
+                "class": "文理類,",
+                "students": "高中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.30967,
+                    24.99016
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "33200312150006",
                 "name": "聯成電腦股份有限公司附設私立聯成電腦短期補習班",
                 "county": "桃園市",
