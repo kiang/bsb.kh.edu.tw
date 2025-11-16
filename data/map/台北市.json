@@ -8194,24 +8194,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "20200811181563",
-                "name": "巨匠電腦股份有限公司附設臺北市私立巨匠文理短期補習班忠孝分班",
-                "county": "台北市",
-                "class": "外語類,",
-                "students": "其他",
-                "date_closed": "null"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.550421,
-                    25.041705
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "20200811181566",
                 "name": "臺北市私立立日心文理短期補習班",
                 "county": "台北市",
@@ -12028,6 +12010,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "20200811190399",
+                "name": "臺北市私立大象音樂技藝文理短期補習班",
+                "county": "台北市",
+                "class": "音樂、舞蹈類,",
+                "students": "其他",
+                "date_closed": "null"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.552347,
+                    25.035124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "20200811190400",
                 "name": "臺北市私立究竟畫室美術技藝短期補習班",
                 "county": "台北市",
@@ -12040,6 +12040,24 @@
                 "coordinates": [
                     121.525719,
                     25.118357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "20200811190402",
+                "name": "臺北市私立志成文理補習班新光分班",
+                "county": "台北市",
+                "class": "文理類,",
+                "students": "無限制",
+                "date_closed": "null"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.574302,
+                    24.989712
                 ]
             }
         },
@@ -12436,6 +12454,24 @@
                 "coordinates": [
                     121.513498,
                     25.066746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "20200811190456",
+                "name": "臺北巿私立撒野文教文理技藝短期補習班",
+                "county": "台北市",
+                "class": "文理類,",
+                "students": "無限制",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.613439,
+                    25.069866
                 ]
             }
         },
@@ -19228,6 +19264,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "20200908120002",
+                "name": "臺北市私立全宥文理短期補習班",
+                "county": "台北市",
+                "class": "文理類,",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.593063,
+                    25.080812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "20200908180001",
                 "name": "台北市私立勝立文理短期補習班",
                 "county": "台北市",
@@ -20212,6 +20266,24 @@
                 "coordinates": [
                     121.51398,
                     25.042721
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "20201012150001",
+                "name": "臺北市私立喬治亞文理短期補習班",
+                "county": "台北市",
+                "class": "文理類,外語類,",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.536694,
+                    25.004382
                 ]
             }
         },

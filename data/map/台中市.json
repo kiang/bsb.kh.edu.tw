@@ -21604,6 +21604,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "42200709080001",
+                "name": "臺中市私立夏倫美美語會話短期補習班",
+                "county": "台中市",
+                "class": "外語類,",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.619657,
+                    24.186467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "42200709170001",
                 "name": "臺中市私立三合文理短期補習班",
                 "county": "台中市",
