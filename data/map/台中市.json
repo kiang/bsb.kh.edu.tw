@@ -2561,7 +2561,7 @@
             "type": "Feature",
             "properties": {
                 "code": "42200207319444",
-                "name": "臺中市私立新中華語文短期補習班",
+                "name": "臺中市私立新中華文理短期補習班",
                 "county": "台中市",
                 "class": "文理類,外語類,",
                 "students": "國中",
@@ -9544,24 +9544,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "42200209110003",
-                "name": "私立英皇美語會話短期補習班",
-                "county": "台中市",
-                "class": "外語類,",
-                "students": "國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.647992,
-                    24.136071
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "42200209179002",
                 "name": "私立聖塔菲美語短期補習班",
                 "county": "台中市",
@@ -10924,6 +10906,24 @@
                 "coordinates": [
                     120.656049,
                     24.110834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42200306110004",
+                "name": "私立提卡美術短期補習班",
+                "county": "台中市",
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.681033,
+                    24.16727
                 ]
             }
         },
@@ -34414,24 +34414,6 @@
                 "coordinates": [
                     120.70242,
                     24.085588
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "42201404140001",
-                "name": "臺中市私立鑫鑫技藝短期補習班",
-                "county": "台中市",
-                "class": "音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "學齡前,國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.614211,
-                    24.177551
                 ]
             }
         },
