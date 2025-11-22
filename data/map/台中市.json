@@ -9544,6 +9544,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "42200209110003",
+                "name": "私立英皇美語會話短期補習班",
+                "county": "台中市",
+                "class": "外語類,",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.647992,
+                    24.136071
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "42200209179002",
                 "name": "私立聖塔菲美語短期補習班",
                 "county": "台中市",
@@ -17104,24 +17122,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "42200603210001",
-                "name": "臺中市私立百宏文理短期補習班",
-                "county": "台中市",
-                "class": "外語類,",
-                "students": "國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.693668,
-                    24.16861
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "42200603210003",
                 "name": "臺中市私立盛譽文理短期補習班",
                 "county": "台中市",
@@ -18736,6 +18736,24 @@
                 "coordinates": [
                     120.722359,
                     24.251802
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42200610029007",
+                "name": "臺中市私立首成文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "國中,國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.541337,
+                    24.245301
                 ]
             }
         },
