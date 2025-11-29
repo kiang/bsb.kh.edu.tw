@@ -24016,6 +24016,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "21201012150001",
+                "name": "百世教育科技股份有限公司附設百試文理短期補習班",
+                "county": "新北市",
+                "class": "文理類,",
+                "students": "國小、國中,國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.492534,
+                    25.071394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "21201012160001",
                 "name": "私立松柏文理語文短期補習班",
                 "county": "新北市",
