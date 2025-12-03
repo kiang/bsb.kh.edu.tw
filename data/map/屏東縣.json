@@ -4684,6 +4684,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "87201507070008",
+                "name": "屏東縣私立開心美語短期補習班",
+                "county": "屏東縣",
+                "class": "外語類,",
+                "students": "國小,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.496877,
+                    22.684083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "87201507070009",
                 "name": "屏東縣私立高名文理短期補習班明正分班",
                 "county": "屏東縣",

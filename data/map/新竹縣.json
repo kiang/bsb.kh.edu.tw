@@ -9216,6 +9216,24 @@
                     24.829349
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "36202512030001",
+                "name": "新竹縣私立心禾苗文理技藝短期補習班",
+                "county": "新竹縣",
+                "class": "電機、汽車修護、建築、工藝、製圖類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.030514,
+                    24.826977
+                ]
+            }
         }
     ]
 }
