@@ -3946,6 +3946,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "52201908300001",
+                "name": "嘉義市私立喜樂文理短期補習班",
+                "county": "嘉義市",
+                "class": "文理類,外語類",
+                "students": "國小,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43187,
+                    23.48107
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "52201909230001",
                 "name": "高月雲清教育科技有限公司附設嘉義市私立賈伯斯數理教室文理技藝短期補習班",
                 "county": "嘉義市",
@@ -4894,6 +4912,24 @@
                 "coordinates": [
                     120.43719,
                     23.4643
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "52202605110001",
+                "name": "嘉義市私立王菡文理短期補習班",
+                "county": "嘉義市",
+                "class": "文理類,外語類",
+                "students": "國小,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45524,
+                    23.49383
                 ]
             }
         }

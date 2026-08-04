@@ -958,6 +958,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "35200501180002",
+                "name": "新竹市私立種子英語短期補習班",
+                "county": "新竹市",
+                "class": "外語類",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.014206,
+                    24.784041
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "35200503180001",
                 "name": "聯成電腦股份有限公司附設新竹市私立聯成電腦短期補習班",
                 "county": "新竹市",
@@ -1096,6 +1114,24 @@
                 "coordinates": [
                     120.980726,
                     24.812889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "35200602090002",
+                "name": "新竹市私立小博士園地英語文短期補習班",
+                "county": "新竹市",
+                "class": "外語類",
+                "students": "國小至國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.9685,
+                    24.790976
                 ]
             }
         },
@@ -1258,6 +1294,24 @@
                 "coordinates": [
                     120.973255,
                     24.802891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "35200609010001",
+                "name": "新竹市私立學智文理短期補習班",
+                "county": "新竹市",
+                "class": "文理類,外語類",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.986804,
+                    24.800649
                 ]
             }
         },
@@ -1552,6 +1606,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "35200710170003",
+                "name": "新竹市私立立晟文理短期補習班",
+                "county": "新竹市",
+                "class": "文理類",
+                "students": "國中、小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.908151,
+                    24.746819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "35200710250001",
                 "name": "新竹市私立富華機電短期補習班",
                 "county": "新竹市",
@@ -1618,6 +1690,24 @@
                 "coordinates": [
                     120.960457,
                     24.800894
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "35200801160002",
+                "name": "臺師菁英文教事業股份有限公司附設新竹市私立臺師菁英6號文理短期補習班",
+                "county": "新竹市",
+                "class": "文理類",
+                "students": "國中,國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.977807,
+                    24.794584
                 ]
             }
         },
@@ -2302,6 +2392,24 @@
                 "coordinates": [
                     120.972555,
                     24.804293
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "35201010230001",
+                "name": "新竹市私立嘉因文理短期補習班",
+                "county": "新竹市",
+                "class": "文理類",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.981339,
+                    24.810592
                 ]
             }
         },
@@ -3082,6 +3190,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "35201305080001",
+                "name": "新竹市私立奎豆文理短期補習班",
+                "county": "新竹市",
+                "class": "文理類,外語類",
+                "students": "國小,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.01616,
+                    24.78616
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "35201305080003",
                 "name": "新竹市私立里唯文理短期補習班",
                 "county": "新竹市",
@@ -3148,6 +3274,24 @@
                 "coordinates": [
                     121.0109,
                     24.785299
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "35201308090001",
+                "name": "新竹市私立瀚銘文理短期補習班",
+                "county": "新竹市",
+                "class": "文理類",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96081,
+                    24.800772
                 ]
             }
         },
@@ -3586,6 +3730,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "35201504160002",
+                "name": "新竹市私立華星文理短期補習班",
+                "county": "新竹市",
+                "class": "文理類",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.980454,
+                    24.796245
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "35201504160003",
                 "name": "新竹市私立子用精實文理短期補習班",
                 "county": "新竹市",
@@ -3964,6 +4126,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "35201612060001",
+                "name": "新竹市私立魏老師文理短期補習班",
+                "county": "新竹市",
+                "class": "文理類",
+                "students": "高中,國小,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.983882,
+                    24.812326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "35201612200001",
                 "name": "新竹市私立冠偉文理短期補習班",
                 "county": "新竹市",
@@ -4012,6 +4192,24 @@
                 "coordinates": [
                     120.976474,
                     24.806734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "35201704110001",
+                "name": "新竹市私立文城培英文理短期補習班",
+                "county": "新竹市",
+                "class": "文理類",
+                "students": "國中,高中,國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.977561,
+                    24.794494
                 ]
             }
         },
@@ -4216,6 +4414,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "35201805170002",
+                "name": "新竹市私立蒲公英精實短期補習班",
+                "county": "新竹市",
+                "class": "文理類",
+                "students": "國小,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.968063,
+                    24.798164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "35201805280001",
                 "name": "新竹市私立禾豐文理短期補習班",
                 "county": "新竹市",
@@ -4318,6 +4534,24 @@
                 "coordinates": [
                     120.971996,
                     24.806992
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "35201808060001",
+                "name": "艾學爾國際有限公司附設新竹市私立艾學爾文理短期補習班頂埔分班",
+                "county": "新竹市",
+                "class": "文理類",
+                "students": "國中,國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.95135,
+                    24.796824
                 ]
             }
         },
@@ -4594,6 +4828,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "35201906060001",
+                "name": "臺師菁英文教事業股份有限公司附設新竹市私立臺師菁英10號文理短期補習班",
+                "county": "新竹市",
+                "class": "文理類,外語類",
+                "students": "國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.977807,
+                    24.794584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "35201907220001",
                 "name": "新竹市私立英達文理短期補習班",
                 "county": "新竹市",
@@ -4696,6 +4948,24 @@
                 "coordinates": [
                     120.969137,
                     24.799493
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "35201908150001",
+                "name": "新竹市私立登科文理短期補習班",
+                "county": "新竹市",
+                "class": "外語類",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.923382,
+                    24.790865
                 ]
             }
         },
@@ -5002,6 +5272,24 @@
                 "coordinates": [
                     121.009275,
                     24.791163
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "35202005070001",
+                "name": "新竹市私立石頭仁文理短期補習班",
+                "county": "新竹市",
+                "class": "文理類",
+                "students": "國小,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.979408,
+                    24.813065
                 ]
             }
         },
@@ -5602,6 +5890,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "35202202170001",
+                "name": "極上教育諮詢股份有限公司附設新竹市私立極上塾光武文理短期補習班",
+                "county": "新竹市",
+                "class": "文理類",
+                "students": "高中,國小,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.014269,
+                    24.784413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "35202205190001",
                 "name": "新竹市私立愛德華美語短期補習班",
                 "county": "新竹市",
@@ -5650,6 +5956,24 @@
                 "coordinates": [
                     120.966636,
                     24.795014
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "35202208300001",
+                "name": "新竹市私立菲芸蒙特梭利文理短期補習班",
+                "county": "新竹市",
+                "class": "文理類",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.980037,
+                    24.813787
                 ]
             }
         },
@@ -6118,6 +6442,24 @@
                 "coordinates": [
                     120.960318,
                     24.807246
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "35202403050001",
+                "name": "臺師菁英文教事業股份有限公司附設新竹市私立臺師8號文理短期補習班",
+                "county": "新竹市",
+                "class": "文理類",
+                "students": "國中,國小,高中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.017205,
+                    24.783282
                 ]
             }
         },
