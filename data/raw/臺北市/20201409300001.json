@@ -36,6 +36,32 @@
             "招生對象": "成人(18歲以上)"
         }
     ],
+    "教學人員": [
+        {
+            "姓名": "Philip Cua",
+            "學歷": "University of Manila",
+            "最高學歷": "大學",
+            "經歷": "Senior English Instructor",
+            "教授科目": "English",
+            "最後變動日期": "2018-08-31"
+        },
+        {
+            "姓名": "Karnik Daniel Lynn",
+            "學歷": "The University of Nebraska",
+            "最高學歷": "大學",
+            "經歷": "Senior English Instructor",
+            "教授科目": "English",
+            "最後變動日期": "2018-08-31"
+        },
+        {
+            "姓名": "Sean William Ravenscroft",
+            "學歷": "University of Cape Town",
+            "最高學歷": "大學",
+            "經歷": "Senior English Instructor",
+            "教授科目": "English",
+            "最後變動日期": "2018-08-31"
+        }
+    ],
     "職員工": [
         "曾曉妍",
         "李婕如",

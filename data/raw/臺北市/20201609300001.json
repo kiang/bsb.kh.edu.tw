@@ -36,6 +36,48 @@
             "招生對象": "國小"
         }
     ],
+    "教學人員": [
+        {
+            "姓名": "高正竹",
+            "學歷": "The College of New Jersey Master of Education",
+            "最高學歷": "大學",
+            "經歷": "15年英語教學經驗",
+            "教授科目": "英語",
+            "最後變動日期": "2021-02-02"
+        },
+        {
+            "姓名": "黃林堂",
+            "學歷": "The University of Hawaii",
+            "最高學歷": "大學",
+            "經歷": "15年英語教學經驗",
+            "教授科目": "英語",
+            "最後變動日期": "2021-02-02"
+        },
+        {
+            "姓名": "Halley Allysa Loflin",
+            "學歷": "Missouri State University-Bachelor of Arts Global Studies",
+            "最高學歷": "大學",
+            "經歷": "Missouri State University-Bachelor of Arts Global Studies",
+            "教授科目": "英語",
+            "最後變動日期": "2022-09-19"
+        },
+        {
+            "姓名": "Kuiper Bas",
+            "學歷": "Hoger Algemeen Voortgezet Onderwijs",
+            "最高學歷": "大學",
+            "經歷": "Hoger Algemeen Voortgezet Onderwijs",
+            "教授科目": "英語",
+            "最後變動日期": "2022-09-23"
+        },
+        {
+            "姓名": "黃勁文",
+            "學歷": "Emerson College-Bachelor of Arts",
+            "最高學歷": "大學",
+            "經歷": "Emerson College-Bachelor of Arts",
+            "教授科目": "英語",
+            "最後變動日期": "2022-10-17"
+        }
+    ],
     "職員工": [
         "王品蓉",
         "許嘉宸",

@@ -60,5 +60,23 @@
             "招生對象": "國小、國中"
         }
     ],
+    "教學人員": [
+        {
+            "姓名": "Jonathan Klassen",
+            "學歷": "Ph.D. English Studies, Specialization in Children&amp;rsquo;s Literature, Dec 2006 Illinois State University, Normal",
+            "最高學歷": "博士",
+            "經歷": "無(預設)",
+            "教授科目": "英語",
+            "最後變動日期": "2017-11-14"
+        },
+        {
+            "姓名": "高恩澤",
+            "學歷": "國立台灣師範大學教育系",
+            "最高學歷": "碩士",
+            "經歷": "無(預設)",
+            "教授科目": "英語",
+            "最後變動日期": "2019-06-26"
+        }
+    ],
     "職員工": []
 }

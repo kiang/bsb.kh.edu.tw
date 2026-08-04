@@ -84,6 +84,152 @@
             "招生對象": "學齡前"
         }
     ],
+    "教學人員": [
+        {
+            "姓名": "黃德華",
+            "學歷": "Instituto Universitario de Tecnologia &amp;amp;amp;ndash; Tecnico Superior en Informatica",
+            "最高學歷": "大學",
+            "經歷": "補習班老師",
+            "教授科目": "西班牙文",
+            "最後變動日期": "2025-08-05"
+        },
+        {
+            "姓名": "紀文倩",
+            "學歷": "Hans Wolfgang Goethe-Univ. Magister Artium",
+            "最高學歷": "碩士",
+            "經歷": "補習班老師",
+            "教授科目": "德文",
+            "最後變動日期": "2023-05-05"
+        },
+        {
+            "姓名": "方逸",
+            "學歷": "Seminar Fur Orientalishe Sprachen, Diplom",
+            "最高學歷": "大學",
+            "經歷": "補習班老師",
+            "教授科目": "德文",
+            "最後變動日期": "2025-08-01"
+        },
+        {
+            "姓名": "鄧飛利",
+            "學歷": "Technische Universitat Dresden Magister Artium",
+            "最高學歷": "碩士",
+            "經歷": "補習班老師",
+            "教授科目": "德文",
+            "最後變動日期": "2023-05-05"
+        },
+        {
+            "姓名": "白思康",
+            "學歷": "Diplome d&amp;amp;rsquo;etudes approfondies, Paris 1 - Sorbonne",
+            "最高學歷": "碩士",
+            "經歷": "補習班老師",
+            "教授科目": "法文",
+            "最後變動日期": "2022-06-20"
+        },
+        {
+            "姓名": "包林娜",
+            "學歷": "Universite Bordeaux 3 - Licence",
+            "最高學歷": "大學",
+            "經歷": "補習班老師",
+            "教授科目": "法文",
+            "最後變動日期": "2018-07-27"
+        },
+        {
+            "姓名": "卜禕嫻",
+            "學歷": "Bachelor&amp;amp;rsquo;s degree in Musicology, Utrecht Univ.",
+            "最高學歷": "大學",
+            "經歷": "補習班老師",
+            "教授科目": "德文",
+            "最後變動日期": "2024-05-06"
+        },
+        {
+            "姓名": "何漫宇",
+            "學歷": "Master degree in Chinese as a Foreign Language, Universite d Artois)",
+            "最高學歷": "碩士",
+            "經歷": "補習班老師",
+            "教授科目": "法文",
+            "最後變動日期": "2024-05-06"
+        },
+        {
+            "姓名": "柯立博",
+            "學歷": "中國醫藥大學物理治療學系畢業",
+            "最高學歷": "大學",
+            "經歷": "補習班老師",
+            "教授科目": "西班牙文",
+            "最後變動日期": "2025-04-09"
+        },
+        {
+            "姓名": "許瓦鵬",
+            "學歷": "Universitat Bonn Master of Art",
+            "最高學歷": "碩士",
+            "經歷": "補習班老師",
+            "教授科目": "德文",
+            "最後變動日期": "2023-10-12"
+        },
+        {
+            "姓名": "福德義",
+            "學歷": "bachelor degree, universitat Wien",
+            "最高學歷": "大學",
+            "經歷": "補習班老師",
+            "教授科目": "德文",
+            "最後變動日期": "2023-05-06"
+        },
+        {
+            "姓名": "DE BECKER Pauline Anne W",
+            "學歷": "Master, universite de Mons",
+            "最高學歷": "碩士",
+            "經歷": "補習班老師",
+            "教授科目": "法文",
+            "最後變動日期": "2025-09-15"
+        },
+        {
+            "姓名": "Desportes Charles Gautier",
+            "學歷": "碩士",
+            "最高學歷": "碩士",
+            "經歷": "補習班老師",
+            "教授科目": "法文",
+            "最後變動日期": "2021-12-30"
+        },
+        {
+            "姓名": "Gonzalez Julian Jose Manuel",
+            "學歷": "學士",
+            "最高學歷": "大學",
+            "經歷": "老師",
+            "教授科目": "西班牙文",
+            "最後變動日期": "2023-05-16"
+        },
+        {
+            "姓名": "Tapia Galvan Jose Daniel",
+            "學歷": "碩士",
+            "最高學歷": "碩士",
+            "經歷": "老師",
+            "教授科目": "西班牙文",
+            "最後變動日期": "2025-04-08"
+        },
+        {
+            "姓名": "Myriam Angela De Almeida",
+            "學歷": "Institut National des Langues et Civilisations Orientales",
+            "最高學歷": "碩士",
+            "經歷": "老師",
+            "教授科目": "法文",
+            "最後變動日期": "2024-08-07"
+        },
+        {
+            "姓名": "Marxen Philipp Robert",
+            "學歷": "Johann Wolfgang Goethe University, Master of Science in Finance",
+            "最高學歷": "碩士",
+            "經歷": "補習班老師",
+            "教授科目": "德文",
+            "最後變動日期": "2025-05-07"
+        },
+        {
+            "姓名": "EBELING STEVEN",
+            "學歷": "Master of Sinology, T&amp;amp;uuml;bingen University",
+            "最高學歷": "碩士",
+            "經歷": "補習班老師",
+            "教授科目": "德文",
+            "最後變動日期": "2025-06-05"
+        }
+    ],
     "職員工": [
         "張明宗",
         "張遵儀",

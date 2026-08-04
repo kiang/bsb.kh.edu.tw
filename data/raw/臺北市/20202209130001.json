@@ -60,6 +60,56 @@
             "招生對象": "無限制"
         }
     ],
+    "教學人員": [
+        {
+            "姓名": "PHELOKAZI  JUNGQE",
+            "學歷": "University of Cape Town",
+            "最高學歷": "大學",
+            "經歷": "教師",
+            "教授科目": "英文",
+            "最後變動日期": "2025-06-25"
+        },
+        {
+            "姓名": "BYERLY ANNA LAQUEY",
+            "學歷": "Furman University",
+            "最高學歷": "大學",
+            "經歷": "教師",
+            "教授科目": "英文",
+            "最後變動日期": "2025-08-07"
+        },
+        {
+            "姓名": "NATHAN PAUL WHITEHEAD",
+            "學歷": "Manchester Metropolitan University",
+            "最高學歷": "大學",
+            "經歷": "教師",
+            "教授科目": "英文",
+            "最後變動日期": "2025-08-15"
+        },
+        {
+            "姓名": "Brian Lee Christensen",
+            "學歷": "The Richard Stockton College of New Jersey",
+            "最高學歷": "大學",
+            "經歷": "教師",
+            "教授科目": "英文",
+            "最後變動日期": "2025-08-22"
+        },
+        {
+            "姓名": "Hide Secker Luke Peter",
+            "學歷": "University of East Anglia",
+            "最高學歷": "大學",
+            "經歷": "教師",
+            "教授科目": "英文",
+            "最後變動日期": "2025-09-04"
+        },
+        {
+            "姓名": "Emilie Janet Mary Grosse",
+            "學歷": "University of wollongong Australia",
+            "最高學歷": "大學",
+            "經歷": "英文老師",
+            "教授科目": "英文",
+            "最後變動日期": "2026-03-24"
+        }
+    ],
     "職員工": [
         "邱如巧",
         "張素花",

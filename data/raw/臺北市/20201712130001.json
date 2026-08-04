@@ -36,6 +36,48 @@
             "招生對象": "無限制"
         }
     ],
+    "教學人員": [
+        {
+            "姓名": "WaringRobert Van Guelder",
+            "學歷": "The California State University",
+            "最高學歷": "大學",
+            "經歷": "Teacher",
+            "教授科目": "English",
+            "最後變動日期": "2024-12-10"
+        },
+        {
+            "姓名": "HsuYun-Yi",
+            "學歷": "Pratt Institute",
+            "最高學歷": "大學",
+            "經歷": "Industrial Designer",
+            "教授科目": "English",
+            "最後變動日期": "2017-12-18"
+        },
+        {
+            "姓名": "Iglehart Russell Avery",
+            "學歷": "Central Michigan University",
+            "最高學歷": "大學",
+            "經歷": "英語語文教學",
+            "教授科目": "英語",
+            "最後變動日期": "2025-01-09"
+        },
+        {
+            "姓名": "Spencer Chase Mullen",
+            "學歷": "George Mason Univercity",
+            "最高學歷": "碩士",
+            "經歷": "英語老師",
+            "教授科目": "英文",
+            "最後變動日期": "2025-03-31"
+        },
+        {
+            "姓名": "La Gesse Colin Anthony",
+            "學歷": "The Ohio State Univercity",
+            "最高學歷": "大學",
+            "經歷": "英語老師",
+            "教授科目": "英語",
+            "最後變動日期": "2025-05-02"
+        }
+    ],
     "職員工": [
         "張文龍",
         "葉劭文",

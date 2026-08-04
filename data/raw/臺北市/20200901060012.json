@@ -60,5 +60,31 @@
             "招生對象": "國小"
         }
     ],
+    "教學人員": [
+        {
+            "姓名": "CHECKNITA MARC",
+            "學歷": "The University of Alberta",
+            "最高學歷": "大學",
+            "經歷": "Education 101 11年",
+            "教授科目": "英文",
+            "最後變動日期": "2019-06-28"
+        },
+        {
+            "姓名": "TODESCA KYLE JEFFREY",
+            "學歷": "University of New Hampshire",
+            "最高學歷": "大學",
+            "經歷": "Education 101, British Council, EBS Education, Cheng &amp;amp; Tsui",
+            "教授科目": "英文",
+            "最後變動日期": "2019-06-28"
+        },
+        {
+            "姓名": "URBAN CASSIOPIA NICHOLE",
+            "學歷": "溫伯格藝術與科學學院的建議，西北大學",
+            "最高學歷": "大學",
+            "經歷": "Education 101",
+            "教授科目": "英文",
+            "最後變動日期": "2021-07-28"
+        }
+    ],
     "職員工": []
 }

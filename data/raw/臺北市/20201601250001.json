@@ -52,5 +52,39 @@
             "招生對象": "其他"
         }
     ],
+    "教學人員": [
+        {
+            "姓名": "MEYER NOMFUNDO SIPHESIHLE",
+            "學歷": "Durban University of Technology",
+            "最高學歷": "大學",
+            "經歷": "英語教學",
+            "教授科目": "英語",
+            "最後變動日期": "2022-12-30"
+        },
+        {
+            "姓名": "倪正光",
+            "學歷": "Universidade de Sao Pavlo-Brazit",
+            "最高學歷": "碩士",
+            "經歷": "無(預設)",
+            "教授科目": "英語",
+            "最後變動日期": "2023-10-23"
+        },
+        {
+            "姓名": "Mc Kinnon Matthew Merrit",
+            "學歷": "University of North Carolina at Charlotte",
+            "最高學歷": "大學",
+            "經歷": "英語教學",
+            "教授科目": "英文",
+            "最後變動日期": "2025-09-17"
+        },
+        {
+            "姓名": "ORR FERGUS  JOHN",
+            "學歷": "University of Glasgow",
+            "最高學歷": "大學",
+            "經歷": "英語教學",
+            "教授科目": "英文",
+            "最後變動日期": "2025-10-16"
+        }
+    ],
     "職員工": []
 }

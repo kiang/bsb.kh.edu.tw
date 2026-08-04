@@ -39,6 +39,56 @@
             "招生對象": "國小"
         }
     ],
+    "教學人員": [
+        {
+            "姓名": "John Jarrard",
+            "學歷": "University of Minnesota",
+            "最高學歷": "大學",
+            "經歷": "無(預設)",
+            "教授科目": "英文",
+            "最後變動日期": "2018-05-14"
+        },
+        {
+            "姓名": "Eric Hildebrand",
+            "學歷": "University of Wisconsin",
+            "最高學歷": "大學",
+            "經歷": "無(預設)",
+            "教授科目": "英文",
+            "最後變動日期": "2018-05-14"
+        },
+        {
+            "姓名": "Michael Fagan",
+            "學歷": "杜倫大學應用心理學",
+            "最高學歷": "大學",
+            "經歷": "無(預設)",
+            "教授科目": "英文",
+            "最後變動日期": "2022-01-19"
+        },
+        {
+            "姓名": "North Daniel James",
+            "學歷": "The Northern Alberta Institute of Technology",
+            "最高學歷": "大學",
+            "經歷": "無(預設)",
+            "教授科目": "英文",
+            "最後變動日期": "2023-09-13"
+        },
+        {
+            "姓名": "Spires Samuel Emerson",
+            "學歷": "SAVANNAH COLLEGE OF ART AND DESIGN",
+            "最高學歷": "大學",
+            "經歷": "無(預設)",
+            "教授科目": "英文",
+            "最後變動日期": "2023-09-06"
+        },
+        {
+            "姓名": "Olding Dylan Anthony",
+            "學歷": "The Baptist Theological College of  Southern Africa  JOHANNESBURG",
+            "最高學歷": "大學",
+            "經歷": "無(預設)",
+            "教授科目": "英文",
+            "最後變動日期": "2023-11-09"
+        }
+    ],
     "職員工": [
         "李明娟",
         "黃瑄霈",

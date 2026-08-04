@@ -60,6 +60,120 @@
             "招生對象": "其他"
         }
     ],
+    "教學人員": [
+        {
+            "姓名": "Luke Peter Hide Secker",
+            "學歷": "University of East Anglia School of Economics",
+            "最高學歷": "大學",
+            "經歷": "英文教師",
+            "教授科目": "英文",
+            "最後變動日期": "2024-05-16"
+        },
+        {
+            "姓名": "Brian Lee Christensen",
+            "學歷": "The Richard Stockton College of New Jersey",
+            "最高學歷": "大學",
+            "經歷": "英文教師",
+            "教授科目": "英文",
+            "最後變動日期": "2024-05-16"
+        },
+        {
+            "姓名": "林鶴",
+            "學歷": "The University in Texas At Austin",
+            "最高學歷": "大學",
+            "經歷": "無(預設)",
+            "教授科目": "英文",
+            "最後變動日期": "2022-09-13"
+        },
+        {
+            "姓名": "Andrews Abigail  Wren",
+            "學歷": "University of Puget Sound",
+            "最高學歷": "大學",
+            "經歷": "英文老師",
+            "教授科目": "美語",
+            "最後變動日期": "2024-05-31"
+        },
+        {
+            "姓名": "Byerly Anna Laquey",
+            "學歷": "Furman University",
+            "最高學歷": "大學",
+            "經歷": "家教",
+            "教授科目": "美語",
+            "最後變動日期": "2024-08-29"
+        },
+        {
+            "姓名": "REFILOE RONALDA LILY MOTAU",
+            "學歷": "University of the Witwatersrand Johannesburg",
+            "最高學歷": "大學",
+            "經歷": "美語老師",
+            "教授科目": "美語",
+            "最後變動日期": "2024-11-07"
+        },
+        {
+            "姓名": "DZBIK KATHERINE",
+            "學歷": "University of Winnipeg",
+            "最高學歷": "大學",
+            "經歷": "無",
+            "教授科目": "英文",
+            "最後變動日期": "2025-01-06"
+        },
+        {
+            "姓名": "Samantha Elise Grimberg",
+            "學歷": "University of North Texas",
+            "最高學歷": "大學",
+            "經歷": "教師",
+            "教授科目": "英文",
+            "最後變動日期": "2025-06-20"
+        },
+        {
+            "姓名": "VILAKAZI BABALWA SIBONGILE",
+            "學歷": "Rhodes University",
+            "最高學歷": "大學",
+            "經歷": "教師",
+            "教授科目": "英文",
+            "最後變動日期": "2025-06-27"
+        },
+        {
+            "姓名": "Spark Jenna Marie",
+            "學歷": "University of Ontario of Technology",
+            "最高學歷": "大學",
+            "經歷": "教師",
+            "教授科目": "英文",
+            "最後變動日期": "2025-08-25"
+        },
+        {
+            "姓名": "許育銓",
+            "學歷": "輔仁大學",
+            "最高學歷": "大學",
+            "經歷": "無",
+            "教授科目": "中文、數學",
+            "最後變動日期": "2025-08-28"
+        },
+        {
+            "姓名": "Batuto Danica Ortizano",
+            "學歷": "Colegio De San Antonio De Padua",
+            "最高學歷": "大學",
+            "經歷": "教師",
+            "教授科目": "英文",
+            "最後變動日期": "2025-09-01"
+        },
+        {
+            "姓名": "NATALIE GRACE FINLEY",
+            "學歷": "Western Kentucky University",
+            "最高學歷": "大學",
+            "經歷": "無",
+            "教授科目": "美語",
+            "最後變動日期": "2026-06-22"
+        },
+        {
+            "姓名": "Whitehead Nathan Paul",
+            "學歷": "MANCHESTER METROPOLITAN UNIVERSITY",
+            "最高學歷": "大學",
+            "經歷": "無",
+            "教授科目": "美語",
+            "最後變動日期": "2026-06-22"
+        }
+    ],
     "職員工": [
         "林玉芳",
         "陳右臻",

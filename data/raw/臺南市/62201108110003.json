@@ -36,6 +36,40 @@
             "招生對象": "國中"
         }
     ],
+    "教學人員": [
+        {
+            "姓名": "Dan North",
+            "學歷": "Northern Alberta Institute of Techology",
+            "最高學歷": "大學",
+            "經歷": "無(預設)",
+            "教授科目": "英文",
+            "最後變動日期": "2018-05-16"
+        },
+        {
+            "姓名": "Mark Liu",
+            "學歷": "The Ohio State University",
+            "最高學歷": "大學",
+            "經歷": "無(預設)",
+            "教授科目": "英文",
+            "最後變動日期": "2018-09-28"
+        },
+        {
+            "姓名": "Kassen Caleb John",
+            "學歷": "Impact International School of Ministry",
+            "最高學歷": "大學",
+            "經歷": "無(預設)",
+            "教授科目": "英文",
+            "最後變動日期": "2021-09-14"
+        },
+        {
+            "姓名": "Wagar Rick Allan",
+            "學歷": "Southern Alberta Institute of Technology",
+            "最高學歷": "大學",
+            "經歷": "無(預設)",
+            "教授科目": "英文",
+            "最後變動日期": "2020-12-18"
+        }
+    ],
     "職員工": [
         "盧淑銀",
         "蘇逸翎",

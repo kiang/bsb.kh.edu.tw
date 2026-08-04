@@ -36,6 +36,56 @@
             "招生對象": "無限制"
         }
     ],
+    "教學人員": [
+        {
+            "姓名": "Trudi Joy Bakinen",
+            "學歷": "Bachelor Of Arts Of The University Of Southern Queensland",
+            "最高學歷": "碩士",
+            "經歷": "教學",
+            "教授科目": "英語",
+            "最後變動日期": "2018-10-26"
+        },
+        {
+            "姓名": "Lisa Nicole Bartle",
+            "學歷": "Bachelor Of Arts Of The University Of The Michingan",
+            "最高學歷": "碩士",
+            "經歷": "教學",
+            "教授科目": "英語",
+            "最後變動日期": "2018-10-26"
+        },
+        {
+            "姓名": "Ivan Wang",
+            "學歷": "Tamkang University",
+            "最高學歷": "大學",
+            "經歷": "教師",
+            "教授科目": "英語",
+            "最後變動日期": "2021-07-23"
+        },
+        {
+            "姓名": "王筱筑",
+            "學歷": "The University Of Florida",
+            "最高學歷": "大學",
+            "經歷": "教師",
+            "教授科目": "英語",
+            "最後變動日期": "2023-03-22"
+        },
+        {
+            "姓名": "Michael Philip Geoghegan",
+            "學歷": "Dublin Institute Of Techonology",
+            "最高學歷": "大學",
+            "經歷": "教師",
+            "教授科目": "英語",
+            "最後變動日期": "2023-03-22"
+        },
+        {
+            "姓名": "Adam Budai",
+            "學歷": "Central European University",
+            "最高學歷": "碩士",
+            "經歷": "教師",
+            "教授科目": "英語",
+            "最後變動日期": "2023-03-22"
+        }
+    ],
     "職員工": [
         "李宜容",
         "游麗萍"

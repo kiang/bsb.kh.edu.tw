@@ -84,5 +84,111 @@
             "招生對象": "無限制"
         }
     ],
+    "教學人員": [
+        {
+            "姓名": "GALL JOHANNES HEINZ",
+            "學歷": "UNIVERSITY of BONN, BA ASIAN STUDIES(BACHELOR of ART)",
+            "最高學歷": "大學",
+            "經歷": "無(預設)",
+            "教授科目": "德文",
+            "最後變動日期": "2024-06-17"
+        },
+        {
+            "姓名": "SCHMIDT CHRISTIAN",
+            "學歷": "Department of Political Science, National Taiwan University",
+            "最高學歷": "大學",
+            "經歷": "無(預設)",
+            "教授科目": "德文",
+            "最後變動日期": "2024-06-29"
+        },
+        {
+            "姓名": "PAESSLER JUERGEN",
+            "學歷": "German Sport University Cologne",
+            "最高學歷": "大學",
+            "經歷": "無(預設)",
+            "教授科目": "德文",
+            "最後變動日期": "2021-07-22"
+        },
+        {
+            "姓名": "SPEAKMAN DANIEL LEE",
+            "學歷": "THE UNIVERSITY OF SALFORD",
+            "最高學歷": "大學",
+            "經歷": "無",
+            "教授科目": "英文",
+            "最後變動日期": "2022-03-13"
+        },
+        {
+            "姓名": "Romain Di Rito",
+            "學歷": "University Grenoble Alpes",
+            "最高學歷": "大學",
+            "經歷": "無(預設)",
+            "教授科目": "法文",
+            "最後變動日期": "2025-11-09"
+        },
+        {
+            "姓名": "Cullen Eoin Augustus",
+            "學歷": "國立台灣大學",
+            "最高學歷": "碩士",
+            "經歷": "英文教師",
+            "教授科目": "英文",
+            "最後變動日期": "2025-11-20"
+        },
+        {
+            "姓名": "Domingo Bassols Aram",
+            "學歷": "Escola d&#039;Art de Sant Cugat",
+            "最高學歷": "大學",
+            "經歷": "無(預設)",
+            "教授科目": "西班牙文",
+            "最後變動日期": "2025-04-15"
+        },
+        {
+            "姓名": "Rothmayer Andrea",
+            "學歷": "Universit&amp;amp;amp;auml;t Klagenfurt",
+            "最高學歷": "大學",
+            "經歷": "無(預設)",
+            "教授科目": "德文",
+            "最後變動日期": "2025-03-04"
+        },
+        {
+            "姓名": "Ouertal Romain",
+            "學歷": "Universit&amp;amp;amp;amp;eacute; de Versailles Saint-Quentin-En-Yvelines",
+            "最高學歷": "大學",
+            "經歷": "無(預設)",
+            "教授科目": "法文",
+            "最後變動日期": "2025-03-06"
+        },
+        {
+            "姓名": "ZYSK MARTIN",
+            "學歷": "Ostwestfalen-Lippe University of Applied Sciences",
+            "最高學歷": "大學",
+            "經歷": "無(預設)",
+            "教授科目": "德語",
+            "最後變動日期": "2025-03-11"
+        },
+        {
+            "姓名": "蘇士恬",
+            "學歷": "實踐大學服裝系",
+            "最高學歷": "大學",
+            "經歷": "無(預設)",
+            "教授科目": "華語",
+            "最後變動日期": "2025-10-27"
+        },
+        {
+            "姓名": "Shean Russell Pierce",
+            "學歷": "國立台灣大學碩士學位",
+            "最高學歷": "碩士",
+            "經歷": "教師",
+            "教授科目": "英語",
+            "最後變動日期": "2025-12-20"
+        },
+        {
+            "姓名": "Anette Luo",
+            "學歷": "Ludwig-maximilians-universitat munchen",
+            "最高學歷": "大學",
+            "經歷": "德語教師",
+            "教授科目": "德文",
+            "最後變動日期": "2026-03-24"
+        }
+    ],
     "職員工": []
 }

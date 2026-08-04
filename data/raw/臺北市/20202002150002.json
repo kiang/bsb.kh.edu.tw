@@ -36,6 +36,80 @@
             "招生對象": "國小、國中、高中、成人"
         }
     ],
+    "教學人員": [
+        {
+            "姓名": "Makapa Santeale",
+            "學歷": "Massey University - Master of Education",
+            "最高學歷": "碩士",
+            "經歷": "教學人員",
+            "教授科目": "英文",
+            "最後變動日期": "2021-04-09"
+        },
+        {
+            "姓名": "Rinehart, Deborah Ann",
+            "學歷": "National Taiwan University of Science and Technology - MA of TESOL",
+            "最高學歷": "碩士",
+            "經歷": "教學人員",
+            "教授科目": "英文",
+            "最後變動日期": "2021-04-01"
+        },
+        {
+            "姓名": "Hepples, Stephen",
+            "學歷": "The University of British Columbia",
+            "最高學歷": "大學",
+            "經歷": "教學人員",
+            "教授科目": "英文",
+            "最後變動日期": "2021-04-15"
+        },
+        {
+            "姓名": "Whitall, Stephen Philip",
+            "學歷": "The Nottingham Trent University - Bachelor of ART",
+            "最高學歷": "大學",
+            "經歷": "教學人員",
+            "教授科目": "英文",
+            "最後變動日期": "2021-04-07"
+        },
+        {
+            "姓名": "Ian Fischer",
+            "學歷": "元智大學應用外語系碩士班",
+            "最高學歷": "碩士",
+            "經歷": "教學人員",
+            "教授科目": "英文",
+            "最後變動日期": "2021-04-08"
+        },
+        {
+            "姓名": "林侑慧",
+            "學歷": "Graduate Diploma of Herbal Medicines",
+            "最高學歷": "碩士",
+            "經歷": "教學人員",
+            "教授科目": "General English",
+            "最後變動日期": "2021-07-16"
+        },
+        {
+            "姓名": "Brian Matthew Welter",
+            "學歷": "Honours Bachelor of Arts (History), University of Saskatchewan",
+            "最高學歷": "大學",
+            "經歷": "教學人員",
+            "教授科目": "IELTS",
+            "最後變動日期": "2021-07-23"
+        },
+        {
+            "姓名": "Robert James Duncan",
+            "學歷": "BA(Hons) Psychology",
+            "最高學歷": "大學",
+            "經歷": "教學人員",
+            "教授科目": "IELTS",
+            "最後變動日期": "2021-08-23"
+        },
+        {
+            "姓名": "Hawkins Eric Richard",
+            "學歷": "York University",
+            "最高學歷": "大學",
+            "經歷": "教學人員",
+            "教授科目": "英文",
+            "最後變動日期": "2022-07-22"
+        }
+    ],
     "職員工": [
         "彭怡婷",
         "張智誠",
