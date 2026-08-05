@@ -4811,7 +4811,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21200208022918",
-                "name": "私立大中華文理短期補習班",
+                "name": "大中華文理短期補習班",
                 "county": "新北市",
                 "class": "文理類",
                 "students": "國小、國中、高中,不限年齡",
@@ -13318,6 +13318,24 @@
                 "coordinates": [
                     121.484585,
                     25.002379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21200601180003",
+                "name": "魚果文理技藝短期補習班",
+                "county": "新北市",
+                "class": "文理類,商類：珠算、心算、會計",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.430987,
+                    24.987833
                 ]
             }
         },
@@ -51568,6 +51586,24 @@
                 "coordinates": [
                     121.444744,
                     25.053985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202512100001",
+                "name": "私立知衡文理短期補習班",
+                "county": "新北市",
+                "class": "文理類",
+                "students": "不限年齡",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.359102,
+                    25.075597
                 ]
             }
         },

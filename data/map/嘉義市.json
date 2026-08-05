@@ -4163,10 +4163,10 @@
             "type": "Feature",
             "properties": {
                 "code": "52202104130001",
-                "name": "嘉義市私立沛樂多文理技藝短期補習班",
+                "name": "嘉義市私立馬蓋先英語文理短期補習班",
                 "county": "嘉義市",
-                "class": "外語類,美術、書法、攝影、美工設計、圍棋類",
-                "students": "國小",
+                "class": "外語類",
+                "students": "國小,國中",
                 "date_closed": ""
             },
             "geometry": {
@@ -4912,6 +4912,24 @@
                 "coordinates": [
                     120.43719,
                     23.4643
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "52202602100001",
+                "name": "嘉義市私立天使心音樂技藝短期補習班",
+                "county": "嘉義市",
+                "class": "音樂、舞蹈類",
+                "students": "學齡前、國小,成人(18歲以上),學齡前、國小、國中、高中、成人,國小、國中、高中、成人,國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45878,
+                    23.46087
                 ]
             }
         },

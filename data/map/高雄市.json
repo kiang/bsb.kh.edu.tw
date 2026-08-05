@@ -10898,7 +10898,7 @@
                 "name": "私立迪昇文理短期補習班",
                 "county": "高雄市",
                 "class": "文理類",
-                "students": "國中",
+                "students": "高中,國中",
                 "date_closed": ""
             },
             "geometry": {
@@ -33388,6 +33388,24 @@
                 "coordinates": [
                     120.333558,
                     22.673615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "70202601090001",
+                "name": "蘋果芽數位科技股份有限公司附設高雄市私立橘子蘋果程式設計電腦文理技藝短期補習班",
+                "county": "高雄市",
+                "class": "文理類,資訊類",
+                "students": "國小,國中,高中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.309385,
+                    22.661217
                 ]
             }
         },

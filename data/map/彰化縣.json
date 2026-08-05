@@ -17086,6 +17086,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "47202602250001",
+                "name": "前才國際股份有限公司附設彰化縣私立達康文理短期補習班",
+                "county": "彰化縣",
+                "class": "文理類",
+                "students": "國小,學齡前",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.5001,
+                    24.107805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "47202603300001",
                 "name": "彰化縣私立格瑞森文理短期補習班",
                 "county": "彰化縣",
@@ -17206,6 +17224,24 @@
                 "coordinates": [
                     120.547293,
                     24.069522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "47202606110001",
+                "name": "奧盛文教有限公司附設彰化縣私立奧碩文理短期補習班",
+                "county": "彰化縣",
+                "class": "文理類",
+                "students": "國小,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.579837,
+                    23.96188
                 ]
             }
         },
