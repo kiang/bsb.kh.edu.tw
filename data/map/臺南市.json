@@ -1948,6 +1948,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "62200208069048",
+                "name": "臺南市私立勤學電腦珠算文理短期補習班",
+                "county": "臺南市",
+                "class": "文理類,外語類,資訊類,商類：珠算、心算、會計",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.355375,
+                    23.102863
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "62200208069049",
                 "name": "臺南市私立小豆豆文理短期補習班",
                 "county": "臺南市",
@@ -5948,7 +5966,7 @@
                 "name": "何嘉仁文教事業股份有限公司附設臺南市私立崇學文理短期補習班",
                 "county": "臺南市",
                 "class": "外語類",
-                "students": "學齡前,國小,國中",
+                "students": "國小,國中,學齡前",
                 "date_closed": ""
             },
             "geometry": {
@@ -8008,6 +8026,24 @@
                 "coordinates": [
                     120.289766,
                     22.971987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "62200709290001",
+                "name": "臺南市私立幼柏士文理短期補習班",
+                "county": "臺南市",
+                "class": "文理類",
+                "students": "國小,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.233565,
+                    22.961869
                 ]
             }
         },
@@ -18818,7 +18854,7 @@
                 "name": "何嘉仁文教事業股份有限公司附設臺南市私立嘉禾文理短期補習班",
                 "county": "臺南市",
                 "class": "文理類,外語類",
-                "students": "國小,國中,學齡前",
+                "students": "國小,學齡前,國中",
                 "date_closed": ""
             },
             "geometry": {

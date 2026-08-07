@@ -14279,10 +14279,10 @@
             "type": "Feature",
             "properties": {
                 "code": "33201502120001",
-                "name": "私立總部奧斯汀美語作文短期補習班",
+                "name": "私立總部奧斯汀美語文理短期補習班",
                 "county": "桃園市",
-                "class": "外語類",
-                "students": "國小",
+                "class": "文理類,外語類",
+                "students": "國小,國中",
                 "date_closed": ""
             },
             "geometry": {
@@ -25252,6 +25252,24 @@
                 "coordinates": [
                     121.317761,
                     24.995561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "33202608070001",
+                "name": "私立賦予藝術文理技藝短期補習班",
+                "county": "桃園市",
+                "class": "文理類,外語類,音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.388429,
+                    25.040587
                 ]
             }
         }
