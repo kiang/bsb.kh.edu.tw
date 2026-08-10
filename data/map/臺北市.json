@@ -36004,24 +36004,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "20202508120003",
-                "name": "臺北市私立夏莉絲國際美語文理技藝短期補習班",
-                "county": "臺北市",
-                "class": "文理類,資訊類,音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類",
-                "students": "6歲以下、國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.532955,
-                    25.034315
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "20202508140001",
                 "name": "臺北市私立至秦文理短期補習班",
                 "county": "臺北市",

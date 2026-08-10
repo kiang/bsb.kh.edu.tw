@@ -15944,8 +15944,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.461363,
-                    25.024798
+                    121.461748,
+                    25.025563
                 ]
             }
         },
@@ -29183,7 +29183,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21201311150001",
-                "name": "樂奇電腦技藝短期補習班",
+                "name": "私立樂奇文理技藝短期補習班",
                 "county": "新北市",
                 "class": "資訊類,其他類",
                 "students": "國小",
@@ -37355,7 +37355,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21201901250001",
-                "name": "積穗文理短期補習班",
+                "name": "私立永綸文理技藝短期補習班",
                 "county": "新北市",
                 "class": "文理類",
                 "students": "國小、國中",
@@ -52018,6 +52018,24 @@
                 "coordinates": [
                     121.462962,
                     25.091055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202606220001",
+                "name": "私立荷童藝術創作技藝短期補習班",
+                "county": "新北市",
+                "class": "美術、書法、攝影、美工設計、圍棋類",
+                "students": "不限年齡",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.47239,
+                    25.023913
                 ]
             }
         },
