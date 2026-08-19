@@ -490,6 +490,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "89201005180001",
+                "name": "臺東縣私立亞卓文理短期補習班",
+                "county": "臺東縣",
+                "class": "文理類",
+                "students": "國中,高中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.13737,
+                    22.762503
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "89201005180003",
                 "name": "臺東縣私立椰林文理短期補習班",
                 "county": "臺東縣",
@@ -1228,6 +1246,78 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "89201903050001",
+                "name": "臺東縣私立卑南文理教室文理短期補習班",
+                "county": "臺東縣",
+                "class": "文理類",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.120322,
+                    22.781608
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "89201905240001",
+                "name": "臺東縣私立馬蘭國際文理技藝短期補習班",
+                "county": "臺東縣",
+                "class": "外語類,美術、書法、攝影、美工設計、圍棋類",
+                "students": "幼稚園年齡以上,學齡前",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.136708,
+                    22.766731
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "89202008040001",
+                "name": "臺東縣私立尬數理工文理短期補習班",
+                "county": "臺東縣",
+                "class": "文理類",
+                "students": "高中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.137918,
+                    22.763742
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "89202103100001",
+                "name": "臺東縣私立高見文理短期補習班",
+                "county": "臺東縣",
+                "class": "文理類",
+                "students": "公職人員考試",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.135318,
+                    22.745568
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "89202108250001",
                 "name": "臺東縣私立大樹美語文理短期補習班",
                 "county": "臺東縣",
@@ -1282,6 +1372,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "89202401290001",
+                "name": "臺東縣私立黃薇創意作文短期補習班",
+                "county": "臺東縣",
+                "class": "文理類",
+                "students": "國中,高中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.151757,
+                    22.760321
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "89202507310001",
                 "name": "臺東縣私立高傑資優數學短期補習班",
                 "county": "臺東縣",
@@ -1330,6 +1438,24 @@
                 "coordinates": [
                     121.135234,
                     22.748059
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "89202607300002",
+                "name": "臺東縣私立博學院文理短期補習班",
+                "county": "臺東縣",
+                "class": "文理類,外語類",
+                "students": "國小,國中,高中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.044171,
+                    22.707088
                 ]
             }
         }

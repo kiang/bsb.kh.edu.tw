@@ -2974,6 +2974,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "33200211190007",
+                "name": "私立唯恩文理技藝短期補習班",
+                "county": "桃園市",
+                "class": "文理類,外語類",
+                "students": "國小,學齡前至國小,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.225028,
+                    24.949541
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "33200211190009",
                 "name": "私立喬文文理短期補習班",
                 "county": "桃園市",
