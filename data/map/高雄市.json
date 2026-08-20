@@ -33606,6 +33606,24 @@
                     22.643259
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "70202608200001",
+                "name": "私立心言教育文理短期補習班",
+                "county": "高雄市",
+                "class": "文理類",
+                "students": "國小,學齡前,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.344576,
+                    22.684716
+                ]
+            }
         }
     ]
 }

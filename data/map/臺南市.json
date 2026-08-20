@@ -76,6 +76,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "62200205140016",
+                "name": "臺南市私立立學文理短期補習班",
+                "county": "臺南市",
+                "class": "文理類",
+                "students": "國中,國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.200743,
+                    22.991484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "62200205140023",
                 "name": "臺南市私立康橋英日語會話短期補習班",
                 "county": "臺南市",
@@ -1852,6 +1870,24 @@
                 "coordinates": [
                     120.227902,
                     23.019413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "62200208029055",
+                "name": "臺南市私立群上文理短期補習班",
+                "county": "臺南市",
+                "class": "文理類",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.26046,
+                    23.009608
                 ]
             }
         },
@@ -5290,6 +5326,24 @@
                 "coordinates": [
                     120.16564,
                     22.998584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "62200310020002",
+                "name": "芝蔴開門股份有限公司附設臺南市私立凱仕蘭文理短期補習班",
+                "county": "臺南市",
+                "class": "文理類",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.219462,
+                    22.987482
                 ]
             }
         },
@@ -12208,6 +12262,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "62201001189001",
+                "name": "臺南市私立莉廸雅技藝短期補習班",
+                "county": "臺南市",
+                "class": "音樂、舞蹈類",
+                "students": "國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.286536,
+                    22.968667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "62201001230001",
                 "name": "臺南市私立熯翔文理短期補習班",
                 "county": "臺南市",
@@ -12274,6 +12346,24 @@
                 "coordinates": [
                     120.23046,
                     22.997516
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "62201003099001",
+                "name": "臺南市私立智揚文理短期補習班",
+                "county": "臺南市",
+                "class": "文理類",
+                "students": "國小,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.305853,
+                    23.131757
                 ]
             }
         },
@@ -12784,6 +12874,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "62201010080001",
+                "name": "臺南市私立德立明師文理短期補習班",
+                "county": "臺南市",
+                "class": "文理類",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.241917,
+                    22.982258
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "62201010150001",
                 "name": "大必佳國際文教科技股份有限公司附設臺南市私立幼必佳文理短期補習班",
                 "county": "臺南市",
@@ -12814,6 +12922,24 @@
                 "coordinates": [
                     120.216998,
                     22.996306
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "62201010209001",
+                "name": "臺南市私立佳平文理技藝短期補習班永信分班",
+                "county": "臺南市",
+                "class": "文理類",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.246815,
+                    23.014787
                 ]
             }
         },
@@ -13390,6 +13516,24 @@
                 "coordinates": [
                     120.238347,
                     22.983101
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "62201110240001",
+                "name": "臺南市私立邁斯文理短期補習班",
+                "county": "臺南市",
+                "class": "文理類",
+                "students": "國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.233009,
+                    23.022177
                 ]
             }
         },
@@ -23963,7 +24107,7 @@
             "type": "Feature",
             "properties": {
                 "code": "62202512030001",
-                "name": "臺南市私立芝蔴階文理短期補習班(為比對教職員工資料預登立案資料)",
+                "name": "臺南市私立同安文理短期補習班(為比對教職員工資料預登立案資料)",
                 "county": "臺南市",
                 "class": "文理類",
                 "students": "國小",
@@ -24586,6 +24730,24 @@
                 "coordinates": [
                     120.175864,
                     22.995457
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "62202608200001",
+                "name": "臺南市私立毅優文理短期補習班",
+                "county": "臺南市",
+                "class": "文理類",
+                "students": "國小,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.202845,
+                    22.992813
                 ]
             }
         }
