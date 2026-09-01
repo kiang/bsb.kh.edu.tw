@@ -4432,24 +4432,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "42200207319750",
-                "name": "臺中市私立富蘭克林美語短期補習班",
-                "county": "臺中市",
-                "class": "外語類",
-                "students": "國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.715248,
-                    24.261821
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "42200207319751",
                 "name": "私立梅花鹿美語短期補習班",
                 "county": "臺中市",
@@ -21428,7 +21410,7 @@
                 "name": "臺中市私立新禾文理短期補習班",
                 "county": "臺中市",
                 "class": "文理類",
-                "students": "國小,國中",
+                "students": "國中,國小",
                 "date_closed": ""
             },
             "geometry": {
@@ -34244,7 +34226,7 @@
                 "name": "臺中市知仁文理短期補習班",
                 "county": "臺中市",
                 "class": "文理類,商類：珠算、心算、會計",
-                "students": "國中,國小",
+                "students": "學齡前,國小,國中",
                 "date_closed": ""
             },
             "geometry": {
@@ -36160,24 +36142,6 @@
                 "coordinates": [
                     120.680461,
                     24.166338
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "42201603080002",
-                "name": "臺中市私立丹迪美語短期補習班",
-                "county": "臺中市",
-                "class": "外語類",
-                "students": "國小,國中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.719306,
-                    24.154413
                 ]
             }
         },
@@ -40379,7 +40343,7 @@
             "type": "Feature",
             "properties": {
                 "code": "42201904290001",
-                "name": "臺中市私立書禾短期補習班",
+                "name": "臺中市私立書禾文理短期補習班",
                 "county": "臺中市",
                 "class": "文理類",
                 "students": "國小",
