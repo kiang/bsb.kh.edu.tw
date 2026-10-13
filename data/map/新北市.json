@@ -2255,7 +2255,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21200208022508",
-                "name": "私立卓越文理美語短期補習班",
+                "name": "卓越文理美語短期補習班",
                 "county": "新北市",
                 "class": "文理類,外語類",
                 "students": "國小~高中,不限年齡",
@@ -11291,7 +11291,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21200505160003",
-                "name": "私立力德文理語文短期補習班",
+                "name": "力德文理語文短期補習班",
                 "county": "新北市",
                 "class": "文理類",
                 "students": "國中,不限",
@@ -31829,7 +31829,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21201510110001",
-                "name": "私立以利亞音樂短期補習班",
+                "name": "以利亞音樂短期補習班",
                 "county": "新北市",
                 "class": "音樂、舞蹈類",
                 "students": "不限年齡",
@@ -38615,9 +38615,9 @@
             "type": "Feature",
             "properties": {
                 "code": "21201911180001",
-                "name": "柏淶特文理技藝短期補習班",
+                "name": "私立艾立紗文理短期補習班",
                 "county": "新北市",
-                "class": "文理類,商類：珠算、心算、會計",
+                "class": "文理類",
                 "students": "不限年齡",
                 "date_closed": ""
             },
@@ -41747,9 +41747,9 @@
             "type": "Feature",
             "properties": {
                 "code": "21202103250003",
-                "name": "私立睿林教育技藝短期補習班",
+                "name": "私立睿林教育文理技藝短期補習班",
                 "county": "新北市",
-                "class": "資訊類",
+                "class": "文理類,資訊類",
                 "students": "國小以上",
                 "date_closed": ""
             },
@@ -46340,7 +46340,7 @@
                 "name": "私立樂咖藝術技藝短期補習班",
                 "county": "新北市",
                 "class": "音樂、舞蹈類",
-                "students": "其他",
+                "students": "兒童,成人",
                 "date_closed": ""
             },
             "geometry": {
