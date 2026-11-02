@@ -37859,7 +37859,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21201908020001",
-                "name": "私立偉伯文理短期補習班",
+                "name": "偉伯文理短期補習班",
                 "county": "新北市",
                 "class": "文理類",
                 "students": "國小以上",
@@ -44339,7 +44339,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21202207130001",
-                "name": "私立伯特利文理短期補習班",
+                "name": "伯特利文理短期補習班",
                 "county": "新北市",
                 "class": "文理類",
                 "students": "不限",
@@ -44591,7 +44591,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21202208240004",
-                "name": "私立安緹爾文理短期補習班",
+                "name": "安緹爾文理短期補習班",
                 "county": "新北市",
                 "class": "文理類",
                 "students": "不限年齡",
@@ -52648,6 +52648,42 @@
                 "coordinates": [
                     121.458511,
                     25.086355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202611020001",
+                "name": "語創有限公司附設私立創想天地科技教育技藝短期補習班短期補習班",
+                "county": "新北市",
+                "class": "資訊類",
+                "students": "7歲以上",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.518315,
+                    25.000053
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202611020002",
+                "name": "私立大立文理短期補習班",
+                "county": "新北市",
+                "class": "文理類",
+                "students": "不限年齡",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.42236,
+                    24.989888
                 ]
             }
         }
