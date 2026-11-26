@@ -16532,7 +16532,7 @@
                 "name": "臺北市私立奧斯福爾文理技藝短期補習班",
                 "county": "臺北市",
                 "class": "外語類,資訊類",
-                "students": "無限制,其他",
+                "students": "其他,無限制",
                 "date_closed": ""
             },
             "geometry": {
@@ -40724,7 +40724,7 @@
                 "name": "臺北市私立趣學美語技藝文理短期補習班",
                 "county": "臺北市",
                 "class": "文理類",
-                "students": "無限制,其他",
+                "students": "其他,無限制",
                 "date_closed": ""
             },
             "geometry": {
